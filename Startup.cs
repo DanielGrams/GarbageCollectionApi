@@ -59,11 +59,17 @@ namespace GarbageCollectionApi
                 {
                     new Client {
                         ClientId = "PetersGoslarApp",
-                        ClientName = "Peters Goslar App",
                         AllowedGrantTypes = GrantTypes.ClientCredentials,
                         ClientSecrets = new List<Secret> {
                             new Secret("superPeterPassword".Sha256())},                         
                         AllowedScopes = new List<string> {"api.read"}
+                    },
+                    new Client {
+                        ClientId = "lk-gs-scaper",
+                        AllowedGrantTypes = GrantTypes.ClientCredentials,
+                        ClientSecrets = new List<Secret> {
+                            new Secret("hallohallohallo".Sha256())},                         
+                        AllowedScopes = new List<string> {"api.read", "api.write"}
                     }
                 })
                 .AddInMemoryIdentityResources(new List<IdentityResource> {
