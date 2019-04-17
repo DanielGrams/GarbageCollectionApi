@@ -20,5 +20,10 @@ namespace GarbageCollectionApi.Models
         /// Set of towns
         /// </summary>
         public DbSet<Town> Towns { get; set; }
+
+        /// <summary>
+        /// Set of towns
+        /// </summary>
+        public DbSet<Street> Streets { get; set; }
     }
 }

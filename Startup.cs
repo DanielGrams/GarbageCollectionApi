@@ -105,7 +105,7 @@ namespace GarbageCollectionApi
             services.AddAuthentication("Bearer")
                 .AddJwtBearer("Bearer", options =>
                 {
-                    options.Authority = "http://localhost:5000";
+                    options.Authority = "http://localhost:5000"; // TODO: self
                     options.RequireHttpsMetadata = false;
                     options.TokenValidationParameters = new TokenValidationParameters
                     {
@@ -118,8 +118,8 @@ namespace GarbageCollectionApi
             // register the scope authorization handler
             services.AddSingleton<IAuthorizationHandler, HasScopeHandler>();
 
-            services.AddDbContext<GarbageCollectionContext>(opt =>
-                opt.UseInMemoryDatabase("GarbageCollectionkalender"));
+            services.AddDbContext<GarbageCollectionContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Database")));
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             // TODO

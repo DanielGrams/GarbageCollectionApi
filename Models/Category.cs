@@ -6,7 +6,7 @@ namespace GarbageCollectionApi.Models
     /// <summary>
     /// 
     /// </summary>
-    public class Town
+    public class Category
     {
         public int Id { get; set; }
 
