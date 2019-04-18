@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/GarbageCollectionApi/bin/Debug/netcoreapp2.2/GarbageCollectionApi.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.2/GarbageCollectionApi.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/GarbageCollectionApi",
+            "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "launchBrowser": {
                 "enabled": true

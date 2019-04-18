@@ -120,6 +120,8 @@ namespace GarbageCollectionApi
 
             services.AddDbContext<GarbageCollectionContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Database")));
 
+            services.AddScoped<ITownsService, TownsService>();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             // TODO

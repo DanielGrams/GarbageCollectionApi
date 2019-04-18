@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/GarbageCollectionApi/GarbageCollectionApi.csproj"
+                "${workspaceFolder}/GarbageCollectionApi.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -17,7 +17,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/GarbageCollectionApi/GarbageCollectionApi.csproj"
+                "${workspaceFolder}/GarbageCollectionApi.csproj"
             ],
             "problemMatcher": "$tsc"
         },
@@ -28,7 +28,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/GarbageCollectionApi/GarbageCollectionApi.csproj"
+                "${workspaceFolder}/GarbageCollectionApi.csproj"
             ],
             "problemMatcher": "$tsc"
         }
