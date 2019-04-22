@@ -26,7 +26,8 @@ namespace GarbageCollectionApi.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Town>>> GetTowns()
         {
-            return Ok(await _townsService.GetAllItems());
+            var towns = await _townsService.GetAllItems();
+            return Ok(towns);
         }
 /*
         [HttpGet("{id}/streets")]
