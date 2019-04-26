@@ -6,8 +6,9 @@ using NSubstitute;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
+using GarbageCollectionApi.Controllers;
 
-namespace GarbageCollectionApi.Controllers
+namespace GarbageCollectionApi.UnitTests.Controllers
 {
     [TestFixture]
     public class TownsControllerTests

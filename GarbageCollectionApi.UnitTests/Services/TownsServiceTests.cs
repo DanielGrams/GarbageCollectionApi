@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GarbageCollectionApi.Services
+namespace GarbageCollectionApi.UnitTests.Services
 {
     [TestFixture]
     public class TownsServiceTests
