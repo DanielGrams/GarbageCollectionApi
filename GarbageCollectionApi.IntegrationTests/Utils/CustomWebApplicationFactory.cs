@@ -2,6 +2,7 @@ using System;
 using GarbageCollectionApi.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
+using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -9,20 +10,25 @@ using Microsoft.Extensions.Logging;
 public class CustomWebApplicationFactory<TStartup> 
     : WebApplicationFactory<TStartup> where TStartup: class
 {
+    private SqliteConnection _connection;
+
     protected override void ConfigureWebHost(IWebHostBuilder builder)
     {
+        _connection = new SqliteConnection("DataSource=:memory:");
+        _connection.Open();
+
         builder.ConfigureServices(services =>
         {
             // Create a new service provider.
             var serviceProvider = new ServiceCollection()
-                .AddEntityFrameworkInMemoryDatabase()
+                .AddEntityFrameworkSqlite()
                 .BuildServiceProvider();
 
-            // Add a database context (ApplicationDbContext) using an in-memory 
+            // Add a database context using an sqlite
             // database for testing.
             services.AddDbContext<GarbageCollectionContext>(options => 
             {
-                options.UseInMemoryDatabase("InMemoryDbForTesting");
+                options.UseSqlite(_connection);
                 options.UseInternalServiceProvider(serviceProvider);
             });
 
@@ -30,7 +36,7 @@ public class CustomWebApplicationFactory<TStartup>
             var sp = services.BuildServiceProvider();
 
             // Create a scope to obtain a reference to the database
-            // context (ApplicationDbContext).
+            // context.
             using (var scope = sp.CreateScope())
             {
                 var scopedServices = scope.ServiceProvider;
@@ -51,5 +57,10 @@ public class CustomWebApplicationFactory<TStartup>
                 }
             }
         });
+    }
+
+    public void TearDown()
+    {
+        _connection.Close();
     }
 }

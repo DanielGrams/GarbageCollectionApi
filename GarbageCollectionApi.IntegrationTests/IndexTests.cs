@@ -14,14 +14,15 @@ using Microsoft.AspNetCore.Mvc.Testing;
 namespace GarbageCollectionApi.IntegrationTest
 {
     [TestFixture]
-    public class TownsTests : ApiTests
+    public class IndexTests : ApiTests
     {
         [Test]
-        public async Task TownsReturnsOk()
+        public async Task RootRedirectsToIndex()
         {
-            var response = await this.Client.GetAsync("/api/towns");
+            var response = await this.Client.GetAsync("/");
             
-            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.Moved));
+            Assert.That(response.Headers.Location.OriginalString, Is.EqualTo("index.html"));
         }
     }
 }
