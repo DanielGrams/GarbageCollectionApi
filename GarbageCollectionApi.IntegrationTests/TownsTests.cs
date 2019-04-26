@@ -17,11 +17,11 @@ namespace GarbageCollectionApi.IntegrationTest
     public class TownsTests : ApiTests
     {
         [Test]
-        public async Task TownsReturnsOk()
+        public async Task TownsReturnsUnauthorized()
         {
             var response = await this.Client.GetAsync("/api/towns");
             
-            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.Unauthorized));
         }
     }
 }
