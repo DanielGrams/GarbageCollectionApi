@@ -13,6 +13,6 @@ jobs:
     - stage: build
       script: dotnet build GarbageCollectionApi/GarbageCollectionApi.csproj
     - stage: test
-      script: test GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
+      script: dotnet test GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
     - stage: test
-      script: test GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
+      script: dotnet test GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
