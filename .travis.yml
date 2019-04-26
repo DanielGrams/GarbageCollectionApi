@@ -1,0 +1,13 @@
+language: csharp
+mono: none
+dotnet: 2.2
+
+install:
+- dotnet restore GarbageCollectionApi/GarbageCollectionApi.csproj
+- dotnet restore GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
+- dotnet restore GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
+
+script:
+ - dotnet build GarbageCollectionApi/GarbageCollectionApi.csproj
+ - dotnet test GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
+ - dotnet test GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
