@@ -8,7 +8,11 @@ install:
 - dotnet restore GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
 - dotnet restore GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
 
-script:
- - dotnet build GarbageCollectionApi/GarbageCollectionApi.csproj
- - dotnet test GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
- - dotnet test GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
+jobs:
+  include:
+    - stage: build
+      script: dotnet build GarbageCollectionApi/GarbageCollectionApi.csproj
+    - stage: test
+      script: test GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
+    - stage: test
+      script: test GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
