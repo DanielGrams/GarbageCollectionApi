@@ -1,3 +1,4 @@
+using System.Globalization;
 using Microsoft.VisualBasic.CompilerServices;
 using System.Diagnostics;
 using System;
@@ -8,6 +9,8 @@ using Microsoft.Extensions.Logging;
 using System.Linq;
 using System.Collections.Generic;
 using GarbageCollectionApi.Models;
+using System.Net.Http;
+using Ical.Net;
 
 namespace GarbageCollectionApi.Services
 {
@@ -66,8 +69,6 @@ namespace GarbageCollectionApi.Services
 
                             var street = new KwbStreet { Id = value, Name = option.InnerHtml, TownId = town.Id };
                             streets.Add(street);
-
-                            _logger.LogDebug($"{street.Id} {street.Name}");
                         }
 
                         await Task.Delay(100);
@@ -80,6 +81,24 @@ namespace GarbageCollectionApi.Services
                     foreach (var street in streets)
                     {
                         var url = $"https://www.kwb-goslar.de/output/abfall_export.php?csv_export=1&mode=vcal&ort={street.TownId}&strasse={street.Id}&vtyp=4&vMo=1&vJ=2019&bMo=12";
+                        var icalText = string.Empty;
+
+                        using (var client = new HttpClient())
+                        {
+                            using (var result = await client.GetAsync(url))
+                            {
+                                if (result.IsSuccessStatusCode)
+                                {
+                                    icalText = await result.Content.ReadAsStringAsync();
+                                }
+                            }
+                        }
+
+                        var calendar = Ical.Net.Calendar.Load(icalText);
+                        foreach (var calEvent in calendar.Events)
+                        {
+                            _logger.LogDebug($"{calEvent.Start} {calEvent.Summary}");
+                        }
 
                         await Task.Delay(100);
 

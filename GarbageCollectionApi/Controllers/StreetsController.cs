@@ -1,7 +1,6 @@
 using System.Net.NetworkInformation;
 using System.Net;
 using GarbageCollectionApi.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
@@ -12,7 +11,6 @@ namespace GarbageCollectionApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class StreetsController : ControllerBase
     {
         private readonly GarbageCollectionContext _context;
