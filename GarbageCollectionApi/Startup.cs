@@ -24,6 +24,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using GarbageCollectionApi.Services;
 
 [assembly: ApiConventionType(typeof(DefaultApiConventions))]
 namespace GarbageCollectionApi
@@ -151,6 +152,8 @@ namespace GarbageCollectionApi
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 c.IncludeXmlComments(xmlPath);
             });
+
+            services.AddHostedService<DataRefreshService>();
         }
 
         /// <summary>
