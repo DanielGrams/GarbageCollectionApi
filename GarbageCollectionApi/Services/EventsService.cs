@@ -25,11 +25,8 @@ public class EventsService : IEventsService
             { 
                 Id = e.Id,
                 Category = new Category { Id = e.Category.Id, Name = e.Category.Name },
-                Start = e.Start,
-                End = e.End,
-                Stamp = e.Stamp,
-                Summary = e.Summary,
-                Description = e.Description
+                Date = e.Start,
+                Stamp = e.Stamp
             })
             .ToListAsync();
     }
