@@ -52,6 +52,7 @@ namespace GarbageCollectionApi
             services.AddScoped<IStreetsService, StreetsService>();
             services.AddScoped<IUpdateService, UpdateService>();
             services.AddScoped<ICategoriesService, CategoriesService>();
+            services.AddScoped<IEventsService, EventsService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
@@ -60,20 +61,15 @@ namespace GarbageCollectionApi
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new Info {
-                    Title = "GarbageCollection API",
+                    Title = "Goslar GarbageCollection API",
                     Version = "v1",
-                    Description = "A simple example ASP.NET Core Web API",
+                    Description = "API for garbage collection in the district of Goslar",
                     TermsOfService = "None",
                     Contact = new Contact
                     {
-                        Name = "Shayne Boyer",
+                        Name = "Daniel Grams",
                         Email = string.Empty,
-                        Url = "https://twitter.com/spboyer"
-                    },
-                    License = new License
-                    {
-                        Name = "Use under LICX",
-                        Url = "https://example.com/license"
+                        Url = "https://github.com/DanielGrams/GarbageCollectionApi"
                     }
                 });
 

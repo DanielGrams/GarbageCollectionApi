@@ -17,12 +17,14 @@ namespace GarbageCollectionApi.Controllers
         private readonly ITownsService _townsService;
         private readonly IStreetsService _streetsService;
         private readonly ICategoriesService _categoriesService;
+        private readonly IEventsService _eventsService;
 
-        public TownsController(ITownsService townsService, IStreetsService streetsService, ICategoriesService categoriesService)
+        public TownsController(ITownsService townsService, IStreetsService streetsService, ICategoriesService categoriesService, IEventsService eventService)
         {
             _townsService = townsService ?? throw new ArgumentNullException(nameof(townsService));
             _streetsService = streetsService ?? throw new ArgumentNullException(nameof(streetsService));
             _categoriesService = categoriesService ?? throw new ArgumentNullException(nameof(categoriesService));
+            _eventsService = eventService ?? throw new ArgumentNullException(nameof(eventService));
         }
 
         [HttpGet]
@@ -39,9 +41,16 @@ namespace GarbageCollectionApi.Controllers
         }
 
         [HttpGet("{id}/streets/{streetId}/categories")]
-        public async Task<ActionResult<IEnumerable<Category>>> GetCategoryByTownAndStreetAsync(string id, string streetId)
+        public async Task<ActionResult<IEnumerable<Category>>> GetCategoriesByTownAndStreetAsync(string id, string streetId)
         {
             return await _categoriesService.GetByTownAndStreetAsync(id, streetId);
+        }
+
+        [HttpGet("{id}/streets/{streetId}/events")]
+        public async Task<ActionResult<IEnumerable<Event>>> GetEventsByTownAndStreetAsync(string id, string streetId)
+        {
+            // TODO: Einschränkbar über ?categories=1,4,7
+            return await _eventsService.GetByTownAndStreetAsync(id, streetId);
         }
     }
 }

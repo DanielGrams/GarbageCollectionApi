@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 public class UpdateService : IUpdateService
 {
     private readonly IMongoCollection<Town> _towns;
+    private readonly IMongoCollection<Event> _events;
 
     public UpdateService(IConfiguration config)
     {
@@ -14,11 +15,15 @@ public class UpdateService : IUpdateService
         var database = client.GetDatabase("GarbageCollectionDb");
 
         _towns = database.GetCollection<Town>("Towns");
+        _events = database.GetCollection<Event>("Events");
     }
 
-    public async Task UpdateAsync(List<Town> towns)
+    public async Task UpdateAsync(List<Town> towns, List<Event> events)
     {
         await _towns.DeleteManyAsync(_ => true);
         await _towns.InsertManyAsync(towns);
+
+        await _events.DeleteManyAsync(_ => true);
+        await _events.InsertManyAsync(events);
     }
 }

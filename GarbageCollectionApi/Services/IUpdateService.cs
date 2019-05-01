@@ -4,5 +4,5 @@ using System.Threading.Tasks;
 
 public interface IUpdateService
 {
-    Task UpdateAsync(List<Town> towns);
+    Task UpdateAsync(List<Town> towns, List<Event> events);
 }

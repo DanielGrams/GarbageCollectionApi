@@ -43,10 +43,13 @@ namespace GarbageCollectionApi.Services
                     await this.LoadCategoriesAsync(towns, cancellationToken);
                     cancellationToken.ThrowIfCancellationRequested();
 
+                    var events = await this.LoadEventsAsync(towns, cancellationToken);
+                    cancellationToken.ThrowIfCancellationRequested();
+
                     using (var scope = _services.CreateScope())
                     {
                         var updateService = scope.ServiceProvider.GetRequiredService<IUpdateService>();
-                        await updateService.UpdateAsync(towns);
+                        await updateService.UpdateAsync(towns, events);
                     }
 
                     return;
@@ -118,6 +121,8 @@ namespace GarbageCollectionApi.Services
         {
             foreach (var town in towns)
             {
+                cancellationToken.ThrowIfCancellationRequested();
+
                 var document = await _browsingContext.OpenAsync($"https://www.kwb-goslar.de/Abfallwirtschaft/Abfuhr/Online-Abfuhrkalender/index.php?ort={town.Id}", cancellationToken);
                 var select = document.QuerySelectorAll("select").Where(m => m.HasAttribute("name") && m.GetAttribute("name").Equals("strasse")).First();
                 var options = select.QuerySelectorAll("option");
@@ -155,6 +160,8 @@ namespace GarbageCollectionApi.Services
 
                 foreach (var street in town.Streets)
                 {
+                    cancellationToken.ThrowIfCancellationRequested();
+
                     var document = await _browsingContext.OpenAsync($"https://www.kwb-goslar.de/Abfallwirtschaft/Abfuhr/Online-Abfuhrkalender/index.php?ort={town.Id}&strasse={street.Id}", cancellationToken);
                     var checkboxes = document.QuerySelectorAll("input").Where(m => 
                     {
@@ -180,6 +187,75 @@ namespace GarbageCollectionApi.Services
                     break;
                 }
             }
+        }
+
+        private async Task<List<Event>> LoadEventsAsync(List<Town> towns, CancellationToken cancellationToken)
+        {
+            var events = new List<Event>();
+
+            foreach (var town in towns)
+            {
+                if (town.Streets == null)
+                {
+                    continue;
+                }
+
+                foreach (var street in town.Streets)
+                {
+                    if (street.Categories == null)
+                    {
+                        continue;
+                    }
+
+                    cancellationToken.ThrowIfCancellationRequested();
+
+                    // TODO: 2019 dynamisch anpassen? oder immer aktuell und das nächste? das nächste ist dann aber optional.
+                    // Nein! Man kann das Datum aus dem Dropdown auslesen. (Wenn man auch die Categories einliest)
+
+                    var url = $"https://www.kwb-goslar.de/output/abfall_export.php?csv_export=1&mode=vcal&ort={town.Id}&strasse={street.Id}&vtyp=4&vMo=1&vJ=2019&bMo=12";
+                    var icalText = string.Empty;
+
+                    using (var client = new HttpClient())
+                    {
+                        using (var result = await client.GetAsync(url, cancellationToken))
+                        {
+                            if (result.IsSuccessStatusCode)
+                            {
+                                icalText = await result.Content.ReadAsStringAsync();
+                            }
+                        }
+                    }
+
+                    var calendar = Ical.Net.Calendar.Load(icalText);
+
+                    foreach (var calEvent in calendar.Events)
+                    {
+                        var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name));
+
+                        var collectionEvent = new Event
+                        {
+                            Id = calEvent.Uid,
+                            TownId = town.Id,
+                            StreetId = street.Id,
+                            Category = category,
+                            Start = calEvent.DtStart.AsUtc,
+                            End = calEvent.DtEnd.AsUtc,
+                            Stamp = calEvent.DtStamp.AsUtc,
+                            Summary = calEvent.Summary,
+                            Description = calEvent.Description
+                        };
+                        
+                        events.Add(collectionEvent);
+                    }
+
+                    await Task.Delay(100);
+
+                    // TODO
+                    break;
+                }
+            }
+
+            return events;
         }
     }
 }
