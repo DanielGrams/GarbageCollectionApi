@@ -1,16 +1,14 @@
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
 
-namespace GarbageCollectionApi.Models
+namespace GarbageCollectionApi.DataContracts
 {
     /// <summary>
     /// 
     /// </summary>
-    public class Category
+    public class Street
     {
-        [BsonId]
         public string Id { get; set; }
 
         public string Name { get; set; }

@@ -47,9 +47,11 @@ namespace GarbageCollectionApi
         /// <param name="services">Services</param>
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<GarbageCollectionContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("Database")));
             services.AddHostedService<DataRefreshService>();
             services.AddScoped<ITownsService, TownsService>();
+            services.AddScoped<IStreetsService, StreetsService>();
+            services.AddScoped<IUpdateService, UpdateService>();
+            services.AddScoped<ICategoriesService, CategoriesService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 

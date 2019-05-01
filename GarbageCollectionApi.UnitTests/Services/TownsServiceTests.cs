@@ -51,7 +51,7 @@ namespace GarbageCollectionApi.UnitTests.Services
             using (var context = new GarbageCollectionContext(_options))
             {
                 var service = new TownsService(context);
-                var result = await service.GetAllItems();
+                var result = await service.GetAllItemsAsync();
 
                 Assert.That(result.Count, Is.EqualTo(2));
                 Assert.That(result.First().Name, Is.EqualTo("Goslar"));

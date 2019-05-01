@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 namespace GarbageCollectionApi.Models
 {
@@ -9,14 +11,11 @@ namespace GarbageCollectionApi.Models
     /// </summary>
     public class Street
     {
-        public int Id { get; set; }
+        [BsonId]
+        public string Id { get; set; }
 
-        [Required]
-        public int TownId { get; set; }
-
-        [Required]
         public string Name { get; set; }
 
-        public ICollection<Category> Categories { get; set; }
+        public List<Category> Categories { get; set; }
     }
 }
