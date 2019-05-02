@@ -1,62 +1,48 @@
 using NUnit.Framework;
 using GarbageCollectionApi.Models;
-using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
+using MongoDB.Driver;
+using Mongo2Go;
 
 namespace GarbageCollectionApi.UnitTests.Services
 {
     [TestFixture]
     public class TownsServiceTests
     {
-        private SqliteConnection _connection;
-        private DbContextOptions<GarbageCollectionContext> _options;
+        internal static MongoDbRunner _runner;
+        internal static IMongoDatabase _db;
 
         [SetUp]
         public void Setup()
         {
-            _connection = new SqliteConnection("DataSource=:memory:");
-            _connection.Open();
+            _runner = MongoDbRunner.Start();
 
-            _options = new DbContextOptionsBuilder<GarbageCollectionContext>()
-                    .UseSqlite(_connection)
-                    .Options;
+            var client = new MongoClient(_runner.ConnectionString);
+            _db = client.GetDatabase("UnitTests");
         }
 
         [TearDown]
         public void TearDown()
         {
-            _connection.Close();
+            _runner.Dispose();
         }
 
         [Test]
-        public async Task GetAllItems()
+        public async Task GetAllItemsAsync()
         {
-            // Create the schema in the database
-            using (var context = new GarbageCollectionContext(_options))
-            {
-                context.Database.EnsureCreated();
-            }
+            var towns = _db.GetCollection<Town>("Towns");
+            towns.DeleteMany(_ => true);
+            towns.InsertOne(new Town { Id = "1", Name = "Goslar" });
+            towns.InsertOne(new Town { Id = "2", Name = "Oker" });
 
-            // Insert seed data into the database using one instance of the context
-            using (var context = new GarbageCollectionContext(_options))
-            {
-                context.Towns.Add(new Town { Name = "Goslar" });
-                context.Towns.Add(new Town { Name = "Oker" });
-                context.SaveChanges();
-            }
+            var service = new TownsService(towns);
+            var result = await service.GetAllItemsAsync();
 
-            // Use a clean instance of the context to run the test
-            using (var context = new GarbageCollectionContext(_options))
-            {
-                var service = new TownsService(context);
-                var result = await service.GetAllItemsAsync();
-
-                Assert.That(result.Count, Is.EqualTo(2));
-                Assert.That(result.First().Name, Is.EqualTo("Goslar"));
-                Assert.That(result.Skip(1).First().Name, Is.EqualTo("Oker"));
-            }
+            Assert.That(result.Count, Is.EqualTo(2));
+            Assert.That(result.First().Name, Is.EqualTo("Goslar"));
+            Assert.That(result.Skip(1).First().Name, Is.EqualTo("Oker"));
         }
     }
 }

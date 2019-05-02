@@ -2,65 +2,33 @@ using System;
 using GarbageCollectionApi.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
-using Microsoft.Data.Sqlite;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.TestHost;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Mongo2Go;
+using MongoDB.Driver;
 
 public class CustomWebApplicationFactory<TStartup> 
     : WebApplicationFactory<TStartup> where TStartup: class
 {
-    private SqliteConnection _connection;
+    internal static MongoDbRunner _runner;
 
     protected override void ConfigureWebHost(IWebHostBuilder builder)
     {
-        _connection = new SqliteConnection("DataSource=:memory:");
-        _connection.Open();
-
-        builder.ConfigureServices(services =>
+        builder.ConfigureTestServices(services =>
         {
-            // Create a new service provider.
-            var serviceProvider = new ServiceCollection()
-                .AddEntityFrameworkSqlite()
-                .BuildServiceProvider();
+            _runner = MongoDbRunner.Start();
 
-            // Add a database context using an sqlite
-            // database for testing.
-            services.AddDbContext<GarbageCollectionContext>(options => 
-            {
-                options.UseSqlite(_connection);
-                options.UseInternalServiceProvider(serviceProvider);
-            });
+            var client = new MongoClient(_runner.ConnectionString);
+            var db = client.GetDatabase("IntegrationTests");
 
-            // Build the service provider.
-            var sp = services.BuildServiceProvider();
-
-            // Create a scope to obtain a reference to the database
-            // context.
-            using (var scope = sp.CreateScope())
-            {
-                var scopedServices = scope.ServiceProvider;
-                var db = scopedServices.GetRequiredService<GarbageCollectionContext>();
-                var logger = scopedServices.GetRequiredService<ILogger<CustomWebApplicationFactory<TStartup>>>();
-
-                // Ensure the database is created.
-                db.Database.EnsureCreated();
-
-                try
-                {
-                    // Seed the database with test data.
-                }
-                catch (Exception ex)
-                {
-                    logger.LogError(ex, $"An error occurred seeding the " +
-                        "database with test messages. Error: {ex.Message}");
-                }
-            }
+            var towns = db.GetCollection<Town>("Towns");
+            services.AddScoped<IMongoCollection<Town>>(_ => towns);
         });
     }
 
     public void TearDown()
     {
-        _connection.Close();
+        _runner.Dispose();
     }
 }

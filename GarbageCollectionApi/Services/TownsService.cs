@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using GarbageCollectionApi.DataContracts;
 using MongoDB.Driver;
@@ -8,11 +9,9 @@ public class TownsService : ITownsService
 {
     private readonly IMongoCollection<GarbageCollectionApi.Models.Town> _towns;
 
-    public TownsService(IConfiguration config)
+    public TownsService(IMongoCollection<GarbageCollectionApi.Models.Town> towns)
     {
-        var client = new MongoClient(config.GetConnectionString("Database"));
-        var database = client.GetDatabase("GarbageCollectionDb");
-        _towns = database.GetCollection<GarbageCollectionApi.Models.Town>("Towns");
+        _towns = towns ?? throw new ArgumentNullException(nameof(towns));
     }
 
     public async Task<List<Town>> GetAllItemsAsync()

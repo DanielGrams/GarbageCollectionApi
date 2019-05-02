@@ -1,7 +1,7 @@
 using System.Linq;
 using System;
 using NUnit.Framework;
-using GarbageCollectionApi.Models;
+using GarbageCollectionApi.DataContracts;
 using NSubstitute;
 using System.Threading.Tasks;
 using System.Collections.Generic;
@@ -16,23 +16,30 @@ namespace GarbageCollectionApi.UnitTests.Controllers
         [Test]
         public void Constructor_NullParameters_ThrowsException()
         {
-            Assert.Throws<ArgumentNullException>(() => new TownsController(null));
+            Assert.Throws<ArgumentNullException>(() => new TownsController(null, null, null, null));
         }
 
         [Test]
         public void Constructor_AllParameters_CreatesInstance()
         {
-            var service = NSubstitute.Substitute.For<ITownsService>();
-            Assert.NotNull(new TownsController(service));
+            var townsService = NSubstitute.Substitute.For<ITownsService>();
+            var streetsService = NSubstitute.Substitute.For<IStreetsService>();
+            var categoriesService = NSubstitute.Substitute.For<ICategoriesService>();
+            var eventsService = NSubstitute.Substitute.For<IEventsService>();
+
+            Assert.NotNull(new TownsController(townsService, streetsService, categoriesService, eventsService));
         }
 
         [Test]
         public async Task GetTowns_WhenCalled_ReturnsOkResult()
         {
-            var service = NSubstitute.Substitute.For<ITownsService>();
-            var controller = new TownsController(service);
+            var townsService = NSubstitute.Substitute.For<ITownsService>();
+            var streetsService = NSubstitute.Substitute.For<IStreetsService>();
+            var categoriesService = NSubstitute.Substitute.For<ICategoriesService>();
+            var eventsService = NSubstitute.Substitute.For<IEventsService>();
+            var controller = new TownsController(townsService, streetsService, categoriesService, eventsService);
 
-            var actionResult = await controller.GetTowns();
+            var actionResult = await controller.GetTownsAsync();
 
             Assert.That(actionResult.Result, Is.TypeOf(typeof(OkObjectResult)));
         }
@@ -40,17 +47,20 @@ namespace GarbageCollectionApi.UnitTests.Controllers
         [Test]
         public async Task GetTowns_WhenCalled_ReturnsTownsFromService()
         {
-            IEnumerable<Town> serviceTowns = new List<Town> {
+            var serviceTowns = new List<Town> {
                 new Town { Name = "Goslar" },
                 new Town { Name = "Oker" }
             };
 
-            var service = NSubstitute.Substitute.For<ITownsService>();
-            service.GetAllItems().Returns(Task.Run(() => serviceTowns));
+            var townsService = NSubstitute.Substitute.For<ITownsService>();
+            townsService.GetAllItemsAsync().Returns(Task.Run(() => serviceTowns));
 
-            var controller = new TownsController(service);
+            var streetsService = NSubstitute.Substitute.For<IStreetsService>();
+            var categoriesService = NSubstitute.Substitute.For<ICategoriesService>();
+            var eventsService = NSubstitute.Substitute.For<IEventsService>();
+            var controller = new TownsController(townsService, streetsService, categoriesService, eventsService);
 
-            var actionResult = await controller.GetTowns();
+            var actionResult = await controller.GetTownsAsync();
             var value = (actionResult.Result as OkObjectResult).Value;
             Assert.That(value, Is.AssignableTo(typeof(IEnumerable<Town>)));
             

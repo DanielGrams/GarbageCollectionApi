@@ -18,6 +18,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using GarbageCollectionApi.Services;
+using MongoDB.Driver;
 
 [assembly: ApiConventionType(typeof(DefaultApiConventions))]
 namespace GarbageCollectionApi
@@ -53,6 +54,11 @@ namespace GarbageCollectionApi
             services.AddScoped<IUpdateService, UpdateService>();
             services.AddScoped<ICategoriesService, CategoriesService>();
             services.AddScoped<IEventsService, EventsService>();
+
+            var client = new MongoClient(this.Configuration.GetConnectionString("Database"));
+            var database = client.GetDatabase("GarbageCollectionDb");
+            var towns = database.GetCollection<Town>("Towns");
+            services.AddScoped<IMongoCollection<Town>>(_ => towns);
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
@@ -93,7 +99,7 @@ namespace GarbageCollectionApi
             }
             else
             {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseExceptionHandler();
                 app.UseHsts();
             }
 

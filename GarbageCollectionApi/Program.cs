@@ -31,6 +31,8 @@ namespace GarbageCollectionApi
         /// <returns>Web host builder</returns>
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .CaptureStartupErrors(true)
+                .UseAzureAppServices()
                 .UseStartup<Startup>();
     }
 }

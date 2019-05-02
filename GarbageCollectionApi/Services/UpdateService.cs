@@ -20,6 +20,7 @@ public class UpdateService : IUpdateService
 
     public async Task UpdateAsync(List<Town> towns, List<Event> events)
     {
+        // TODO BulkWrite?
         await _towns.DeleteManyAsync(_ => true);
         await _towns.InsertManyAsync(towns);
 
