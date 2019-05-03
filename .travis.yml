@@ -3,16 +3,9 @@ language: csharp
 mono: none
 dotnet: 2.2
 
-jobs:
-  include:
-    - stage: build
-      install: dotnet restore GarbageCollectionApi/GarbageCollectionApi.csproj
-      script: dotnet build GarbageCollectionApi/GarbageCollectionApi.csproj
-    - stage: test
-      name: "Unit Tests"
-      install: dotnet restore GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
-      script: dotnet test GarbageCollectionApi.UnitTests/GarbageCollectionApi.UnitTests.csproj
-    - stage: test
-      name: "Integration Tests"
-      install: dotnet restore GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
-      script: dotnet test GarbageCollectionApi.IntegrationTests/GarbageCollectionApi.IntegrationTests.csproj
+install:
+- dotnet restore
+
+script:
+- dotnet build
+- dotnet test

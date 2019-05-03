@@ -206,6 +206,14 @@ namespace GarbageCollectionApi.Services.Scraping
                     {
                         var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
 
+                        Console.WriteLine(calEvent.DtStart.TzId);
+                        Console.WriteLine(calEvent.DtStart.AsUtc);
+                        Console.WriteLine(calEvent.DtStart.AsSystemLocal);
+
+                        Console.WriteLine(calEvent.DtStart.ToTimeZone("Europe/Berlin"));
+                        Console.WriteLine(calEvent.DtStart.ToTimeZone("Europe/Berlin").AsUtc);
+                        Console.WriteLine(calEvent.DtStart.ToTimeZone("Europe/Berlin").AsSystemLocal);
+
                         var collectionEvent = new CollectionEvent
                         {
                             Id = calEvent.Uid,
