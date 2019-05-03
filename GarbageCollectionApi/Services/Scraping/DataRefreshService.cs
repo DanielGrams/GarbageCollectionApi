@@ -12,6 +12,7 @@ namespace GarbageCollectionApi.Services.Scraping
     using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Utils;
     using Ical.Net;
+    using Ical.Net.DataTypes;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Logging;
 
@@ -182,6 +183,7 @@ namespace GarbageCollectionApi.Services.Scraping
         public async Task<List<CollectionEvent>> LoadEventsAsync(List<Town> towns, CancellationToken cancellationToken)
         {
             var events = new List<CollectionEvent>();
+            var icalTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Europe/Berlin");
 
             foreach (var town in towns)
             {
@@ -206,22 +208,14 @@ namespace GarbageCollectionApi.Services.Scraping
                     {
                         var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
 
-                        Console.WriteLine(calEvent.DtStart.TzId);
-                        Console.WriteLine(calEvent.DtStart.AsUtc);
-                        Console.WriteLine(calEvent.DtStart.AsSystemLocal);
-
-                        Console.WriteLine(calEvent.DtStart.ToTimeZone("Europe/Berlin"));
-                        Console.WriteLine(calEvent.DtStart.ToTimeZone("Europe/Berlin").AsUtc);
-                        Console.WriteLine(calEvent.DtStart.ToTimeZone("Europe/Berlin").AsSystemLocal);
-
                         var collectionEvent = new CollectionEvent
                         {
                             Id = calEvent.Uid,
                             TownId = town.Id,
                             StreetId = street.Id,
                             Category = category,
-                            Start = calEvent.DtStart.ToTimeZone("Europe/Berlin").AsUtc,
-                            Stamp = calEvent.DtStamp.ToTimeZone("Europe/Berlin").AsUtc,
+                            Start = ConvertToUtc(calEvent.DtStart, icalTimeZone),
+                            Stamp = calEvent.DtStamp.AsUtc,
                         };
 
                         events.Add(collectionEvent);
@@ -237,6 +231,12 @@ namespace GarbageCollectionApi.Services.Scraping
             }
 
             return events;
+        }
+
+        private static DateTime ConvertToUtc(IDateTime input, TimeZoneInfo icalTimeZone)
+        {
+            var d = TimeZoneInfo.ConvertTime(input.AsSystemLocal, TimeZoneInfo.Local, icalTimeZone);
+            return TimeZoneInfo.ConvertTimeToUtc(d, icalTimeZone);
         }
     }
 }
