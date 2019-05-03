@@ -152,20 +152,15 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             Assert.That(events[0].Id, Is.EqualTo("fdc0b08929027ca3edef21a3107e766a"));
             Assert.That(events[0].TownId, Is.EqualTo("62.1"));
             Assert.That(events[0].StreetId, Is.EqualTo("2523.907.1"));
-            Assert.That(events[0].Start, Is.EqualTo(BerlinToUtc(new DateTime(2019, 2, 21))));
+            Assert.That(events[0].Start, Is.EqualTo(new DateTime(2019, 2, 21)));
             Assert.That(events[0].Stamp, Is.EqualTo(new DateTime(2018, 11, 28)));
             Assert.That(events[0].Category.Name, Is.EqualTo("Baum- und Strauchschnitt"));
             Assert.That(events[84].Id, Is.EqualTo("454f9e3ff522d7fb127819ba24dccdf9"));
             Assert.That(events[84].TownId, Is.EqualTo("62.1"));
             Assert.That(events[84].StreetId, Is.EqualTo("2523.907.1"));
-            Assert.That(events[84].Start, Is.EqualTo(BerlinToUtc(new DateTime(2019, 1, 29))));
+            Assert.That(events[84].Start, Is.EqualTo(new DateTime(2019, 1, 29)));
             Assert.That(events[84].Stamp, Is.EqualTo(new DateTime(2018, 11, 28)));
             Assert.That(events[84].Category.Name, Is.EqualTo("Weihnachtsbäume"));
-        }
-
-        private static DateTime BerlinToUtc(DateTime berlinDateTime)
-        {
-            return TimeZoneInfo.ConvertTimeToUtc(berlinDateTime, TimeZoneInfo.FindSystemTimeZoneById("Europe/Berlin"));
         }
 
         private async Task<IDocument> LoadTestDataAsync(IBrowsingContext context, string filename)

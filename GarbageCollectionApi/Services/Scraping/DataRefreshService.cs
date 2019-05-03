@@ -183,7 +183,6 @@ namespace GarbageCollectionApi.Services.Scraping
         public async Task<List<CollectionEvent>> LoadEventsAsync(List<Town> towns, CancellationToken cancellationToken)
         {
             var events = new List<CollectionEvent>();
-            var icalTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Europe/Berlin");
 
             foreach (var town in towns)
             {
@@ -214,7 +213,7 @@ namespace GarbageCollectionApi.Services.Scraping
                             TownId = town.Id,
                             StreetId = street.Id,
                             Category = category,
-                            Start = ConvertToUtc(calEvent.DtStart, icalTimeZone),
+                            Start = calEvent.DtStart.AsSystemLocal,
                             Stamp = calEvent.DtStamp.AsUtc,
                         };
 
@@ -231,14 +230,6 @@ namespace GarbageCollectionApi.Services.Scraping
             }
 
             return events;
-        }
-
-        private static DateTime ConvertToUtc(IDateTime input, TimeZoneInfo icalTimeZone)
-        {
-            var dateInIcalTimeZone = TimeZoneInfo.ConvertTime(input.AsSystemLocal, TimeZoneInfo.Local, icalTimeZone);
-            var dateInUtc = TimeZoneInfo.ConvertTimeToUtc(dateInIcalTimeZone, icalTimeZone);
-            Console.WriteLine($"{input} - {input.AsSystemLocal} - {input.AsUtc} - {dateInIcalTimeZone} - {dateInUtc}");
-            return dateInUtc;
         }
     }
 }
