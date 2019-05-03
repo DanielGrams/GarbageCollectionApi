@@ -7,6 +7,12 @@ namespace GarbageCollectionApi.Services.Scraping
 
     public interface IDocumentLoader
     {
-        Task<IDocument> LoadTownsDocument(IBrowsingContext context, CancellationToken cancellationToken);
+        Task<IDocument> LoadTownsDocumentAsync(IBrowsingContext context, CancellationToken cancellationToken);
+
+        Task<IDocument> LoadStreetsDocumentAsync(string townId, IBrowsingContext context, CancellationToken cancellationToken);
+
+        Task<IDocument> LoadCategoriesDocumentAsync(string townId, string streetId, IBrowsingContext context, CancellationToken cancellationToken);
+
+        Task<string> LoadEventsIcalTextAsync(string townId, string streetId, string year, CancellationToken cancellationToken);
     }
 }

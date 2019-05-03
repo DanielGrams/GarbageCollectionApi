@@ -33,69 +33,6 @@ namespace GarbageCollectionApi.Services.Scraping
             this.browsingContext = BrowsingContext.New(AngleSharp.Configuration.Default.WithDefaultLoader());
         }
 
-        public static async Task<List<CollectionEvent>> LoadEventsAsync(List<Town> towns, CancellationToken cancellationToken)
-        {
-            var events = new List<CollectionEvent>();
-
-            foreach (var town in towns)
-            {
-                if (town.Streets == null)
-                {
-                    continue;
-                }
-
-                foreach (var street in town.Streets)
-                {
-                    if (street.Categories == null)
-                    {
-                        continue;
-                    }
-
-                    cancellationToken.ThrowIfCancellationRequested();
-
-                    var url = new Uri($"https://www.kwb-goslar.de/output/abfall_export.php?csv_export=1&mode=vcal&ort={town.Id}&strasse={street.Id}&vtyp=4&vMo=1&vJ=2019&bMo=12");
-                    var icalText = string.Empty;
-
-                    using (var client = new HttpClient())
-                    {
-                        using (var result = await client.GetAsync(url, cancellationToken).ConfigureAwait(false))
-                        {
-                            if (result.IsSuccessStatusCode)
-                            {
-                                icalText = await result.Content.ReadAsStringAsync().ConfigureAwait(false);
-                            }
-                        }
-                    }
-
-                    var calendar = Ical.Net.Calendar.Load(icalText);
-
-                    foreach (var calEvent in calendar.Events)
-                    {
-                        var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
-
-                        var collectionEvent = new CollectionEvent
-                        {
-                            Id = calEvent.Uid,
-                            TownId = town.Id,
-                            StreetId = street.Id,
-                            Category = category,
-                            Start = calEvent.DtStart.AsUtc,
-                            End = calEvent.DtEnd.AsUtc,
-                            Stamp = calEvent.DtStamp.AsUtc,
-                            Summary = calEvent.Summary,
-                            Description = calEvent.Description,
-                        };
-
-                        events.Add(collectionEvent);
-                    }
-
-                    await Task.Delay(100).ConfigureAwait(false);
-                }
-            }
-
-            return events;
-        }
-
         /// <inheritdoc />
         public override async Task ExecuteAsync(CancellationToken cancellationToken)
         {
@@ -112,7 +49,7 @@ namespace GarbageCollectionApi.Services.Scraping
                     await this.LoadCategoriesAsync(towns, cancellationToken).ConfigureAwait(false);
                     cancellationToken.ThrowIfCancellationRequested();
 
-                    var events = await LoadEventsAsync(towns, cancellationToken).ConfigureAwait(false);
+                    var events = await this.LoadEventsAsync(towns, cancellationToken).ConfigureAwait(false);
                     cancellationToken.ThrowIfCancellationRequested();
 
                     using (var scope = this.services.CreateScope())
@@ -143,7 +80,7 @@ namespace GarbageCollectionApi.Services.Scraping
 
         public async Task<List<Town>> LoadTownsAsync(CancellationToken cancellationToken)
         {
-            var document = await this.documentLoader.LoadTownsDocument(this.browsingContext, cancellationToken).ConfigureAwait(false);
+            var document = await this.documentLoader.LoadTownsDocumentAsync(this.browsingContext, cancellationToken).ConfigureAwait(false);
 
             // Towns
             var select = document.QuerySelectorAll("select").First(m => m.HasAttribute("name") && m.GetAttribute("name") == "ort");
@@ -171,7 +108,7 @@ namespace GarbageCollectionApi.Services.Scraping
             {
                 cancellationToken.ThrowIfCancellationRequested();
 
-                var document = await this.browsingContext.OpenAsync($"https://www.kwb-goslar.de/Abfallwirtschaft/Abfuhr/Online-Abfuhrkalender/index.php?ort={town.Id}", cancellationToken).ConfigureAwait(false);
+                var document = await this.documentLoader.LoadStreetsDocumentAsync(town.Id, this.browsingContext, cancellationToken).ConfigureAwait(false);
                 var select = document.QuerySelectorAll("select").First(m => m.HasAttribute("name") && m.GetAttribute("name") == "strasse");
                 var options = select.QuerySelectorAll("option");
 
@@ -207,7 +144,7 @@ namespace GarbageCollectionApi.Services.Scraping
                 {
                     cancellationToken.ThrowIfCancellationRequested();
 
-                    var document = await this.browsingContext.OpenAsync($"https://www.kwb-goslar.de/Abfallwirtschaft/Abfuhr/Online-Abfuhrkalender/index.php?ort={town.Id}&strasse={street.Id}", cancellationToken).ConfigureAwait(false);
+                    var document = await this.documentLoader.LoadCategoriesDocumentAsync(town.Id, street.Id, this.browsingContext, cancellationToken).ConfigureAwait(false);
                     var checkboxes = document.QuerySelectorAll("input").Where(m =>
                     {
                         return m.HasAttribute("type") && m.GetAttribute("type") == "checkbox" &&
@@ -230,6 +167,53 @@ namespace GarbageCollectionApi.Services.Scraping
                     await Task.Delay(100).ConfigureAwait(false);
                 }
             }
+        }
+
+        public async Task<List<CollectionEvent>> LoadEventsAsync(List<Town> towns, CancellationToken cancellationToken)
+        {
+            var events = new List<CollectionEvent>();
+
+            foreach (var town in towns)
+            {
+                if (town.Streets == null)
+                {
+                    continue;
+                }
+
+                foreach (var street in town.Streets)
+                {
+                    if (street.Categories == null)
+                    {
+                        continue;
+                    }
+
+                    cancellationToken.ThrowIfCancellationRequested();
+
+                    var icalText = await this.documentLoader.LoadEventsIcalTextAsync(town.Id, street.Id, "2019", cancellationToken).ConfigureAwait(false);
+                    var calendar = Ical.Net.Calendar.Load(icalText);
+
+                    foreach (var calEvent in calendar.Events)
+                    {
+                        var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
+
+                        var collectionEvent = new CollectionEvent
+                        {
+                            Id = calEvent.Uid,
+                            TownId = town.Id,
+                            StreetId = street.Id,
+                            Category = category,
+                            Start = calEvent.DtStart.AsUtc,
+                            Stamp = calEvent.DtStamp.AsUtc,
+                        };
+
+                        events.Add(collectionEvent);
+                    }
+
+                    await Task.Delay(100).ConfigureAwait(false);
+                }
+            }
+
+            return events;
         }
     }
 }
