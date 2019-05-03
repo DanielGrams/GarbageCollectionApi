@@ -235,8 +235,10 @@ namespace GarbageCollectionApi.Services.Scraping
 
         private static DateTime ConvertToUtc(IDateTime input, TimeZoneInfo icalTimeZone)
         {
-            var d = TimeZoneInfo.ConvertTime(input.AsSystemLocal, TimeZoneInfo.Local, icalTimeZone);
-            return TimeZoneInfo.ConvertTimeToUtc(d, icalTimeZone);
+            var dateInIcalTimeZone = TimeZoneInfo.ConvertTime(input.AsSystemLocal, TimeZoneInfo.Local, icalTimeZone);
+            var dateInUtc = TimeZoneInfo.ConvertTimeToUtc(dateInIcalTimeZone, icalTimeZone);
+            Console.WriteLine($"{input} - {input.AsSystemLocal} - {input.AsUtc} - {dateInIcalTimeZone} - {dateInUtc}");
+            return dateInUtc;
         }
     }
 }
