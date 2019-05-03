@@ -10,35 +10,24 @@ namespace GarbageCollectionApi.UnitTests.Services
     using NUnit.Framework;
 
     [TestFixture]
-    public class TownsServiceTests
+    public class TownsServiceTests : ServiceTests
     {
-        private static MongoDbRunner runner;
-        private static IMongoDatabase database;
+        private IMongoCollection<Models.Town> towns;
 
-        [SetUp]
-        public void Setup()
+        public override void Setup()
         {
-             runner = MongoDbRunner.Start();
-
-             var client = new MongoClient(runner.ConnectionString);
-             database = client.GetDatabase("UnitTests");
-        }
-
-        [TearDown]
-        public void TearDown()
-        {
-             runner.Dispose();
+            base.Setup();
+            this.towns = this.Database.GetCollection<Models.Town>(MongoConnectionSettings.TownsCollectionName);
         }
 
         [Test]
         public async Task GetAllItemsAsync()
         {
-            var towns = database.GetCollection<Town>("Towns");
-            towns.DeleteMany(_ => true);
-            towns.InsertOne(new Town { Id = "1", Name = "Goslar" });
-            towns.InsertOne(new Town { Id = "2", Name = "Oker" });
+            this.towns.DeleteMany(_ => true);
+            this.towns.InsertOne(new Town { Id = "1", Name = "Goslar" });
+            this.towns.InsertOne(new Town { Id = "2", Name = "Oker" });
 
-            var service = new TownsService(towns);
+            var service = new TownsService(this.Options);
             var result = await service.GetAllItemsAsync().ConfigureAwait(false);
 
             Assert.That(result.Count, Is.EqualTo(2));

@@ -5,18 +5,19 @@ namespace GarbageCollectionApi.Services
     using System.Linq;
     using System.Threading.Tasks;
     using GarbageCollectionApi.DataContracts;
+    using GarbageCollectionApi.Models;
     using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.Options;
     using MongoDB.Driver;
 
-    public class StreetsService : IStreetsService
+    public class StreetsService : MongoService, IStreetsService
     {
-        private readonly IMongoCollection<GarbageCollectionApi.Models.Town> towns;
+        private readonly IMongoCollection<Models.Town> towns;
 
-        public StreetsService(IConfiguration config)
+        public StreetsService(IOptions<MongoConnectionSettings> settings)
+            : base(settings)
         {
-            var client = new MongoClient(config.GetConnectionString("Database"));
-            var database = client.GetDatabase("GarbageCollectionDb");
-            this.towns = database.GetCollection<GarbageCollectionApi.Models.Town>("Towns");
+            this.towns = this.Database.GetCollection<Models.Town>(MongoConnectionSettings.TownsCollectionName);
         }
 
         /// <summary>
@@ -24,11 +25,11 @@ namespace GarbageCollectionApi.Services
         /// </summary>
         /// <param name="townId">Id of town</param>
         /// <returns>List of matching streets</returns>
-        public async Task<List<Street>> GetByTownAsync(string townId)
+        public async Task<List<DataContracts.Street>> GetByTownAsync(string townId)
         {
             return await this.towns
                 .Find(town => town.Id == townId)
-                .Project(town => town.Streets.Select(street => new Street { Id = street.Id, Name = street.Name }).ToList())
+                .Project(town => town.Streets.Select(street => new DataContracts.Street { Id = street.Id, Name = street.Name }).ToList())
                 .SingleOrDefaultAsync()
                 .ConfigureAwait(false);
         }

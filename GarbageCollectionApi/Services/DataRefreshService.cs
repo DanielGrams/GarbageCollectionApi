@@ -183,7 +183,6 @@ namespace GarbageCollectionApi.Services
 
                     cancellationToken.ThrowIfCancellationRequested();
 
-                    // TODOdgr: 2019 dynamisch anpassen? Man kann das Datum aus dem Dropdown auslesen. (Wenn man auch die Categories einliest)
                     var url = new Uri($"https://www.kwb-goslar.de/output/abfall_export.php?csv_export=1&mode=vcal&ort={town.Id}&strasse={street.Id}&vtyp=4&vMo=1&vJ=2019&bMo=12");
                     var icalText = string.Empty;
 

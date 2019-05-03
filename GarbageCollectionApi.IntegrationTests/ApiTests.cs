@@ -11,13 +11,14 @@ namespace GarbageCollectionApi.IntegrationTest
     using GarbageCollectionApi.Models;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Testing;
+    using Mongo2Go;
+    using MongoDB.Driver;
     using NSubstitute;
     using NUnit.Framework;
 
     public class ApiTests : IDisposable
     {
         private CustomWebApplicationFactory<Startup> factory;
-        private HttpClient client;
         private bool disposedValue = false;
 
         ~ApiTests()
@@ -25,7 +26,15 @@ namespace GarbageCollectionApi.IntegrationTest
             this.Dispose(false);
         }
 
-        public HttpClient Client => this.client;
+        public HttpClient Client { get; private set; }
+
+        protected MongoDbRunner Runner { get; private set; }
+
+        protected MongoClient MongoClient { get; private set; }
+
+        protected IMongoDatabase Database { get; private set; }
+
+        protected MongoConnectionSettings Settings { get; private set; }
 
         public void Dispose()
         {
@@ -34,13 +43,24 @@ namespace GarbageCollectionApi.IntegrationTest
         }
 
         [SetUp]
-        public void Setup()
+        public virtual void Setup()
         {
-             this.factory = new CustomWebApplicationFactory<Startup>();
-             this.client = this.factory.CreateClient(new WebApplicationFactoryClientOptions
-                {
-                    AllowAutoRedirect = false,
-                });
+            this.Runner = MongoDbRunner.Start();
+
+            this.Settings = new MongoConnectionSettings
+            {
+                ConnectionString = this.Runner.ConnectionString,
+                Database = "IntegrationTests",
+            };
+
+            this.MongoClient = new MongoClient(this.Settings.ConnectionString);
+            this.Database = this.MongoClient.GetDatabase(this.Settings.Database);
+
+            this.factory = new CustomWebApplicationFactory<Startup>(this.Settings);
+            this.Client = this.factory.CreateClient(new WebApplicationFactoryClientOptions
+            {
+                AllowAutoRedirect = false,
+            });
         }
 
         protected virtual void Dispose(bool disposing)
@@ -49,7 +69,9 @@ namespace GarbageCollectionApi.IntegrationTest
             {
                 if (disposing)
                 {
-                    this.client.Dispose();
+                    this.MongoClient = null;
+                    this.Runner.Dispose();
+                    this.Client.Dispose();
                     this.factory.Dispose();
                 }
 

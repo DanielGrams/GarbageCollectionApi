@@ -5,28 +5,29 @@ namespace GarbageCollectionApi.Services
     using System.Linq;
     using System.Threading.Tasks;
     using GarbageCollectionApi.DataContracts;
+    using GarbageCollectionApi.Models;
     using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.Options;
     using MongoDB.Driver;
 
-    public class EventsService : IEventsService
+    public class EventsService : MongoService, IEventsService
     {
-        private readonly IMongoCollection<GarbageCollectionApi.Models.CollectionEvent> events;
+        private readonly IMongoCollection<Models.CollectionEvent> events;
 
-        public EventsService(IConfiguration config)
+        public EventsService(IOptions<MongoConnectionSettings> settings)
+            : base(settings)
         {
-            var client = new MongoClient(config.GetConnectionString("Database"));
-            var database = client.GetDatabase("GarbageCollectionDb");
-            this.events = database.GetCollection<GarbageCollectionApi.Models.CollectionEvent>("Events");
+            this.events = this.Database.GetCollection<Models.CollectionEvent>(MongoConnectionSettings.EventsCollectionName);
         }
 
-        public async Task<List<CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId)
+        public async Task<List<DataContracts.CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId)
         {
             return await this.events
                 .Find(e => e.TownId == townId)
-                .Project(e => new CollectionEvent
+                .Project(e => new DataContracts.CollectionEvent
                 {
                     Id = e.Id,
-                    Category = new Category { Id = e.Category.Id, Name = e.Category.Name },
+                    Category = new DataContracts.Category { Id = e.Category.Id, Name = e.Category.Name },
                     Date = e.Start,
                     Stamp = e.Stamp,
                 })

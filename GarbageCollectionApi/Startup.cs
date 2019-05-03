@@ -51,17 +51,14 @@ namespace GarbageCollectionApi
         /// <param name="services">Services</param>
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<MongoConnectionSettings>(this.Configuration.GetSection("MongoConnection"));
+
             services.AddHostedService<DataRefreshService>();
             services.AddScoped<ITownsService, TownsService>();
             services.AddScoped<IStreetsService, StreetsService>();
             services.AddScoped<IUpdateService, UpdateService>();
             services.AddScoped<ICategoriesService, CategoriesService>();
             services.AddScoped<IEventsService, EventsService>();
-
-            var client = new MongoClient(this.Configuration.GetConnectionString("Database"));
-            var database = client.GetDatabase("GarbageCollectionDb");
-            var towns = database.GetCollection<Town>("Towns");
-            services.AddScoped<IMongoCollection<Town>>(_ => towns);
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 

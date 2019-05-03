@@ -53,7 +53,6 @@ namespace GarbageCollectionApi.Controllers
         [HttpGet("{id}/streets/{streetId}/events")]
         public async Task<ActionResult<IEnumerable<CollectionEvent>>> GetEventsByTownAndStreetAsync(string id, string streetId)
         {
-            // TODOdgr: Einschränkbar über ?categories=1,4,7
             return await this.eventsService.GetByTownAndStreetAsync(id, streetId).ConfigureAwait(false);
         }
     }
