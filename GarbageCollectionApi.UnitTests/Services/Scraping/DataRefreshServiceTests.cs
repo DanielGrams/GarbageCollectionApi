@@ -48,6 +48,12 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var towns = await dataRefreshService.LoadTownsAsync(cancellationToken).ConfigureAwait(false);
 
             Assert.That(towns.Count, Is.EqualTo(10));
+            Assert.That(towns[0].Id, Is.EqualTo("62.53"));
+            Assert.That(towns[0].Name, Is.EqualTo("Bad Harzburg"));
+            Assert.That(towns[3].Id, Is.EqualTo("62.1"));
+            Assert.That(towns[3].Name, Is.EqualTo("Goslar"));
+            Assert.That(towns[9].Id, Is.EqualTo("62.5"));
+            Assert.That(towns[9].Name, Is.EqualTo("Vienenburg"));
         }
 
         private async Task<IDocument> LoadTestDataAsync(IBrowsingContext context, string filename)
