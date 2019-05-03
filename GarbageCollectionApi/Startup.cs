@@ -13,6 +13,7 @@ namespace GarbageCollectionApi
     using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Services;
     using GarbageCollectionApi.Services.Scraping;
+    using Microsoft.ApplicationInsights.Extensibility;
     using Microsoft.AspNetCore.Authentication;
     using Microsoft.AspNetCore.Authentication.JwtBearer;
     using Microsoft.AspNetCore.Builder;
@@ -62,6 +63,8 @@ namespace GarbageCollectionApi
             services.AddScoped<ICategoriesService, CategoriesService>();
             services.AddScoped<IEventsService, EventsService>();
 
+            services.AddApplicationInsightsTelemetry();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             // Register the Swagger generator
@@ -100,6 +103,7 @@ namespace GarbageCollectionApi
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                TelemetryConfiguration.Active.DisableTelemetry = true;
             }
             else
             {
