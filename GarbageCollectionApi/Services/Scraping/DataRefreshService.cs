@@ -212,8 +212,8 @@ namespace GarbageCollectionApi.Services.Scraping
                             TownId = town.Id,
                             StreetId = street.Id,
                             Category = category,
-                            Start = calEvent.DtStart.AsUtc,
-                            Stamp = calEvent.DtStamp.AsUtc,
+                            Start = calEvent.DtStart.ToTimeZone("Europe/Berlin").AsUtc,
+                            Stamp = calEvent.DtStamp.ToTimeZone("Europe/Berlin").AsUtc,
                         };
 
                         events.Add(collectionEvent);
