@@ -1,4 +1,4 @@
-namespace GarbageCollectionApi.Services
+namespace GarbageCollectionApi.Utils
 {
     using System;
     using System.Collections.Generic;
@@ -53,6 +53,6 @@ namespace GarbageCollectionApi.Services
         /// </summary>
         /// <param name="cancellationToken">Cancel</param>
         /// <returns>Task</returns>
-        protected abstract Task ExecuteAsync(CancellationToken cancellationToken);
+        public abstract Task ExecuteAsync(CancellationToken cancellationToken);
     }
 }

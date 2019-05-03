@@ -12,6 +12,7 @@ namespace GarbageCollectionApi
     using System.Threading.Tasks;
     using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Services;
+    using GarbageCollectionApi.Services.Scraping;
     using Microsoft.AspNetCore.Authentication;
     using Microsoft.AspNetCore.Authentication.JwtBearer;
     using Microsoft.AspNetCore.Builder;
@@ -54,6 +55,7 @@ namespace GarbageCollectionApi
             services.Configure<MongoConnectionSettings>(this.Configuration.GetSection("MongoConnection"));
 
             services.AddHostedService<DataRefreshService>();
+            services.AddSingleton<IDocumentLoader, DocumentLoader>();
             services.AddScoped<ITownsService, TownsService>();
             services.AddScoped<IStreetsService, StreetsService>();
             services.AddScoped<IUpdateService, UpdateService>();

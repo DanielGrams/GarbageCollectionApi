@@ -32,4 +32,10 @@
     <ProjectReference Include="..\GarbageCollectionApi\GarbageCollectionApi.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="TestData\*.*">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>  
+  </ItemGroup>
+
 </Project>
