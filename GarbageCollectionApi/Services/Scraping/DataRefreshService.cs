@@ -41,23 +41,7 @@ namespace GarbageCollectionApi.Services.Scraping
             {
                 try
                 {
-                    var towns = await this.LoadTownsAsync(cancellationToken).ConfigureAwait(false);
-                    cancellationToken.ThrowIfCancellationRequested();
-
-                    await this.LoadStreetsAsync(towns, cancellationToken).ConfigureAwait(false);
-                    cancellationToken.ThrowIfCancellationRequested();
-
-                    await this.LoadCategoriesAsync(towns, cancellationToken).ConfigureAwait(false);
-                    cancellationToken.ThrowIfCancellationRequested();
-
-                    var events = await this.LoadEventsAsync(towns, cancellationToken).ConfigureAwait(false);
-                    cancellationToken.ThrowIfCancellationRequested();
-
-                    using (var scope = this.services.CreateScope())
-                    {
-                        var updateService = scope.ServiceProvider.GetRequiredService<IUpdateService>();
-                        await updateService.UpdateAsync(towns, events).ConfigureAwait(false);
-                    }
+                    await this.RefreshAsync(cancellationToken).ConfigureAwait(false);
                 }
                 catch (TaskCanceledException)
                 {
@@ -76,6 +60,27 @@ namespace GarbageCollectionApi.Services.Scraping
                 }
 
                 await Task.Delay(TimeSpan.FromDays(1), cancellationToken).ConfigureAwait(false);
+            }
+        }
+
+        public async Task RefreshAsync(CancellationToken cancellationToken)
+        {
+            var towns = await this.LoadTownsAsync(cancellationToken).ConfigureAwait(false);
+            cancellationToken.ThrowIfCancellationRequested();
+
+            await this.LoadStreetsAsync(towns, cancellationToken).ConfigureAwait(false);
+            cancellationToken.ThrowIfCancellationRequested();
+
+            await this.LoadCategoriesAsync(towns, cancellationToken).ConfigureAwait(false);
+            cancellationToken.ThrowIfCancellationRequested();
+
+            var events = await this.LoadEventsAsync(towns, cancellationToken).ConfigureAwait(false);
+            cancellationToken.ThrowIfCancellationRequested();
+
+            using (var scope = this.services.CreateScope())
+            {
+                var updateService = scope.ServiceProvider.GetRequiredService<IUpdateService>();
+                await updateService.UpdateAsync(towns, events).ConfigureAwait(false);
             }
         }
 

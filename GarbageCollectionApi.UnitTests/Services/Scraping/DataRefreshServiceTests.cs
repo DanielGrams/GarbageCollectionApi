@@ -36,6 +36,19 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
         }
 
         [Test]
+        public void RefreshAsync()
+        {
+            var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
+            var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
+            var documentLoader = NSubstitute.Substitute.For<IDocumentLoader>();
+
+            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader);
+            var cancellationToken = new CancellationTokenSource().Token;
+
+            Assert.ThrowsAsync<InvalidOperationException>(async () => await dataRefreshService.RefreshAsync(cancellationToken).ConfigureAwait(false));
+        }
+
+        [Test]
         public async Task LoadTownsAsync()
         {
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
