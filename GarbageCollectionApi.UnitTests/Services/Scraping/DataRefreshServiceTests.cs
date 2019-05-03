@@ -4,6 +4,7 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
     using System.Collections.Generic;
     using System.Globalization;
     using System.IO;
+    using System.Text;
     using System.Threading;
     using System.Threading.Tasks;
     using AngleSharp;
@@ -81,9 +82,9 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             Assert.That(streets.Count, Is.EqualTo(154));
             Assert.That(streets[0].Id, Is.EqualTo("2523.361.1"));
             Assert.That(streets[0].Name, Is.EqualTo(" Ortsteil - Hahndorf"));
-            Assert.That(streets[122].Id, Is.EqualTo("2523.907.1"));
-            Assert.That(streets[122].Name, Is.EqualTo("Schreiberstraße"));
-            Assert.That(streets[153].Id, Is.EqualTo("523.921.1"));
+            Assert.That(streets[123].Id, Is.EqualTo("2523.455.1"));
+            Assert.That(streets[123].Name, Is.EqualTo("Schuhhof"));
+            Assert.That(streets[153].Id, Is.EqualTo("2523.921.1"));
             Assert.That(streets[153].Name, Is.EqualTo("Zwingerwall"));
         }
 

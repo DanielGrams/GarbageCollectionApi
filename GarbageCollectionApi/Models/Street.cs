@@ -21,6 +21,8 @@ namespace GarbageCollectionApi.Models
 
         public string Name { get; set; }
 
-        public List<Category> Categories { get; }
+#pragma warning disable CA2227
+        public List<Category> Categories { get; set; }
+#pragma warning restore CA2227
     }
 }

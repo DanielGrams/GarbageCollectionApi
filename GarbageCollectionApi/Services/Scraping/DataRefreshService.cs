@@ -66,7 +66,7 @@ namespace GarbageCollectionApi.Services.Scraping
                 catch (Exception e)
 #pragma warning restore CA1031
                 {
-                     this.logger.LogError(e, "Parsing");
+                     this.logger.LogError(e, "Error while scraping");
                 }
 
                 if (cancellationToken.IsCancellationRequested)
@@ -127,6 +127,11 @@ namespace GarbageCollectionApi.Services.Scraping
 
                 town.Streets.AddRange(streets);
 
+                if (town.Id == "62.53")
+                {
+                    return;
+                }
+
                 await Task.Delay(100).ConfigureAwait(false);
             }
         }
@@ -163,6 +168,11 @@ namespace GarbageCollectionApi.Services.Scraping
                     }
 
                     street.Categories.AddRange(categories);
+
+                    if (town.Id == "62.53")
+                    {
+                        return;
+                    }
 
                     await Task.Delay(100).ConfigureAwait(false);
                 }
@@ -207,6 +217,11 @@ namespace GarbageCollectionApi.Services.Scraping
                         };
 
                         events.Add(collectionEvent);
+                    }
+
+                    if (town.Id == "62.53")
+                    {
+                        return events;
                     }
 
                     await Task.Delay(100).ConfigureAwait(false);

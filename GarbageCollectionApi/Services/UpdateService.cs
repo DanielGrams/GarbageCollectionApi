@@ -5,6 +5,7 @@ namespace GarbageCollectionApi.Services
     using GarbageCollectionApi.Models;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.Options;
+    using MongoDB.Bson;
     using MongoDB.Driver;
 
     public class UpdateService : MongoService, IUpdateService
@@ -22,6 +23,9 @@ namespace GarbageCollectionApi.Services
         /// <inheritdoc />
         public async Task UpdateAsync(List<Town> towns, List<CollectionEvent> events)
         {
+            await this.EnsureCollectionExistsAsync(MongoConnectionSettings.TownsCollectionName).ConfigureAwait(false);
+            await this.EnsureCollectionExistsAsync(MongoConnectionSettings.EventsCollectionName).ConfigureAwait(false);
+
             using (var session = await this.Client.StartSessionAsync().ConfigureAwait(false))
             {
                 session.StartTransaction();
@@ -34,6 +38,20 @@ namespace GarbageCollectionApi.Services
 
                 await session.CommitTransactionAsync().ConfigureAwait(false);
             }
+        }
+
+        public async Task EnsureCollectionExistsAsync(string collectionName)
+        {
+            var filter = new BsonDocument("name", collectionName);
+            var collections = await this.Database.ListCollectionsAsync(new ListCollectionsOptions { Filter = filter }).ConfigureAwait(false);
+            var exists = await collections.AnyAsync().ConfigureAwait(false);
+
+            if (exists)
+            {
+                return;
+            }
+
+            await this.Database.CreateCollectionAsync(collectionName).ConfigureAwait(false);
         }
     }
 }
