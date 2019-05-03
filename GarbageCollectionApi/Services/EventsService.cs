@@ -1,33 +1,37 @@
-using System.Linq;
-using System;
-using System.Collections.Generic;
-using GarbageCollectionApi.DataContracts;
-using MongoDB.Driver;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
-
-public class EventsService : IEventsService
+namespace GarbageCollectionApi.Services
 {
-    private readonly IMongoCollection<GarbageCollectionApi.Models.Event> _events;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.DataContracts;
+    using Microsoft.Extensions.Configuration;
+    using MongoDB.Driver;
 
-    public EventsService(IConfiguration config)
+    public class EventsService : IEventsService
     {
-        var client = new MongoClient(config.GetConnectionString("Database"));
-        var database = client.GetDatabase("GarbageCollectionDb");
-        _events = database.GetCollection<GarbageCollectionApi.Models.Event>("Events");
-    }
+        private readonly IMongoCollection<GarbageCollectionApi.Models.CollectionEvent> events;
 
-    public async Task<List<Event>> GetByTownAndStreetAsync(string townId, string streetId)
-    {
-        return await _events
-            .Find(e => e.TownId == townId)
-            .Project(e => new Event
-            { 
-                Id = e.Id,
-                Category = new Category { Id = e.Category.Id, Name = e.Category.Name },
-                Date = e.Start,
-                Stamp = e.Stamp
-            })
-            .ToListAsync();
+        public EventsService(IConfiguration config)
+        {
+            var client = new MongoClient(config.GetConnectionString("Database"));
+            var database = client.GetDatabase("GarbageCollectionDb");
+            this.events = database.GetCollection<GarbageCollectionApi.Models.CollectionEvent>("Events");
+        }
+
+        public async Task<List<CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId)
+        {
+            return await this.events
+                .Find(e => e.TownId == townId)
+                .Project(e => new CollectionEvent
+                {
+                    Id = e.Id,
+                    Category = new Category { Id = e.Category.Id, Name = e.Category.Name },
+                    Date = e.Start,
+                    Stamp = e.Stamp,
+                })
+                .ToListAsync()
+                .ConfigureAwait(false);
+        }
     }
 }

@@ -1,40 +1,60 @@
-using System.Net;
-using System.Runtime.CompilerServices;
-using System.Linq;
-using System;
-using NUnit.Framework;
-using GarbageCollectionApi.Models;
-using NSubstitute;
-using System.Threading.Tasks;
-using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc;
-using System.Net.Http;
-using Microsoft.AspNetCore.Mvc.Testing;
-
 namespace GarbageCollectionApi.IntegrationTest
 {
-    [TestFixture]
-    public class ApiTests
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Net;
+    using System.Net.Http;
+    using System.Runtime.CompilerServices;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.IntegrationTest.Utils;
+    using GarbageCollectionApi.Models;
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.AspNetCore.Mvc.Testing;
+    using NSubstitute;
+    using NUnit.Framework;
+
+    public class ApiTests : IDisposable
     {
-        private CustomWebApplicationFactory<Startup> _factory;
-        private HttpClient _client;
+        private CustomWebApplicationFactory<Startup> factory;
+        private HttpClient client;
+        private bool disposedValue = false;
+
+        ~ApiTests()
+        {
+            this.Dispose(false);
+        }
+
+        public HttpClient Client => this.client;
+
+        public void Dispose()
+        {
+            this.Dispose(true);
+            GC.SuppressFinalize(this);
+        }
 
         [SetUp]
         public void Setup()
         {
-            _factory = new CustomWebApplicationFactory<Startup>();
-            _client = _factory.CreateClient(new WebApplicationFactoryClientOptions
+             this.factory = new CustomWebApplicationFactory<Startup>();
+             this.client = this.factory.CreateClient(new WebApplicationFactoryClientOptions
                 {
-                    AllowAutoRedirect = false
+                    AllowAutoRedirect = false,
                 });
         }
 
-        [TearDown]
-        public void TearDown()
+        protected virtual void Dispose(bool disposing)
         {
-            _factory.TearDown();
-        }
+            if (!this.disposedValue)
+            {
+                if (disposing)
+                {
+                    this.client.Dispose();
+                    this.factory.Dispose();
+                }
 
-        public HttpClient Client => this._client;
+                this.disposedValue = true;
+            }
+        }
     }
 }

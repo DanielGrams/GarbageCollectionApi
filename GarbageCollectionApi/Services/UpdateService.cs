@@ -1,30 +1,34 @@
-using System.Collections.Generic;
-using GarbageCollectionApi.Models;
-using MongoDB.Driver;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
-
-public class UpdateService : IUpdateService
+namespace GarbageCollectionApi.Services
 {
-    private readonly IMongoCollection<Town> _towns;
-    private readonly IMongoCollection<Event> _events;
+    using System.Collections.Generic;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.Models;
+    using Microsoft.Extensions.Configuration;
+    using MongoDB.Driver;
 
-    public UpdateService(IConfiguration config)
+    public class UpdateService : IUpdateService
     {
-        var client = new MongoClient(config.GetConnectionString("Database"));
-        var database = client.GetDatabase("GarbageCollectionDb");
+        private readonly IMongoCollection<Town> towns;
+        private readonly IMongoCollection<CollectionEvent> events;
 
-        _towns = database.GetCollection<Town>("Towns");
-        _events = database.GetCollection<Event>("Events");
-    }
+        public UpdateService(IConfiguration config)
+        {
+            var client = new MongoClient(config.GetConnectionString("Database"));
+            var database = client.GetDatabase("GarbageCollectionDb");
 
-    public async Task UpdateAsync(List<Town> towns, List<Event> events)
-    {
-        // TODO BulkWrite?
-        await _towns.DeleteManyAsync(_ => true);
-        await _towns.InsertManyAsync(towns);
+            this.towns = database.GetCollection<Town>("Towns");
+            this.events = database.GetCollection<CollectionEvent>("Events");
+        }
 
-        await _events.DeleteManyAsync(_ => true);
-        await _events.InsertManyAsync(events);
+        /// <inheritdoc />
+        public async Task UpdateAsync(List<Town> towns, List<CollectionEvent> events)
+        {
+            // TODOdgr BulkWrite?
+            await this.towns.DeleteManyAsync(_ => true).ConfigureAwait(false);
+            await this.towns.InsertManyAsync(towns).ConfigureAwait(false);
+
+            await this.events.DeleteManyAsync(_ => true).ConfigureAwait(false);
+            await this.events.InsertManyAsync(events).ConfigureAwait(false);
+        }
     }
 }

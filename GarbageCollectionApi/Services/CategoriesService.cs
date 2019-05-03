@@ -1,27 +1,37 @@
-using System.Linq;
-using System;
-using System.Collections.Generic;
-using GarbageCollectionApi.DataContracts;
-using MongoDB.Driver;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
-
-public class CategoriesService : ICategoriesService
+namespace GarbageCollectionApi.Services
 {
-    private readonly IMongoCollection<GarbageCollectionApi.Models.Town> _towns;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.DataContracts;
+    using Microsoft.Extensions.Configuration;
+    using MongoDB.Driver;
 
-    public CategoriesService(IConfiguration config)
+    public class CategoriesService : ICategoriesService
     {
-        var client = new MongoClient(config.GetConnectionString("Database"));
-        var database = client.GetDatabase("GarbageCollectionDb");
-        _towns = database.GetCollection<GarbageCollectionApi.Models.Town>("Towns");
-    }
+        private readonly IMongoCollection<GarbageCollectionApi.Models.Town> towns;
 
-    public async Task<List<Category>> GetByTownAndStreetAsync(string townId, string streetId)
-    {
-        return await _towns
-            .Find(town => town.Id == townId)
-            .Project(town => town.Streets.First(street => street.Id == streetId).Categories.Select(category => new Category { Id = category.Id, Name = category.Name }).ToList())
-            .SingleOrDefaultAsync();
+        public CategoriesService(IConfiguration config)
+        {
+            var client = new MongoClient(config.GetConnectionString("Database"));
+            var database = client.GetDatabase("GarbageCollectionDb");
+            this.towns = database.GetCollection<GarbageCollectionApi.Models.Town>("Towns");
+        }
+
+        /// <summary>
+        /// Gets categories for street in town.
+        /// </summary>
+        /// <param name="townId">Id of town</param>
+        /// <param name="streetId">Id of street</param>
+        /// <returns>List of matching categories</returns>
+        public async Task<List<Category>> GetByTownAndStreetAsync(string townId, string streetId)
+        {
+            return await this.towns
+                .Find(town => town.Id == townId)
+                .Project(town => town.Streets.First(street => street.Id == streetId).Categories.Select(category => new Category { Id = category.Id, Name = category.Name }).ToList())
+                .SingleOrDefaultAsync()
+                .ConfigureAwait(false);
+        }
     }
 }

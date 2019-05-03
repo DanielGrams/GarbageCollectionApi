@@ -1,10 +1,10 @@
-using System.ComponentModel;
-using System.ComponentModel.DataAnnotations;
-
 namespace GarbageCollectionApi.DataContracts
 {
+    using System.ComponentModel;
+    using System.ComponentModel.DataAnnotations;
+
     /// <summary>
-    /// 
+    /// Garbage category
     /// </summary>
     public class Category
     {

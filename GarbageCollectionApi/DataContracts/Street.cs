@@ -1,11 +1,11 @@
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.ComponentModel.DataAnnotations;
-
 namespace GarbageCollectionApi.DataContracts
 {
+    using System.Collections.Generic;
+    using System.ComponentModel;
+    using System.ComponentModel.DataAnnotations;
+
     /// <summary>
-    /// 
+    /// Street
     /// </summary>
     public class Street
     {

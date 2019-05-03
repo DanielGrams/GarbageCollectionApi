@@ -1,24 +1,28 @@
-using System;
-using System.Collections.Generic;
-using GarbageCollectionApi.DataContracts;
-using MongoDB.Driver;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
-
-public class TownsService : ITownsService
+namespace GarbageCollectionApi.Services
 {
-    private readonly IMongoCollection<GarbageCollectionApi.Models.Town> _towns;
+    using System;
+    using System.Collections.Generic;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.DataContracts;
+    using Microsoft.Extensions.Configuration;
+    using MongoDB.Driver;
 
-    public TownsService(IMongoCollection<GarbageCollectionApi.Models.Town> towns)
+    public class TownsService : ITownsService
     {
-        _towns = towns ?? throw new ArgumentNullException(nameof(towns));
-    }
+        private readonly IMongoCollection<GarbageCollectionApi.Models.Town> towns;
 
-    public async Task<List<Town>> GetAllItemsAsync()
-    {
-        return await _towns
-            .Find(town => true)
-            .Project(town => new Town { Id = town.Id, Name = town.Name })
-            .ToListAsync();
+        public TownsService(IMongoCollection<GarbageCollectionApi.Models.Town> towns)
+        {
+            this.towns = towns ?? throw new ArgumentNullException(nameof(towns));
+        }
+
+        public async Task<List<Town>> GetAllItemsAsync()
+        {
+            return await this.towns
+                .Find(town => true)
+                .Project(town => new Town { Id = town.Id, Name = town.Name })
+                .ToListAsync()
+                .ConfigureAwait(false);
+        }
     }
 }

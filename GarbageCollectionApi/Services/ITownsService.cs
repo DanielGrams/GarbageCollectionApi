@@ -1,8 +1,11 @@
-using System.Collections.Generic;
-using GarbageCollectionApi.DataContracts;
-using System.Threading.Tasks;
-
-public interface ITownsService
+namespace GarbageCollectionApi.Services
 {
-    Task<List<Town>> GetAllItemsAsync();
+    using System.Collections.Generic;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.DataContracts;
+
+    public interface ITownsService
+    {
+        Task<List<Town>> GetAllItemsAsync();
+    }
 }

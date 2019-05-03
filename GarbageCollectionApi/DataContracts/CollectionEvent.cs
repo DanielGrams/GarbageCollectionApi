@@ -1,13 +1,13 @@
-using System;
-using System.ComponentModel;
-using System.ComponentModel.DataAnnotations;
-
 namespace GarbageCollectionApi.DataContracts
 {
+    using System;
+    using System.ComponentModel;
+    using System.ComponentModel.DataAnnotations;
+
     /// <summary>
-    /// 
+    /// Event of a collection
     /// </summary>
-    public class Event
+    public class CollectionEvent
     {
         public string Id { get; set; }
 

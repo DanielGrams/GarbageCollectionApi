@@ -1,15 +1,16 @@
-using System.Linq;
-using System;
-using NUnit.Framework;
-using GarbageCollectionApi.DataContracts;
-using NSubstitute;
-using System.Threading.Tasks;
-using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc;
-using GarbageCollectionApi.Controllers;
-
 namespace GarbageCollectionApi.UnitTests.Controllers
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.Controllers;
+    using GarbageCollectionApi.DataContracts;
+    using GarbageCollectionApi.Services;
+    using Microsoft.AspNetCore.Mvc;
+    using NSubstitute;
+    using NUnit.Framework;
+
     [TestFixture]
     public class TownsControllerTests
     {
@@ -39,7 +40,7 @@ namespace GarbageCollectionApi.UnitTests.Controllers
             var eventsService = NSubstitute.Substitute.For<IEventsService>();
             var controller = new TownsController(townsService, streetsService, categoriesService, eventsService);
 
-            var actionResult = await controller.GetTownsAsync();
+            var actionResult = await controller.GetTownsAsync().ConfigureAwait(false);
 
             Assert.That(actionResult.Result, Is.TypeOf(typeof(OkObjectResult)));
         }
@@ -47,9 +48,10 @@ namespace GarbageCollectionApi.UnitTests.Controllers
         [Test]
         public async Task GetTowns_WhenCalled_ReturnsTownsFromService()
         {
-            var serviceTowns = new List<Town> {
+            var serviceTowns = new List<Town>
+            {
                 new Town { Name = "Goslar" },
-                new Town { Name = "Oker" }
+                new Town { Name = "Oker" },
             };
 
             var townsService = NSubstitute.Substitute.For<ITownsService>();
@@ -60,10 +62,10 @@ namespace GarbageCollectionApi.UnitTests.Controllers
             var eventsService = NSubstitute.Substitute.For<IEventsService>();
             var controller = new TownsController(townsService, streetsService, categoriesService, eventsService);
 
-            var actionResult = await controller.GetTownsAsync();
+            var actionResult = await controller.GetTownsAsync().ConfigureAwait(false);
             var value = (actionResult.Result as OkObjectResult).Value;
             Assert.That(value, Is.AssignableTo(typeof(IEnumerable<Town>)));
-            
+
             var resultTowns = value as IEnumerable<Town>;
             Assert.That(resultTowns.Count, Is.EqualTo(2));
             Assert.That(resultTowns.First().Name, Is.EqualTo("Goslar"));

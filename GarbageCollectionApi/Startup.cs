@@ -1,44 +1,47 @@
-﻿using GarbageCollectionApi.Models;
-using Swashbuckle.AspNetCore.Swagger;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using GarbageCollectionApi.Services;
-using MongoDB.Driver;
+﻿using Microsoft.AspNetCore.Mvc;
 
 [assembly: ApiConventionType(typeof(DefaultApiConventions))]
+
 namespace GarbageCollectionApi
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Reflection;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.Models;
+    using GarbageCollectionApi.Services;
+    using Microsoft.AspNetCore.Authentication;
+    using Microsoft.AspNetCore.Authentication.JwtBearer;
+    using Microsoft.AspNetCore.Builder;
+    using Microsoft.AspNetCore.Hosting;
+    using Microsoft.AspNetCore.HttpsPolicy;
+    using Microsoft.AspNetCore.Mvc;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.DependencyInjection;
+    using Microsoft.Extensions.Logging;
+    using Microsoft.Extensions.Options;
+    using MongoDB.Driver;
+    using Swashbuckle.AspNetCore.Swagger;
+
     /// <summary>
     /// Startup
     /// </summary>
     public class Startup
     {
         /// <summary>
-        /// Creates a new Startup instance
+        /// Initializes a new instance of the <see cref="Startup"/> class.
         /// </summary>
         /// <param name="configuration">Config</param>
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            this.Configuration = configuration;
         }
 
         /// <summary>
-        /// Configuration specified in constructor
+        /// Gets configuration specified in constructor
         /// </summary>
         public IConfiguration Configuration { get; }
 
@@ -62,11 +65,11 @@ namespace GarbageCollectionApi
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
-            // TODO
-            // Register the Swagger generator, defining 1 or more Swagger documents
+            // Register the Swagger generator
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info {
+                c.SwaggerDoc("v1", new Info
+                {
                     Title = "Goslar GarbageCollection API",
                     Version = "v1",
                     Description = "API for garbage collection in the district of Goslar",
@@ -75,8 +78,8 @@ namespace GarbageCollectionApi
                     {
                         Name = "Daniel Grams",
                         Email = string.Empty,
-                        Url = "https://github.com/DanielGrams/GarbageCollectionApi"
-                    }
+                        Url = "https://github.com/DanielGrams/GarbageCollectionApi",
+                    },
                 });
 
                 // Set the comments path for the Swagger JSON and UI.
@@ -91,7 +94,9 @@ namespace GarbageCollectionApi
         /// </summary>
         /// <param name="app">App</param>
         /// <param name="env">Environment</param>
+#pragma warning disable CA1822
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+#pragma warning restore CA1822
         {
             if (env.IsDevelopment())
             {
@@ -108,7 +113,7 @@ namespace GarbageCollectionApi
             // Enable middleware to serve generated Swagger as a JSON endpoint.
             app.UseSwagger();
 
-            // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), 
+            // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.),
             // specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {

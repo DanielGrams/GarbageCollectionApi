@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="GarbargeCollectionTestRules" Description="Rule set for GarbageCollection tests" ToolsVersion="15.0">
+  <Include Path="GarbageCollection.ruleset" Action="Default" />
+  <Rules AnalyzerId="Microsoft.Analyzers.ManagedCodeAnalysis" RuleNamespace="Microsoft.Rules.Managed">
+    <Rule Id="CA1707" Action="None" />
+    <Rule Id="CA2234" Action="None" />
+  </Rules>
+  <Rules AnalyzerId="StyleCop.Analyzers" RuleNamespace="StyleCop.Analyzers">
+    <Rule Id="SA0001" Action="None" />
+    <Rule Id="SA1600" Action="None" />
+  </Rules>
+</RuleSet>

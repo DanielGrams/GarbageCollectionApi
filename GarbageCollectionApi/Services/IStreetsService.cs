@@ -1,8 +1,11 @@
-using System.Collections.Generic;
-using GarbageCollectionApi.DataContracts;
-using System.Threading.Tasks;
-
-public interface IStreetsService
+namespace GarbageCollectionApi.Services
 {
-    Task<List<Street>> GetByTownAsync(string townId);
+    using System.Collections.Generic;
+    using System.Threading.Tasks;
+    using GarbageCollectionApi.DataContracts;
+
+    public interface IStreetsService
+    {
+        Task<List<Street>> GetByTownAsync(string townId);
+    }
 }
