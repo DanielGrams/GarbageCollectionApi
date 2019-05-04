@@ -14,7 +14,8 @@ namespace GarbageCollectionApi.Services
         /// </summary>
         /// <param name="towns">List of all towns</param>
         /// <param name="events">List of all events</param>
+        /// <param name="refreshStatus">Refresh status</param>
         /// <returns>Task</returns>
-        Task UpdateAsync(List<Town> towns, List<CollectionEvent> events);
+        Task UpdateAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus);
     }
 }

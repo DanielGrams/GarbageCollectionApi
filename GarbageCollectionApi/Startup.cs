@@ -51,6 +51,7 @@
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<MongoConnectionSettings>(this.Configuration.GetSection("MongoConnection"));
+            services.Configure<DataRefreshSettings>(this.Configuration.GetSection("DataRefresh"));
 
             services.AddHostedService<DataRefreshService>();
             services.AddSingleton<IDocumentLoader, DocumentLoader>();
@@ -59,6 +60,7 @@
             services.AddScoped<IUpdateService, UpdateService>();
             services.AddScoped<ICategoriesService, CategoriesService>();
             services.AddScoped<IEventsService, EventsService>();
+            services.AddScoped<IStatusService, StatusService>();
 
             services.AddApplicationInsightsTelemetry();
 

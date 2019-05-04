@@ -12,16 +12,18 @@ namespace GarbageCollectionApi.Services
     {
         private readonly IMongoCollection<Town> towns;
         private readonly IMongoCollection<CollectionEvent> events;
+        private readonly IMongoCollection<DataRefreshStatus> statusCollection;
 
         public UpdateService(IOptions<MongoConnectionSettings> settings)
             : base(settings)
         {
             this.towns = this.Database.GetCollection<Town>(MongoConnectionSettings.TownsCollectionName);
             this.events = this.Database.GetCollection<CollectionEvent>(MongoConnectionSettings.EventsCollectionName);
+            this.statusCollection = this.Database.GetCollection<DataRefreshStatus>(MongoConnectionSettings.DataRefreshStatusCollectionName);
         }
 
         /// <inheritdoc />
-        public async Task UpdateAsync(List<Town> towns, List<CollectionEvent> events)
+        public async Task UpdateAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
         {
             await this.EnsureCollectionExistsAsync(MongoConnectionSettings.TownsCollectionName).ConfigureAwait(false);
             await this.EnsureCollectionExistsAsync(MongoConnectionSettings.EventsCollectionName).ConfigureAwait(false);
@@ -36,22 +38,10 @@ namespace GarbageCollectionApi.Services
                 await this.events.DeleteManyAsync(session, _ => true).ConfigureAwait(false);
                 await this.events.InsertManyAsync(session, events).ConfigureAwait(false);
 
+                await this.statusCollection.ReplaceOneAsync(session, status => status.Id == refreshStatus.Id, refreshStatus).ConfigureAwait(false);
+
                 await session.CommitTransactionAsync().ConfigureAwait(false);
             }
-        }
-
-        public async Task EnsureCollectionExistsAsync(string collectionName)
-        {
-            var filter = new BsonDocument("name", collectionName);
-            var collections = await this.Database.ListCollectionsAsync(new ListCollectionsOptions { Filter = filter }).ConfigureAwait(false);
-            var exists = await collections.AnyAsync().ConfigureAwait(false);
-
-            if (exists)
-            {
-                return;
-            }
-
-            await this.Database.CreateCollectionAsync(collectionName).ConfigureAwait(false);
         }
     }
 }

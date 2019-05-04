@@ -15,22 +15,26 @@ namespace GarbageCollectionApi.Services.Scraping
     using Ical.Net.DataTypes;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Logging;
+    using Microsoft.Extensions.Options;
 
     public class DataRefreshService : HostedService
     {
         private readonly ILogger logger;
         private readonly IDocumentLoader documentLoader;
+        private readonly IOptions<DataRefreshSettings> dataRefreshSettings;
         private readonly System.IServiceProvider services;
         private readonly IBrowsingContext browsingContext;
 
         public DataRefreshService(
             System.IServiceProvider services,
             ILogger<DataRefreshService> logger,
-            IDocumentLoader documentLoader)
+            IDocumentLoader documentLoader,
+            IOptions<DataRefreshSettings> dataRefreshSettings)
         {
             this.services = services ?? throw new ArgumentNullException(nameof(services));
             this.logger = logger ?? throw new ArgumentNullException(nameof(logger));
             this.documentLoader = documentLoader ?? throw new ArgumentNullException(nameof(documentLoader));
+            this.dataRefreshSettings = dataRefreshSettings ?? throw new ArgumentNullException(nameof(dataRefreshSettings));
             this.browsingContext = BrowsingContext.New(AngleSharp.Configuration.Default.WithDefaultLoader());
         }
 
@@ -41,7 +45,8 @@ namespace GarbageCollectionApi.Services.Scraping
             {
                 try
                 {
-                    await this.RefreshAsync(cancellationToken).ConfigureAwait(false);
+                    var status = await this.GetDataRefreshStatusAsync().ConfigureAwait(false);
+                    await this.RefreshAsync(status, cancellationToken).ConfigureAwait(false);
                 }
                 catch (TaskCanceledException)
                 {
@@ -59,12 +64,21 @@ namespace GarbageCollectionApi.Services.Scraping
                     return;
                 }
 
-                await Task.Delay(TimeSpan.FromDays(1), cancellationToken).ConfigureAwait(false);
+                await Task.Delay(TimeSpan.FromHours(this.dataRefreshSettings.Value.StatusCheckInHours), cancellationToken).ConfigureAwait(false);
             }
         }
 
-        public async Task RefreshAsync(CancellationToken cancellationToken)
+        public async Task RefreshAsync(DataRefreshStatus refreshStatus, CancellationToken cancellationToken)
         {
+            var daysSinceLastRefresh = (DateTime.Now - refreshStatus.LatestRefresh).Days;
+            var specifiedDays = this.dataRefreshSettings.Value.IntervalInDays;
+
+            if (daysSinceLastRefresh < specifiedDays)
+            {
+                this.logger.LogWarning($"daysSinceLastRefresh < specifiedDays ({daysSinceLastRefresh} < {specifiedDays})");
+                return;
+            }
+
             var towns = await this.LoadTownsAsync(cancellationToken).ConfigureAwait(false);
             cancellationToken.ThrowIfCancellationRequested();
 
@@ -77,11 +91,24 @@ namespace GarbageCollectionApi.Services.Scraping
             var events = await this.LoadEventsAsync(towns, cancellationToken).ConfigureAwait(false);
             cancellationToken.ThrowIfCancellationRequested();
 
+            var latestLoadedStamp = events.Max(e => e.Stamp);
+
+            if (refreshStatus.LatestStamp.Equals(latestLoadedStamp))
+            {
+                this.logger.LogWarning($"refreshStatus.LatestStamp == latestLoadedStamp ({refreshStatus.LatestStamp} < {latestLoadedStamp})");
+                return;
+            }
+
+            refreshStatus.LatestStamp = latestLoadedStamp;
+            refreshStatus.LatestRefresh = DateTime.Now;
+
             using (var scope = this.services.CreateScope())
             {
                 var updateService = scope.ServiceProvider.GetRequiredService<IUpdateService>();
-                await updateService.UpdateAsync(towns, events).ConfigureAwait(false);
+                await updateService.UpdateAsync(towns, events, refreshStatus).ConfigureAwait(false);
             }
+
+            this.logger.LogWarning($"Updated {towns.Count} towns and {events.Count} events");
         }
 
         public async Task<List<Town>> LoadTownsAsync(CancellationToken cancellationToken)
@@ -138,7 +165,7 @@ namespace GarbageCollectionApi.Services.Scraping
                     return;
                 }
 
-                await Task.Delay(100).ConfigureAwait(false);
+                await this.DelayBeforeNextRequest().ConfigureAwait(false);
             }
         }
 
@@ -180,7 +207,7 @@ namespace GarbageCollectionApi.Services.Scraping
                         return;
                     }
 
-                    await Task.Delay(100).ConfigureAwait(false);
+                    await this.DelayBeforeNextRequest().ConfigureAwait(false);
                 }
             }
         }
@@ -236,11 +263,25 @@ namespace GarbageCollectionApi.Services.Scraping
                         return events;
                     }
 
-                    await Task.Delay(100).ConfigureAwait(false);
+                    await this.DelayBeforeNextRequest().ConfigureAwait(false);
                 }
             }
 
             return events;
+        }
+
+        private async Task<DataRefreshStatus> GetDataRefreshStatusAsync()
+        {
+            using (var scope = this.services.CreateScope())
+            {
+                var statusService = scope.ServiceProvider.GetRequiredService<IStatusService>();
+                return await statusService.GetStatusAsync().ConfigureAwait(false);
+            }
+        }
+
+        private async Task DelayBeforeNextRequest()
+        {
+            await Task.Delay(this.dataRefreshSettings.Value.RequestDelayInMs).ConfigureAwait(false);
         }
     }
 }

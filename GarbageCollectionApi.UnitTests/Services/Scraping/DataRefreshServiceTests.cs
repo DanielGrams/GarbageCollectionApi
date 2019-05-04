@@ -14,6 +14,7 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
     using GarbageCollectionApi.UnitTests.Utils;
     using GarbageCollectionApi.Utils;
     using Microsoft.Extensions.Logging;
+    using Microsoft.Extensions.Options;
     using NSubstitute;
     using NUnit.Framework;
 
@@ -23,7 +24,7 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
         [Test]
         public void Constructor_NullParameters_ThrowsException()
         {
-            Assert.Throws<ArgumentNullException>(() => new DataRefreshService(null, null, null));
+            Assert.Throws<ArgumentNullException>(() => new DataRefreshService(null, null, null, null));
         }
 
         [Test]
@@ -32,8 +33,10 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
             var documentLoader = NSubstitute.Substitute.For<IDocumentLoader>();
+            var options = NSubstitute.Substitute.For<IOptions<DataRefreshSettings>>();
+            options.Value.Returns(new DataRefreshSettings());
 
-            Assert.NotNull(new DataRefreshService(serviceProvider, logger, documentLoader));
+            Assert.NotNull(new DataRefreshService(serviceProvider, logger, documentLoader, options));
         }
 
         [Test]
@@ -42,11 +45,14 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
             var documentLoader = NSubstitute.Substitute.For<IDocumentLoader>();
+            var options = NSubstitute.Substitute.For<IOptions<DataRefreshSettings>>();
+            options.Value.Returns(new DataRefreshSettings());
 
-            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader);
+            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader, options);
             var cancellationToken = new CancellationTokenSource().Token;
 
-            Assert.ThrowsAsync<InvalidOperationException>(async () => await dataRefreshService.RefreshAsync(cancellationToken).ConfigureAwait(false));
+            var dataRefreshStatus = new DataRefreshStatus();
+            Assert.ThrowsAsync<InvalidOperationException>(async () => await dataRefreshService.RefreshAsync(dataRefreshStatus, cancellationToken).ConfigureAwait(false));
         }
 
         [Test]
@@ -55,13 +61,15 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
             var documentLoader = NSubstitute.Substitute.For<IDocumentLoader>();
+            var options = NSubstitute.Substitute.For<IOptions<DataRefreshSettings>>();
+            options.Value.Returns(new DataRefreshSettings());
 
             documentLoader.LoadTownsDocumentAsync(Arg.Any<IBrowsingContext>(), Arg.Any<CancellationToken>()).Returns(async ci =>
             {
                 return await this.LoadTestDataAsync(ci.Arg<IBrowsingContext>(), "towns.html").ConfigureAwait(false);
             });
 
-            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader);
+            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader, options);
             var cancellationToken = new CancellationTokenSource().Token;
             var towns = await dataRefreshService.LoadTownsAsync(cancellationToken).ConfigureAwait(false);
 
@@ -80,13 +88,15 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
             var documentLoader = NSubstitute.Substitute.For<IDocumentLoader>();
+            var options = NSubstitute.Substitute.For<IOptions<DataRefreshSettings>>();
+            options.Value.Returns(new DataRefreshSettings());
 
             documentLoader.LoadStreetsDocumentAsync("62.1", Arg.Any<IBrowsingContext>(), Arg.Any<CancellationToken>()).Returns(async ci =>
             {
                 return await this.LoadTestDataAsync(ci.Arg<IBrowsingContext>(), "streets-goslar.html").ConfigureAwait(false);
             });
 
-            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader);
+            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader, options);
             var cancellationToken = new CancellationTokenSource().Token;
             var goslar = new Town { Id = "62.1", Name = "Goslar" };
             var towns = new List<Town>() { goslar };
@@ -108,13 +118,15 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
             var documentLoader = NSubstitute.Substitute.For<IDocumentLoader>();
+            var options = NSubstitute.Substitute.For<IOptions<DataRefreshSettings>>();
+            options.Value.Returns(new DataRefreshSettings());
 
             documentLoader.LoadCategoriesDocumentAsync("62.1", "2523.907.1", Arg.Any<IBrowsingContext>(), Arg.Any<CancellationToken>()).Returns(async ci =>
             {
                 return await this.LoadTestDataAsync(ci.Arg<IBrowsingContext>(), "categories-schreiberstrasse.html").ConfigureAwait(false);
             });
 
-            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader);
+            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader, options);
             var cancellationToken = new CancellationTokenSource().Token;
             var schreiberstrasse = new Street { Id = "2523.907.1", Name = "Schreiberstraße" };
 
@@ -138,13 +150,15 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
             var documentLoader = NSubstitute.Substitute.For<IDocumentLoader>();
+            var options = NSubstitute.Substitute.For<IOptions<DataRefreshSettings>>();
+            options.Value.Returns(new DataRefreshSettings());
 
             documentLoader.LoadEventsIcalTextAsync("62.1", "2523.907.1", "2019", Arg.Any<CancellationToken>()).Returns(ci =>
             {
                 return TestDataLoader.LoadTestData("events-schreiberstrasse.ics");
             });
 
-            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader);
+            var dataRefreshService = new DataRefreshService(serviceProvider, logger, documentLoader, options);
             var cancellationToken = new CancellationTokenSource().Token;
 
             var schreiberstrasse = new Street { Id = "2523.907.1", Name = "Schreiberstraße" };
