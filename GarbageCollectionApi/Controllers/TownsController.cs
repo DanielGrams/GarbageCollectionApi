@@ -7,10 +7,12 @@ namespace GarbageCollectionApi.Controllers
     using System.Net.NetworkInformation;
     using System.Threading.Tasks;
     using GarbageCollectionApi.DataContracts;
+    using GarbageCollectionApi.Examples;
     using GarbageCollectionApi.Services;
     using Microsoft.AspNetCore.Http;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.EntityFrameworkCore;
+    using Swashbuckle.AspNetCore.Filters;
 
     /// <summary>
     /// Controller for towns and all its contained types
@@ -32,6 +34,9 @@ namespace GarbageCollectionApi.Controllers
              this.eventsService = eventService ?? throw new ArgumentNullException(nameof(eventService));
         }
 
+        /// <summary>
+        /// Lists all towns
+        /// </summary>
         [HttpGet]
         [ProducesResponseType(200)]
         public async Task<ActionResult<IEnumerable<Town>>> GetTownsAsync()
@@ -40,6 +45,11 @@ namespace GarbageCollectionApi.Controllers
             return this.Ok(towns);
         }
 
+        /// <summary>
+        /// Lists all streets in town with given <paramref name="id" />
+        /// </summary>
+        /// <param name="id">Town id</param>
+        /// <response code="404">If town with given <paramref name="id" /> does not exist</response>
         [HttpGet("{id}/streets")]
         [ProducesResponseType(200)]
         [ProducesResponseType(404)]
@@ -55,6 +65,12 @@ namespace GarbageCollectionApi.Controllers
             return this.Ok(streets);
         }
 
+        /// <summary>
+        /// Lists all categories for street with given <paramref name="streetId" /> in town with given <paramref name="id" />
+        /// </summary>
+        /// <param name="id">Town id</param>
+        /// <param name="streetId">Street id</param>
+        /// <response code="404">If town with given <paramref name="id" /> or street with given <paramref name="streetId" /> does not exist</response>
         [HttpGet("{id}/streets/{streetId}/categories")]
         [ProducesResponseType(200)]
         [ProducesResponseType(404)]
@@ -70,6 +86,12 @@ namespace GarbageCollectionApi.Controllers
             return this.Ok(categories);
         }
 
+        /// <summary>
+        /// Lists all events for street with given <paramref name="streetId" /> in town with given <paramref name="id" />
+        /// </summary>
+        /// <param name="id">Town id</param>
+        /// <param name="streetId">Street id</param>
+        /// <response code="404">If town with given <paramref name="id" /> or street with given <paramref name="streetId" /> does not exist</response>
         [HttpGet("{id}/streets/{streetId}/events")]
         [ProducesResponseType(200)]
         [ProducesResponseType(404)]

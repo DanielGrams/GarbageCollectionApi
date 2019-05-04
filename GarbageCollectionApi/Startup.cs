@@ -22,6 +22,7 @@
     using Microsoft.Extensions.Logging;
     using Microsoft.Extensions.Options;
     using MongoDB.Driver;
+    using Swashbuckle.AspNetCore.Filters;
     using Swashbuckle.AspNetCore.Swagger;
 
     /// <summary>
@@ -80,11 +81,16 @@
                     },
                 });
 
+                c.ExampleFilters();
+                c.OperationFilter<AddResponseHeadersFilter>();
+
                 // Set the comments path for the Swagger JSON and UI.
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
                 c.IncludeXmlComments(xmlPath);
             });
+
+            services.AddSwaggerExamplesFromAssemblyOf<Startup>();
         }
 
         /// <summary>

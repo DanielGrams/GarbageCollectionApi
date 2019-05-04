@@ -9,8 +9,14 @@ namespace GarbageCollectionApi.DataContracts
     /// </summary>
     public class Town
     {
+        /// <summary>
+        /// Unique identifier
+        /// </summary>
         public string Id { get; set; }
 
+        /// <summary>
+        /// Town name
+        /// </summary>
         public string Name { get; set; }
     }
 }

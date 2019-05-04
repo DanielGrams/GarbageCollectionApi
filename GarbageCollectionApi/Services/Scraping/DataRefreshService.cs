@@ -217,8 +217,6 @@ namespace GarbageCollectionApi.Services.Scraping
                         var start = calEvent.DtStart.AsUtc;
                         var diff = berlinTimeZone.GetUtcOffset(start) - TimeZoneInfo.Local.GetUtcOffset(start);
                         var startUtc = start - diff;
-                        Console.WriteLine($"DtStart.Utc: {calEvent.DtStart.AsUtc:O} - System: {calEvent.DtStart.AsSystemLocal:O} - Meine Meinung: {startUtc:O} (diff: {diff})");
-                        Console.WriteLine($"DtStamp.Utc: {calEvent.DtStamp.AsUtc:O} - System: {calEvent.DtStamp.AsSystemLocal:O}");
 
                         var collectionEvent = new CollectionEvent
                         {
