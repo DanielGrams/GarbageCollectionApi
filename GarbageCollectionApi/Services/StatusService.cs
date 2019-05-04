@@ -21,26 +21,16 @@ namespace GarbageCollectionApi.Services
 
         public async Task<DataRefreshStatus> GetStatusAsync()
         {
-            await this.EnsureCollectionExistsAsync(MongoConnectionSettings.DataRefreshStatusCollectionName).ConfigureAwait(false);
+            var refreshStatus = await this.statusCollection.Find(_ => true).FirstOrDefaultAsync().ConfigureAwait(false);
 
-            DataRefreshStatus refreshStatus;
-            using (var session = await this.Client.StartSessionAsync().ConfigureAwait(false))
+            if (refreshStatus == null)
             {
-                session.StartTransaction();
-
-                refreshStatus = await this.statusCollection.Find(session, _ => true).FirstOrDefaultAsync().ConfigureAwait(false);
-
-                if (refreshStatus == null)
+                refreshStatus = new DataRefreshStatus
                 {
-                    refreshStatus = new DataRefreshStatus
-                    {
-                        LatestStamp = DateTime.MinValue,
-                        LatestRefresh = DateTime.MinValue,
-                    };
-                    await this.statusCollection.InsertOneAsync(session, refreshStatus).ConfigureAwait(false);
-                }
-
-                await session.CommitTransactionAsync().ConfigureAwait(false);
+                    LatestStamp = DateTime.MinValue,
+                    LatestRefresh = DateTime.MinValue,
+                };
+                await this.statusCollection.InsertOneAsync(refreshStatus).ConfigureAwait(false);
             }
 
             return refreshStatus;

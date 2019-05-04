@@ -25,23 +25,13 @@ namespace GarbageCollectionApi.Services
         /// <inheritdoc />
         public async Task UpdateAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
         {
-            await this.EnsureCollectionExistsAsync(MongoConnectionSettings.TownsCollectionName).ConfigureAwait(false);
-            await this.EnsureCollectionExistsAsync(MongoConnectionSettings.EventsCollectionName).ConfigureAwait(false);
+            await this.towns.DeleteManyAsync(_ => true).ConfigureAwait(false);
+            await this.towns.InsertManyAsync(towns).ConfigureAwait(false);
 
-            using (var session = await this.Client.StartSessionAsync().ConfigureAwait(false))
-            {
-                session.StartTransaction();
+            await this.events.DeleteManyAsync(_ => true).ConfigureAwait(false);
+            await this.events.InsertManyAsync(events).ConfigureAwait(false);
 
-                await this.towns.DeleteManyAsync(session, _ => true).ConfigureAwait(false);
-                await this.towns.InsertManyAsync(session, towns).ConfigureAwait(false);
-
-                await this.events.DeleteManyAsync(session, _ => true).ConfigureAwait(false);
-                await this.events.InsertManyAsync(session, events).ConfigureAwait(false);
-
-                await this.statusCollection.ReplaceOneAsync(session, status => status.Id == refreshStatus.Id, refreshStatus).ConfigureAwait(false);
-
-                await session.CommitTransactionAsync().ConfigureAwait(false);
-            }
+            await this.statusCollection.ReplaceOneAsync(status => status.Id == refreshStatus.Id, refreshStatus).ConfigureAwait(false);
         }
     }
 }
