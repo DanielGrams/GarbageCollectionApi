@@ -188,6 +188,7 @@ namespace GarbageCollectionApi.Services.Scraping
         public async Task<List<CollectionEvent>> LoadEventsAsync(List<Town> towns, CancellationToken cancellationToken)
         {
             var events = new List<CollectionEvent>();
+            var berlinTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Europe/Berlin");
 
             foreach (var town in towns)
             {
@@ -212,7 +213,11 @@ namespace GarbageCollectionApi.Services.Scraping
                     {
                         var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
 
-                        Console.WriteLine($"DtStart.Utc: {calEvent.DtStart.AsUtc:O} - System: {calEvent.DtStart.AsSystemLocal:O}");
+                        // iCal file does not specify timezone. So we have to convert from Berlin to UTC manually.
+                        var start = calEvent.DtStart.AsUtc;
+                        var diff = berlinTimeZone.GetUtcOffset(start) - TimeZoneInfo.Local.GetUtcOffset(start);
+                        var startUtc = start - diff;
+                        Console.WriteLine($"DtStart.Utc: {calEvent.DtStart.AsUtc:O} - System: {calEvent.DtStart.AsSystemLocal:O} - Meine Meinung: {startUtc:O} (diff: {diff})");
                         Console.WriteLine($"DtStamp.Utc: {calEvent.DtStamp.AsUtc:O} - System: {calEvent.DtStamp.AsSystemLocal:O}");
 
                         var collectionEvent = new CollectionEvent
@@ -221,7 +226,7 @@ namespace GarbageCollectionApi.Services.Scraping
                             TownId = town.Id,
                             StreetId = street.Id,
                             Category = category,
-                            Start = calEvent.DtStart.AsUtc,
+                            Start = startUtc,
                             Stamp = calEvent.DtStamp.AsUtc,
                         };
 
