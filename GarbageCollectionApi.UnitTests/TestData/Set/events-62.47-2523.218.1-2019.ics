@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:219542bfc62abe4afd6a7453a024fbee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Mäverstraße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:d7fa7c013b15e8a02e4a65bfe7f09742
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Mäverstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3f2e79b58cd02902e05653b9e749a9e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b39586360f2986bb6bef93a09b07cc2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bd55ae671ed3e99e25f4eadc1f53e984
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9a58735a5380aa25d7aadc63e774c49c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e9f820bc0e7851bad0e04ecd024a7ffe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b2c48063b74759dbae71b49994216be7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d53295f541a789b44ee3615e62153a14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a8848cedc142ec349bbe53eda909b1e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e3358fa1fd9d8a06c3c71b8a46fa6477
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:410a6143361a180ad8d9e00f981e284d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a1c5de3664e8e839a5f6163fc13eccb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:daf7b868b3873b5a87be3f9dce7288d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2487b0c4ecc15d04bde280dab927670d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c72c7730202f29a6e25d5d631e58a949
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8d895a02453d884fbe2bbff5961b229b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e91aa57db007eb444a6c86f4e76b0453
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:360ee05b8c311e4f422a9fe7f889de19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7186418d48e7a8f27b719a6a0fc5dec1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:458689da15cc3b5845b62b0a2303362e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e9a686e4fa846bbd43abedc1cb6b6700
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a67804d9886cb9fbef664ca73931ab8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2a369fbf9076176b61a7c00fc4dd5970
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:86343d8d3347f671c75a86554899ea65
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3d84899764adee4eb0de54c8574a3496
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9c72dc93397c9287591ef236a86c339a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5465b0f0aa6a0f4bd9792f00b6ae7e98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Mäverstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f97b3b12b005b2766542a455bfd540e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:22d45bfc507ecc803971e63959228b89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9a8ca6419d3957ff73e1bdb10562d510
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:26450ab9c5a7082f3435fe089af02bf0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5b9f48cb952a82d89f6f86f708e4a0dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a457d7f85e15105dd0665c7d1ab21a1c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:71c8142c318201bc2b78a6ddec5e9c82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:cfcd794f80bba00dded3d5bebea93de3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9bdf186c6f1823523102fdffb9110cfb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:82e56d8da8e1cc5608ece5511d4bd795
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f683860a8b868390f4fb817bbd86998c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:83c73de5274bd09f64a3a8b48d382b39
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c0d36845ac8170ce64a5beba73483edc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Mäverstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a4ca89e2c90f3c20364b72a253926846
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e21135bc2af5bb0c28355735c7260ecd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7344a2ea059f79e3be24748130212ab3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4516252e4c7d06703d3da112bcc5c890
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1a92f34a0ee70b5c14a2d3e509f04e67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fb895151c3c029efb410b10c7332eb48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fd0d33ab39ed72bb63e7b41de296622f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:5353560ac370a487ee3134ce319a591a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:55730dacfe83e9c7a4a84e25b9953049
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:baa56506c691eba9dc58d07ff6e722ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:14274299cca96fee206670d60871f9fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d36432714d788b38277388f4ba7d456d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d693fe82d33ebdbfae2ff1e6294b0b7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Mäverstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:41bcdb448c76ce2c5058167fdc9c2edb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9d7f673fc19ae73e2b53cc635afb106a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:65f1e87c77fac050de6d1d2d4818aed3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1cf824b1094e334cb9a75eb25e171015
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6cc75176cccda76f4213ad9782bbaec7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2fde0bac94b8b9d56c5b8855788b17c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9e84f9e538ff3f22507b932a2e7b9b6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:eb9c2bd7b66f7066784627d36db73330
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:44211b72ee2e8d35a7e72b9ab3160909
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6b9e56dbb504c15477b5291d7b552489
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3494353edba1fe26fdfa5329c1992f1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0d44f87c7f1e39461529399fb40667d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7c67b0013aaf11edf0ac50349a44ae90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:faea76eac7a6f93eed60a10568321da7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0469854cc85978f9cf6a635e718d6cbc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:74c3564373cf4eda31806fbd0d438b7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:51594f7e5fb11af8403ced2a0ed89ef0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a0cfb50567b4dbf978db00c7699a20a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:480edc20448feb357be858c8d3926fd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7e31e9f8250f32c672eff1a2b8ddf9e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:98f09f2ab5149cc819d39b29fba70b71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4fcc0f8ddf222975bf3e895d9ca869d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e1a68a7d81f8eb13c2254b1d4639b670
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ae6d7088c48b5c6639ce9dd45640b545
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a4a537bea06af2a121ddbf0384ca93d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b45521259327b69a5a14d2d85090b049
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Mäverstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b1ad4ac49ca37f5515189c072a7b2ce9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Mäverstraße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Mäverstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:ca8ecc6f4415a85bbd96ca55ebe9d2a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Mäverstraße\n \n
+END:VEVENT
+END:VCALENDAR

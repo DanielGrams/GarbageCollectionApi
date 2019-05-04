@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:78e3f550946f8f9ae3e7d8366a8f5f5f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Seilerstraße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:e6042138276262de4eb0705d3f13ca27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Seilerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6803f753864edd58567b1b8cd79f7314
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:afdf87711a379a6e0d3fb8db917befac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:24c5fdf4889898f7c1c502b46312a9bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9b194e284c2404ee8f1111da8d4baa4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bfcfe2c26c2d4fe09e93f47e37a29864
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4d4911dfcb4da0a16d3eedd208d1d4a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:df6f448484f282bd9b96f8c35119bb70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6ef2d0a42c3233eee340c499133cb03f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:361cdc4f05d29230980ca34f96837d9b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bd7f8effdaa5ee505ecfbae54a27ee9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fa656c21ac40fcd35193632196470405
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3385cfbd781dd92993dcc11fe9be6bf3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:eefbd46f80a4f9c04c42478f3d00e543
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:02674c73813cd59cf4140f6b50a21ba2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f267f20050f79f40b081d497c7bceb66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fc8800eff8751bef988b2a041eff7e59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8c3eba6592a31a16e5160fa1aaf4abb5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0ba7344fe8c70ce6f1f7d1f94797bf5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6398104a9a61cf41675032780918611c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:35eece2d584ff32a0c121a595134bfc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e54e98c4063776342d4b3c7ba8abb24c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7d8588ddf50ff2a35aa7a2d6cf27c5eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ccbff6f8e3e832d4d5bb11d756da749
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b95d98651fd593930402ae17dcef04dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3e338aac0f629808f4f6e35530ba2e3c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e8289d12eecc37fdf64a273275c7f258
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Seilerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b6f4fdc9a21e99d67fbc514a376b7871
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e137ff3d5473224576a1a2bc45b6625b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:346057bfa6c1a71a6ff484f1e812c61f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a0a850d5bd1dc25706cfc84a9fc48eef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:968aea6299b25102040a25d625293180
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c82c396c06887c980e8d67385431732d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5057acf3b14e604177d52c30c2e8df9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b8ad2e1c034e114f918d01e1b684c720
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a629b69ce65fff924523da384b3eade6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:934ff2545db93a910f464b26496475bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:84e48289d20182da37d54501a13754c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e0834bff05e6d888f916269bc7fc21d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:219cd4629f5d5196fec8ea2dd01d254f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Seilerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2be9372c86c2820ff106f42414510bf0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ec3bbc887026f3f10810ce0f49797d83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d301130d4faae4f6702b9a364475f6c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a052349549c917bce246aaf6e334b8eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9b61286b4d76079e5a7e8a229b6c65fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b3e09c24c7cc030b0e40172232f90cc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:187fbaa9dbe216b8529290b2345c1650
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e109b75bf0496d7a98c00fa94b735a2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:85aff5a6fc2055f2d7452feeaf6d890e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:61479330035a0c2c4f00716c92c36bc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a4394c0f4946ac4316dcc57af354a8fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6bc331f0960ea7b63c805cd305240f96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:325140acdfbd894b540b6a07fa366472
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Seilerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c907ea19347bdbeaf2e71ae09e4a6fab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:169bf4d022a6b0ce94dba26afb47dea7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e6c8d5f962a620ea575cd2e74c20b002
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1fd784dc74dae04cd64d7cfac1295751
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1685063f9f22690ecca23f1e3b9508bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:12e42ea42c815a3dce9f5e4c378218f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0efcccd36e23d95258b90ddb0f0e063a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:55223a8aa80199e58798ca167bc79c4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:feeb8409c783e7fceeeb9de8959f752d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:dbad20647627c6b29a5d4d817298ef3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:41c3931b5e7f5d220d350d9207bd5f96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f98abb09f7f2244eb79aa35959179914
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:41f57c55d0a0bffcd2420c70b245fb61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:da3dfe3c91171f734a2b1423781610a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:60cbed191d959cdbccd3b8336774db55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cd373838a485e89fb038ee3eb30085f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b603ab37a0e70433e601acda95070cc3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fb74843c59f2cd3232bb775488e19c44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a53de11d78930f86d36cec0cd0282ec5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:eed5d0f9611922f260eef8b5f84061ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2f79c0086454b569779b27ebb9021ca8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ab923209ed002d5ad2bb7f4e47e5c05c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7c05f4d280fb7a32e73f1a5e69ba1921
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fa7710ec0796bdca67d33d7569bd6ab5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:38bf035aff226246f44f60305a49d778
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:948142bd7cc2e79bd31feb9f663ab501
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Seilerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:ccf4c889eeac05820e00ffef110200da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Seilerstraße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Seilerstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:29830305f38b063fca965f27e59c6135
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Seilerstraße\n \n
+END:VEVENT
+END:VCALENDAR

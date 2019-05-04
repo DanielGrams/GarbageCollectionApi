@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:ec580d1579f48b6dd38409c259a6bf34
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Polsterberg\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:7f45635ca694a47079cf1df31d9601b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Polsterberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6d73db12b168a16b910900f35ba748ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:aaf27363581c4e130ec5cc53b580c1a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6ca0054dcb359df81df525afd115b2e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:df652350135da8cc893032c5438bc5f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ea649f08c1ee256cff7b8fc6eafc0369
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a135b2205dc9223921770345fe46358d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fbba134b72f8ac22279ac87b8727104e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4760aa65d687e776dea24f81833349f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c1f8f7a360fff2c97b8810b77a340908
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b1af7b14931dfea0792260ab69d309ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6603536207349a2d03c599ba56c04f02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:41e37bde381e2794d8882ff6f3da02ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c8c628dd79183c6ec3602968d4245b30
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0c97d717af9cf673457fe79d11cb8175
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4407b4d454cc9f262c815ccc9c09ff89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6eca624d520e4a054dafbf5332425c61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:948f169f48dce6a314f59968fd329125
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7a0af08a81302ffda71431a023bd63cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b2f9b4a5b1833cca57dbc190d310df0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5ee34dc199910c2421e2ba4cb0d3c286
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:499ac0d01906da20cbcc1d8be5346936
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ac063fde422a587f8b2b71cac583373
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c1ff5c6cc8c13c577da3e76495bbef22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d737c308712051194b382a93f54e32c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c38ac83cc5e8236e73aadb68ffcc43af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b9d74aa996f0662237d5f9c3008b8f2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne - Polsterberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6c28e980d203d31204788b3d37edff62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f621316adb6eb4718db4079bf5e002db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f79a9dd0ec90145819f18dc53d4fc1ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:66da57c78d00d3a567e348c3f7b8fe53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:89ed4af1e223b88349496b60ed365661
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:32b3a494d30c40ccb803833effe1485b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a461c00035a10fb353ca4008820a3ce4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6bc449fb58ab4ac50d86eef85e700be9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:05825d56a7ebbebfcb6fa4840146b5ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:400f610b75e045bdb7bc0e030654d45f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:19114761e06f0e0f7b441c351910dd62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4e735540175d6b9d0cde5b44d130152a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:52b27642dc3a5e955bbdd5439abbd820
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Polsterberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0eaaf987caa4a2200ae4886f597a2194
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:84d6e4df6b5066845ee48527ce5557e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fa1acae072336e477009aba4a34affb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8f19566a8b70bb95a7b21e43fca8f0cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c7b09dfc84f8ccc964e4caa7da4d8ce1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ccde9c96e7c0d961d39b796d20dde1e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1184ebc2dcc5f0483d0227dae0e52a52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:64ec287c2363d1fdf8636fd5f986a7ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4e70c4c0f381466f2b726411b6f824ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1e8dd229e9fa1f65a340f2198ffc8d06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a072184af48d7b6d19a3bbaa2e5c90c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ab4730817ea3463ac510a44253086d89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b8858d20d58fe2e0eff032303c7ce389
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Polsterberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:80d8dad491743f6f6a967fa0453bbe18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bbeb5bc983f2fd0c7e551e95c6234a99
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0d5ec1934ed5912f9326f6f6a1579fff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:289902850d9447e460744da694927c70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c07bb82959fc6e7a7cc6a5f05a11d566
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7649565537d9f65451dffe88e35318fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4b410e803e9a8f55bd0ac2f1d05822cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:aa7e0caa9ef85253f37d1d1e9426ec84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9e9a7810069efba2d883accee63d0582
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e3039e84b3ca5a8c32cee13d8fca41fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:714d6d0037214fb371df7598754dfd36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:855a1be023d384f21c2cb933e9192cf4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3121b41970cc3b8a992d48c72e5d9009
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9ff0021bcf5bbc409cb03306f16f70d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:61a1781de2485f5aae60b66eed6b682a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:40ebf04e5f9c53bebfad079dd85f093b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:de0027f5c8d5da35a2e18350c5a85090
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1aa8141630bd681dde9b22c210f4d767
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6b9f0e45c2f970a630845721cf676486
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b0d37beae61f5a407a4c6f9db8a3def6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:16c55111fea877a4f3aca845b29233df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:be5ec8bab9ca159ff8e68f21daa0e35e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:343f2b9f1661267718276de0912642e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:dec195c4c9c2a67b8eb6a393dca2bd8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ac85f9b6d91c7278c7505a8a6733712b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7ab353c1d6a15a3c7368d6607c83211a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne - Polsterberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:dc5c37f8650c4db3eabd233fb68a8683
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Polsterberg\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Polsterberg
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:bb2855cbadaf6faf60fc56df934e00e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Polsterberg\n \n
+END:VEVENT
+END:VCALENDAR

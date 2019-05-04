@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:9d7da071c4c4d753ee6681e0b37d6b3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:64a39f8b49d40fb1b0f2457f4cee7bd5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Haus-Herzberger-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d95549ceecd9280771371a2d6a8dbe68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:63c5ffed19401e3377425d4c6e9da36f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6ec1eaa52561ba8ef9e29f360105ada4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:05a34c6d5f19a48b115dfa82c20b4f1c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0a2f77395a8a6fe4dfd6891a836a1e3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9c2b5bfec0feb79f30e1399f7438cf7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:28e8491b7a7d657691b2c60fa5a125a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1a0ea2c4d2de622cfcf759ef21cc30a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a36746cdfc09c7fd8ca9eddd519ae9f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f16ed8b61475a9ce81f6ba9184147c4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dc1fb3756e3ef279d4d5db58e2e003d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b23d9d7230a5c9eaf376b4f98f90bd75
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5766927d83e6f3e7048788adbdb3aa65
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6130e449dba8291623794ab08e293c9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7656e2b9cff8b5c7305790676c6bcf1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d7dfb4a0dffa3645c3be12a5866543b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d81bfa5f978f6d506472b165fe4ba636
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0ee489a4ee4157170b2e2dc845b86ebc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ea5f450d56c078e73cf0433da7a934eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:289344e452b72f1b6bc374cda0ce001a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:edb366e10f7e5d35c02857a7ec034440
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:462e6ac211cb86a8480e19bb3efa96f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8e2d25e3711dfc71a42363cc8a4ae46f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2bae57410679e5d67e66cf65a3d1b9b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:eefb9d3c4f150a06098d52a5f4f449dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9fd94dbc466448eefee465b3b7a383f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Haus-Herzberger-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2000288c30569f0017376c27dbb46f74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9b5846b63dea592bd615dbc6be482807
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:36e3b91688f446656b7e157c46efa48f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1f91336328f29f36dbedeed3b0df411e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:32037312292e68d19f295ca309ac8162
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0c016b5eb244d86b3ee992dce4cef347
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6d47ae4c0dbefec3df832b0aef28dc36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:44758a3c681131f3b73c9415e7da2966
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9b7c0933f6f2fe7114f8bf3bd928614c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:813bc7ca12ee280bac2b052f31233ab0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7eaaabf610fd93ea0e0715a8d5943c4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1d57534c0f4dc22469225fb1c0dc6457
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a344e450f2dc01875244ce359fcd8114
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Haus-Herzberger-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:876dc71fee633537aa800a7805a93fb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0f697c0a5625c2f20d63b7d719e15595
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c1a0dad8c9e1ac28fe5aa2e849b3e69c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4327193abb8e7ed3b27884484de09418
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6b38de4a301b6491d640995d1f126912
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:51dc5684a9ce4140989d5584cf2e002d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e5ef1373aecca5046fd88363afc4eacc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:37ca0af97b7873d51854c44daf674d4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8b9931bcd78f1a8a7c17f4fb7f017eab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:57f3cd1e5b25b1eddc0921901247009d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8e4a8e704e2a1ddc99b1ce44bcbb0bd3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8d1f76ddc4bcd1d400ca6fc3612feabc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a3b7ece707c582eb7a0edc91113e00c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Haus-Herzberger-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:46d6e6ec1a7d28cb3527e3006ff4c9f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8c86a831301e8d8d161913ae73c52bb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f166b13c59908aaaf844421b75825230
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:757600fc6ee37545b626b807e0842ef4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:55cc06260b02a9b27e0cfd561f1a123e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:653fada89c3333e974ea70b3a2a6cbb4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a4afa4c6d9e4e4cc29b767335d2b8547
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:19b4d5aa94b469fbb2f188291e6c4985
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:07453b6f3dfae755acca3557f36ab997
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:67b812de20702a8b2feefbf342346e56
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:44c2beaf426a2bdf6865cb177222330e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:81467c057c6f79bb13b9c2e936bc9bf3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:23c7456530860201ddbfc7ce56caf5e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f40e8131bf5b4c1f3add7cd54d487806
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:43a46d5f83fa91dbba6e99ce82cd1cfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:95a25d06371241c646f51723ab7b5aee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:843ef4bf66061ed4a982ef8d39329ffc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:abdd4fa2f70bbba17296ec87c6752ed0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:96de37ec8a0062200928415b80c68515
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7819e6c8ca60914ca78adfeb0315f792
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:947b163a85a29074c7f4be2e0b5877ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:afb32f852d9b1e1783dd0f531369212b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c6c751cbb604663bf8836aeb71351ed3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8ba4382d1bef17641ae2a4fb0109490e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fa16680adbb901389812d84313541495
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:566501d2d270d129bb15d255cf94620d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Haus-Herzberger-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:887d728d138c77240f491af625513057
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:709ce08ae25c51789d6da122c16d3f84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Haus-Herzberger-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Haus-Herzberger-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:1bc0069e5353fa360372c89b77d89762
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Haus-Herzberger-Straße\n \n
+END:VEVENT
+END:VCALENDAR

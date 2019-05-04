@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:d3ea12f83c49865f230429d48eb098af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - L Aigler Platz\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:76edc1afea0acb35e3a07ac6cbcf2d0b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - L Aigler Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9f996467ca08290d82b30f180b329f1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9916b811fd8d9d6bd6f4727d412d1be6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3cd454f7756a9e4d32e52bb425fc5182
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:26b80c9541de3057bc1659b55ce3bc5f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3880d6b55636db94e8cc64d13b7c597e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2e006c5cd461ee37349b1b982f99b462
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9213aa99550e09beb1db8fa99d60a639
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c32224055769c211fb2cc3dc32c795fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a94558b04a2fd91b66a5b2c6c6fafd7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bdbd32f130b89091004a42e02461bc03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ffd5e51d23bab08714b462ff54b0b818
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:638f56e88415de206bde12a98bfbbd99
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7351788e67eb696787fde9de6e81cdd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cf4d7845a17865171b75e1bfb1f6aded
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:91d546a0168eec0b08a1d9754fbade70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1772cdbfbe1d2ea26bf9618877c91ad9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4ad3eb30429d6a94af9a969328d52226
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c1838149556cd4c3c274ac3c795e9b5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3be24c4c6afa234aa7f81d4a4165db88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:930ff5b552d314d72154bcec3f993040
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7e6559513ac13e6d0762f8194ec7c430
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2b68c9f75c4dfe1bfbfd4f7af6c2f16b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a3a43fab815d43754c87be79d514b181
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dc4437fac75621bcfe0b07bb7fa74b01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:13d73a2049be0ce03bb27ccef774c122
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3fc18690d91439bc8fb8284036caf793
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - L Aigler Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9d5c6638a61c81c1c6c77cb38200ede0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6a27b5138fb8b210c44798607d337f73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5b24b6f1e9eb86f0feeedb463c2d24b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d608e0f073e195b81f0809cb74349b2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0cdd6985c7e8e4a490ddea2f239a82e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a9ca26dbaa33897c4284b64618378b83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:57b487e40797ca7eaaa4b23ba867330f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:afbc4d0f67832b52f640138f3d2a3b0b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4e1e2b17a80815d92a37742650e73ac3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7802f92d22b4941cf43a75bd0e375bab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4be261531d091315e38aea0c4ced7302
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7f29cf0e8d2cca54d39ef3d4b114c6c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0d0ea14a2504d1a3ab5fc5b0357b07cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - L Aigler Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:655950390a93da3b0ec5185559706808
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3f27057428fdbab19c36097c6ca022b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9cc776a77d2216f9ed5ac2bb30ec8139
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2ecdb693eeaf2c800f8b71ce7d0bfb03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:42ebc3c6f2837c279c7e2c2076a94fea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a42b665d18af1ee82a09f08203505f50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:19bb214eae6eba8249a3d3dd2788beb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ac42a143e5ac5b340e8a6462aa1ea02e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:237034cf8bc79e319a68085c1fc55a40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:130a03ec11f63d94c91dc6d118335337
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:185b9d3f9f759f0b258755b303c2bb1c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2d87ddc72d4ab94e0bbba4f63670a02f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6cbccc4d95864cab4f4dc47af20f1500
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - L Aigler Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cb9d6a061f4b6f857fb0a666dd884a97
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:312ee4ca932e78251565e83984b68f5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8f79604ac9e2c07507b23370be0f262d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:36f16da17c5b1b5864f70b1409a8150d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b6108d54fe669ca39922f5d53823565c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5a386c62f9087f891362e120a41ff1dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6fda1ce845bed99cf82e51f5efb35bd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0c7802c3b4712d759be5f27670cf633d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:324612738e567dd5e2784464071f75f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:63d44e3ee57b85a9709b466b19f396b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f953430f2f7fd9996b45b84e0b671aee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e8f5e12b0a8bf134e857363f573a8669
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a23a363a4461fccc5fa0491b995c8ebc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:74d634475d2b7d7931b5f3c2c287ca92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:edab53bc3cc37a637725c88dbb17c848
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:408ef82d95a9cbf8e758d02e43ea27f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bb9841688da9144fbfdea18fa1a5e45c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:62843d6aa5c37bf666ddae9f84c41752
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:662dbe30b7a6367915f5d323faafff6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:89d83638e27c113a35402ba30dc251ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7be6b524a15465b79c6d9e807a5b8b67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1d41db312f7413e8ea84cef584efc19f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:613570aaaf0fc1d2d2d9a8c7ba455e36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f385f8a343999ec9add818116b6db858
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:23b90cee3fec06e7459144f163500f4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6fe67bc0d6c8015baea01cdc6e1bdace
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - L Aigler Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:684dafe587539ae164ec88e77866860a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - L Aigler Platz\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b3b1e7d9c7fa1cf877a7f4577d691b6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - L Aigler Platz\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - L Aigler Platz
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:62cbba3942c058f571e9098f446dea8e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - L Aigler Platz\n \n
+END:VEVENT
+END:VCALENDAR

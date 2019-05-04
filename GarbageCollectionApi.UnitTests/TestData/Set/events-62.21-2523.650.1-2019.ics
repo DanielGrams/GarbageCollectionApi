@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:8fd953ce454354b7c9eb67ba50756e62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:af46a5a38d3bf5cd2b1fef32bc14a168
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Ginsterbusch,Glockenkamp\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:f96bc463812bf495f1e722958deab146
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:c17f6a7953dba7ae6bf639cac6f46823
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:44777ded62f117898bd4447186c6885b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:aac5d3ff4e08db740ef6bd7fdcdc1829
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:2e4c59265a689ac4ead6a849403cb4c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:226c6a7eaf97c29ceafd3a81da164bdc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:eead7be14744906d8be8c528ca058ca5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:8364f130912b246413e6d4c91c577994
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:c2ab453d4f59d2c74a8fbfe6b8b926ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:816d3fd7791e87158aeeb7088029d3ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:1bff0a9512f4667a67845a68158585bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:c186e2c51f54a4d6b440d4228d9382a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:96f84ebe8251f1417a3607511406648c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:ed6edc1f17aed2ed027f772f4332060a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:cbd46371ff2f0bd854c6976f52d44c88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:ece4f805a18e0a9a8aa6d582b4b115bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:535be6a20573b8d6d2d84555691c1d63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:6cf69670b1a64caad28c44d4543cb9a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:dd40f1ae77a95e4bcb16ffc24ae513d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:9839af132f98dbdb3fb6bcd3fbbd7769
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:64b65beba1ab6cdf5959eccbd983c72f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:548268aa02f2f59d31faea9248bbd75c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:ff4dd15204ebe7f69d3d279b771c1477
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:efbf132d4f584dbe899e40b1208e399c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:ccc1eac925fc5adddfebfc76dc2f81db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Biotonne: Langelsheim
+UID:5313f5f6ac5b2f9f5800edd59aae409a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ginsterbusch,Glockenkamp\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:098ede53531ba627be68ca6c3b6c15d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:8ebd18b28b9d3d9318c287bc16c076c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:35367cf597774134099b43ea7529d793
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a744f70f4505033a40987c3ea215e48b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:713cfb2877a5b52cb29adcf7b344cc29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:3445741968c6040f029da228fcfc4940
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:b39b962a19477168551729a12be4c73c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:369d9d2049c6227ee6011d8a0ac91c42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ed4a4307d6a15a8e07c7f239f6272891
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:0c832b11ec72d85a10c790d20d72ec22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a46fca752574b63dd8a347b91b5a7349
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:85c8d1a747e482fb30cd8cf399f73cf9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Blaue Tonne: Langelsheim
+UID:89e7cb4f60e37b3ef203c1110ed2a63d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ginsterbusch,Glockenkamp\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:6dce0280ba525ebf379b5a35689a160d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:56effad14b5d922c4a6f7fd30a57d8d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:1a1aaaddef993370834926e534085287
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:1ee903a19de442bd89322577e4e663b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:88d4ed35df17ed6ff8c0e5486048da49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:bbc8c260a51b1b3174374fcadbac3925
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:769f21a6fa06e897e4a52f430e56fe4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:de3d79c5bb051363f5c011ca98f7c2a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:83e451bdd43bfdc2edc7536a0423e39f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:9021bac2555918e608869a5670390609
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:dfbc23e7fd167c73ba6907af4b370d76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:de06ed756ee9f7be5b709abac6007c48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Gelber Sack: Langelsheim
+UID:fe8323fb574e90a03f37b72a2b22282a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ginsterbusch,Glockenkamp\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:5ec68498c15c6fca9cdbcf3d51fa89b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:470f119f46dbc25108bf59f718f1e6c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:bffe174d9f8ff677a4f3bd359ea45f19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:e426bf8e99c13801b4e150d49655a971
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:5454f0200413154f69e12fbeddd891f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:581e75b1d848b93225617e7237bcc09b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:654215e8894812b6e5a13a7630490930
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:8307bfbb78839fef868187d41d3e107d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:1eb3862838034f2dade8a7c18e7039e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:b9fd4e9644da84cc267ca0a7b358c832
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:be63c218539f1a13521c93310eed812c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:29009e9fae76883d2b5532b6b633e761
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:edc38198462bb04e063e81af171d06ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:68ad99f759e031719cc6bf3fe6a79284
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:e2e75ed7fd96420f6e9b2b80f363301d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:325d42d81775d0ffc4c7384055e94164
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:e9d149b8a67cf161b2f6796cdff01262
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:26ec74d91a020e15e9475d2e7e0ed4d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:80a35f1ed9dffebdcd59117ef9d56c73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:a0c2e7cc21176d57ac28808e0b8ccf1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:5851ba70112484e8042735111bbd76bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:48aaacab2a5061eb9ff8e62d8d513286
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:1f05cef0fce17fe1303c6e6a1c9a6562
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:0998db6b703ba2ce4fa368622e86c304
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:4660d2108f4cf24d1a1cf8a9333386c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Restmülltonne: Langelsheim
+UID:9c92716aad319d65b051e0b3f422be15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ginsterbusch,Glockenkamp\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:46da54c8deb6ff7402e475a062a8e764
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:e898b73e50c840160c579d728fa902bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Ginsterbusch,Glockenkamp\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Ginsterbusch,Glockenkamp
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:513a9843808f954a9694099ef63eb400
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Ginsterbusch,Glockenkamp\n \n
+END:VEVENT
+END:VCALENDAR

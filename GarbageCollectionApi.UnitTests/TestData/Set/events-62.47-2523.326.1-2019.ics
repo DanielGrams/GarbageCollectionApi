@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:9b6e9be4c2d2103b36ca32c26db0cc71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Erbprinzentanne\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:cf37e62e2ab291b62016bf61cb1a0482
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Erbprinzentanne\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:90caa9ab7e9ffba7916915e1f257d816
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e6f24e21b52eb27a03e617a419e9601d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:07d61adbb8c59b6fd94f41280d3d03d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1394c43337ba1d9569ef03d98bb1e640
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:da0795f3812111f84647f9ac271568fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5727fc9b9b81a0707096b1042060ca91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b06dcdf722bd8e678878ee6a95b788e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c485d2ebbcdb4eda6b545cce410a6d6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4bf08e340d157651558db7905e233451
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e5e51bc95dd771217ee25b169461f7ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2ae87c87746345131d577c2fb1a19dbd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f345a78a9b343780a28d52860121b9f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4ebe40226727a86431bfbc74d282a17d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6d28c6acab49a8ac57447629126788cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d19ed6d462378b0825ed6987adb577bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f812c616ed2b20a668ab24e6e2744dcb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1aebd71998178e0eb7587129084bfa5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fe2ed79d2542bb3e1592cc63d3dc9450
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b9f6cad9506ae4292a58bae61429441c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:23b3bfd4f9d7ad2d824ee56f248ff234
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6e1ad0909e8f8e9bac6b76f3555f9702
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8aa5b67df32ce92cf5064bbdf256fa02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d0654d6305a5ae1dd9fd516a4bd45880
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:df2832a19c364d313fcd5167e906af01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0916c30122a1f97cb8d81fecab50f602
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:af888593caaab51d7aaeb70a36b4a17e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Erbprinzentanne\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d846c7962a9208f500344a958690d842
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5568b7d5fc4b0401a6bca77c0dc0b0cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:632e349c41aa6447473e55507c2b225f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6c469d5a3c5c7cfb852e78c771aee3bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6986ef83f42671e4b9fe058de6415e26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a050a0de53e59ba17b0d52221b23498d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:92fbcd82399bf9b05653f0332ca1c477
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:66a79589780603d5318b6ff7fc8f0562
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d2f9f1c97352febabc5e8bffd9a92ab1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:bb882852469707f534289bda04aeffe6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3f868e27b1fe91f79cfe639b95f91296
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3472c96a12cca6468c862a4306fd28af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0c8624f0336a3614c0c95ab1253213fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Erbprinzentanne\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a7022bb6d26da529a56b3dee08921687
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9f4956aeed34a7978afc7aa1c48a6de8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:545894a16c8c162febba9639b65bf4f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:63ef4dc0f665cefbea0ab181a6e48522
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:41e604de45bb6a9756b069babeb9600d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:5446f6d9734073ab184551cb24cce1c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c7f88527559ab73cb05ebae43233516b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0c32ea82670a536677935d85c98e4892
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4e4d813eb63041a7a0c7100700ee3e43
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e4faf49d1bc64850c663a142eaff7f44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3fd5f102d73353cc55381f9b4210ebfc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8f7b25187442df70c9127e01366bbbd9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b0e50e809288b1b51f04928319aa6972
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Erbprinzentanne\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:48d1cb22ffe156bab0b54c35a21778fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:44e28f4b11ee9b5728e4265c72532422
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:636409a9a41e4caf601a0cea31d0ff43
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7938080e29f38a8f22b237e0b77c01e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4770117f44bdab89eef6fa86eebb0dc3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d90be59aa81516d21a89aa7f2cfd26ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:60dc18f5cd5674cc4592f749424f8e84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f0943fabfcc1a0a88de4796ef3831c71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0687176335f362c931512b9e9fdd939c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e0bc17484a688572dac078bf98c153b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:585fc251658d19b48259c258aab1dd89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:df48e9b0f9c870e6927b7b2b22a9eecc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f03cad1f1d49a9fcfdacd2925f473a87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:43c4941910c880a3b390e81a3df0c6e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d4e91156ee29a056c1a0b056b8d4f763
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fc08d40047074ff1f6176480d0dbc4c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:64ada4b7624d318c1c501d2bcefcb382
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:77db5d1b8eef34511b95313f28c07ab9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c69b05f7c82222f730e0372122f0a0d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:549434f704a9881eb2b078df863f27d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:01068145fe2cdc722e890052d1444965
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1f2d8572aa619daf10065d49fa604d86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2fc2ad0b6ae927b822c7c0fc3895d584
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d60d8b8c8e4f07ff3f4ed0d28b7049bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bc6fc153a2fbed46a318c034cc84e983
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7b1b217752f08e42baa4f4b36b848876
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Erbprinzentanne\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:e018057676d102779b27230f3f2bb10e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Erbprinzentanne\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Erbprinzentanne
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:73078c9142ecb9947e835d3d827a4728
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Erbprinzentanne\n \n
+END:VEVENT
+END:VCALENDAR

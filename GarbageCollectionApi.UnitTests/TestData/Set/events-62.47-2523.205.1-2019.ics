@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:558f01c06d07017cd321888f3c111cb9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Buntenböcker Straße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:72ecd98f047be4d991198bf018270e85
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Buntenböcker Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dc4292ea98e7004fba8759470b6e5f38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:525f1117d8d3a4a8c9a31d0dedfe58af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ed2ddbdfc8d69ca41558253dc3c10918
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:215a76fa5015a811a2c309f3d200d4ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8602e873ff673888d1bda24a13083c76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f2948d8865ca037a11acd5a4f9c834f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b015f7262c9c790a811901df50b40cba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3c4c150898497517ea2df14e11864e06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e8776cc69b9f0260575be12c7ae60cb2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fc4748ae23227cefd3d2024873897ed9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c01de00f04c2badd9e0bd680f964182a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5f95f8d5351ecf5b267cbaa96e0e2033
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:88ee1a46dc0c085890fe6fa7023013f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:05f9c95a9890d1af9c4a9d7b79ba7152
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a0c269e5ac698336843a667259f2fb48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:add93454b94176710676f78ccbff5003
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:087426dccd78e949cdbb3755c7fdb0dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:91e592ecc8985fbee7cc62e589a54442
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8e9da1c5c816d1afc77f2ac2ef1b6a90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6a778cf649b0668002f6cb2c2c2cad64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:21416f3a9e0fe77720f1feab003f40e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4a00de0f7f967c53d60b6a2a8654dbf1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0671bb76f444e6ca72ee4b6813036e09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:28232fa09a0a92ac9f5021ee1b65921a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:53dd1f21659f37c2f89ec3849e7e67fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1b332a69497e2a925a7420aea99d6553
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Buntenböcker Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:833e641bab7e361d3d8bc3d4cd06d2a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ce712b8ae8b0adf6d1840da676eec766
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4c2da50600063a1750387a2b4d3a4364
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2d412f982240125952fbc6beb9807ea2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d52916fea22c7b1057a28d071dd9552c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f73d9274297605b2f37a9cedb4208ef5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e8874c72c5e3a217b78bd481a63c0f28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e13c56a056876b5ad0640ecbbb5f6fd0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f8eebaa2a0879d70292c72eb32fc8ac1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:90ad44c5f7dad42583015461dd8639c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2e20658d3c4c01126414b030bceaf6db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:98f3ac64592568ca0eca91a13f0edc5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:347f7396ea0e015e95fb36ee75876db1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Buntenböcker Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8810553e026434bcbcf9a0e477e28099
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f92b160f098be06b72a814e88dd9ec9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7207a38cec4443732ef33822de9bb4f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:39aa296f44dcf3233fc95221d0bbaf09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:653421b99026d107470660250adb6cfb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:74a5fe81a6e2776b5328a3077225d2a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:778641b5860d96d37f614972a952cb45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1d509f71bcd56670ed52d8eac4f83ad3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1bbb1244d21ce17cc7d8f77d64f24f80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8024b3f49080a24d2849e169cdba5c0a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2a5341ec602814c238695e55c953c1d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:13c2aaa80e5d76d8c54df9eed7ea1ac0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:099a8a16ec6a074965c335371d2c5f21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Buntenböcker Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:47d6a8bc46f931e798fe0a204bd5d88b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cd9a71fb7e8f1e11f3940c4dcdcb2486
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7ad5dfe5674834d5e28e3277519c7afe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:50c7ae07813cc2834ed6441f7ba6fa0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9f67e273c68291ced04e9b09530c5c99
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c7cb8a0c522e3b62637217b114816192
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:aafcf0ed0a460bea1152109328c5c377
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:73b368c9f80bcf55d17b14fbf8bcaa28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0913624abb7db672e39d1c5cdbc3e8ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1e71db4485c3a511a41f221162b67a30
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:594306ea4480abe013666cd038b43832
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e3d788056e2e202fe26c56bfa46313f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:27d09ef783e1cfb222f73901f9b13302
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:13c02c53a4bdcd24efe9639ac03a109d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:730365d8f4823dd5a66b454427a6ef59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:45cc51d7481eb51d0b3165406f459d7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:caa9a252d88ac5d09cfbf0b1ef2d6379
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:24923fa347f25a5e284ad401b7ce11f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fd07add269f38b7d6bb46d85f2d2df81
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a38f6637e6dbe11dec0798b7c8035604
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f98450f2a7c323d487ddd36db425ba92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:aceba4140aa1ebe3b08edaf8beaf709c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:090293999982701d51874dce1040cad1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bbd063ee3f0fcf85153cbce6b6464f1d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b5138ec0ec679df8536d58cbe6a3b8b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ffff1ecee6e405acd6107922b7a14f77
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Buntenböcker Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:0a21c02e53d57fba59b6f5e69b9f3333
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Buntenböcker Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Buntenböcker Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:162e07a04f217c791f7289c043e0ce71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Buntenböcker Straße\n \n
+END:VEVENT
+END:VCALENDAR

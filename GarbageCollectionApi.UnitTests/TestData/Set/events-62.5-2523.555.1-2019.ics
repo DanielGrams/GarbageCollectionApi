@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:d8e649bd070967b9f7132736fa054d3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:7b5435e3caf67003ee7b4864bbbbde51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Immenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:0373b5918f992b377d6e31ec6bc5f147
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:2ecc39a6ecf5bef5d224b84407d85382
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:a9482b27a9c938b082a34b3fac431df9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:08b81af9ae74ba284262662f66eeb4a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:8ab18c558f274e31fc4b2893e3ab292c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:059a51d4277d5436a25a0eb44c3ed26d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:30e6b38a4c779e866548bea9fbec9921
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:244b27de92195c4046dc3b37aa5d11d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:bc508532d917a8f9f4eeab77db384f31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:c9134c6fafb34c74d1e3d4f9ad37b5e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:a567aee8ab4adc7161c43edba2158087
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:56b8056dbe6a672f50b0eced3937efeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:25ee89ea43e2570bb46914c68cdce0a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:5cc4e91934b65bd4cff06d00c5acfe22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:c6133176123fa069fcc9b9851e83c499
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:dc70b2db79c578d4c5dda2f863660df3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:26a5b0609be7cec842622e3e117d18b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:1b1a8b78fffef1c47033257bcb3bf490
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:646fe4f54759732674eac00381c6ff4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:98742575a77e0c8be1517f7eb89e630b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:8f11c88d034ae81881cbefaffe0c1a49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:6b1f67245542de27037d49e2e9c90c09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:04da8e8323508e28dcda3a6231012148
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:6ac7c486b39fec4bd40f6d528f03479e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:3a8262aeeffa6520839919338698e689
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Biotonne: Vienenburg
+UID:a90f2477c044fefeff0dfecb99f807aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Immenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:5f5adef59769456e9c57ca4275d40e22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:c419f70e9527262f1dde9e9cd871488d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:83a9a93567f5a38a9ffdfc50e0b5a86b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:9f52d9daad99954ee37ba4161a9f4d00
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:361503a8f315b4bdd36aea1b2e7c2802
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:ae38a064d1310817f4c4486427d7fbf1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:8998513d01eec84eb3fb816051d17351
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:62cdcde0720b313661c152d32c17f1f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:5b9b3ef71a4872ca81a4fb33c232b6e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:1f0e1007cd4becef7827ca3b7f2dd697
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:317fc86b1f155033d71c873a8dd9fd23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:7bfc16b9fc68252f3bcfd02cdbe2b40e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:4a7fdf6b8eef6196d0f8e054a16741f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Immenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:521af59d11c3ea2547e0a378ebe66632
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:1d89de8c25562f409d10f83f417f6710
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:e0f7fd937caea35ddd68febcbea957f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:ba9e4bbc82ec3f24ba2df5d553a5b317
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:b0fe13f4f349443ac03de567d0b66b82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:150c33ddacf7f919c29ee9d2f2385649
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:e563834b6c73e5e076fb1b4bfa01b54f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:4fe0c4bc5667d435315261194cea3c70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:a1c3963d97bb8a75241c8ead81b485af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:86b6fd87c5be81244155bfc445fda629
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:8f21ee1da77fa2d2c4629195b82d8830
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:b26e3b0b9879572c87ca49210f428546
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Gelber Sack: Vienenburg
+UID:8ff61a01964b7696fd464f9f1bf3b1b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Immenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:34cedf966ff9d8a9b455c3718d416d08
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:940c6b44a742514e7f8e34d74db4e3a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:21dac54302a041b63f35bd63dd25e4da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:52dd8efa032bb551b906807156df2b58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:14c7c3c192bc285b0df464ceec46f364
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:867a5a1ed28aabbe6600458770cd9ecc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:862af97d72ea0143da67b43f668c92ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:dd0c746ddb0ce75edac7e9e05443177d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:defb1215e83d232937dd306d9f6b0197
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:f6911b932282a52eb4a8b89b54895949
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:4d0f26f34caa693d9b28dec16d1c12e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:7c231afb9507fb71b49ae3b5cf4be106
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:f3fa498f7ed40d86f8128b7d74bf2b63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:a48aa4eb8c06c8cef05cd20d3b353006
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:5a149a6be7365803de9326884089fba0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:dc62b3c10569a86b1882fe1f7a57bca3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:4e1f7cb14eb83be529d3135777a50917
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:5bdea907d33e2e423742cc417989679f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:a1a191316cc60489515e5c517a91b79a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:5c3b77dfbcdd654449cbd7a56257c998
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:543d35d0515c740d6cfcaba31c13929e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:11d42c5b555eb181bb5ef91ec311219a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:8ad0480ce25e26611cfc9ef9b8cddf92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:619d141d9782234ab714de97491bae9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:3b2fdfe47931d8778c88bda4535e5c68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Restmülltonne: Vienenburg
+UID:d02a50a402b4f06a1be5f88192e620f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Immenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:625310eabfebc7e20863c5772e7acb6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Immenrode\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Immenrode
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:2ecf5c9690db511bbe89f25ed30248c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Immenrode\n \n
+END:VEVENT
+END:VCALENDAR

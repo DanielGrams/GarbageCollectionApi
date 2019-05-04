@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:22e4361fdb09f57c0755f5a7dd93c708
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Bestelstraße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:c9e6ced1a17b64e59b8b4a8305987866
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Bestelstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f717ee7b98f7a461b24ae4c73d01b10d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5d77464cef53f1e59f0462cbced20a07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bff90163e5ae033cba3fc962f1d5a47e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8239af18814a0a1d89232388827e6714
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f0e14305a58827a3bca13d4bfd27bd4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d14c80f6f741bb1d092ab866168c4a13
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:02c94538efa33d239cd6ea02ee63b55a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:760f707c3432c6a3d2e3fbba4269accc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a5b3b58240d8e026ffd3299a5e25bd83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a7931637ced51c1d7410f38d55be1755
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:15a1147909ecaa930210a4f18e68c8fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:47ff58ab877a074dd1bfa6a2c728993a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:056ee83f4597fe549e9e0c70133c8aaf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:983d577273d9d4d4cd4bc71741e7c5fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f04d421c6bb2ef1940c79fc24034c9a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3a86a02c550358ac9c9912488cde1ce6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6859302455dee607244e842ddf1017ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5e2cbeeabfbce2d1e613316f87b1bf97
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:41fa3a4156da3603ae273110f5f36149
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a4d5939c7ec7f9106f73729bafe5267c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ecc374b07e9579191c5302731273b85f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4312ad9fd139c684a35885567b50695b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3c6c063e1f77f6fa1082be2bfd87788e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b7defe8162442d7843d32703892f4b7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:84c6f61fc8b33b9545d7584829b5b286
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7f4269cba7a841186a72b1ffa6dc7269
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bestelstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a8d9a2a61c5c41ee863ec82f45f1e407
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:dce473c64e01f3417731722a2ae8d45a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:fa4b44dfe363180d63e68616cda03df4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6088e802160d7a92b41991e25e08da92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7e6a254c404be5a89c4b408c4fbcd2ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d1a9eb5efe649a74df3681bc4cf40d92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7aa27fccc5967dfbd9dcb979d48cdd45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:dc73f526060a85c0671fb216994399b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ce6e410d0352d23e358fc3fa92bdf206
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:24a92f29425cf2dca8e4f8fb6277454d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:865adcbd213bd5c84e30e1ac01276af0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a7a2627485e13b14fa9732e6109cb8be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a6cb13f9a5958c01efdd50381fde3db1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bestelstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e4a634d1a99d84fa36db447a570356a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:20d10400272490158fcdc417694e2fa9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c38cc6df621a494fbddbf64a08117fc8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4bee79f90df2c50a15613a0f8d3500cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a1cb4599f2d2753fa84242ca7f2fa33b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:07557d6c02a85ca591e1c43b9aa3661e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2ee2f50a9c1b2a3351107119c326a07e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:85fcc63395abbac08cadbc06208cb06e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9014a40abafaab2b8b328bfdf6143c1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7dc1dc9f3aa668435602a47088a14556
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3ea11a8f4969fe650cd08b5f7c3d16c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f15f3d1960f13f503056e0ac7a5a2f11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:237879b74b9ef5725dab919c954d8764
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bestelstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5d81c9459a1de457d2e7234798e5b31b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a898551645b64267961ab0e973ebd18f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d4df40f3c8fd8ca509d48fd7687c4f53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:269fdd0e1b13f235ebcb2d04fdf748f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1cbcd2a1e852b9b83296e343eb5154d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:969e7f253defcc2f83619a8a77bf2657
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8e3e8bae1506324b7938db4075b55d45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7bf1e41e28b782171b0424bb7eec2f74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bca78de08b12de78fd17c25d3dcbef78
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e4dd077443c24b15a55a232bac7448cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7d98618dc8114e2e61bedf21066f4de3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2c852caa1c981b0f6f6ef612bb6857a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:53edeb031542b390c208a44194221f32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3b262932398626742f8f51a004a1c44a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6bbe6f32b9d111b328ec963cb483b06f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:59d2a87892a39c2c8eab2e585a2d4081
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9f1293fcbfbe845d472ca1be4631b91e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cb89bd797f603d39f4d13e943e65d106
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2a39f316674f5f5a96f966451751cc35
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d2798c39272cfa692234f967d68e8cf8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:89d72f7edda9b4717b827b0c1c3293ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:476948e41b0b15f37e00bd039d43019e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:64274c7f16b97e6ae8a0dd73dd106bce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c3b018ebd50fe244fd0463142cdc6e2d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c29096eb9bdcadcf17d8288661c1aad5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e8af6d60049b75650b9084ef154bea8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bestelstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:58861dfa1aadfe8371ea40876e497589
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Bestelstraße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:04077a98496552fa44f104ed134d0af9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Bestelstraße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bestelstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b361c03bab83a14639013e3903df6cce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Bestelstraße\n \n
+END:VEVENT
+END:VCALENDAR

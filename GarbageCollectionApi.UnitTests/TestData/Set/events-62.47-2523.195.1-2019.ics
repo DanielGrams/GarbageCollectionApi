@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:026667f868633ecba0934f72553293d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An der Marktkirche\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:9dad4cdcacfd0370191f6c3a5c31cc92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An der Marktkirche\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bfc35a3bd93aeda0212bf69840456921
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:972eec0ff6f573d63da65e22a794b418
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:97428f31813726a343038a125e12705a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6e1c0472b7231c6e02bc53a6f1b8aea5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:64b4ce7ee38dce0a779aeb6030cf424e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:092f2fc96cbf32f89237ec84b1771aec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ad9d928986f802dd263f9dfa48ed05c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b9cbcfa6a3ab1a34978755d375f6aaca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3ead4df24c3024aabd57d08fc44cec8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b18c0d66790ced71daec279a46995ff2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8536112ec09572594ed80fc8ed9df164
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6658d582d4d1a86fc3c113d6f9ceb293
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:29a1ce0ebc68c28fc60a19b846dcd669
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b17486a20e59b7d2927c8373e61cfa42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5695fcbb0e58f1c051592d554b5e8049
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b4f680d25bddf36ac45dfd7418ef1728
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ff60fdaa48331617830e1caeabb91088
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:531116f818022735c51618699c51f489
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bfb6f94560ce653731d29ad42dc9e79f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c66e46f17135b14723c7bde0745c79c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d80917fc850fb91ea6cfe7dced944bca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f93a5876307f920e1ed24fda38903b73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5777c06efde2cbb5e5f46572e25e3f4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:56963eb3c6112c7b2bdfa05b2224cdeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a9271409451b7c05c56cf6518d0cc435
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:34ceb0c98b7395cdcfa7b78d0865fb95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Marktkirche\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:76292f02959e301fed7641b201f490b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9b3b35a897cbc3cb352c93aab4bbb49e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a7bfafb551e91807ee4e59b359d32c0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0564363876614fa1ec5bf0b11c6696e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a24a5d2f79faebee45ee8ad042613a63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:09256a2c69a4298f127f8c92f841c500
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:04b05d64e886d9a45ed9daf5f6605d44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f833918c55794f251ef28ce180f615ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b8ec98d783ca2e948ba7512bf19a01e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c59d3ce85dd5b30e87808482f8bfe9bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c5f9d2ebac7ce616fd9305d3fef932d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2c3dbd69cb9eee7d21aa923d6e91931c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:349b90a16c52169333bd06f1c0e31f67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Marktkirche\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b2f2a58c9decbe779de7e784d19716d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:441cc729d930eb4988687f51c0a3133e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2b934a720baf3c65c141c7da686ce2dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:36cdd1b0efab3adf3b76e9704eead46b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ca3c9697940e9b02341ffb96939eba90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:25e85dfe72a6de2e762a65e96598754f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e8f8df225eacc0771ff1b93dd2191097
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:cff18d9c6280fde20928c7e6fde9d47d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b4cee030cdfc7a5cbbe2a7f264db0507
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a55314268736588690bb37bad5a7a7bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:18722df67255231b684de466420852c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:56813d876db3ee769e93d3a42ec4094d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:5b756671d342ea4a1c70031f76db9c0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Marktkirche\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:931dbecc86bdc47eeb11afb6c0e3023a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b8ad66c0f17bc0acaba1adb4987e7445
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7b9a59c8ad4f32b8af9265bc5fa5104e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ce96cff863f171ca1b614887270e9aba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a81e146806d114f58c998358b513009c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0c3a374bacf7d85a34dbc05047aa5953
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b85bba5a31fa275a8f3607c847bfe371
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1e46a39934eed1b190fe4fa06c0e07da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c9873d1fda89ecf296d6f28c8ffdfa8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2177c9b327fd0a604ba1479b9ed4b850
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b91a9c31ab28afef4f13bd1800f30356
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:922a3a7692c07552f8ae9f8969e8f571
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:41e6232359c36ae2530bb6f9a62ddd81
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:81c643e0a83a7e52acb0e02f7c6ea4b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:37bfea27c0a8a93ddecf91544ca887d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4c0c69a58ed6e86fd66b2ada642fd558
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:89e6a6bec0179bd3caed8238f09cb80f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8e05d108a33eb860b7b61683d6b4ea8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:efe5155e106f1248f2ff856ed0b8f982
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d4af325b8494dc74bed5255fcecde98a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:877ca03004bc20595e8216cf613b076f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3e98cf11a20951655ba4d204f1be5363
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b85c06d1a491ccc9e30363350306cf5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:56c5e97ca3e398ba97094deb7b216c0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:23d5804cf892933179683098453e8ab8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bf16314947fdedd6040022d41ee17392
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Marktkirche\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:1ec5166134470643fe77c1f3d68e7c63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An der Marktkirche\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An der Marktkirche
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:21a681ed57f5284e1370c6e9c9a5b6cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An der Marktkirche\n \n
+END:VEVENT
+END:VCALENDAR

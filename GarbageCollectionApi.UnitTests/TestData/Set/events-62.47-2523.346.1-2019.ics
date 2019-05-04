@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:e729f59933eefc72700f3ec3fd0c525d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:de0f8c84fb8c02f47abccd65ff4bf611
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Thomas-Merten-Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:71cc728f2d124d4c49eee3b6e27fa53e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:03855df88207a468a7d38448ca704b98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:86708fd7a6157f1c03033f6e4c098a3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:01d168c215319ce494d193237f75ee7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d62a0550708be4525acc2a53ff2f54d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9e9957f308162649d85d83272c038548
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9b4563e43786e2a01f47a91b473e6812
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5957d77279f96f1a6f6156b86407935c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:759722ab50b60e513a06f8895e04fcc6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:73b0d3aa8097d2a8fc05c9a8a5b23cae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ab46a807bcf61608d6a297efe55f6d6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:702478c558e79c1dceaf5474f7487ed0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fba9c7ed61c0243d20098ba0515997a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:644a0a884dfbfc9eb3ffba4c870b0d6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e8564200a0de86cdbd26c67169ae9329
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c22fde696586e78a2b7990ddca225e9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f2b4b51c6a519f250e6ece7cb75279b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6e05a458a432e4eae3f5d82248bc2333
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fe855ef87d420387996afd60759c4212
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:daa77eb754d7808d9dcb29ec6313654a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:334c4cf50c10a65b8d0fa3355034332f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3bb6bf8c3864398a5e8e0ed3522e2888
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c66ff1797db5bdccaabb26727b4acc75
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ea5c7a1bae6e1d6f9e4d2f8371efa395
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3a90c61d643985ccf16907a85572a183
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:754ced70f0893ed18a66116361fa9617
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Thomas-Merten-Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0162adaeeb69ea64794d16785139a568
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:da7d581496a7bf66eff507b1bbd87acd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c9bcdb5dbb9d8d70332fa52acde04420
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8c77e12403f4ff3e05775ef16ad5fac0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c644dfa6a983604ccb47f001d71c93ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5747660cc09067bf038358c53fc51367
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8e7332de35dad34b9bb23c648d41ddcb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6c860f8d1a6eac7bc57f9a9e041f042a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a1bc5d3828c0b9ee78ee4875428c5b52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6c7fc61dcbfd0e629e5f23925603a88b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9a1149186c2791686d73fdb7a6203195
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:23e32f16bd5f36b94e7ae1c0f3e19526
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:41783454891ad24ce93e6f03bc93d3d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Thomas-Merten-Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:5b170e5d6c73fd3ee251b6f20ccef721
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e5fb258270e1838894202cea2cba5720
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fa68ed872c660f52415bcd033f1a8fa5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1054a3a813f3c9a8546731f9582c33b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:34938a89b93e3f95498bf1056a97ef58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:686f7011598dfffbdb82bbf6b355e4bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ddafa915cfe3c72e026fa1a79d14d6e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:01ffd160527ed28dd83beb81a2d77a8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1ec751b948728a27ff2c90ff7710bda1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:99135891d3fcdfcc79405ee5b9b0a0eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9a26f0833c753bad28f53a1e370377ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:35b592ba48a1ebedfc7b8f2ff1575d84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:276f4a9af5bbb3fa38e1579474495ec3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Thomas-Merten-Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5f509d42fee20eceee9f16bb89d14391
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c46771c2cd003e10406cd072c5a12a41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:706b376252c29bc6dc2c81dd4922e0aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0fe2b2549ce12e9c4cd88792a4d4e782
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2982fc3751118e0927353179202cad94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f59ade8fd78711581aedf2457356aa26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:401337b225a6be9c5ad9866da4345ef1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b6e1b7d7179220b38e9c047d3e883f9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:86d0aa0254f701cf88965915e6a4b0cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:038c1067f59ecd0a2f9203764260a3ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cd9230e1b5445f5871ab341b6f4ed820
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:90fc8f8c711c5891218320f65ab118d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7a564c6dc3a82a85077c11e175e7e535
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e03cd345403b0aea172bc7c0a77da70c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d969fbc19eba91f6f4b734a39a5e74a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:38c95c28f8f9b184528c686c6a4a327b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:642806a656c9dfc3078ab4e7b5d722d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:90f46e25ada14d7945c0207cd9124a27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8f82dda466e1936629970bc2b6be76c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:929b751e645a83c27420641fdfe5e973
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:99b82ffd3b54c86651c795a061d48642
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1e18db5de39edb38737bb1e795f5397b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:abccf88f2106bf7cfc7157d7c167d096
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:34b1498adee40addd06e5e5ab4cd145f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b794cdb722f0380b51bd4196d6ef6c42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d6d67273c4bd494d10d8b501101a5e6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Thomas-Merten-Platz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:afa81dc022b9707de02333263349b696
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Thomas-Merten-Platz\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Thomas-Merten-Platz
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b70c7db812f0ede6b2a05d087cd05778
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Thomas-Merten-Platz\n \n
+END:VEVENT
+END:VCALENDAR

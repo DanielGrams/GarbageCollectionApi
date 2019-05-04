@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:172fe5fa6faaaf4ef832b427d1d04ba5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:5912513a4d7b0c94c26fbc30788564b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Am Ludwiger Graben\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:79664f6b6d3a6692467e9d6f2f1e5a24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:62296cc50abd6d90c5fe1feb3ff34c57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7ad672d1765ebc71be9957f9975eee98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5a1c17438ae54ecafa09fca03e4a513f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1d9861ac7528575a88bdf8b7193d5835
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:25afc02920ccb7f675fd7faf22d013b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e16a866d5665509b7650409818c842fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:98e96eb057ff21da9139acd8c7a4bbed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:39fbcde0545d0a1e3fa9334bc561ce9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4b221f7f94295d705fc04ab9ae18e075
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:23d8169d4ee978cde5fc9be8673bbba2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ae8ed8c74d0586105dbe8b63572b3dbd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bb696f9c88b8caebe67df23b49520a9f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a3f769d1d459051528c69e8005b61a2d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:030759afcde17b3d2276258608fdb4b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e568358d4e3e16ed1be77e51005da931
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6886b1ece97481e59f406ba3f9c755fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:09516cd429922f0b2c612f6e3d88133c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d4bc509be85f576c68c8da10e709fe73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ccbb65113def8459e36a3c1ccd03d5f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1837dc219674cae6d6a43cfc936614f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2f0aef8173114cad8e402bafd77793b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d0d9ef1be09ab15292cc45dac0b7c7ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0508545b2929d78773dc1351fe491a15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b1b91d64c4c36bc7e50953dcb907262c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8c4ce41148a1b70694d26c4475850f47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Ludwiger Graben\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c5139c064b8c294d9d01d8d10f6fca56
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e4b44da59b4a31edb8b89b9f12277ff3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:972b9f5ae683c26b089b1c5d44e8468c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ffbe35b170c8c474de7c8f961046e165
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:19907bb1a2f544259b33b2f74a87b5a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:eaff9529e7e4fd2efd3d89392e86e0cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:bb8d9020248a2b0ed55879dd23263e66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6472744e24687ae7a83d9bb72b6ea0e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:065ddc05a5f47a45374d0d47fd72dcc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2c5e0f36d647e1955f2ed9a846ce4c29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:57d43a747d82e6de96752736a3e7ad61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4ce79aa817f5fc56b39c1f3d742fb89c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:eeae8bd560e664ff35b07d7e5c07465d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Ludwiger Graben\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f7acf2333340f865942601cb133e9166
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6f86b163a9a99fa0f1c7af93d98bcb13
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:66959ab4559b9de13c1bfe50d6a8b224
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e23b72a7af7d8aab9ffe856edb24751e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d10cc72c44392053128093d5d8d426cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b5a15f0ab4749f4a2a348c50699a4389
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2e24e8674d10f1da462b5c045e6d47b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7c3b4da9ccf92c0d7fb14956d79bb314
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9db934ef11c8c0a2bc1ef19131b61552
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b19f2c7159ce3c4b7b41e2ef499829f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:88c035719d1b81b6f23b1742d8d698b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6377d8016b37c9fb32cfb1e3e3a2106d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7f5bd75321beebf0d2152dab81f8cd2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Ludwiger Graben\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:01a37602f47f82502356728357263430
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d8a1509b625947e491710b3579eda6ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1de3682109cfc7e0faf3b4f8f3a32d76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f2711dd8f7a7ef749f63cdbd09d64ca1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c139c1ada5bf13fa3b919d651969343c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fa6ccb755acc075839651e3395ed6f26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1629923ced42db8925336958ff08fa7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:12169ad6060c050523deb31f9d043048
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:06c3838d247d4f6596f10c972a4d9ffd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0eebf538c96211a3207c9c1ca7a51660
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e72b9b8fb2aaa222699ae55e594dfe71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:32feda8947dc9aa0a78d23f4ca9479b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f077067cb254041d678f25a56495141c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:82a077a29d0fc93f63d3fa7c3de9542b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f5633faa7d1179383100328034011049
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5676085cd37690586972f370b352e78d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:22121ffa3b1ad2d464cbd44ae90c9ab8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3c1adabaecdf756309152928a06578ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5f92c12d9b39972211cd1de16a49cef4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0910a8c22dc14d57ea955bf4c23c92eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9cc406f83bfc89b69e6c177ca61a6360
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2a68fde86b2e859c7b14d82ab38b0b0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5f13d6396a29f45aded8c26d9f5eeb46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9a6a6dd001ae8146b523abcecf3978ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e629f4f2eaae8842708dc8b1529ed7f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3e779b0d083e1c3c9d4da581f6fb88c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Ludwiger Graben\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:802e1c26718bf58fe4bd64eeac9630a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:6543ed7c41281fc1e3b77858d2beeca7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Am Ludwiger Graben\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Ludwiger Graben
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:000fc600a0559011a88350e4e11909e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Am Ludwiger Graben\n \n
+END:VEVENT
+END:VCALENDAR

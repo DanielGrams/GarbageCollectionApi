@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:082b8a3216b6f8abd043c6058b41feb2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:f880281283d6e346936e074ebed85994
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Rhode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:c143186be1b5f5999b9d7b4b77ce2f19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190107
+DTEND;VALUE=DATE:20190108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 21.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:bacb9c99d9a959bc3610ec04783991c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 04.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:9d0381cc21f8114f7f7ee5050dcad5f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:20fdd1683cdc5bd3c2a713d06adf7e1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 04.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:939bbaab86b2bab3a4bd81ae1f71203f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:261ddffccfedfb6b0395acd30c95a903
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 01.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:83e10b21d055d0c39381b394bed16f7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190401
+DTEND;VALUE=DATE:20190402
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:35859b1582ed53649334b67fb478d05e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 29.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:b0c63e9707593dcf4d8c0c55d239c856
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190429
+DTEND;VALUE=DATE:20190430
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:d14b31bf99cb0ea6d202f7402530bb5f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 27.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:449080472620cadf40691fb714de2978
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190527
+DTEND;VALUE=DATE:20190528
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:f2e82f729043535c85ee9e20f931437e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 24.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:09e40bf33e55b649d85ec111a0577206
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190624
+DTEND;VALUE=DATE:20190625
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:90489b11117934b7f6774304965bd7f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 22.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:6781a5a5d86c82263ca048f125e56d46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190722
+DTEND;VALUE=DATE:20190723
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:946fcaebeb0df006b8387e4ed984972f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 19.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:5f562a2e76340ca7aa20f97f48bd21bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190819
+DTEND;VALUE=DATE:20190820
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:d539944f1272ff18c14682af8adfc6fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 16.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:879cd198ef1091e4667e748b484cc119
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190916
+DTEND;VALUE=DATE:20190917
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:99c9895e27554040c0cc5ec16ba36eeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 14.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:b56a0c77be41ffa804cf16c2f3a0fb9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191014
+DTEND;VALUE=DATE:20191015
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:6aa422567fcc498478798a76c4e58274
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 11.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:dc90d023b99d3a2edd9ec2d7da6fb55d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:523d498bae45cf32bf639043986d02c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 09.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:eae633400cabd04bd420ce3e9dfd748f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:d627c26de773a77f0ce50d0089a736b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Rhode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:8087c4102ee971dbac3faeb4522c4e5f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:2069986ab3ea2d0511da4247d1b66d3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:9f41853b903f5306793473f707c8f110
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:9c0e5cd149930f3d93b141ce2a3b5815
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:aaa1075faf6a70b4fbb687a90c631fe0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:e13ae528ea35c82a1fa474d043aba4e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:ecadfc79b8dfbf1b641b2a54d7b32d5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:f6404cc690b7c4598c86c77b598aa4e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:a2dfccc6f4b9bfd33935a5a2cc221a48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:1143a9c1e0aab39192a5a34a6ed5643e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:ad1cfc530677f5489b89936b591a7ca3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:77dedfea20cb8d2efaec46b5aa5926ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:21897fb71d29c49e2dbb18130f20b994
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Rhode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:68c33ee4608dbdaa0da3fe930fabb213
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:f2c2cbb78954ed7e0705213dfcd2cca6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:eaa58b6abbe560fe7c8e2d2972774a3d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:618b8f4d17a1b401231c150e84cd674c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:63f9e1550fa370ba331939aec5bc1d09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:30aba400523edd9804dae361af7827e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:80eab8c04e34f7bb54a34bd9bec6caf9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:1f72e8d84ae3073d0b03467a0561de1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:754e22ab9b9304fc9a7d818726952082
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:10dc01ca4bae45dc6a30158e1e6aa31b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:ade9a04fed4717fbfdd12574daf6b572
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:39a121875c7ac1ef425ab9161886e957
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:ef8fd3d156eb48603dc7cceaa6df1074
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Rhode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:236d0e72bc160d717dff7659223c2008
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190107
+DTEND;VALUE=DATE:20190108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 21.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:5dd6abe6aa9b1edcf7786be6dd9d806f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 04.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:3fb8a2e47d053abba4162aaaf00e11e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:0e3cb64fe7ad4acec0ac7c94e73c1c0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 04.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:40827862ad82d09eec316894a7ecb565
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:aa69d0c8cf0645efa057076c0615df0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 01.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:b108142c234d8611e711a46b2b21f98d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190401
+DTEND;VALUE=DATE:20190402
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:df8fd7b89b1e7af5351058ed94912668
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 29.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:974d2e5facca8e22d9eca6824ab1454e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190429
+DTEND;VALUE=DATE:20190430
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:a72a9de7431a66aee65d7f2ea943ee7d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 27.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:ef87722acf3e74cca18d3dcbbf6211d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190527
+DTEND;VALUE=DATE:20190528
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:069e89562232b79069791cf541e7473b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 24.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:18ad8a71af5c8662957bbb8b832d831f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190624
+DTEND;VALUE=DATE:20190625
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:253a2546e9eabb2375e4bee8b2f59243
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 22.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:78d20743e35ec507e942e917ee1c8ad2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190722
+DTEND;VALUE=DATE:20190723
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:90d8f68ce5ee07bfa2d8d4fbd25c17b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 19.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:41a7b4264871fcd0a26f494cbec510d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190819
+DTEND;VALUE=DATE:20190820
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:d4fdcb82d57efe878b9524600900cd17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 16.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:721c51180e4f5d80ab411b53cefd24cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190916
+DTEND;VALUE=DATE:20190917
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:2f60a8de9ade48a5a941db0ca41fe44e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 14.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:a325d720d5c9c15570cf645f344bc3d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191014
+DTEND;VALUE=DATE:20191015
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:bdd4b7e753e617f711d6d5f9ec99eaa7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 11.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:cc7ef481b31b92bb08b1e46ddbd60e2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:5955d29f10488a75e1c39c1df53dbc30
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 09.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:b2c5924ec1d13b46e38eebd0cd974ef6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:eb6b2906316ecb2991d1eed0befc3efa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Rhode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:1d327cf9f045a636262cc6202ebb1f7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190107
+DTEND;VALUE=DATE:20190108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Rhode\n \nNächster Abholtermin ist am: 21.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Rhode
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:7b1f5e64098f9fb5893a2be5463c80a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Rhode\n \n
+END:VEVENT
+END:VCALENDAR

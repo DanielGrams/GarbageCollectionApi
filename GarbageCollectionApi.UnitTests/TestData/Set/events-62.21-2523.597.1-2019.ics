@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:4736f72596d57c2cb639539f3506fda4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:c310d8cde3a33c9737bcb06d8da51438
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An der Alten Hüttenschänke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:44c54ee59db7d2c0ba51314031726f4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:d30b6b0fea41f16e76758583142f3fa4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:617783d662a81d5ec23e886440c5b77a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:bc33e5e0a57cef549c93aab6b68e996d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:0fbc0bce42d41c873a910340887d2980
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:99125eae6deb3e54fd2b148ef8405d9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:44e7a5c8ea58d172c775349927c646c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:9cb9ec9251e6313098d3f4fb5dfab52d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:8f8240f5beee06c3670e98863bbfa8cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:d5abba851471494de90fa47e78216042
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:b6c47f17d429aea6001f13e08a1cce0b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:8175eceb041b68b7fc827c00400f3dce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:7906e1629358f055a3b6d726c8b531fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:9c4dd47ab144cea0fec0013b672e7219
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:baa2e9b6a3173d06e8e55b3101e1aaec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:dac11ebab10dc7f5594a800c8fd9298b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:5120aaa72cf1a2f00709dc9c47098ae8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:e71ebe391710fc2bc5259d15453ab7d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:081e2e8f4d2a4a23a682cd5147f7aa61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:202d219d4444e4bb4e6c6ff3eda147cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:db00424459ecfb6a3c8c11dde4c0ea71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:7641e946a7db4574c4b0800ed6d2772d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:f32a45648f1df3449d35a22273255d93
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:2c2b21f268aa0c9ef40bf7537d136f48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:be662fb18f63a7ee41f2410cc38f93b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Biotonne: Langelsheim
+UID:eeca95183f5b6f30d236760fd4c72f5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne - An der Alten Hüttenschänke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:69971ae502143cfe5d927b61cb81b325
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:e64d569a94aa0f5e25884fda9a55b4d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:01ac1941f0cf4d84b43bd7658769e704
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:b684e605f2d3dc638bf00d1f577a8ce7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:7c36e6feca6e8a65f980fc56980c0e6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a25f35296ea56bd1555bba164e7039bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:c2270dd7865553510abef69f794d9ede
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9a615faf141126f6ffa8ef0540e1abc1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ddf8c73f1a56c8c7352472071fdc435f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:dba5c79b416212aa72fb622d2f2510f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:2dbe86750053e949a02d177290aadbb7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:fe3de66e20bf6910245eea6d3affd90b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Blaue Tonne: Langelsheim
+UID:7b5b9d57aba0e42f23cdd9780c27d267
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An der Alten Hüttenschänke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:35f4fa5ab88045a77a882b0cfd470851
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:28e75463364cfba38dba86bf6a3249c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:8f2c71d4a335dbae5f33e9f4b113f9e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:58c11039c9884c398eeabeb07cd503a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:23db3875d788216f71d0051f538e9e25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:c5dee8ee3bb83eb8b3f00a3c3190d3e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:d7e5d0c9a86236440a3e35307082f486
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:cbaf36201f1933d43475665240791e63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:0e8193a184ff5d51eaa3eae36bd2f5c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:2677be55e7ad2ce1684f2a68273f9d66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:794f1b855906a610237ecf6e56162e16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:931258fbc099b46dc95485f096e75161
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Gelber Sack: Langelsheim
+UID:6a226ab9f3dff77191626aee130c5375
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An der Alten Hüttenschänke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:35e0d73407703b6e60bbb0a0dc4c3299
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:26f516cd991589ae02aed8f9a8e30d3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:27259471701654832d324140e9a74afd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:d33d268dfc3e94914874dae7d60c90e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:dda4f2b77bf5d6c72171467a16a144a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:75eb4ce3626c6fa82c213711d1e8c6e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:d250979029eb517e381e9527607637d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:3b59c1ec3df80a06f6deb9e82bccf742
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:10cfb75027bd783cbe79beaa0a292f27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:62ff44b28306e1a99320fccff0a19000
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:fae9deafec45b0ef520dc0893c9b5053
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:84aaab88519a338fc0cd7376b51b6702
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:5f915dac0376f1d74db154f40b579d6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:9298f9d105b4571cd3da6d19aad62f73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:0fd12f57245c958a92c0ca18cb89a4b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:abaff6ef11adfdb0c41c9f5f93edbcf6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:48dc8f3cc6f8e92ff41aebbe734ef7d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:e1c4d66fa0003470d8fe24b0a2520c49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:992917bdcd5772f9c2751285cf415cac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:d397cb3ba278643b8f0115e4ed5de43b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:12e7116d3e763316d3360a17f1264d49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:cb29c6168a92a9d0432f35b8d51916a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:c6939dcec97071f9b8b946000d5ce006
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:4a31902f654b98dbed1a200529bb96fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:9f127a0f2e03553b94b9e58af8140059
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Restmülltonne: Langelsheim
+UID:d52c1c8dc9c615567e722f76be814d88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne - An der Alten Hüttenschänke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:b7ce7915f32d7508d4d39dd0b2e24ab0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - An der Alten Hüttenschänke\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - An der Alten Hüttenschänke
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:a11e1a28a7bad21b367880c5273decfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - An der Alten Hüttenschänke\n \n
+END:VEVENT
+END:VCALENDAR

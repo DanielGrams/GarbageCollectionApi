@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:c9761e899b678dc318cdbb66b064a31c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:9d3e977d45686b1f9257f0b036701f4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An den Eschenbacher Teichen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9f78f6115f5f147029ea479105612102
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:80f798dfb3d37a73e9c279181d360648
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:343c35385b85828e8c3867fc6960b927
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f4aa304c4e511bbb53f60e8e7a4e3fd1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e56b9d73c20ac5e1578c1827d06c19f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0cce7c3c4f0624e4715402ce196c9d76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ae7a1b00ec002117b13db8092683464
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0142c3b4da247121bfed14bd73a5775b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:95b7e361d5948cbb8736abcdf6c17245
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cc13f26b2df8198cebb4d8936b54ac16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c4237f7ad685213331b0e35025484ad6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fc21b653ea0eb1c5cd6a497d9e93fe3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c1677e2f37468ba757e54f93cd40257d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:633b12fed4e357f620a5703d4e0b160c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4b4ba960706fa801492f810640d6fb01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:902f0df92efe8b73585e1e9a6d8863bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b3dbdc4b58715e442353d07f2de274af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:13d0c6c79bf66cc46d3a7ad5dd8dc115
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:72d58f5b517ccd87e454aa263fd762df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b1418304c7a430c5562cfe78f432474f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6d03fc31f8c3992e1f81828c3175e30b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3fc092e6b60f496ff17593a29d13837c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:19221f77ff948705635177c6e4494142
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b84ff8ad214cc9517b7a65fd9366f2ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b44b1cabfb78f281792a495952e36d45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a2b29963035f8f2a808a271afcca896b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Eschenbacher Teichen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e33f7b3851379fec553d357b08504d65
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:065eb52d576bbf5a8e81d76a1eb5ac3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1b19c010d13401f647a5158d60c1bb5f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:545459429ef6beffb936448bea66cf9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ebed3ae044034b9c5fda0e512844694b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:85cfa8fe2225989db7bcef267d514b87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c9db67c3f06918260bd5613432348d09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:848a3bdb5f9ba1aa6a37445d2410eebe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1ad807c69679e3ebb65f29fcbd8f23d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1a0acf3aa0b7c25a3a743d67b7538d69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:cce4fb3c44c2d896985a6c74537765ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4edafd6d870685f3b32f77b52d205fc0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d1cee03eadcd482d5c0eb066f2801ce9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Eschenbacher Teichen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8be6f0ea14c0c070d258baedf3e1167d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:52341c66abc4a46a16ddc7cdbefc6f0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4dc3b4b0bdf638e745137bf28cb7c99d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:58b4d9ffdf79a9dc1632facd39d96582
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:08cb546becf34863f9f37dee1e34742f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f6bd0801d89f5447852462be1a130490
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d3f27e1aa0c3aa187030b7b2d541ce46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:16e0cbaf8ff52338384d1ac249e8895e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:008351e1df301c204a7ec7c71aec0c55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a4946846f69838c4710d90913a9d7c8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3448fa600da606acd76c37c600c61a77
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d205e805576885894bbf105d110a469e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6065a98dad1c39e84ff0fd4012a91dcc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Eschenbacher Teichen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d11e77644d9e86b00d6e81b894fa9b45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:92e9002e4a0c0ee72eace15676ce8045
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d4d22000f8b04d409075965d0e91fb58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5e8e6967d295012177aa6db137b3e658
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ba2bb5f9a25cc44ad90476a1cfa24fbe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ad37508bcfef015b671a74627388c9da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:59355d69382a8f599b3adc4a290009ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:56f9984444c6c4ec9f3396ddccd1fe81
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ad5b2646d94d126294dd59593af374a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b90939efbfa17cb2f10b652b985a43c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9a057af28a79b955baf5b3f4092ce399
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fc5cd70b0e710068cb32f9d860d1bc60
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6668acb1436a91c1d1b69fec45e095d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f31e341a5b4ab04df7b4a513fcaf27a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c26db4b49c30bac6802f42f3e4701cff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:48148990b12b684114854d6542b0a960
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1d7f113c9c56ce7e511d3789eb5b9025
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c9e98c4452ad65d6a46ee574c6af5916
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:afad1b713456a7fce589194c4585c65c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b05ffefa6f8c7796f90bc0a4cdd9fa82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e69474ae9f81b535b8528a0a641157d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cdc1ea5b3411ab5694c6205d710c9893
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:85cee773d5ff025965f1ef8889bb8d05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5b7e0f32304397c9b1d7ab4c1052ea4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fb77857c4b1d4023ae6114cf09b36de9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ff552c85cb372b08d27825e983d0b875
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Eschenbacher Teichen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:6369be08910ad5f681c2ac9af6116d45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An den Eschenbacher Teichen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Eschenbacher Teichen
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:60b2a498f356b2238a0a9662bc619c69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An den Eschenbacher Teichen\n \n
+END:VEVENT
+END:VCALENDAR

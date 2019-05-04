@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:380edc2036cbf28a14e5267224b724bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Bastesiedlung\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:5d65c4b6cf7877e9dc0eb1de05b399b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Bastesiedlung\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:056080441150eceb1a3dcefe41935cd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:beb2af77fe0c85099ba4012e708e1b78
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9a68c012affb585168fe70101c5dc8ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4ee3d37cc4c32c26b5d91510ddbad955
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b46fcd54c5e786a8fddc67e2927fab65
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d31414003d297b70d057cff39ea4eae5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4d908635c928afefeac05ef61d90af17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:aedd86f4c78fe8deba17b39d9f4ecf6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:87aed7d9988b6fdba7e9e3e4b7795031
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0d84cd2408d5842e4f25ac97fed6ffda
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:715577cc23af27db35b40d4681d7a121
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5c570ea53bb32ac4024539a145d8970f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6211e35b95551871e428e453f58510ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:22b4b852739d21f5ce8270a776d68d90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:140722f682ffa757eb712215695c1393
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a1ae50e37ee308cc1b7b0e995d8ed94a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3ffd660d00998549d7e3570a75cf3592
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0c8cd7f3591487bda4e30e11d1b0c20b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3ea6dda2bdfdafc292a50052e9d3b520
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:175ae2d83c2b17fe5d4832fac3a50206
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:406135d041db738c9990290a87b676d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f6d4688a24b7099f40824333c76788a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:877cadbd8c853ac2c3f37e377c94a2a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a62f21368f5d11ce3889e5563930060e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3ebb1b305a9b83710e89fe5d438acb52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c7e42b33de3ec48fc4d3eb44e288b2c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Bastesiedlung\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:dc9a5897eb2a68f9e1045166d3d8ae84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:12083d26ac0ca9724bda0dba96e4b25c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:db5c13d06dbe7a372ba409a2818caf18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:46e0b6811cebf931f8f7fd43e26cc985
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7fd725d8228057b7c165414cc7b67204
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2cdf18cd9a3a4826b8b2744625222664
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:801f7b602e37c873899691b9669d1366
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4f56dad5df1a11c352dd4ae078c3d0e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:566d6fd18fec0c8accbd77194b928790
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:06bc32643940c8c59598c0ccfd31b417
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7868048c14a7ef1ed6a6884cbcc8c4ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:97e6f69978d67e9820b2eba4d27b9e32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0468dd23effd47fe52582e049015d707
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Bastesiedlung\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:515b4921cce3f7f72e55167143e44372
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a02ce006e6109b9442f5459bf57f0d74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:76c158ebc70d76081ae95a1a39f05597
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:bd0e16ce23beb67860034290e09ed9ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2767a22bbb068b96f21ed751badbdebb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9b280b2508d34c325c65ea31e183533a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b91d12bc76949cbcb3a1ed3b434de548
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:efa9204303e8598d9ce1ec99fe07f967
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:09aace06f19ac3674a20ffdfbb4bf291
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4b794bb1b2b3436c4afa897aa7dce87c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:74f925d3a4a0fc242a8283be14e98757
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a41598e8e03da9562bf08fa0b4287e91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2e20d845d9cdbea9daa4466c8aeea6b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Bastesiedlung\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c1e4b621bf52943411d318f51659c792
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f7241b346205d282735b5f90931910d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a05de9b7e2f6ce970874783f19ce67fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:68af0d0f202fe275e0b7789afa6cafe5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a959a330d2738a89db2127faf78648dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:972cdef4e480218bb7805bc637df0968
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:dc7ad0e3c0992ed7af0fc0fbe689232c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:261ec1c82a8e52dc594abfe93e540e0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9ce3ff25c727fa0ccf04d6de7dbd1e7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:74094efe0b94dfa6e3b9d6773587f188
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:360e43c2646c027c13aa4cc7b65e62f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:47641b0da5f6b88d078272ca656a56cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:55f7c4185cee46daf68e50bedc4df550
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:55ad3553f0c41a638074630d210e3c4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:57f47996460de8079a3b2b42ce05eba2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:84bbf09fd480f1d7f4a20443a6ccc222
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e5153a2cbf69ccb35a381869bb1521e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e229f949d2b183d97121d770f66de5be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d0bc6bed6785fd347e4640b016209858
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:507c83334215658f7ef3fc1bcc048f06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6888b73e974b36fa9d85fb3c01e81fd7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:333db4f3ffed7f1d89a8f28a7b3545fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:68c2589d35b453aa23a63409fd2d0c11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f9adfa8315cfad7f9424b91c217ffab9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:afb6e18a0ec575a7a9220357f3403ef4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d44b8548e6ae067d9b02185bb499e24b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Bastesiedlung\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:5a0dcfc230645fbe5ae13fb0c04351ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Bastesiedlung\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:1ab17f029b52cc579838870f863e85c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Bastesiedlung\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Bastesiedlung
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:dfa377ca9c741a3495af7d194edee4b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Bastesiedlung\n \n
+END:VEVENT
+END:VCALENDAR

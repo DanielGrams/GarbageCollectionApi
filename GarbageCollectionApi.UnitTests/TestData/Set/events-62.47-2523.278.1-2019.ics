@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:2578b3dcf7b687ab54d2c88e438bd3c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:56bf248de92e7951511e4655713a12cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Ludwig-Jahn-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6132b204213115faf2ec17a5ce51eb8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a949186c98a530f830268045a0e0ba50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:05648f43d7afd78ab03cc6003824c334
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e90c96fd26f4b3e265e1ba5e4ea70a36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:960598bc6848195a8c2856f20dd529eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:282ef187aab911df62bfa76e3df3325c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a07f1e08aadfffb32a5b8e0162db32f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:14f27a8aa9d81f500ad886429a706632
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:57bc2bb0f571b7dd7cf8377aa0cdb4f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2c5005058d43a721162aaea7f3d7561f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:040d1c8a879960ad30c385414cd9c823
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:28b060a47e8e27b67cede7a29407cb2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f6c614246659f346684c547f16df9b50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:18d71621f67f297675e0b0499e98916a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4185312d2060b9d397e5d4751bd9135c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:eab8cbd13cf14e39d117ccb08ab46bc7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a568a79858509554edc7d1cfd0d2c631
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:15fabe793b4343d2da118ef756f63910
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2cc256623c3343ea22c9a8969e769755
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:625d916bf8c0879bbc23a0bd0f333b8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d616a0ec249b3ddba50a3e8ea87cda83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:aad4c6565ce6f345edf5bf2be72f1cbe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f67232d5770b9ec37aa352b05feb4dbb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:04eb9b745f4d458474baad3b937b4456
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:84b9cdceabf2a589a0f815d7743e218c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1a64a1f742cf72faa6e921c58f01db15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Ludwig-Jahn-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:431c206f7aa68c644b30382ec9f82b99
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:10257f85fefb426fa13066238e7268bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:da248bfb50d40f4d6f5529d845903761
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9cd91114fd0b6efa6fc4036215e42723
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9a4cf4d3abcf43642557e1ca6e8b4200
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2ec49153fef98ef3e78b307544e6bd4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:76218b37d79fd6fa8580d51ec1288d66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6dc7d18ca6c6d2f49b85511c5ceaede6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f68a123b03360c1dd079b511d36f65df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7b2b1e5430e139583eb128ee9649958b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:644d415411df37ce47cc62133bea0610
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:089600be7600a83b9226671f7e608feb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6a00d77641a7eeee4e215d76a9b72bf2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Ludwig-Jahn-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:edc7673c1d35470365ab33cabddd11b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:68870a7407aa4e413e8e8ec93e0707ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:cff22e3f188991397fa85e048b77ea24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:286cac1a821139b6102779f292a9b1f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8c156ca69cc909c827c70849ad431c7d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3e6d4ad9828a5589720c8714a3b3a9b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:df3116efd99f22d436d33fabff75e169
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1154d729b04737baf0ddae119cfb94a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c5f2baf99b89b70073c148854af9ad22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9c06a59eba6d5f5dc0d549f8622b8e12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b7214bef0d38f1abc293759b48bfde41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6cebf0603bc91fc2917da48bcc28eab0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:78a44f689e432241b2b9b4d33b17c9ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Ludwig-Jahn-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fcc5eb09efada4244f1da413714c93f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8813022abe929b757d6082984ef31557
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:dbb71a9b66fba0a05fa9a8f341bb3c2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c65bc6e8a5174cea8059170342d29d9f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3e99ef4b18095eb219b78c0b4fd982e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0c7496f995e0be37bb39f1a1330836f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9c5d37effca357ef8895db88ecd692e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:68fd25ae023fb5679e179e121455673a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f7515f4e21f5438ea9f61f9fa54af524
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:35af4a59cfabe8bb83a903d7c407861c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:faae72d67cba5d679e160958d2777b0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9dbf2bc3cd91df7c71ad823bb7c6fc9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f3075a2aadca4438c63a72bd1d0419f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4523911df849ae8fd44b8f133fea091d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3e77ad1dd83e464602b7b208c3e67a1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5c989802d6f55a1c06f669ea269409dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1332de10435d736f477b4b714f52d6c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4e3151a4961127690075ff8b63e2f289
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5e88a6e3521aa225b6485ef3047a4720
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:25c5387bade45cada248d3db6e50a49c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bf32eb0ed966ebc049f8d150c5576bd6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:543b186fa4d865baffd7481e05238822
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:de8f98d16c3e0076fd337ad88d9319c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:43b01ee8d928f2f41193ead296378a06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8621ae8dc35d0ea05798ddf667a4b000
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a2908ae4aa81c68ce616e02d0562bef1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Ludwig-Jahn-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:578c799820ede6ad8341b997bec68b28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:418b8a258a80b9b4b26d0bf7c72954ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Ludwig-Jahn-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Ludwig-Jahn-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:ae050c42912d06b78f2301e145ad4c89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Ludwig-Jahn-Straße\n \n
+END:VEVENT
+END:VCALENDAR

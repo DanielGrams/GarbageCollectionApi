@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:1de1e07416a328a695fb3f540565d38c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:a62304c112f10c328a6998286f6d7168
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Vienenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:9254303a2d5fe778ff7564e2007ced31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:197ab63242326c032b5cad4e6d813d57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:a7fd7060a57c151edd7f0c3a23ac73f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:2b3f6bc0242fadac03fd40cffc9975b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:4d37b23a3e51ddfe9d2051726205a10c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:d8221283ff2c5961539b433889dd7f2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:8561a78bf07a644e0f6a01bc1dccf627
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:d7c512c474b02f69f22e7f9b1847648c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:7a3759e39cf2503caec8cd294a016b0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:7fe7ad4dc1b277f7cb6a93af845e2617
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:6ac2d7a0919cd3f8c0046a032a14899d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:f7efbd120a3b44203e1528441bcf07bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:14faabd8742bf5be81575f048f6371b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:3acd7e8251d3d58306996f4b456b5e3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:7333decdf42d902e19d52ec67fad964b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:e55bd24502abb87576f43dde4cd334e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:bbc58545e8997d80bbd5f834c9d337d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:6017ded4d644beb8b5f251cdcc332031
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:5bd59bb2740ec3911dc288027cfadbd3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:20419da0dfc96237587c4ebbcfc04a6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:354b727021dbd260f7e59e5ce1581a7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:3ce6477fd8a19e8913e9b5bd3bfbddd9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:93b5a1f97e984c891c568ceea137994a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:b7fd38fc351ef1fec6d7a07c25fd1fa0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:a6f911061d2d1519a96edccb2613c2ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Biotonne: Vienenburg
+UID:9f2f7bf02298fd4571c86f28d7e7bffd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Vienenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:0c917c85c8f85701d82243f937660d2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:5a094550872e74b0f06bd1e1082bbaa9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:a619db4fa568aae0a85816a05e6cbac2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:59456111b8e61879c26701bde6b4c84d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:d398985a930dd0779455a20908b3b9d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:a54071da79a07efbaa0d12db98fb3c84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:f72f313a206a813885bd82b67fd3e2aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:501973385e4fdd1adcb06964ca6ee585
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:a829c20e52195dd0be38c1e62f285857
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:b5738062b171edfcfe46261c0179bbc8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:8050588edcde87bc53f51db84a5706bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:2f5c94ea1b4427856a280c48dd501680
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Blaue Tonne: Vienenburg
+UID:7fbe03c63db0144d9ef82ffad28aefae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Vienenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:47f66b5a8993ba1784d498fe26e7cc45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:b49941746aaff8b9e53a60919299aa61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:1b5ee43edb243b4fd04e4b08852ab55f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:fbb7312bc23e09f377ab407bb197839d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:305ed1aab1a95ed7415c799ba750f365
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:25fd86aefbc90948910efd425a6fe2bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:f0030bc06ff03885105789fd6f3d6eaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:1473ba78ff0a40256a2fd554e1e44a05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:884675f5ffbcb3e3bedc02e682965301
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:f0f8b49ee058737a88c4567abcb49ca9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:6be91a8d09aa43d47f34b3716d2b028a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:d587520ef203b47603f8fc318e82316d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Gelber Sack: Vienenburg
+UID:e1be119e77067c1fef757b4ad8bab631
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Vienenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:d16534883ba4a63ccdd660948b1fd0f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:3942ddd21f820f4894286c663c74ead2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:dbb1a39263ed9cb14007c825fa0e8e48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:3d49c411de316189ae49b8f0911458ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:5692ad38b016b3e0ca873e0b0fd1751f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:0df730d118a7dc0f2d4b0894a5af942d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:175c7ebcf73bfad0de49a09d222ae8b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:ac519df10a4e474961f4d34134ba4ed8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:e03afa1ca2cba04bd596cb22d1ea6033
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:e9234bcda14bef0db4f9546a09986179
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:23f1839b499e2f8a1f81bf57c19dcf1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:ca9f68262db4de177a15a3beb8b6a87f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:73960953fb27d2547ad07606156e928c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:f9dfc10544eb2735f9892194ce17e7c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:343507197dde4a6705d19d73e58caa47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:503b887c0e25550719db12cc66922ba0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:ca8e3530c01e098c4592828aa5b690a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:96b66f43dcdfd06aa87aabfced626e6f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:4c320dfd35b2453f09eceff488407671
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:d4ef92866d267fcacc7fe0f9ce56b32a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:154ac3e2e905d54b451fc1adb01d499a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:7c2b5e7ea8fc4eefecb5d1d4aad3cdac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:6a886ea8340ad6f31750686665c3f8db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:d19182e022b97a68f57e7cb4233b8719
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:14a7f08b2ea49aec7af140bc2c21158f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Restmülltonne: Vienenburg
+UID:0fa5ec544158f488883d037c1c398c47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Vienenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:adc9b07cf799a5a537205677766fe395
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:2ae64a51ab652c203f15d8ffdb6e3e61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Vienenburg\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Vienenburg
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:2739b4d4b4ae979f2f418a6f984aed50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Vienenburg\n \n
+END:VEVENT
+END:VCALENDAR

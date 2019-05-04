@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:d5bd4ae78bbd00e021ac2485dbf3fb50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:7fd837b66e1e129aa78ba5484657fca7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Hahnebalzer Weg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c7c11f99d1f635f5a922c26b4de8867a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c26b44b9f5332b5a71023c3e01d2613c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6c7981fda5726a651a51cbc949a0bfca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:64f6fc006f249812e6df0e18966d235d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c5e4f96ba6796d11b31ee93cebef0ad4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4bc2ab9783fa711b57865bb6c52b6831
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c834242be394263002ab75b5aaf6d894
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e79e46f7869f8f8185689b012274d83d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:11e41b1655923802390744922c4f2430
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dc89f87bcaba490e94670351235eeb3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3bbc4c824d0a73d48a9803d0bd835b44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:609e65db8e161b176c7021f861a641fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b2ba3459986c234d5fd4521d2a2d9938
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d3f85d3bcdf853fc612c4c543eb4c2cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:61003a75fefef37083c79b5540094a10
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6bb553f80f8766c1c34b5bebb6c69708
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b83d846798cd3e12e2cba2dd1cd61fab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:475c2124fa6a56377cfa6d2fcc76de26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:708d5731d9c74bb72f3860622d672a79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e0d39503ceb30f6660961b90dfa10dae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4151ba959c577e325f4f63ee443ed010
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c305e1c5dd4b8449339a6763d1fab4bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:22a7988963123a726214fba92de09621
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5275f3f5736ef5f4f35d5ae4282fcabc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2ced60dea1fdf7cba8cdbd57e8bd1093
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4d3010bbdfda46a779ff95290e6d748e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hahnebalzer Weg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f0cb533f384a49ea823e5967328cb6bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5af7fb9c92be23db69def3bb56859a8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2f7d2e3d5dff0c8e4feed95608ae9811
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:dbedcbcbf98da9b72b2b4857923aed1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:87a25524a35f18cd14891664ae5b089e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0a0d87cb7ad84d888996b75866b4a5c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:46489e8963a7130885b18a0a8c24d064
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9c3312859cd2257e245be0cdeb8ebe42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:34d7e130d8e1482b92a568c357bde4d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f6a9a70aaf233d82b3182edcbe101036
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a134e63f515f9359df8e03c57d5c1bd5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8f9269542b107b1835f3f7a5ff939171
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0407469a0de5916e01174f8eaeae478e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hahnebalzer Weg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fc340f7bf2e93456026c07a7129747c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:39d1cd3bde3df7fb143d0e99cea4b7db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:552363ff53ee470cfc562687a6200fc3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:da9250c9a06c1d3f39c0d5d17b9d551c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:eee53bca893690ce1cd11198e9613854
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1228579de74bba0bd5394af01f7c1c8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fc6d3f427f6131dfc288cf8370e338dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0b21986fed6c072db3a4ed0d4cb4c9c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6e551f0c6e4f93eb1ff055c262b7b758
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fbbf626adf8bbc638103114a32d76a36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b5c23baabb1fbc988e928cef02458123
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ec2dc620da9aff71a5fa7e000e1d3a3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:766a1acee62571bf26124cc7b6c27b29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hahnebalzer Weg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cdd2ae89b2735c0398fb4443adc42985
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b335be11a9a643470439c68195f48693
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9a55b2c0e43b36c955b2daaea088b148
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a3a19d4eb7d6c38ea267b4125930aa4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5e70882567c1327787a02983a60fd64b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d766e1bcf8be8a9329e5cb1f8b40ecf8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:048ef8e8278b4b75a4e78450c03d5a31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1311059d602417b2fe53eb5bca201bd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2b9df35938740df3191b8e361ca0d981
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e8d38b627f09731884ceb42337fba8b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0708f4ee7c390e02bd4f76251b479e2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:98bf9ed939d9e54e0ed992d29249f656
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:873ce9580367551d3a015e69c569e359
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:88f42c8d967623e89c5ba0ccf15b35c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c3b8c0ffb4477447fde787de5ef40d25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5d32acf08340d643cf51b50308cdba9b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:62548b0acd969fe53a76ca8a3355a7ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:518487b5349d80a494cfd0c593450dea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:95486a973f8d1a1fc17ed6a444511dc6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:539da66af983a20a703c58d973726f4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3871abc75ab31c8b36f481006f7e2bd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3288f751435dff2b2c72b13f208a5025
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3cf1cdfb2e0e7db3d48c898f8fb096e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a68321546e54cb41405f85df40e14142
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3b574219e87bc3dd8119c810e59c5855
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:797cd2381851704476241229ced53050
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hahnebalzer Weg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:fedd19d27ddc00c3a1eea7ad0661da4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Hahnebalzer Weg\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hahnebalzer Weg
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:89441f46468d1bd8cd207152da91008f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Hahnebalzer Weg\n \n
+END:VEVENT
+END:VCALENDAR

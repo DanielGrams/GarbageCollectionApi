@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:0b51c71857b7d789ee3677358c4d131b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Flachsrottenstraße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:36f1b29f9f6c02e1b56c33150636cc2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Flachsrottenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:a0b7e75bd858911dcd9fcc6bdd19c1bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:9f2849a1ff3019b3d9efe54d6763a833
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:2abfbd6264fa10efa7382dc1dbfec37e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:3a37b51e0a0cb0853f03d8693b4af026
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:b2e6f1d2afd2f4564861c68eeac91667
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:740ee416425a81f6ac28f1daae5eb03b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:3398d9860fd38b9a173438de5982b193
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:2745c9206db3c7a5a472829ad640c3ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:1c249e2ffeb68e79565fe3b92e104c4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:00045d59884c9c013bc30f2359ac9e64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:50ac642a2227e0ec0e22383a25f29cee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:77d154c2c73fa5a9e7d8743d4a5069cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:2434ce103343cb56250c7d6f018624ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:7c4443433f0173361d04d3c6494dc89b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:ccb91d8172f8d41d318561913df424a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:de94b085e9ba496554e066c98217195b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:725c4eeda105ee9b2ba5b8ceff9438de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:4946a534b22cff19fd28826920871043
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:57388bc490f8cfb3806fbf6691de238d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:7bc534e01aca949c415c0765a64c9f5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:e526ef82fdd905b203b162aad14cd248
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:69e4e9d6024950e397c1f529408ec1bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:25bc2e50f6608656dce8d54a5e0867c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:652ca353d07cf170d8e5367bc6f4f0b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:08f18e63f5a93d400bb067220c26f2bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Biotonne: Langelsheim
+UID:afa4290fa0d3c656401f6eefff61df52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne - Flachsrottenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:0dae445548de6858f122bec17abd8fdf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:4ea22db2b74b9a2d7b510e9f3cceb349
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:fba8f56dc5cc3cea206cc240aa3d18eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:999dd3d7691b3d160912b4fb19ee118e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:2b796676044daf5ed42ef5501d370cd7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:408036e25f3c380533f53397bb815ed7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:e430fe294fac608167a520c7564ba656
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:3f8235e2b80c074f887a051be4894108
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:5d1349c2036ff9be3db057e99d0cd93d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:f2a9ab2373b95200ebc3586677f94c9f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:db8565d2a39e306f893e02b8f75153c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a8ed3453bd4efe0125823e2d98f4e3eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ae5aa601b6b590dff298f17b2fced54d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flachsrottenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:c0bbfa24578e6b0861c140331eca5054
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:e967f271b8869c0f3f7fd12b630d6c4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:bb27f787b47f4976b9670566bddbcd76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:92928bab4550f2890163592c2aa884aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:ea991fed242bb2e95a02afd4fa13c963
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:632839cd7aebf7034e2e8c84c54a85e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:38657fce162827fcd67684d1656567b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:6643341762b991a8b3f81faa3e22c303
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:0c183d177be2d16a4879001711f95727
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:5a8b2624c5c1e2af4b116ffdfdd2bcd6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:e3d537bd73f50436c12e0131d349230f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:dd0171f7f7d532c64b43ffc2e9f89947
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Gelber Sack: Langelsheim
+UID:e8a7e3569b2dc0d681d1cc9b46afb700
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flachsrottenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:11a418b5b19043626a3bf5cc7f631c37
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8e8572dda0de615c0c0015607b4a9945
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:da5bd2e9bff8914f11157c681621af8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:b1ca98d972da5042660b4f4bf5af2504
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:411f441938ee44d26d0a77a12b5473e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:03fb29eadaaa63fd90f73e2d628c50cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:19704fe16b31b72a9db37215c0d1a7f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d3391c04a5d628a2193f5620160dbe64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:0f8a814a134352b7d03e46c57b90880f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:691cba550f5e14c640fac31d132d16d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:f5ae1568df075adbb8343a158a80420e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:538f5da7bc582c2147d48c4e575e967d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:0d75a5318ce716d98b71e632e7a25c71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8e2b5a3ac731da67ec6c7f8b0c89419d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:10d88bfb15a697dd41acdb759528ed06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:282b7d13cfb0d2ccc9bf700c1d5bf54a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:fcaa86ac92fc3805066e776efd92787a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:07e9ef249c65c0b7ba6e4df58e52c511
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:6f7f402b726dc27e79db52c31b857bfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:a9682b10bb380d7624473e614395260c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:a525c558f337ac8c9734152e4aca6d05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:379fdeffefa0d409022fef2c90ba3341
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:c11feeefcd2bfbc23a29a2f64b1d258a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:3fe6f754f6f9be9f38d4703ef7fa37ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:e2f258ca868e860322be5a0122efa68e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Restmülltonne: Langelsheim
+UID:99149bd4cb1e248bc98e08da7d53dd79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne - Flachsrottenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:c1924790a9553c0f8fe487eeabb35beb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Flachsrottenstraße\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Flachsrottenstraße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:a72947a950a7a0bc37877f7aa71fdf7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Flachsrottenstraße\n \n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:4f863e48394182af3793d9a60f5b21f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Innerstetal\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:56a72342e99c01ef6d773bbc85502590
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Innerstetal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:96acd45f4f2fce0b5fcee91f4e40668a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fe9bf8c320049ac1bc358f3c61048d78
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3b421db408c79910187cb7e49c9df1f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:588eef6d55fc25ae198245a05b48d1c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f6edadf843cbf2b8a12fff94931c57bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:340f7642942d1ebe45f8c10caf0eab5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:422f2ed918a378c7d84be96288da4af4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f24b3fe32a028a769afc9603abbd62f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9fe32300809485e85a24873e47e73a40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bed79ed102555836e9654249e599e195
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0238b71f6e51da8f0f27f0ce18994c82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2b37d917334bdee86e1dbc34ef35bacb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c72c256de6cb69f1d69bd8b66a1e9da4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bc601268cd58a67f57ff9ebf17a56c66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ca72830377ad9cd889e56917a6cae2c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3ac85692ae849ac38e402cbd9630ad59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c4a62e6ad63f2f22f05bad5a753b7d02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b56b0395269fc61b937d02d90df9d779
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c2f2d58cbcf0433b66d449a1034d12a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3c5978bf64eb8b0b5367deede4e3c3fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6617f4d5485c9819ce06780ae3ceba44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e68174ac5ddcc0db01799126a78084d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b51d5c60afc212ff036616750b1201eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:58d97f511ec8d2406ba4be80b347ca50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:095b1257c4fe78c2e2d2c38b5a5e3309
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8f4ebbf8129c3364d740288e359842f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Innerstetal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:83bd60a3f51bd5c2d56a3d92782a4945
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f34ab3b5c9bfebc5f965122533d5fb01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:92b2ca80eca6ea9571a320382d7a55fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:01cda98b37acd8e4c9fb876a6a1d7740
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4199d15ab50d5ddf6dea7e862569cad5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:155baa226cf55bfc72d7df437cf0e119
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4d0a434b918b9642e6785b784642b86f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:051c60b6f13170b09db24d4d2d92d2f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:686895551df6b1e3155274f263163836
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:58d55cd199e37ca8f95abce4d5ee94c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a124917e375680b8f0747e52eec3bfa6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ed41b5e1c361ff4b897bbf549453e696
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b5da0bb483c75b8b504c9a9283ad0068
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Innerstetal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:71e8d874f063f83172ccc998232a5346
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a08b14e08a5c3ae182ffbc08658535ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0e69dc8c14cf7d9c6d73c16ed3eadc36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b46436a744fb5e1ae889ba7e1b89d1c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:192ece62a31809cd062e138e69dedcfd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fa42efa89e630a085cd80cd054943a33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2fb2a1b326a2fffbf20a9fb2b0f0f68e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:5a95de1cc72f1da93020d092a3a4a120
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3744b8d400405b69640ec19c2a1f6459
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b6f94f19e64a8fd6ee6c80d28b435325
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:432873272fa6d20f859eb4ce903107e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fee6366ae771a4308296a0d2a7e62b61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b2b383e6c1dc1e3e8d8356627b94e5f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Innerstetal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:56ac1667cffc3f189bf65f3659f52ff2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d57c33f01569de03c2e28dac845f1797
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4c11cec95b862dd86e8da67ff4144a3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fbfbf307c0cad45602042857ca5a79e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d3152cc7cf197acce1413d06c3f892da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:196747d1f9decd026d031f1d1e04af70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5ec2e443a0c6329b75c4a295825a5087
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b794c797dffa9a88b49397222b12d217
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d64f2fe1eb0f70e3f331c4d0907e884c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:50b25d8aed6f4f5f9ac70ff35c2781be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7f1c03e7c7bb8cbedf941259f146567f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6cb5ae5df15a997f6b10970946633a0a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3be7e80ba97f1a12e62f5a89b48758d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4c17e7fdf811a17d0dbdf9d14eb671e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d803651aa8279d1045ea8450ab1360fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:42613f9c6f5fd98fb15daae9f086cfd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d221c62cad6c02bdeffdde084b16b4c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:21620ff43108fbb6fed63feb02853645
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:056c8e3dad6fc13b3a1a46300d069340
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9f4192273425815d02a6ec6f5713521e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:989aa35cafad168fe17a613e77f22b3d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8330b1d6323792f3ff613a494a8577e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:291f496b1cb3a6a52fddbc26302f3506
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4d85631ee3ffa5c4018f4b8933ffc814
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c59f93e56a2232a9747a96aedfc57b62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:39d4b022950e5d2ce03dfcf32a944c39
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Innerstetal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:c5ffbca67c26d109b4336c85c6cab37d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Innerstetal\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Innerstetal
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:93bd3cbf717a0222ee909451e431f078
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Innerstetal\n \n
+END:VEVENT
+END:VCALENDAR

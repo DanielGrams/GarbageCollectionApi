@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:2390084b04d19822949ae0304cae6684
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An den Abtshöfen\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:e7476f8ef38ca6892d1be7ee0d1bd063
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An den Abtshöfen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a6e9adb677f9fa2dd1e0335f0a0b08d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5ac5761bf95cae969d3036fa2f89ad7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:68c98cf8ca8883b713b8faee1bb48cc3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ee93dca518079f9ab5237542856a835a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:265bab6ce105814af8a36af7ef4b3afe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6edd7bd3ff383193d5dfaae325308a3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b4fe1e6edfece5e0105823f67a38141b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a1f039605627bbd3894b27c5dae4e65e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:06080106ecc1ed9629490e245f22e4e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b107c44d71c1edb74f6cee1592774782
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:403fff9c053dbcd3820867049753a3a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4e6b4a043e5c1448c2145720034f9e12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:364d5f0d7d3f14b4e46595dd012a2025
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:778fabfeb45e209af13e625c261c1cb4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ecfd3a8ca2782006ae4de6d722563319
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:61e79b647c1a3c31771e645abb7c8190
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:251d9d51b93b7fef891f0b83a0fe9a4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d10debc00e14f33d98cff1b4e8b9adc4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7ae46f6374cde855b354f0b142be039a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ca029bceb239ca48ffae3b4399fdd22e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:51bf8df144467ed99773a5f8ed49515f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:49f338a5ff6dfce0a9023460b6472755
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e8a6893566fa6ccaa8425460701c133a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c0ec1fb24a7096a1f930dce83a7e00d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:02f6500d3dbebb35eb3dc3db7ac621da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2470d6ff1c71077b43bd27323a19d613
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Abtshöfen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:77d3a96a54f5c7dd5a7b4d3a872a9e56
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:fb9c5f27396dcb81f4ae6c37b3d10cdb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1722abd2c3a3a81eaec799408bf2b74b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6664103d8e8945d93d6f73b2529c9596
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d0e1ea6d5373bbda1626a6a2932b4f6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6f109a2887f5254668c20803282564f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:35a3b197a4355da265ffa888a82177f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:412c1b2f7f37f91fdabfa977b17946ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d3f18e1803261fe1d3e2778b72065ae5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:803a3141693a189983c1f25081950275
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3e99de3621695458266799a790123dbd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2a63bd817c652c60152c175845bcecb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d2ebe833caa95494d290b4cbe1997414
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Abtshöfen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9b96877eac92d3bc821e7759431c77c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:870fb8cd04af29a302bb5b7eb4bf5e05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:acf68a8c887fed444355539a144d78d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b3c3974679f0877d9015f0dc13d57825
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:029828b5582f7f116e9e4898bf9bc388
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7ff3b5dc1d6aa9dc94610a429259f7f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4a334c5d2c63b1028cd87a3970d1ebba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ee228420d7c33174de5c3744f9c6f287
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:80bdeaec7a6145e87dc7e75b3e268c44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a9c22262442bb9b0093fc39368b4a530
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:297ab91dc86cb2048c888fd4143e41d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6b79262fe81cdb8e5d440bcfcc903303
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:16fa9010c484cab2488f79f8a88c4e36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Abtshöfen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9302f77c1177563797d7a8d1ce4c943d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d7c6f30e1ef5fc3f0d215f5fcc19ab51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f61f3ea37e12c987e8be539e6c9b5db0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:00cab600740614651881adab25ee4a77
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bfe2e5439a28a311c58c06f67c50daa4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:48cdad62b7b7a83bb2e0159a4170d973
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:721049112f9749431399cff32741d470
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ba72827c4471b7debc9251cc4895d926
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d784cbc69100640206b209107b1257db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6c74f1ee767bbbd9f2a21504426c9241
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6702784049d5237d7d92c6a21293a49d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:aa9c85165b733ecf3216660e25f480f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f6246746b275f34c61aacfcb288ae00e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ffe197a9d875f5f5f4ed183969268c7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:50f5d3d6648ed63f06a5ca8687727f31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4c173fe534eb09976bfcbc9b3ce7f2c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:db46ad096cc826f08d996ddd940636f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3a70b67f6646f973f4994e07745e84fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6fb6f86b1fe2c956a2af6f17a262c809
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:94b014806320a130b150eae92c833282
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:91acf9ff6cdb8054aef3031a49d5f07a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:247677403c65e7c409ab7dbab56ccdd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cd1bb696081bae02ff07dcd40a7b92d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:48561021e5e4a987cae70586ae401732
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:27272294242e192e944f3b28184bc713
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bc27132f0fe6aadfc46918f7557d9d84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Abtshöfen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:01263febcc732c2b75699c2272e7e749
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An den Abtshöfen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Abtshöfen
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:913c6d7d4f5674abd92a7850a70831eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An den Abtshöfen\n \n
+END:VEVENT
+END:VCALENDAR

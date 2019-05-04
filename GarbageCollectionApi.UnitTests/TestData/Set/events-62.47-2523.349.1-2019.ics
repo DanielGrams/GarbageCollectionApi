@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:3edad7e8bb792c940cbbd770260cd21c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:97b15fc1482385d4ad69b93faaa084b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Zellerfelder Schießstand\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e530d8ded3f4c91e0ac9bac1f37b726a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:394d01d6d50817f4fa16405be06ac3a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0d2823dbff215deba964dfb913401ff9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:35fea46dae042e8b7288ec4d0e655ed7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9856ff20ff13029607079f7fe2759a39
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:07fcf5a9442e5577c33a3192e2d6f92d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c7f477cf979131dd1257e10063e9fbf9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1b942275a72f689b3fba8e9242484978
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:da4c38be8b19d7ae817fb43bd820a145
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3425d081f8ead1fe01c19327185837af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4f6fb15a7c80f83b7541ab747eac67e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ff0d5860b2487161b88ce6f0793f49b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:48c05b58be20188f72e1f96681fe899e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d55d7d4f2b8454dd7ef6340ebc9f23ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7d20d71a25ace26d52d5523de9a4637d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:980919dc3e666a52bb09a3a717d942b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a5625a8c5b5e7a082646f1295298afff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9b84409f0f78b78eae11235f285084e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:92e984e846512e4010377c04673eaadf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e0555523f2b1e45bc1fc26d4d858323c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:59cdccd70713a5899d3485f6722a3f37
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:350fd4ee45575878e164567797d53183
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2394b6768b7c5a4a5d48c81a80f9b204
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f72887773dec47712c0bfd5d91db9cad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:79fb2d63064a8c91a57235abc52efcc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:35465b7e83533312739d49d285dfe6c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zellerfelder Schießstand\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c656d009869d263f961d84b0f52926c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a9e6d77c68b456b5a163786238f46629
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6664065aa61d5c6ede3eced8f7b59164
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e25aab385f90c640058579a15cbd0973
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:cd24c42efc05b84411ed03b6d5e91107
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f5bc3df87a8a4c03b5f1af677ea9008b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:156dae813049d902a9ee4f5ada6fc365
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:acc045d106724545628e1719f947e517
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ec2a24505dbbe20a8b0c757f0e5c936e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8e2e6ccb1367d2e8d249e5a7d4d4f153
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d13f7b6ed0c4ea6b296c070c1b59f83b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9b6bcc1966f0e515de1e9ff781269ce7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e26246f8d98baf1360cb0a055222b1e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zellerfelder Schießstand\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f1413cc51d28da91e25f05551d37ff15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f9bc60cecf0ddee4162b4bfeff72ff2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a53a6583dd0c9a2962369652302772e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:170536d237fdcda5a5b16424dae5c853
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:35743fd1435b6a3be63ce71317ff152d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7750e610b8d17f3e0bf58e4c63e62e8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f9f592e4535bf2b79754699ec45a514b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4b051e204a7666c4b6a6ce83632ac99d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8c4349bb982b2456875d051ecadff3b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:01168af7e61fe6046a5a592cd852e656
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4bb98a211ab5a4e59fd595bcf74454c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:54c68191921f7bc30cd973861813c1f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:bf7258376bfcf3f8729afb01299c6b97
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zellerfelder Schießstand\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e530b713543caacb26671f4997631833
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a2fb8a240b03422187f2d02eaef96c44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3e2f8602614715333e73f3542d66e348
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4e3038dd31ce1ad9e6b0a2c999b47a14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ba0844a783152038389b4c6c00c8fcce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:45da0fb573cc041bf0768c05a45021c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:81e9e0fb84e7ce5d02c1fae9dcfcbe29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3e18a611f33ab35b735bc4fa4b2431eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:89e9aa1c8b5fbf36242f3eff8a4655e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:caa788ac94f8a8753e78837e9c432cd7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a8c51ef3f38f6c2e207387c8ccb43fa3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bb24db79088fee162e990932099facc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b9ad74118a07aebf705887f93b229fe5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:10ce0dd20e068924d309b90a217433c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:51ccd453060b0a4f076dcee02f5a9ded
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f7afc77568bc8f7e359774f0b94ce6eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9bb2ebc99f897558a71ea391409da4a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ee51cf727beb10d4c89fbf95b8e1458e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b18667fef81e099c0905e5551a7492b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0933da2e90e5bd7a23e9831891dd8a5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b866fcdd7172c37a4ffafb9721a212e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ac2f7a5e5a29252c2ddd77c4159468e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1380afc41e61124dfed2acbef96f3082
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d37e9e5b27a3ae07f232c7eb9bf27394
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:448a5901c00d2166ffe8e905dace8346
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8298d9860950f037b4c9ecfb458ff117
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zellerfelder Schießstand\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:44cb13bff358a46106d1604b6ba6853e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Zellerfelder Schießstand\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Zellerfelder Schießstand
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:26c1bae0b675d7ff3ba4e383384675e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Zellerfelder Schießstand\n \n
+END:VEVENT
+END:VCALENDAR

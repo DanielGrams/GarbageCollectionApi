@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Baum- und Strauchschnitt: Seesen
+UID:be3187240ccdc2bca34e8bc2fa45639c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Baum- und Strauchschnitt: Seesen
+UID:edcee963cbb7becf961ad036d7a55a5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Mechtshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:35abfa49aef2ad19cc4a7de062c5a6e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:90575e354cba84684a5df4b4393fb534
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:5430fdc787482c97410fd2f723a4e59a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:1affc32d1ca3842cea0a17bab3fdcf7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:a406a509cca08df987a593ed24e0e0c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:a82ae5a7306606f8e79e4c01b06c9647
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:9cbfea4e293b7d203146d84d77b1233d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:5ab50f63acfc206bcd1bb57fe50fdfca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:b3b76d4f151f46e68ea75354c2133fc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:c815a1d60a766200ad9b289053c6e161
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:e23debef0ac53cb4acf0e3f74759c19f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:f6cbcef05a815fea2f779e2ed175f462
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:e2af901e134b71b37ee07822868b1bc5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:a93cea31c63ac410d02ff86e8776f81e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:306f32c3a72bb201e43d1fdb535726cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:39b9d25de0780f326a2ce1697ca4b31b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:be032f29ba49c8edcf43b70d52cc8493
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:d0bfacd2c6a65f320bdbbe4cdc49e7ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:d5eba7a68c28ba9bf139a362c17790ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:4b0dba8992f02358b26717b3e28f9d2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:bfbac8ddb979ca02d84ddee1524710fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:858ab6eacc7de09d74a224da6f978b3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:19966cf8b646381a64269b3083b62d1e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:79672f062380260242edb4226c55994f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:2f16b8ea0de0a53cb6fff60a998f37d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Biotonne: Seesen
+UID:581e7cd6d67b457eceed2e2b2b514197
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Mechtshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:eba2fa2b3959ae7d81ee6aa9862994ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:e9cb11d05fd4085e83ffcb6a8e027532
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:6ddd0cd74cf43236a9f8aa870e1d5d85
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:efbcc5bc040231d166a7349138b20db1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:a6aa8f0cd815b5a5284f632627b6022f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:b106727cd17bc71d6dcad061732fce52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:de381220bc7fa0de62b6ae63bfdb977e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:0f9b2be33fb8ac2b80262fce833035cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:d5c7e2e6806826433c3229731c8c63b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:0bce9209cc1e98f73ca82f409f9ce466
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:0b9887fa445f740fbf06a6f787a8ff05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:6ef92a2a019a7648db801748fcf77a15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:9d0cc484afe498c012c8d314e0ffcfd5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Mechtshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:94fe17a909a3f8ec49fd2fec32f86a11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:6cd77f903269be4edfcc48c8e373e881
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:4087288800508b75cdc0e38806e8d4c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:f0ac220ba34eeabb0a44ccaa14d97a70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:75fd1777fb308a4596e65043eb945c05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:7d2fb661581a47880f958507c097e793
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:c4282a185a3f2162fb3d6ad23e917ac8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:fa9165cc2f7c39f0bfbfcd18812af4b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:00113823eac202728c6d8c9a7fb8a1cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:f32c64ad3fc107886c3ddd60cbffc9b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:a1da7590b55e9bb32e6f14da43e51d45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:a060f71a3ea45ff94a0f00ffe94c426d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Gelber Sack: Seesen
+UID:36928e17c4985581929232db76ad008f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Mechtshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:749fbcccd75d63f384a8ab894c4ed919
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:b7f74678b2e51a0715be41be1e9cc2c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:49d7f5ef64f9ff0c31615a17fbfe9f33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:1c93050f683b76bb686e4a4d0a6500b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:32fdb2f69a6127b95ba1124a26b7d90a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:8c265b522db6b5f236d86042ae7d4d40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:53f9942201cf5c54d10d4b4c950878f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:f281125c0aad7885086d55d201e8f4b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:a7214e9cee5382e8957f104495aef6be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:c8593f866405d72870cc6e3a5e6fd9a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:e33319a55a0b9601f2ff1580faf3ac59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:ef0478c7443a8e46f8c1d8b84cc22133
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:caa58434e55306943fd9baafc24ebdb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:713268b7c4c4f54ef02c51ce5d14f150
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:3748c79c2eba848adada5f9f628a7783
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:f3adff55b5ee5d059d3f509678c37830
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:f5f902a7ff1dba8bc9bc63593b3f0235
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:3647257652c635a637c05b4f33c51f5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:52ee45bae21f015ea0303f6dff9b40fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:a5b57489b2a76159308e2bd4e74a148f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:1607784d92fa2b98f77caa953f64847f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:51b299ae947d32b7badd265b0f97e8c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:e4367c62c15a9ccdca465c2fd05a8a5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:8c340a1a493d98340d84f99f20df8f50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:1b1d595e237080c478ac11ef34d2004d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Restmülltonne: Seesen
+UID:c04a9265bd81933d638ebc9021810467
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Mechtshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Weihnachtsbäume: Seesen
+UID:46ad3202614bcb54ac15d46046cd48b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Mechtshausen\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Mechtshausen
+SUMMARY:Weihnachtsbäume: Seesen
+UID:15a5f237c31bd8eac3283a630f574ed6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Mechtshausen\n \n
+END:VEVENT
+END:VCALENDAR

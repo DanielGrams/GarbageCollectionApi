@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:ea98089038c1061b835669d1fd2ee65e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:c6cb287edb6091327bf8c706bf57554a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Hahausen einschließlich Neuekrug\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:068c6a99756786c55fc649211793addd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:2e3306b086a0cdde86ce289e8f72f9ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:5196f55e30cc6834a1f1c38e477934ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:36acb853f63c57492f719c8f9091c34c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ea0740fe33583c6c2d0ba7ca397427b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:17a55f96a4c77f1d6a806324bd7e1318
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:de086310e63df5d5107e15afb2fab5b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:4f90ec1e8bcced1b795d9b94d570969b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ca50fb7c4279ec4d42aefe7b467b446d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:f4f7e8bb85d639ae74e16f250443bf66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:bbb09b53e6ccda9de163a76657910dce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:e49a23e235247a21788a35dbfc58e763
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:f91d2fec10a4a0a18e6b17e62ab6a511
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:59c9d0e2501125e5ccf44dcaba0d5739
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:e0a50469b969d323bf96c79cc8672e25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:650bcecf761cc88ac6d0943e36dacad7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:7d8da7d55437b4f2f207d9d559e8d2ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:9cf397252dfe1acd583d5ac91d591362
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:62e7b8bc827821373a4c6e1ad2c21c14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:05a1a91fbf8817f39b84091850764702
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:d75a6f6b2449f50969f2034322a87e13
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:6afbe5f2f7ed02dd9f35b5af212a4525
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:20b3932d955f538d2b882d3f13607585
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:7afc791ebe68d6a7ebd1101d1eb4ad58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ee90a1775e952f0c10d8154c2f74a3c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:1a03c633c5c3e3f2fc0ff51eca043862
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:66dc2c29a88a894f8e359c368c505d6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:e3207c35d29ee041eb483cb06c2935c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:9bb9a89f16484d904d30c6aef5d3e730
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:f0575c4ecdfc33352b40606cfaa298c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:29d64149c3f5d2b30322d053321be2ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:c159515219ac5bea92f546dabc9545f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:4eef83a8dab259d07528df2719ae242f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:751cbfea8382746b5838b2c565d455f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:9e15e56ea17d120c10d91a642fdfccba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:cf4f992e18b13119ef323ede1d5e5b4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:95f150dd539b4e53c41bd117f717b803
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:befe5e8b52153e9cd149d8b793a066a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:2362ab83a804dd6358679784adc5d535
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:0fbb28f636cb650e2285bd1b3ab4809b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:fb86d1fbf1c13a1880080719d6935122
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:0366b65257f8a7dddedbe90ab07a7685
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:f65d2a3e81aea461b53aec8d15e85fe4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:9bdfc4a3338c1b6b33e369f09f34abbf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:a5892509cb699bd89dc41948369b478c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:f8e6b005e7b4ae9d99c3a9e3072e8589
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:d222f302c531f3b1ea0def86ca7a12fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:fbaf758563801d1ba9704b98ad263fce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:cc5f6ad57187562f1112b8e678ef56d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:975007a048ad7c1542eb050bb3cb8dff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:88e1372c33defbfe9ba3a37c81531884
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:3f745addad18fa1cb8d300ab4eee2c2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahausen einschließlich Neuekrug\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:8bb4ecab34999e19879fda57da74b6af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:c6d028235462255a2f23d50eaab0b794
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:9df291112ccc2775a3b3d411eea7c744
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:5152ea69ba865e050023a6ba5fb28d68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:fb7eaec1b5007f15142d543030a57922
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:425f80219fecf60574dd9301a1a0eb63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:ff20e332d304f31b9e596e4cdd7b35c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:c90ff7a628d172d16ba66aeface0512e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:eb4d9469a7c9598f4954585c7a37ec81
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:91fa9e9cc48b1d6cae14b9a5bf8c4c0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:e082985ac317f35ef322ee101c57f088
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:0e6bbe244edf8c88f9fa0877f5447ce0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:cecf4619d4a9edf881e1ef0040b00af5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:ddee835cb95af16b622ac60aba1627e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:7fe4f3280ea870963e4da90bebeeac5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:3d640e6be062b376023e9c2ab042a463
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:fb2526b3fa70987efbc69c65edac7343
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:fdfa5409d4771d879611ad9b4e524819
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:043bd221327664beb374047f72c03d6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:7aa46ea2ff2d87ac4d5329380e83df79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:76740b10f9494451df5c9d94350fe5ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:0237993f5ef3cbc326af55ff10ddbc9b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:8274765ae1cde6237fafee61f2b82c33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:071a998ab12f8d411037d3c9849a7800
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:80646c64ffd0f61654abb5200a5562a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:4c1a6217ae5467257f68c8dd88824902
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahausen einschließlich Neuekrug\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:d12e39226bf0f098d16a6c19bc3eaf6f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Hahausen einschließlich Neuekrug\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Hahausen einschließlich Neuekrug
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:a087372502f9c4df6815abdb68258007
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Hahausen einschließlich Neuekrug\n \n
+END:VEVENT
+END:VCALENDAR

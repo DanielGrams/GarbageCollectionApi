@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:95cab0270ffb48f204828656a8476d7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:9b90b9ab2a90d5c3c39390c71a1af7a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Wildemann\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0fc4abe11dde76608895812d5a28f85f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6958b521d1cf40de686fa8170f8e8c54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fb45bb8d5943754cef7e7b0a2c1aa88e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e41d2321a712598962242bc4b4602e55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:63e0e24d5c2bb02604fbf45ebac039f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2b53a9e79b4414a5e30cd23dee32da6f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fa03c96929f73ea3ac5df3ebbbc0968d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a0a6b8a2e3cad960da9fc3a66680f932
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3c41da07ce12ecbd76894370988a2782
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:57b9eba23770e6bfddf66912e95d1367
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1bb7ca09d45159c9bce0f2917ceadcd5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0952d5740adb9ae1ff4ac52b3ca35c87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:78bd25323fc4bdda5f93d4d33e7a539d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4ed9af92c83d3be74e8f13618c6dc0e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:07500cb1d6521934b3490d0b3ff22790
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3d51a5e199776c7b6ba15e44bd6f3ff6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9fb596a1be70b8b4545f1aed7de51656
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b755acc08316089f8335be34ca47c945
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9661690adb954342ec20fcf807ce365d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:22c9d506739a2b807c549224cd278af1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4f823a3cb7dbbadfee3bd0511011c2bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4e1c48c14ea6a3edcbee9f6c45dc96d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1260414467e986ea54c72fbb767ba0c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dfe825da054aac85f3185a9d8a5e46e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f6f7e6266cc9984ab68c8226345be032
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f7c93cad4e72cf9fdf8ddd9c609b88b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wildemann\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:cdae98b778939a1aced305153b50c24c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b4d2058624bdaf84c6c96b2c30236908
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:107576b44716578b827feee71a30f2aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:739564769ef2e0929166c00a1a965e4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:30dbdfa10a7796ff5a58a54098b5152a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:831e123369daeb9a39fadc2df9112088
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e9e2aa435743963c76bd4ccc01301089
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b738ba433473ace9cfd5f7fa9ac00ecd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:63d1af943016a94bd7798360b04c4fc4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8a94152851b6a54af6e1f26e70cbce2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:414604dfb12021b781d901aa854324d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:fe7629ba4ba11c950e1ae1280ff22495
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0f1b15cd9d9fd0063c5c26c1228eb05d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wildemann\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:982e91ec09f038236bd3f5777baf923d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1bf99e4633777d759ee2833401702ea3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2ff4d88d0d5d172f381d0e9d7b11f7ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:dc6c3bbe31c122e7dd7b6948cc43540c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0d1383451640a679267b818ce89683e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fffdf886b4d270786e379807ce869194
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0fb237ef2d93e1e8f37d6117a7011397
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:cc58c3d7b241576dc1ecc1fa5a34ef3c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a2437e586a002279872ee6d0ced4e096
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1ae672b38798ab4b0ffe4f94d3ba27a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8dc863d22fb0dba485aa5873ce9fc0d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:45ddfa9e665af6c512176eb0c6cafd95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c7d7fdfbf490ba02fe78267e338d6643
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wildemann\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0e79591fe2e3c9ac3ef8bc4a2fb23fe9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0915eaed044055f93a3a8d9789e61705
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b71a48be4e554397176a95941b8c4292
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9f5ca7dfc5cb7e8a36e15fc664f41c79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3b783b0d514597de8b403ebc5230d44a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:344dc5443b3cb2f4c40482ce13a3777d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:239e8507b2152a731f7e6f80d187917d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:19ddbb6a0a6337f0afed0776dd389eb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:95f673d6d034a2e961eec325ade82e19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:298d26627a42870fb5c3b65c138953ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:21dbb4ff63228150c55b1b2a25aa5485
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2533c1c178f4c2ee2cbadf8e5ba72b46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e9fedb815d95f3a472732bd31beab797
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7f202ea09ff8d9aa972190eb577a4c4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:86608c83651577eb60abce72a26ee2ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:26032ed5841886a059e5a32e0196db89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ca26712fd295cc3bcb4b36d081353d70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:00dde73ae43984744275a5c51228cd02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:027b9ef6961ac465104c591f4c4e3386
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9c222164630d426523521526d950f017
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ecdb63402ddcab8e4a8e16d160ca438c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a05e2b56b996de8f9915c4d773712ed2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:18e13a00ebd65c76b3003a115ec008db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9374b7f9b67a0e3bac7a9f0ad142e551
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2dbeb5a36624c33fdb1dd301e55a2a4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ce96ed6537a9dcf7a6255b1623737832
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wildemann\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:36fa50acf11d7a058c414242d1b88618
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Wildemann\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Wildemann
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:7f776b85313f605ab3fa9030cfb1cf63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Wildemann\n \n
+END:VEVENT
+END:VCALENDAR

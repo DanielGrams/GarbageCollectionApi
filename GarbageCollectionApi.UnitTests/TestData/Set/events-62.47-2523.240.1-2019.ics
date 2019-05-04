@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:75e00a68a95247d8bc840d469f9c4ba1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:930241b777521e8dc414d8b8a56fcb8e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Albrecht-von-Groddeck-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:06cfe00440e71acd66d14c36699d55fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:44252fe06469f7891152f3cca68fc539
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:710540079becc32179ae143b52977eac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:28c0372bb71efadcb220aac5dcdd9d9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7afac01cc3ff3579951bc5f3f6dc5c0a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6ffb80508b17d9e151474ef5e00f6523
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9cecc842c44a1af5bd5bf36c16a8ad7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9031bfe4079842490e369eb549ceeffc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:19293c566520b6e12d4ec8e7ebbd3f5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f7bbbefc91ee94c1c4725fb16e326c23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:85303ee1a12cf1dafcdab448b2bfacfc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:878b40e4ddfd2c94e56b0656958fac3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f7f543f2dc0d38d1b396418d1c71dc0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:de5b529e581f8f9092f51d10464b3a56
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:be2be33d9180282264b950079b74130d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e631c37f6dc2bddb009bc847b61ade68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5b5e197a28238eb465da9ef2f3896057
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:60ec586336c95efd0482578d35b25b53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dce7d8d255c589ef2d47260d5ce75dc4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f214ea641647aa78a158fc0ba1ab78d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7a7fbf91fcae2bbb3509b4cbd110d8cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0b589c3c3808673648e530e08b905b21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2c1d5163ae15517892fafcc708f741b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:df1a545529170c5ee876289ff642e6c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9c2fc463e98c01b07056cde044e41305
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7540646434083ae0fdb93750ae513781
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Albrecht-von-Groddeck-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:72147ae1fe516541bbaf496c50513754
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2ecabe8a8d1603989fcde033fecc6a91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:86d9b818dfaa6ccc4a3eb11b6a73543a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b3547ea9768a0a8c4530143a97e8fcc6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a161b762abc622804e14977338ab0724
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:775132bce2366ce70dbe9e1b117eff1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8c46eee406cf5d59d5a73645368f13e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:65d0289a0cec6739d03b3a6e4394196d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b5a79cbed91214c951653f7d4fbbbed9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1d31feac450cbe7772749bdd1b101697
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9f6757d820c79c759a30c726bdc9de5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:abb098da4e79b95a405dd206beb0748a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7d094069774ca7b25b3cfe7fd532bd9f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Albrecht-von-Groddeck-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:5aeca53756e69ac1d3850cb0a5456895
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c0249a38c6543f70da2093970e82e8df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7dbedd389f84baa40b1aa0f20a23a12e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ff4a57d4778cc0adbe313cf172d29139
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9a1411d00d2339db286913f7fb52613c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d6b226dcb0041e7a04ec41d0c50fe2ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:04f50ffd772aaaa0846ff9750ea8e606
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0647b4d3c4803302df451381c43a96ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ac460293dbdce087546f8be8cd50ec3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:becfdb3029d36dd1c06b33c084da600e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9cb1eb165a4d23c164684d60368dbfe4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1f87512c20ba009e579224f2ab6b9249
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:90602ca36917bdb610da2f5218f7c2a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Albrecht-von-Groddeck-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7963a3e03720b392e3c2c626e3417da4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:febabf8a9857424bb796273beec99279
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4518752d7fa6a42b4287477967919f39
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:007042738c7f12fedbce737d110f8361
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5e37e9a5bfe3b60c182542db6ae070a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7f44350d86f40f24563a4a0b8d9816d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fd997e40bdf8fb5fb9fe3ad5dbba3540
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7ca2ad9fd021c9d69d1ce80c919a180c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2052801caab042ec6aa3186031b95e12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1333ad8d21f781f974b167c58c4ff227
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1eaced987e0380767213e171673e0141
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ce7045ef2a40866cebeaf0463b65f767
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:10a1a4491f95715e3c7573ecce9a3f68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a536fc3a039981b0cb27425c8fd97098
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fefae1caf7ac9063fbc74a81104f74c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1526e2c1dbb04ccec01039826db22fbd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7e87d0773d2051517b3324907cdd785b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5d4e80570f76f4c96f1ea8dcb5937e69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:20362b9ee5fff1ebc5a9e0da16aa9225
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d29002a41a824eeb024b5b2dd4c3da90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1da9ee570a251211039e2aa51a3d1521
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:85069a6181ad102c44ebe005e8742701
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a52d5fa8bb7fbfee66c111ca1d83d73b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:dde8b8ba62042ed187390fe458695f1e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3a1d8dde626470fb0f1638bb15e29be9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3997721657850f2ca282c9beba5b85b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Albrecht-von-Groddeck-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:9dd42fcfc1bf9c12826136ee50fba7d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:01107c9c2117389097de9df8b64ab0a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Albrecht-von-Groddeck-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Albrecht-von-Groddeck-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:87c7545a61fbb52c58c568f826feffb3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Albrecht-von-Groddeck-Straße\n \n
+END:VEVENT
+END:VCALENDAR

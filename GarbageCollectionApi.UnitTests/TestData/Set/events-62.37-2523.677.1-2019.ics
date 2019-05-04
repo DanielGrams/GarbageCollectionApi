@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:08764556aece39cc1581fcdf75527940
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:b57d6ea3e89006b32d9a3433e4ce405e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:30a1ad438e2cc1d9b9d38cd529b92e30
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:2c6325e54c3909f67a9e6d1713379736
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:edd966b17ba088f870defb1437b536d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:32c35b6cba4f70aa25b4f05d4510852d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:0725a5f767321121e72d380c989b8c2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:34ab18aee02ca5f6b99ce15880b684f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:077dbf7cd9a0fdf215e23777a5352027
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:6f8ef9e71e5c0e36a233468f2d187424
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:22705f3af06189ccf80c195132d3555e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:6074e9d8ad9efdfe3fbe77b21426097e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:c8be24f13c42b3c7fdb26fc7e67553f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:88d73c4d8eafb2f58c87a0dd71feb637
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:2bfa3842b19f2c0221750896b7490ceb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:22d77213778cd19b17bfb189adc8b65f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:6cf8e666c1556771458ee0dd5376052d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:2df2b8b1cda7529e0d7b23ec9c5047b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:630791c2cc82e7d26bb67599563a5fc3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:37786e7cc63b083875918318ef006d84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:88890b9369b910292384667c4502e790
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:41c36562923f45c31af1888734f5d7c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:f3c1a6caf306f50cd6175ed474ee8182
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:0791ee344d51624afd51209cd2b93b12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:02737916d7261517af971f1ea3c66782
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:7283a5a70a9d56d4eab9a5e6836a3e01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:abb121d018eaa115052789c90945ca14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:b5fa10f99330a2fbd78d74dca2700fa1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:24c1f472f554be0b3910b4b8ee989f0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:2fc23d2bd87373e861ed97f689bc50b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:9fad267d77fdc25595f0ea4f22c5b9e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:e1a2e743a104a008bfa19aeed2b99ed6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:829232d0c654cada4566cc44ab09aa22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:8f51564ff9e0f8c8293cc7acf6a40112
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:eae37870c4a445f7e3dcf5f57e0f2676
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:1a9aa1733b48da123767be0c1a1912f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:1230b8b2d48198ba30d97f000133fca2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:7132e3dc8f1a4c831d7ed8118b781456
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:0cf7de90250fcdc5f5d12e8d1f2683ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:f51d0d0eefe23838034a8219f06b624c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:f34150b9695c9303d8cfcce29a85ef6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:234c6470f2240f3137fc522126213c11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:fe23c722ea67d75333e0554d75631695
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:0c6af2e8985e3a7da42b91b0c45e54bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:64d7ec512b19832affed9f819210f96f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:4c7c10079216f10e2477a5859b261984
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:501cb9d8414ce9f5e41a6c4d05938fac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:10f02c2599d838241a6b971735bbd4b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:aefdfa2de24a4c47da077f7e4a6e8596
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:89296ffa39df3a00ca8f18d3d6c141fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:8c9c0987b149cb54d010ae33fe76d502
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:0588a6c476cfbff2ac0fc9790a99fc21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:5727c69a4ab4de20b257d598da155048
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:ea5e9d58b6c4e113d4644d727c43b17a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:e67feae3d075d432d6343a4db654b922
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:a2624c71bfcef7c87d6ee521786f159e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:a9ab7e69afa2ad661dfb61599a15f092
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:55334d152f6fba6d62af199aaa99e41c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:4f4a7f586847148e30084a972ec82d89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:d21e4b4c59b7580e80c88ed0987649d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:144e2762a2484646176a1f111137cc7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:740fc69f5d4caafa9f52dadaa4570c58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:20084bb6b74c8b1862b081e6eef6ff15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:27cdfce698221e3526b5ea6dc86385c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:e23562accaec9646fce8d6f0e587d516
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:d461fb907cb6f4851bc1c655ee97b9c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:56250d9f17291ffa7f65eea376a2924c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:1cb4fa48b7ce6bcdb13ed49c03417e2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:132adbb0d842c3e41dbbed7314d7c650
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:942c2ef37d1f654a77bee40b2f35b828
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:9dd43441d71e6bb78ce103315aa1ffb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:69a2e81d8561d28593b99394d77d6082
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:e4ad53006720b49a8ecd0266337f335a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:4f46730f94b2cee5cdf7c8525e8301a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:874d679f3e8934c8dc21cf2bba4922ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:226c1cd020c89826ac9c95fd33125c89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:0117d042d544d5cf8e55ae09abc5fb2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:8a380ad8a8a4fa0fd848d960e95f9e18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:adc768664125c95f33abd6e07aa2a88a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:81576ec7793da954d988d3db5879c140
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:d6cc96c6166fb6e69160d27302baf315
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:530652b10c4ab094fc7b122b774c129a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:08aa951ff251c6150d4643c616773d10
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Alt Wallmoden einschließlich Ringelheimer Mühle und Könneckenrode\n \n
+END:VEVENT
+END:VCALENDAR

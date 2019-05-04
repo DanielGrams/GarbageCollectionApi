@@ -166,6 +166,8 @@ namespace GarbageCollectionApi.Services.Scraping
 
         public async Task LoadCategoriesAsync(List<Town> towns, CancellationToken cancellationToken)
         {
+            var categories = new List<Category>();
+
             foreach (var town in towns)
             {
                 if (town.Streets == null)
@@ -177,6 +179,12 @@ namespace GarbageCollectionApi.Services.Scraping
                 {
                     cancellationToken.ThrowIfCancellationRequested();
 
+                    if (!this.dataRefreshSettings.Value.RequestCategoriesForEachStreet && categories.Any())
+                    {
+                        street.Categories.AddRange(categories);
+                        continue;
+                    }
+
                     var document = await this.documentLoader.LoadCategoriesDocumentAsync(town.Id, street.Id, this.browsingContext, cancellationToken).ConfigureAwait(false);
                     var checkboxes = document.QuerySelectorAll("input").Where(m =>
                     {
@@ -184,7 +192,7 @@ namespace GarbageCollectionApi.Services.Scraping
                             m.HasAttribute("name") && m.GetAttribute("name") == "abfart[]";
                     });
 
-                    var categories = new List<Category>();
+                    categories.Clear();
                     foreach (var checkbox in checkboxes)
                     {
                         var elementId = checkbox.GetAttribute("id");

@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:675c7b3f1d63487b877c6aa51dddf5ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:4ecec5581098b6ac6c9e22ef2816db52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Schwarzenbacher Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:96dd1420b24f4bb9f8cc7adf0f16e278
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ef79934fa54964cf4884c4a46c682de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5a1734f6b16afc1a529c14bb3cc0d8dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b411c7d077aca5f04d8b7d52156ddf0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ac9e1e6a3253687cb8009100964591da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:75bce0c6959ae7595c3a28ff8f63d8f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:793f67d74fab3ba921b26cb9befb70a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:95acebd4ab77590e895d74efc5b212ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:94122fbd0903569a9c10710f35dd7658
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0e892c28ae777f1c1932527d1e806cec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e7327ab5fe63dcef72f17b7c6190f9ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8bddaa56ee3d12533be3ee2d0393b409
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:03e2609bb840b199fdb65b3dafb8c542
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d6a2a6b3283ec2816f8f13e3f6b64b54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ee20fcb001e2d54624f56827781a0c54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:04fac10bec176c29e301f3cfa503f708
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f27ac82f606bd97d4ab8d989160d210c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4b967811b08659ebb4cf9c397369cf56
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f51befa1e51aaf816579ad9acb67adf0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d1a9e479e44ef55be45c6a5bcb1b20a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b994f54902394ac9229aaecb00938748
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ee39ad223ffd9f5936133ee7962e5dca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:61f544add09dfa9356ddfed86059a958
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:60f32dd711cfef5c58e234157af3462b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:feb071c622790167be73e5e61d585993
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cbcad7dcdd797043382670e34b3faa76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schwarzenbacher Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b2a24082de3ae0ee1d8f64219433353a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b4e9bf23662535c8b26d8747e9d02891
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4840b498f85a63f2b727f5386f4c7981
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f038ae87598f3ccb408ef1229157f341
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3c0fd5817ce0c027747d61e72520c6e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:06a2f37ee783d28fb72fbb214bb87317
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:066b78ee0690c3dc5d8605d9b4f11478
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:fbe797da95600ff69642cb654befb58b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:30d2e4825801441522fe54c0fa8b7fd9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1e2ca3bb759e398b565825b42974fd34
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:12a357b515def5fa03ba65bc47260d23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:850690423cb393c99fda76d1e74246a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b5b097ecd450764137ffa7d7577d873a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schwarzenbacher Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:86850b14555ed407c2530ff7aa08c314
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:eebcfb5b818c674c9947dd9ecebbb3a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4896b0d1bd0e51f059af0c15cd8e9b8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:92c0cc90f02718b55483c4c45dc91eb7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:cf93b43f83acccc3b6408b777ce9b956
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9f1c982f1df2d6ca178f94f4bbcc060d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d0f2ed9e5b5226a617a45e2df2c83c6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d831087338501719effa6ef4ad24701f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0f5adc48c8414157bd10e8f257b08700
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3cc265f0f75713f19570896701f73bbf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:144ad6ae7fe0eebc86065e6be7239a46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2cdad095c5ae509562b75147e966dd9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1ec0fcf98b72b80510585906fc6b0863
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schwarzenbacher Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5bc791aa761225b23f4868d769de7b1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b8e518fc93e3652dd65d0f235b10479d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0614b2f7fdbba711aaf5017eb0c7013b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:adc25be759cb9f4f82ddd9e14e5630a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:44825a3f8716dec449c90a9b908d4eb9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c72409981a339fa5831ae85da53b4d9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:64f4d53027c8bc9675d34ddc9cec48e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8a6750f2c6f2fb8e1996b0f6a5568211
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:849ede820d0643605b1e48e480ef48d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:112cd169a27c0b91fd6193c6a07d1052
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:91d3e3ab4f9f9b433e1fb6eb55c0fb7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bdaa266623c404ebc5cb69c1e77d9341
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:058fdf2775b53994fef7e809eb90efad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:12838ac1518e4c140b0f00876bf360df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f7c75815db4127047989b09761005467
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:36363230203c2c01e2d613e4b9d6b877
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fa2a7af13f8f7bf147d22c7ed2273ee8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1d6d87725913bd2b19369e244e2b05b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cc376f68669af4ce4e57eaf1afe3eac9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:427c93f0a03bc896d60e332160e4978e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2654bf3ddd9a3b4d2f0426acb335bcf9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:52b1ab5a137df0a4390ed59a358128e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:091b2baeab267339b63bdbd23bb93f2d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:25f77f8bf1ba35b16b8a5a9acb541648
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:96086d74cffd604305cd2152aba9d40a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4bcbbd603129cec727568944f63639dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schwarzenbacher Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:22187de4781aeef1fe9670c91fd187b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Schwarzenbacher Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Schwarzenbacher Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:810d04bb50de1a56daa8d26ffb3290d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Schwarzenbacher Straße\n \n
+END:VEVENT
+END:VCALENDAR

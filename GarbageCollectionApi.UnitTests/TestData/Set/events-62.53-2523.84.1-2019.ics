@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:b7a593543721ab2b57125b793f8550ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:8e380dce3a11036d7f109d5c5ad43326
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Juliushaller Parkplatz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:7487360b223d53745f4c70cb93d711ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:a4c659e0c0ec4350177c3b2f6063cf15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:3779847bfebf315c06e190cdbfbe1c4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:a8ca6532ef6af4b6b979c49a65c7153c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:4a6ca603ffd9ba72b1b0b8b60439dd1c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:983f2edc7746b1d26a826e3e1f2627c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:1b443df9476b6f72e69d06ed2e8e98bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:eeccca004e57cbd986d660673829cd7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:f962f2478c988470efa9529bc4587cc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:0d273c183b1d3df00fb158b3dbe1058f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:02447e6e86ff697a57679b51254b344f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:a3faa0c74f073ebe21e5ae043aee70cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:2204e01c466930e7ea8b174823aae641
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:cf8a8f92497d00e745a4269d0f37bc7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:b4bf1a2c2b4b879cb0c45f3b0e4aa451
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:baac976f0ce560a711d498e851af9a0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:f11f1fa37fa6c1180948d6d268260304
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:5f4667a4e1d8fe661a39458f6b1244d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:48d73117d26ffc4ca19e398a795f4275
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:e4d9be1629700ba7e142b5e5ae9acf8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:36e1b2ee30772bbe4e21db8058a6396d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:ecbd9e18614dab2a2f25a34497f7f8a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:85439a096c738a1592608782abff6fc8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:70c34f6bc9810b34d2d5efbd7d6221e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:df335614e1ab9bdfd6b8981fb531d013
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Biotonne: Bad Harzburg
+UID:c97c294150147d0866e245375e2a47e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne - Juliushaller Parkplatz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:7b3b342cb62b029c7010cf15d2dd8510
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:1dd9bfe36d9c1c99c8b570448a5b649f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:72e33ead0dc70336038193e597e43a2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:4d4c3a39816f38f7ec3bc425df41e430
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:5fa6639ac02cdf6ab06c49b6a9b95e12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:d8403e7d338f8dae0d17234be7c8e6a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:63e3113cc83a2668b4fd5273d58836d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:8fbb62161baaaa5e4507788dd894b9fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:f0c57ba422d4b95bbdc6399060c3424f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:b3151dcd3799e069bd35937a51305f32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:89c16d44a543d01635583ce70b06058b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:0640f8b54a4fc12c5628ad465e8a07f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:1362eb165d99e9d216718525aec7fec8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Juliushaller Parkplatz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:e8d4255c63997e6daaa8a7096d5f4a5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:4e05a27d7fafc6c3a9f81cb4e002b814
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:eaefe0125c1aee3cac9ed0292db67dac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:55bb0ce8827bc6a6fbfd9c5931f0dae1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:abeab1bfdfe875e07ddac620ea6773a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:4c0b14182e3c8d3cb7676371a9257f7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:f82f2ca1a93fa72ea60d70a2758dabfc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:627e28ef12f44dd5a328c8bcfb1f7e55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:371300d7192f204344c624336e8a696a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:6d693e1792f1e4ded4efcb67a9e5d7ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:c45d4eb9eaa55e9d95d61a2ff6d7ea10
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:c17f2eb92d796c7a8e4a85658c2f7de4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:cd0a51a759c9eecfe91a1ca49cf294bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Juliushaller Parkplatz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:b7ade4f509375e04349d22dfe2098d3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:09cad22f777783128fdb966c7eee821d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e781cccc27ce3908c8efba7417b97cf0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:04228d788e4f0e9939cd9f7c89aa9b8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:02981180ca4da1d2fc04c8b4df35a9b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:7e37b8bf218f43fc23586fe06ebe7b91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:08546e8c386b60c45c9c6dffc6895ce9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:5116d33832ffb243010f456896b2bae2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:82e48795dae0c88207acbb31057c18d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4a8c2925996ee040adee8d5e3b560f82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:128e22797da9071a02f2a24676bf9aef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:dd816a97982989fc7cfb9ea47ef0b0be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:29251568b22bc57a1b74c843639f7bd9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a9483e87654f9ff214f8b064b1ff0981
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:da6b74e4529a9d0c78a75726283576cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:9c259f2d351b426a95b809e34c77618d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:fee010c9ca9eac7b98ff896d1ea5d472
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:3ea49856a8c44742fb1c67f319d7539c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:3e6d7418272271c4e9c344f4cc21d194
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a486a1499c87af4369f8cd8749ab3fdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:81c63b2e027c4ce42ceca1a0ba97a296
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:cc909b944c42031c4c31f2c4c5e29582
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:67b688c9276a3f9b2355c16e59afcda9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:0ed9ff91ff165c33b3038f968d7741f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e05d8f628dacb0d3a13d8173c55dd57f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:f4cb71363a3195a47567eaec577b0cbc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne - Juliushaller Parkplatz\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:3dd614e5e954768b2fd34b74740fe651
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Juliushaller Parkplatz\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Juliushaller Parkplatz
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:3e2947c02b345ca6be8e1b32fed7b055
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Juliushaller Parkplatz\n \n
+END:VEVENT
+END:VCALENDAR

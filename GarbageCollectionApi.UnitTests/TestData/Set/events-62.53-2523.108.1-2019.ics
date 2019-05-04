@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:796d6cc92fc62590e1e87088088d0fb4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:4632bcbfbaaacbc8bf669f3b0d4ea59f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Schlewecke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:d486ea941d52b3081945b1782746870c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:b71a4ac67a83ceb5fe335d6c5fbb5927
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:297d55ef19464475afb183f34ce683c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:93a6cda26e23154529652d822820b42a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:b5fef01693cb24acb6d5a62106acac4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:a05b6159d2aacf514451dceb09342a54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:41791a8ea2fac13e2455f976245a5e83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:2f7fbc6ffe8eec6d5bed431a1d293c79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:4e42f8ac35ec4d69e41b46fe27f31e20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:292066f9062166afd913463eca1cd163
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:8f988d03855a89fd35a33747858603f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:fa3db2ad152ad0378ebb05212195c560
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:daec0fd7818330a5e546e13b07b03d32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:d8327cc0099f3bb515fcf198c910ab0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:be271486f1f7b5939d080faf7c43eeb2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:a3d98e17e77c8ec167b87941535496dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:db01b822c39c9cd5c2b6599b3dbce486
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:4b3c62beac8519cb416b3ff5b01a42cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:ee0cb453e31bf011a59c200fe5c724a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:e93152dd694b96b32a6a8a83054aac97
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:67f3b5b595f2640d97d03431c481a9d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:016ae1fbca47d67681ea4e0f834396f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:45d8ceb0d4cd3ff286ee0b1b3347a1d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:1719a790bc18adc27a1359ee0cea69ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:bfab72f776009542c2e3242b2fd06fb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Biotonne: Bad Harzburg
+UID:e6d83dbb3e3967f5bf3b562dc0a07f70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schlewecke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:4c579d6ee429c109eadf80c3ec34bb1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:af33d770d2b47062bf5247f0649b30f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:8e50725fb94218b287be3005f8e388db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:f0963f9ddd156b0336a85a2b4a03eeb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:9388d598eb47a9e0f5bfc421b9770ebf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:dfcf86c8f2bcc9c7cd4656dbcd60a7fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:70a7f56ef37c9ac29a5c7e414bb38e86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:5ba23752d9b255bc6c2061be333b7bd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:0986c577044ee10366bec45ce9fb583f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:71bec11f25c21d295bf9ef5861139145
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:913a0ccb8612778423fded5696adbbb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:b0de87c4e2b62f758f80e783e6143dad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:c4b7fde79138f529211d89d87dd234fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schlewecke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:238597cfdd76cb4c416a26ccf053eb87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:666b00711c90fb1d7c7cf638c1c81ab2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:6c05ff8615a4dcb05f171dc80edc22c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:ddafd65276ca7c727b0e5b6aa54d104c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:bf5c46b9a162490bd95778f15ac3b94a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:2ea83cd2109e3167bf835646dff57587
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:f3de41dd92db9713183402d299e8febd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:71a0dba599b88b31712892e0f17f787c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:57e3f4710fd2ad04af09265b572fc052
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:71cbfb557ea9b35011ea96dbbc666e0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:efbb116a192a555e54907f248b15f178
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:064ee130e7ca5bd8fa17839c3d92ecac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:78e48e89a1488a88feed1aac1ed4f3e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schlewecke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4fe707ad75e600e831ac889ec8cb92e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:f36eb010cead48bb5ecfa5611bc6b669
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:3be421d618e9ae60cbc083e763178f83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:6d44a41673a948cdb09e3484737b80c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:96d4689667c0279ee8e5ada09e6a089d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:38bdd320151ce1c56322eb74843c185e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:00f269f654f4f334d21005fcc4a4dc03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:b8529939067a4fd6864efd53a49feff7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:dd0fe8c3b11d07a8b022f3cf7582a908
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:447711f70dba7983201a06b75601efee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e0783c38d71456a7a4246f2b3eb22359
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4678d3e60cdbab907dd729fab0afb4a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:ca1b95276fb5aa84245fe423980b6a0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:b2055688357a143293439e7966102928
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:11c125a78e78c879f543f10c22a36af5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:370e1a61567247383ab52ae81c0aa956
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:1e035f4b709ee5c917894e081e346360
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:06e18e51fb5fbad49e9a62addfe9d93e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:bde476463caec6fa4acd7730ef742497
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:bda25dfa867f0c8ec61f73a2476904ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:ed90030840992ecce7c81ecf99b4f053
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:c092f222244b0f47da6aca547a1eb4b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:829bc70a3c98c9e2c82e73d7d2cf6049
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:0e4c9fc38e270f43426d62cd525a234d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4eb64b7630c051f20ff70a7c046b9fe5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:b431c83c9756ae8c2ccc133f073ef3c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schlewecke\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:08bf0fd43735a726c59e7e7907efa15f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Schlewecke\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Schlewecke
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:82e285dc6292e521c48c7ff668a61c80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Schlewecke\n \n
+END:VEVENT
+END:VCALENDAR

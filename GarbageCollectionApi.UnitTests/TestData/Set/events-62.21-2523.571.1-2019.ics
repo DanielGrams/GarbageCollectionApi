@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:cc669fca525d09c7fad06ff16f5fd093
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Braunschweiger Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:0c492bd33b8c247bfa87bafded5464fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Braunschweiger Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:fadeaf9177c105b881e8c74981ffe68a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:b5af4c9d61e2d4080eb1162d60eaf101
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:e117aab4bf6f6caec30641986d387b6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:a93b655b97c59db693e98b998e417fa6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:3eaec755b0c35f9ce00ac29e4ff2642f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:77820b82314d05aa7a532d27f8bd15c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:3eb354d14025173d8811ab32a60dfa6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:6640c90fddc3b8f89acc3a2d56c3d351
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:e867604a2c9a6f7fcfb32801f8075ed2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:5546767ba1abfbe87724afb2a88f0f06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:a487ad7a75e1001b2f14ce19b7d20969
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:9234627c39926054b085b37f7b24364a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:fdec7541294574af8e044168ac37e9a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:24a998cf4d9f311374a1222382c3f884
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:0ed5f703ba0c0f02070548f617bb799f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:1289e6e0b8f6edcf0ab77faf35b0842c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:60ff0cca585c1487a49fbc56a0a80c83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:ca88a97a0ed3dcac0b6149f55f4ce338
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:023bf8d41a62a5c2c3233cbec97ec6b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:e65d4473f7c1b8e5a8b7182d06b2ad8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:839aba42e116ee0843a0a41d0dfad137
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:bf2e98685314e863dee92f023e6d1d43
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:4ee11613cd490ba2b7dc52ad0d2883d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:5f746e5e34e106d7a4105deb3a41887e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:aa53ec46fc1da204c01ff0880d406d04
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Biotonne: Langelsheim
+UID:49d9e923dd142839f35256112ae97ddb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Braunschweiger Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:5565d77a0aadc12cd4de360ef487d277
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:bc4e8013afc89ca36374327558a28e8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:79a7bef90fa2eed3a66813d5d6873b47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:8f26c2f700e24108ab2064d527a08e42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:2e4df4f5dce755af475c66a2e6d019c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:42090711e5a70b96c64085f8c3c81f8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:663d25427ee7cd40e69382d01e7e8b4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:5b882fc2bfc9723b7604358ce5a2d224
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:3ee48ca2ce030bee55949bf68e327771
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:b48d1aa7c99bf66c72cb06154ac8b9fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:3eb0a5dbdd3a96793c91257fb407f6f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:8b0c71911fce76101ebfee17ec21e756
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ef65ebe47911dcd92b956fdfbaab3f21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Braunschweiger Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:23222855d723ec5c7403901320bca9e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:c8f3c6e16d694ab11c4dc02c7cb91bf1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:236fc8d77307c7b06378c4be6ed69be7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:9ae6233e5831a3f847510b7fb5583305
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:969a41f5c56874193e154523dc2e1957
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:aac30a2a1cfac31c7431cf62b042493e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:babad0e9f164b748d83e957a2fd5ea2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:976fade4546510c5910ede646d554795
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:473efeba48c04b5e911edf4be5af3562
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:6b076078612e7a8910cda73d9c32752f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:7ac1f3970c9fa54cbc6c989d6f76113d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:03f2c19a13b2b0c1dbe4ca7ef0775f94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:392e7f92a40dfc8be4ef15e2c434a0e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Braunschweiger Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:47bf88eddccbc56bd252b5085ca7f49f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:0aba5a52f813dd38076958613df498c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:223497727afc5bd1ead25571d346ae7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:34db705c18b41263ef0869221d542e06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:ec08b77e9f1f194c5a3bbd9bd41fab27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d568f5fc0a6c5b677c06a6d4641bd62b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:cea6d1f39e859c57d4f48a3fc2fd8069
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:a6c6f7014f4c8d41fc4d324d52187233
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:f969142395ad96564a35f9f4c46f4f68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:412d447bdba45d6a8d16fc16ca46759e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:e1331f77092c3bc807c858a081d698e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d94dfdbe11a38a99300eef895165cc4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:a6ce8aa9f4b9fa1c81197acfd4260a4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:1c8546e05c594b7c2e09bfe7ab9c8755
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:ee6c06a9e51347808e38d1ba7462ce3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:abeb3de9dd338803afc91048131f4698
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:89921aeeb65c1dcd6b52f9ae817e21ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:6424965dc374f30a1d79aa0780595afa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:fbd788b82456e188b1c9d9c0f975be17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:89fd0a9e2c7a877f1cc2b3545879bbeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:e25da49a2375f768d6eca41b65da8d74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:7983bb59c3e24fe088ccd77efc902230
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:ddf49df9ddda21dd19507fa977deca35
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8a8207c37d57a29a6f013ea6bc584805
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:b66ed6ddcad224311c26f59a15b65507
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:83c32cd5ced8f0f580e62b51588afb90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Braunschweiger Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:84ee47dd463bf00c0ec14c4b298fe158
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Braunschweiger Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:00af2cb84d9689132a36eedccc425fc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Braunschweiger Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Braunschweiger Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:2d19703a4866a9472be8cc362eb9fb9f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Braunschweiger Straße\n \n
+END:VEVENT
+END:VCALENDAR

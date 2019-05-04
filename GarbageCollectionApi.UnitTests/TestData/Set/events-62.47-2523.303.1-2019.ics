@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:6d8ddc2030bb9cfa56933c23d14f6446
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Hüttenstraße\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:04b9b479f7a3d6787414421f87751253
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Hüttenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:103d036d56fff4f55bd1c69bc61642b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:384e5331bb49edcfda234f1599175377
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d290e707b7a2df827bab29dba5dab965
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6b7958e7976d9f1645523955c4dca7da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cd07563925174caa5ac168b03295123a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8f7ad88efc93cd38bc571bec5a303845
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:afd44a7ed98260be3c043d9ee7b0249c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ad8bc6e66ee2bd34f37aef9e820f89e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:34c48ad6e44ea55a910c0a0c9b3fee63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bf517287f43606a629ae11f854e18fec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:34e4ce2deab48ba81229343e14c1255a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a48949ae8e41f185d1c0c7906922065f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f0c650fd72e216cdd63ed84d7d1b4e23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ba0bdef9a4e895c7d39cbf2e85a23752
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:903e26102fc8f21138897cc773d7842e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ade38f8be1a5d486d72f7512b9846b4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9bae05ea58417ff5d9e5cf970c440430
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cf3e5123ebb1d13609451967ef0fc8e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:64fcef506d7f6aa81eb10d83640fed90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ce3ce62b53f4adcd7d1416ac7d0e8adf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ec92dd2f7e9f27c3d890fb6835263fe8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:772eef596a20037b7508675afb24cd67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a48ecae32ce6eb2cfaffcc47385293c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5805196630b126968e3beede43c5fa47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:01f84a9f18e04d767ed7b71f1c880fc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c3cb2f42c24f963eb4ad00d2a6bdcb43
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hüttenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:823172284c89a4dafb207d80695d6c72
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3e0fa53d5d742f9e334b79cae71a73e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6109abcc473a28c82f00a2b3702ad54e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9ff03cdf921eb365a6844a79f9fc38be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a870ff3698e8fc6861831f618f5004ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:fb3ec92d0573dd76d26dacf009723d68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:afe6c9a568eaeb8a77868bc696f4edc0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7191e3e2b2702f14d001aee71e491186
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8d497abca30f85c81ebce1b406dd8b69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0c378c3dc16fa3d94b96e3a72ee9a6ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f6067f802af336950708db2dcaf09b01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:85d2a24c2fd05764cc5c218e33ecdabd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3316badc1378282c3eb01ea08f86f8f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hüttenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6c65ecbc0b6c211bf5bea4eab6057191
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f030c997c63f6865d09b2dab8b7923f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:47664a7b377f505170be88f0d186ec44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9fd11f73d71c29f8362ff68626208388
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:09e5fd3ac9defb148079eadfc09aaccc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:206de37371aa4b9cc3ebe6a37056b088
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1a0b4bf97494e819b108316b6b7d94f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9483a473b601e6b79a5ce5e949f41da5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8f5b27524476fbf43d7331557bf47db1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:539db3658973920dde77c9f2833efae2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9f6bcb24a1d8a02520bc6c8e8cb8cddc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:35698bdd141457a6d5db9323489bf2f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fd85cea25c8e7a26100317c0d0380a58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hüttenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7d331ffb52145026253a669086a8b6f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fb53352813d66d07ce8d8bddc2ba54d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:62c50db92334094c98bfb39af02970da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e621806e575336aa5a2b93f0260f2897
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1219db4227d8a52a8cb7d2f5920fa678
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ea77ef68de1c8b5e7f8dba7427f6537a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d11a1a2e7712e5f74deb517b4a27fe83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b280c9af1c4ec6ef0ffcb2938122575e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0ed31cb395554c35020ea712004decb7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8e55b9e060f78e4f0312e68d488fc7b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5cf5d6ee92370bf3293e771b7431dc0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bd5abc75771ef3904233e10cf2bd44a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cda0b9aa8b35cac18270a2f15381add1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2655ff7bf119382045ecffdff365313f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4f05dcb7ed8721487116971323c49cc3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d068a79b325734c1e4c3bf7e1a34943a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:61a854d0ba7ba910e8a611a30d1f9d61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3c6a157edc7daf3f88953f167445cfeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d49980c3cf49efa68ac89512b2cb728e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3b2ce6887624bf115890d8ecfb8e8442
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:18fcafae725b0afd3ef232415555cf41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3d855fb46ced2b1ea84a635ca6c16230
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7e35e1be1feb67543810e47a8a456c6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c42f7d0fb71240d0c8ee243bd0b142d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:04cdcea279b56bda8bc31a62d7dc919b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c8287ef3f3823d5ff51f08d161bcd4f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hüttenstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:ec0311e77207ea581f6cfc0e7698ce41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Hüttenstraße\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Hüttenstraße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:7b905baab0ea86951e368f9dfbba8bac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Hüttenstraße\n \n
+END:VEVENT
+END:VCALENDAR

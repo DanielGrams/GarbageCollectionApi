@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:ec695c744783a8acf571e0c228fddbbb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:76859831d9c3098562f90d022cac69d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Nauen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:89fbbefaa5f27ddc08b6e9de090a8113
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:8c3e5f540b786daefa1a7e787461f03f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:81790deaf7b643826a54f1114eb3adb2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:fb7aebba4fd340005abafdc7d4830967
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ea1ea34bbd1e8e6174125784d303334b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:3dffcb207acc5fd21b9facc44a8b01d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:2794330d6948bc50ef8fae440d301a89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:3fcf69b5cbf0bf3451c9946f4d376a73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:bb6b49653134a92e0d8526ff22f304de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ca7b8ca13b0c258b48f6ab7f582981a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:29e0b409ed53f97569ab924520c27ce6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ea07af4eec909e0a28a230fe56768b44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:9bffa6514fe492bc5c8b47f5c41934a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:c793aeb48d9b5f076ba1c4c7eecade01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:3d016b08a42250b7e799bc034166ea71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:368a01af00ecf6c9cdcf9915e3bdcc79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:59db8c9cb828f2bc12d6190c370d92e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:404de39f689ea9e880e22a4ad7f09c11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:f2eb443199f56bbbb9ebaf367bbfd91e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:4bc98798db446f41c2187f2bd04120b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:d051790af84d34fdca424d010a76e153
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:c6da17917439efb284fdd8243ce6625c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:b013e9acab679ae1870aea4d9368f967
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:4651b136af44e3f1ba2c511a3b663c2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:e90629b010ee7626b1123b0132a25304
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:c0a90813d85647c439791c4ffb4e05fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Nauen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:4c6550b3545c26f6e36ce80b8406f09f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:bc5bdf62506f722b0ba1eb1c9efb28d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:a61f92aad41ad610734aea6b12e5707c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:b8e6160ddb46860e8c2c8a42a99234a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:611f16cc0cb56e0222dcc003b64fd770
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:535d0d2775e074e833edc3435af71639
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:3768851ccd3ac56e38f013570da300c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:046f50f640c31af727a16e5d5e43131a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:e22836ce5e8deb5753edb1431051a5f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:324aa5a1296b168c6b7c029fabe2aa7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:5fecf5f9848920adfaabf6778a0f7fee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:bca105f90ca16a9d2eff741a21b6c031
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:8810185fb8adac5e5e5dae77a31f2da2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Nauen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:833000722a5d7ef9ea23a0797b408643
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:70de83c9429a18429f1fcc88ea456c64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:008a81dc3ef2191586057ad5af977609
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:b83d59ca7059b401c29c40314b0ec62d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:b6a0dbc06393dbd57fd30acd5ea55606
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:dfc64d038054170ea2a393fb3a6d53cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:cd492da81e9633de3ea1e9a0bbce1aa9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:02c444ddd4607066f3387c965c307369
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:de1fc82b9af97cc46faebad392ddffb9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:5ed9f71952455b619b8a3bb88debc1b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:7c2af66b2cdcc363500ac665e1901a2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:85c5567738edc8e9f67e3b9afe4da0cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:9bc98b2dbdc28e1af77de6c93fc0a6e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Nauen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:4062a60051a155fcee7a4ebab7341a03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:15486687358b5bda824bb86577f377ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:718a1c489187bc5578cfeb87cea07e7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:034eafba2e7f0d6fc10b849d630ef424
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:ed2c4dd7c6b89badf8c9ee9bb719b05a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:fbfdf9d2981d2e2131eb3fd583942a6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:4503abf2fced81fe8ebd8815214f68e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:999e1c60f5631798fff50aa02227a7ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:5bc3fb7214f3ebd65e0d086b08c5cf0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:fc30c67fb07f25fe9fdabebd17510263
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:aaf0f7e15b5d7e9fe2441581e83ee023
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:ae01f7d56738aaace985d03beaa928b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:afec309479aebbed0873de8b83bf99aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:8e18ec5c5a8e74435e5f76910edeacfa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:71dc2c5eab24b550ca33d3c860bef6f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:25a981b373a55338c62acc5d679f5810
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:7d18347f977fc8167e6bfd673b2d650a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:1f13403211ebeefc954a0957bcba9f25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:38f612eedb1e03927ef37c0cfd37a4d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:eb61e9cea0ca7905f20669d9fbde874c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:a122ee326f530c91635958ea9ac8c3d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:4732bbe833a03f0168addf4ea52c99d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:d3da8ca551096b7a7c7df06227c00982
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:c46638081594f261a5738fbda28fc806
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:fd2fc47f119fe5848eaba46ab9a67fde
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:a5fda83b1d64f2f5221cee3f2cab807a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Nauen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:0289851da9a571483ea763c790a0258f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Nauen\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Nauen
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:bdbf03f43d0ab4c49bc37942fe8c561b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Nauen\n \n
+END:VEVENT
+END:VCALENDAR

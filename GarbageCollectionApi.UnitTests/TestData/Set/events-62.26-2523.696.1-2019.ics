@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Baum- und Strauchschnitt: Seesen
+UID:ee1591c4735bb49f52e9b323a40ad4da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Baum- und Strauchschnitt: Seesen
+UID:6bbb0774bf989cb8ad95f1139ff01382
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Ober- und Unterpanshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:2317ee72444d86e77b5fd75960eee77c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:dd21bcd937cca0bec518df3a4843ccf1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:972efe06a620243434c000e0b065e853
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:f6277b3e08ffbf442d720a3e4a0618da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:79820ae4fc4206307763232487de1afa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:925c03111c23a9f4e17346606c4b96af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:68ec8a07f9f2ba0c4adc06f35b59237a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:383736a77160b2e3e42eb7185e45edeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:841a82faca14f286482153836d8281d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:6e2e8a347c8582e8e38b8d203ae3098b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:e4fe54a51895a58ec280ea012e2bb259
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:89e580448ce24217223f68bc35309c80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:8a78946ac827718dfc5dee2e1a552b9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:464c333f3f59355a063cd4425a07abe3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:287b7cf44ffcee3adb7dd1be676ac824
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:1d5fbcef41198d8b5dd84c059380e794
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:d06fb26258567178757916df1e6da4ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:d9eb1a7be43d4941af307b1a7a9c4234
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:45831bc692110068a3aef9f4bc78a916
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:34eeaaae4ec70bd5a8908175810c96bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:f34501ce581c3682ad2db36fad673478
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:4d5ead2842320afe16e7bc54f842e33d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:f459a0124542cf60bb8632cd5956253e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:78ff6c56cf288b72db0101cc5f7d1cc6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:245f0e4c82ab7bcef89e4185c8e551b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Biotonne: Seesen
+UID:d53c87ad52a49c30ea40294fcea4a746
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ober- und Unterpanshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:14cf9403fd5e9ccdc73ec63571cef928
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:6ee52bf6defd7e1d64947a1b88989739
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:34a93b6252a8ffdc9f70e1468789a0f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:0747e32b341a629a47259b7a6589a71b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:a517a2bc47843921073411912052f8cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:0a3de6947a621da27ef4c2bb10d1a594
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:92b70271fc71dd1005429e08ed60efca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:71227be5aee8469f43a3c3c164afd920
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:f17fd5551bcb3f823d7c212854a3c826
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:66a78b5a1517b5e089a5d83804671be6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:6cedf23c6c96f05e71e85e30ff32e5d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:e80e466b745161ca5162a83b7c364851
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Blaue Tonne: Seesen
+UID:3f6fcde62a4d7f1e8d4bbff978dc739b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ober- und Unterpanshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:f51be6c4e031e77244bafa38bd2cc356
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:d3384119df81ba3175b5359879aa74e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:f5afc0409c6048d8536fdfc61f87963e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:f461caa4047126c6ff1aaf94b5e4b0f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:776d85494ce5fe56725d77383806007c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:83805d53fefd247823635e4b76586eca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:154c9e3e9134871266b12d1404d9ca92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:337eeecef0e2784ae05769dcb3b08bc8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:e094a79a5101796c29246a5d6e1e41de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:e49dff7daf29120b994505096d1de876
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:8de407addcf1ebfbfc4141e699d0f625
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:594bed4176f1ed120864bb07533e2bb7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Gelber Sack: Seesen
+UID:1252304566538c856d584a1c2899e6ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ober- und Unterpanshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:9843d532d8db2d774fbc724a2f3c6204
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:72c7ad43ef25b9107f9119f56490db22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:e79ebdbdda4fe000294a77eac6a7432b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:7a400d3aeee81eb880b675b49afcacf8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:6646b28bd37036bf77862ae701c9928c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:93a543c91a2bfcf496e491d942083ed7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:65436ef1c5d649086528e4c20dece5e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:62e4467cf0df27121880f23fc0e612ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:2bdb7554b700e7b86f3f312977d60615
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:5f1cafac6cfdd9f62d04ab1c19f64ccd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:f702c68f049f5c218624a2a213219f76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:2bca9212a3b8234d51a63a3f6f9b03b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:0e7da6d8f674099da429aa61731c5bfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:bca3843e6fd6d1b7fbdd89e6df042685
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:ba996006f576f9f9b110153f51907bbf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:61aedcbfcedb171eb6172d8fe4363d05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:e3fc851b66eca66c1b4c2b22b530a752
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:eb22e994094a6250133452acc8f29880
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:1e76dfe4f3ba9968bbbb6142c355a75c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:a644bc795b7afe39978810ec0ba85a70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:314864f1152b6d75565fa0f469118138
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:ca6ad1a06adfc26b5e1cecbddb27b828
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:20336bcf9907623153f70489fd1eda4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:491f428d2e561301ff581cebaf55b9df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:bcd667a8e1bdc6bba5dc24c3898ceab2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Restmülltonne: Seesen
+UID:5ca96dacbd8b23ea275ff511ee34f6d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ober- und Unterpanshausen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Weihnachtsbäume: Seesen
+UID:1c1fd9528d1bce91f5fae6083e5410be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ober- und Unterpanshausen\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Seesen -  Ortsteil - Ober- und Unterpanshausen
+SUMMARY:Weihnachtsbäume: Seesen
+UID:2616c252a3fa429035c3a6b1366c6615
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ober- und Unterpanshausen\n \n
+END:VEVENT
+END:VCALENDAR

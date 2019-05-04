@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:8fb130aa784a0354fd00d1a083bcc4fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:495130b78261c0fb180720aecc412505
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Paul-Ernst-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fe4e5162ea5584c32693a5662b23716a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ad8fdabf5fc7655ea6afa03203ad38a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f72b3bdd7a52ec6ae5f0bd9041009202
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b7ad5e5dcbdc3c6c54107d2cd9c01f07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:30aff52775ef0dadc48e22cd71df3227
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b2a5c15088924c61f935d13c2098df9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ccdb85473ac933dc9b73358fc337c7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:311cbfc959198127ba7de6bae7463ecb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f8df54a9c053d5cc995aca40ec44cfdf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:22b83af634c8c58dcb2c7282af3dfcd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d9653d47cab152ba801143a363660714
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:207b479252d683757e1ed6dbfa694237
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6b0e5b958f787fd7206dc8c8893437ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8d36143ea4a3fb8367a4a2e43014cee4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:903f4af74e841102cd6fb3b5c4072841
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b25081f9273b809e33168e213bbbe8ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7a21fdd57acf752c4cad1c1f28369d84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4b7460fb4ee10916a253a1df683ec814
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:95d63f56dc5f05ef58d5f2a0cf5a0f9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e9ce446378d37d03e19aba931eb93d57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e2f1a2205056ec3a5a75c64cb7f5096a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:196b9f4fda8e11f83aa1fe657388b9bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f33172f8d90fdce4ba6a6d886950d3af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5309715e0cec48d1d56387d280f27fd1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2e7352639d605a77797da954bbe1ad26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a96e73744974c7ffe4e8e3ecbcefd47f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Paul-Ernst-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:31f46413ac339efabc10f485b7df7815
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3bccb40e96a631ba81715169358baf8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:506c2f1e51e07032734867d6a7230068
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:13a79c66a37d88a9daa6d61bc991f707
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9c750d54a5eb339b1edda808c8485e44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ea5d20dcc541af6aeb9c4aa5c48ed8ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2c6976c1bc815da98ad595f6d2d85dfb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2e868d0a4bd2f9cf8560aa7754c095cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:219387ee4ca5caa8bcb80722d2136aeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d7bdc100675434c2812c3cfd4e6519ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:339428c6a5a4042c160a6cea00d19c0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0e8279fe166bcfb339690613dca1f9c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:3da66a9850bfba6eedaa20e098e05a16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Paul-Ernst-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:52da839e1a95540aec3f05184f51ec8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c50fb183153f5525691dd2140bf46247
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:857ce077fd63f89b31cc6ee133e83738
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4f9a8affea6c2dd8654b7e0844e18409
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:937e3f055d60be2446c1fe4189039493
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:94031fb86970bdb0ea6f21c1a1360509
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d9323109d253374acf42b8413f3109db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ef2569f427510f6d6b7147403f51eca5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:405d9e8f3ec4581008418db867113f2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1b1a680a79f1c4db4973c36378b0a7b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2581657c30b8b3bff9210bd326840ebe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:33aaffef2d5f12f7b5d6b44f5d49db54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a2c0fca75b209da3bfedafabdad453b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Paul-Ernst-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1d1026a8cc20df05bcca67e96a7ddb11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:980590edb9df16d3a38d895dce1e2485
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4d69e833b4f1db6290c6e0a5692b526b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9ef6142d628da2395e9cf7a5e53f53eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:04107fbf171b1f47ef732c7ed1eacfb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:83f6bee16c1e0f0f85febaec7576022a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:99f1315abaa756f42fb90a84870207e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:10ea413d10f31cdffe28632479d71d09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:70580c401e2fff237be3149b3dbfe25e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c4a7953d6d203a6dd67eb77baf692306
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:305eca9bd7ba4a85f4054887ef110e95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:69ac152f084c2ee5e044dfb433cfa8a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b6641ad3a94adb6ad9579201ebdf7294
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:49cbbe551bdd1949f166d2088d76fe6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6d26c92be7aaf4179060e777b93bcbf5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:413e766856bb3462e4e8cfdcde833ec3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4001d676581b2862a9dff4f5c4e9b856
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:40252a68676dee1228ca7737e28d752f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3d5d5ed3ae1b1f49829e5e21921fe311
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c45a9feb61650d3d27d289ad0c516560
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f28d3a7f31cbe28c89b8bc2d22519a5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5f6aef50fef7e9a8c19c5c5546bb4e2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c123e1f3d758f7ad5652a322bfd000b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d946383aaf77fd4d3308764c7d8722f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:14223f420f0893023bc17ac9b7283db3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0fe2b087e50656c468ec00501b7e7fb4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Paul-Ernst-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:c2d16599b6549daf2333fa004941afe1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Paul-Ernst-Straße\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Paul-Ernst-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:9e3e3ae59ea6df55969cce4b374b305c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Paul-Ernst-Straße\n \n
+END:VEVENT
+END:VCALENDAR

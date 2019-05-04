@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:67f41a4440417cfb3322cb65cda028dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:60c098564c1da29bb3da91b79000291b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Othfresen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:cf1b6293d6dfdeca8b2e363f6a4d73c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:e895d6cd5b606f00032ee148f04edc4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:d964a4f38d17578f426306d5866dff63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:b12edca8247f3430353e2f0b166c5a61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:1d83703f622335cc699c627ae6253030
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:c5212ced0b2b73d45acd5142f478058d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:9d84b1b7cc7610863a11be11bb4adf83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:11f891ff61c35935157df74b0f9ab71a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:57d86d21c2ddc722d807c0d728889842
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:47453a7cce1dc8f7f545bf232c689047
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:3b804a8e917c2439149bda8f6bf61461
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:40ffaf8c7168ce8fbc066d490157879e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:62ce69ba64775f8d6664b45715e0aa8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:6a734e871d7bfee30c9bdb3fe35001f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:aaa0c1ed630d7f0fc476f1ee0e6a9573
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:b92188ebc010e40647df3d055e5e69df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:f8343e7e6f338e4f7dfdb39bb2683358
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:511f4621ebfead4189e98e122e97e5ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:b9b1c14b58606a1d0334eaaae96df58c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:46b54e98b681d81bc6b1e7cd61f85d48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:04d5b1296f5ca204f151dc449db6f649
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:4e0d8fa768d80d0bc3d46cd160870ac0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:f5c181276a8f9a8e425d32fe850e0566
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:0c8a69c2401c918c3167712abe935249
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:61de84fa85cc84660c164fc4375bfc9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Biotonne: Liebenburg
+UID:6353b9af89af9f1f6c9f09e5cce862ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Othfresen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:932a42d563b1a101a8d64239ec3ce603
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c03694bbbb49f38726f39a99735181be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:9b5d815457804b8a4bdb0495c99bae72
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:304197a04d61f7d208daa2772940818f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:7877254e985f468e7e1f0a9d35e74a57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:7aacfacea28b2b05838e1085503ac6f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:712063251f08b54bdba5941962b929b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:78da5fdb1fc6e43485f19b793b7b9917
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:d6ec40c86654f4dcf8e7b4cf025b0323
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:cf38682c51b7b0cd38d77dba2d145aea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:6b0bc7c53ad4538874cd9d134fe3103e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:f1b59461adf52f3237a9f6e6071de304
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:25fa70e0ef68e493b21bdc4f836fcd5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Othfresen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:f3a52e655b0ef1fa674785b3005c887f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:e5f57afcc8acdb63a6cc59e52f26e830
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:0d63b71ab1d9edd5d42cc5b5d5e1a8cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:213eafe9d9aa88608e85dcb706d0a30b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:90c24346ac2907ec4a071945b946830c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:608ab1a13663362ce5e53f5e2addea63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:6ac41971c942a406d8bf654c2367a27d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:b2c52ae1555c6e15441c2ddbf4760473
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:fd1149d7dc5d650032862bdf375dd661
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:0c757576f2e4088a2b4fae8eb0bbe58d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:44d6fc86beddd6159bf3b13b2dba2e33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:ce0ed7b8ef1e00c71567a40321643266
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Gelber Sack: Liebenburg
+UID:d1cf464176df7b2a592837bd120c7ec8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Othfresen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:b34be117efe16f574916a50c0d953349
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:95647675ac2bc62b4b3a516c7873f727
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:1a2cbe90fe81d32335763c854b541027
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:38f509eca5ac431d4175d72940826388
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:f605447329d4160179c1476dd8b35625
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:530a346eb3cc33d75a7c8d5e739d6a07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:be254a002bd834e9f30a6c4d120b2ca9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:6decf1f29dbac24adc98351a1bcb7ac0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:91995f8568a2311b0fe4982075e3a1c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:783a7161bb424436431906f9254a9a24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:6ea32357f033a4019bcd26b2f92947a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:87393de836e4bad48d3c9d069b4d7875
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:f00093bf815e84df1f58a698fe0b1336
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:de8b2cf2641bc68b106210a27aba6854
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:1f5913a1da1762afd9bb72df6dc17e78
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:fb5ce34971280e53d8f444fa08e10ce7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:b3efe99d595cf5e0ec81b8a6ab1f0af8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:ea4156c5ccfcebfdae6e199a0a3830e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:6df66bf33fa06d75be015d5dd4f0fe25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:caf9cad4ea7b8ffab1e6e138fa630a86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:82ddeaad76eb43e3a24fb4036406215b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:ac16718a53ee24ab7a2fc982c2a1761f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:8fe22f09f99e635f4f73ad755a64c637
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:ae6490a3684a30024002307712bc1541
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:9bc04c3a600501716f895d1732697ce9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Restmülltonne: Liebenburg
+UID:004971d3f05d265fb029a9c8393763a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Othfresen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:0b5996dec8a63ce4fc4386a10df48795
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Othfresen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Othfresen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:7cacf9db65e79522fcd4655c40978cfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Othfresen\n \n
+END:VEVENT
+END:VCALENDAR

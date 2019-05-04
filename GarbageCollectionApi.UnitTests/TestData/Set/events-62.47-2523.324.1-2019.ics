@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:53865257c198ae539feffb2a50d103b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:511edcbe0b0614ce6979920cd0f608db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Daniel-Flach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7718535d29d71759efe35d59aa6c8bda
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e45a908b040cbc254a7c458f0ebead30
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2e83ac81dc89a8535b47a2d8037b8bbb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a6129abd963be7389999a6200bf1b4f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8aedca8b811a476ed5532bb25e6fa355
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:18217826556d42802906814a70930cda
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4c925c1156e6b9244864ebd4fb3d1bb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6d7f8a440113427ebd5d6622e27fac20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f7df068fe17304bc0d8594385f6f593e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:14c01715df3c5886cf6111c0c2477950
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0d1f65a16ab16c88179eb24c4fc0543d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e8011f406cd2f567e871f5e0ce551efe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:27eb876fd39081be90ec9036b08c9229
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cb4f37c01b2dc7a22e68eede288ebeb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cc5a2696776e84a7bdc150fc901f79c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bb0e3288f34132c7c6079f763a7b099f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4b16a74cac0077f93ae709cc3a56649b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6f525f11ec5cbf7071c6b66ee69d8e91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:112c2da08f98017c44754702c890202f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0ed468049f6da0b8cc65ba34a0b97d4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2550a604378b9e0b68c4482e79075e59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b92d1c2695685b1057815506acd6a294
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:31b7634416efd9f5b4d96dd34c3d8026
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c42972bd18a3aa67321d89eb58165e7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c838ee1d62c4c09749655ccec65ac564
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d5a11da221d392bb4c53b1ad3a555d7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Daniel-Flach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9cf8324b982b84aaa52be62aa6d20182
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:416b28a9bf48e235d6ce06a37c73a48d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0ea0ea36e0a12d2f0cbeb8f3b8a3a8a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b0ad277f45f356e4a2feca27f3a7c91c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d24d6c2a7f763d63271cebef918b8a22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:95b011f5f25ad4b660a2647f8e0c73a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:707175f895384fd12be82ca55c0e471d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5a1574dc7d05080ee8918acc3b941849
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8ad05bf6df02abec06b7fe030308b6b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b5b22229a1bd855dda3f210e897ef51e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7ab9acea36ccdf7ae318be612aad6c4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:29bc022b7a7ed8d99597ea2dfa7319b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e46e79b1238268376c6eeda685218f0b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Daniel-Flach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:47c33786f9c0d3ad87538dc256646902
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:22d0fc94792fde418d74e0e46aa58131
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:565fc1168d7851532268d4fac78bfd4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e536fa841fde9f47bb3d66ad04cc8297
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1ec83d7f2d20b0c70f7e8122995e5d19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:72020ea1d1e5c39afabae304e3d36e91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:10c7d4d3f6fcfa4d44e4c6102269d57f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f33d3cbb38d85dfebb34c6825e93e1c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b92c3cab5ee83f302f019fef8944cd22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b8ef8db22db44aeba3daf73cf033b32f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fc7b52ad564c5554bfe5050abda53390
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:26977e8dc0954ecf0d32196ad893efe9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:932f7cef4c038213cbae8fe35432f6ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Daniel-Flach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5f4c86204f8eac93169a72c8df244baf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:204cfab420eb6154b36a6f2954f814f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:992a1e47a80dff73a41f79294b4214e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f99ed4052de0d4e1ee1bf17eee32cb00
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:afaf0c9be542a9c514129c19b2684687
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5c3fe98a8def49d8d6f11253254491dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:db6511c944fa61b0133334b271dc33e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:80f0bf04d7d6d361fce6d8f94f633cfd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ca0f162dafd39e1140ea9e7e12855d51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9490dfd4e5ba3d7875943ddafd7638c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8aa4f873e48ad3f45893b1ae261d47e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a5d16100f8601a73e19add30a6cc4105
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2c9817fe9fecf682104e23cc1906ea07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6327cc59275c5974a828da2917bba851
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ef318ecb2eac1b67f760407bc9295bc5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:abf60e1bf823e1ce52bf70f2b2cd187d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3f0ca87916cb360ab85a2f975edc2f16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ac80334c236b8640aaf3b4dbde9bab52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2711f3c0689b639cb818313072a09348
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:235ed8e5c23a751b645d4c4ea41e7bef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a11f4ea98e2e0835e13db3ba01ba8d1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:01093eef2a5d55929d1dff60fbfb2938
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2f29e37c61eca586b300273ac2dce2fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7336541c92f481e6bd505d04a3285877
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6fe0fe476592377dd3ed8aa8769577a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d15ae1fad28ee5ec2f5ef456e0f8fb1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Daniel-Flach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:145ad3ca2f54feb9c083900617bf6cd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Daniel-Flach-Straße\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Daniel-Flach-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:e636724d925690e68d707dbfd892a7a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Daniel-Flach-Straße\n \n
+END:VEVENT
+END:VCALENDAR

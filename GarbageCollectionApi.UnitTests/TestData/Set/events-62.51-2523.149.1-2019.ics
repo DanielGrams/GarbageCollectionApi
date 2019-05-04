@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:e5898b41affa821f93f96945d986cef0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:d50243ce446a6520814f89b39fe3b685
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dr.-Kurt-Schroeder-Promenade\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:de62a0fb6bd64d44014af02126074358
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:52ded08339a317025d49e2ccc7298669
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:62d227bfc91be7872cda15f1832c5b0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:8865133f4f22d8b725461766da0176cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:86dc34c157b84b117b6b60e48497646c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:e1191753929d59cc5e732cd673e7e609
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:0adda3a29672fcf79b7ca38577b465a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:158dbb375bc44ee03322d7fc4d0ba9b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:4a4b7d9cc3b2bda09b861b64e191a469
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:4b4d98bce594ac0a7bc08e28be9bd1e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:38ac931ea7aa5310cf0ca06ea8720b82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:ab94830fcf6c7e11e441a95bd4161fca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:9012516b27d0717432f97557aff96b23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:86026796c9272dd5a460e9c94413f1b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:ffbda1e6ea11feacb4deb0d750fe12e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:d812660e4d4c5b7d155e3c77e28d5ac6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:e6955300e3f3590ac0fa23e3edd2d8b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:d9a4d0bc9ee996494bc3663ac104fb66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:3d1ca6bf72a595696ec1c7f3566c4d4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:834075a9a8174210520f8b60daab69b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:580c9b837a98d1c727ae832947cfb261
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:d0d9717ab8a7a2bbf1ff2e838f14de7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:8a961d2ee5a12c3837893be82d4a198f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:73dad364276e27b2d3bf0454df976348
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:7a64622c9f8c6a06a7b545f090837658
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Biotonne: Braunlage
+UID:b0ff9c9f494b3e31a8e0c9214fbce311
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Kurt-Schroeder-Promenade\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:c822a4c33ceddddf2b67b72b8d395f0a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:195c6ad565174aee612ca7fb5606cad6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:c44b2a309898e214d0a99d8777117521
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:6f1ed9fe95d36fda31da67d29495244a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:e7fa6064664344d9ff019de6a403d9fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:b4db77837596be20cde4fdb07b3a3ee4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:34468a00c06eebcdbfa13a2429a22e2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:f358dab0bd3b5bed5e422e498676293e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:0f54ec148527264f993d5455deeba159
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:18e18313dd9d88a4d5ac998e47324bb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:5eb961a43b181158884c39d5a3943d7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:668e4ae41720e743cd8cfd748324fcee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Blaue Tonne: Braunlage
+UID:cf8513c51acc60fdd36329f578cea3c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Kurt-Schroeder-Promenade\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:4ce85823807261dc7c756787d03ab718
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:a67b8f341e295103c17fb711f1756085
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:895517bb84f0d221953f163ae372b962
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:16dd21b45ecb73dad5ffd26c4785da81
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:c4580bfa072bad1afbdc6cf0a9c4431e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:97e8ec3b9e6bd83bee629fcf53bd3a51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:82c0be7bdcde5b06d7ecf09397be9276
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:a1c1088e024ec5abeeed754a03ff5173
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:561abec30eb54571b5caf8d4837c88a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:2b70e804031f585ab6cab75c3fa9d26e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:6319ef765e8053cb63dea9fa723f6457
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:18791da8ce3acbe6d973541caa2fa198
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Gelber Sack: Braunlage
+UID:5b9915066062b7d61e0a90f480e5683f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Kurt-Schroeder-Promenade\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:1e19dfe78cb268307ec9a4644f270344
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:28b3db406b48e62d3c217a478026ab0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:004d877f8454688bfcce0f62afbdc9e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:123dec06693abfbaa8da6762c834eb95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:ade285fcc7c07b75622ac8ec331cde3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:a5f1357be96acdf74ecc0b5e01cfaccd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:6641916215bd9e306bc114160aa0aa44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:7db385169fee3d00ec7f3f76ffc3f9f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:05e67054f0f18821d9b33f32224dae03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:c9ca2c712f94bd7c9968476715c97931
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:757db1e72472571c60753e158b350bd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:53da3a3d2f57f3eb7045bc7d18dca45c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:f66b1ed3fa1e0f406f7fbf3e79adf947
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:f6a28fedca329756b3ca8795aaa11994
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:1d22ac474137ce88d793c578dc314ca3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:1ee1b0361ed1bd12dba1ba88670039f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:6a8a83b6269354bb4f4e2654d680f217
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:cd63309b4f6014b01278c3687f048293
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:160f6bfaaf98ae03e74bf538474111dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:06387ac1967f16e5ea01358cab2d9009
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:9146cc0409e594a84c34ae17b54a0868
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:9ab3e08ec602368e2c3d4ab8875fe74c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:950cb5db1de5484a4143535bdcc4c461
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:d29298890e90aa52a1fd02b5a8e6fd69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:fa1a8862cded398e0fa4295dea577b94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Restmülltonne: Braunlage
+UID:f6994d4a9f250327ed90e40fc4a9a8b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Kurt-Schroeder-Promenade\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:177b032eed0c794685f5e8bc4fd2aaca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Kurt-Schroeder-Promenade\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Dr.-Kurt-Schroeder-Promenade
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:6471c8a67b9e37f623b0ab3134e22e51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Kurt-Schroeder-Promenade\n \n
+END:VEVENT
+END:VCALENDAR

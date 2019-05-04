@@ -1,0 +1,942 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:097a72847923d6036c98020f2d2757f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:bc864581eb3b19e602f0bf2de17d721c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Neuenkirchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:c91249abeb7bfaeb3099cf0a032d2a01
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:d72d9942bc6b94a80e4b7745de997c77
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:e994ecc37737fa6b760a33247a502edb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:4dab372e08bcec30843fb6e38183aa41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:71442229b8b3346b08231fc7145027d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:840bed32001742c1a6b1261069d2b915
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:7cd65f245a153e5191efee9ad31d7e93
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:d69a605ee86c684787501611c47ed190
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:e7b4ad2bc0ba8664f2655f15016a4bf6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:021dd8ff44198db7e0619c44ff6e54bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:dfa34180f42fd74d8816504fdd80eefe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:fb0156bdce11eec1d2ca1d1f484c16d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:6d2f9f113314bd05168ab64525d87208
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:5a62c95e38ef2386f2e50443a17a2dca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:62117d575d8961e34b2c875f3b1309f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:cfa8846bc182959c8ed4338dada177a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:362262a676a125286b5bc47e2d03d2e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:35b9342a461ff78c990ed3d87caa26c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:28975d2e3220c0ee2a6856ebaf270b9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:cca19f60ae7eb4740f43d060ad1ce01b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:26131ab89898dcd9d8bab8e6e34ea238
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:1c506b96913bd322f7d0421e02687412
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:67ef177b69fd77d2886fc2079bc46328
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:bd0da48b182d082b0d53664d15fbe04e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:017cb49696be2d979fd790078a50879b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:b1e9f0dcc04217232e68f2beacaad10a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 31.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Biotonne: Liebenburg
+UID:5d94898fbfd8246f8ab3f49eabe2ef11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191231
+DTEND;VALUE=DATE:20200101
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Neuenkirchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:7108cbc056dd03449d1c292c43683d7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:533385888ee71cc96a1f2d24f0723d3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:6b4c8439825da91af753bf67b4c40e37
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:f691aace1ec65b940dbb7ea65b4a790e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:9273e99c44d37ae7d6d94740da0bc561
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:cc472bc6fee734b483dbfb14ee034f6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:932d717a50e51f2e8c249b4d1f86f610
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:45446323bbe2448a8e49f4a129769c91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:759581b331e8b75f7b58780d73222001
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:3a4ccc12cbfa9389fd31dc0c0c73c196
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:f33699c023ee3fa512ddac4ff314fd27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:339d376f474a2c6803487770ab824134
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c0fa612bd9c7c85001e2db2568044e80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Neuenkirchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:a2aead4576478bfe8ad47e3e839061c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:bfc46110c3463c6155812d41b8f38218
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:306edc3d07de0412f1e7e60c13ab5d57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:8244dff5f30936c02446ff3dee0f7adc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:d76bcd7ce110fedff7438d5cf9a3a1a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:ed42fe0a004485306e4e5bc7022fba03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:e01737abea446d840b5986c158e56888
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:cdf1f6f5560973cea079ca9884971ae2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:3fae6a16c5e146e113c88dbbd4ab5fc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:8640c04e487827e010a7f91565674864
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:35ace2cb2696bcc2ef8564333df94a1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:261837a873642c1a53e91b90e4502ee1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Gelber Sack: Liebenburg
+UID:976d6ebdfa3f83edff5935dae2389035
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Neuenkirchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:2defb1646b0d921161b9081b44086942
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:207708c21a9b8a18cfd78cadd31da9b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:76309c3588421082a5bf56b1893c9c25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:d09f0cb239bef1d1ab786a709da3746e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:f96130cdbdafb38c3f1aff04516afce1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:80b5cbd44229aaa2b9c1900328434f29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:f45f2f9315feeca257158c5cd8534b42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:eac0aceb4b4a1bce71d6d28b0ddf0ac3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:d9866d2ed4359c43765df7b2f952ec7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:134bbbd523f37bc10ef8059a900e0cf4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:4958e6cd7c33dbf87ca207e97e7cccfc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:255c6cac47e73bc7f68d56e9c1ca490e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:fe349cab961291673f6ed6689fc18e91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:05d0b2bf5abfd24fd829c89df9eba555
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:00269a96fd1b5868c624e4adac3c3df7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:b5648263b876d3950be1d6d3526b3528
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:257da143ad09304d1529e05261bf6c27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:0082245ae4fbf9f544330a49839d6ee3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:deee1f0bf6497e31104d68db66ea9d50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:28bb27bd2caf42bdf81aa8bc73a8865f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:6cf807404768a83f575838e2fc93ac09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:959236f49175f3ee4c7c0f83ed05a9c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:df08779bb9cab310080c715a6968c047
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:107fb885d06d1dd7663aa1a5fe2293b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:e124054727ac2c8cd8f68562fb1a8f61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:6aee340b9834ca55ed6eec18c4ecb82d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 31.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Restmülltonne: Liebenburg
+UID:42fe13a6d14bc7e4afbb4fe96575ce15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191231
+DTEND;VALUE=DATE:20200101
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Neuenkirchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:9d9ead13dc14b2fcf65ae0bcea80cb45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:a6df58889017e7ae1ad153c66d8ce583
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Neuenkirchen\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Neuenkirchen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:90d9322b198c27de86d6b46f64e572a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Neuenkirchen\n \n
+END:VEVENT
+END:VCALENDAR

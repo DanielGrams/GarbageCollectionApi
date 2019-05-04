@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:e36a6b3d19608c26d988aa2e987059fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:722544b8edd2d4e7a89432a7ab222045
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Wolfshagen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:550fb01c0b543cc49d5acbb21cceb22a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:8dfc7867df34c6e640478c9138693c1e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:2c1cecda5a133a032d29c0f6310eab89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:d5a96c11766ae9638acfc4a7d8e294f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:6eb7b62cbe88b617a0833be0101ca9d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:31f8a101627714db5d1c11e146eb2661
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:384b997f55f8dc7fa952bd0831bad632
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:4ee9db0e34bd8928627de6f31f1655c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:4a77c914bc96551b6be331329e856b24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:c88911190d0c0f04455e10890263ad16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:be45896a80e108e3495aea014703ee80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:965b981fe3fba5ace744af8e6cc6a31a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:c5a8a63be430cc9ab29f2eeddf627239
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:adacc888f8805b461ce4fab73602533b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:b6bfd2e03ee48fd403a9f903a7be2551
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:f27d67125b7c6498204302745a04bfc4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:24ade68a596f0eef00242c8370fd5dbb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:2d4b55d91356dbf43ef64724818edc33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:af8237a6a54356ffa0112ba32deb771b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:7326409bc54a0711967d15cea9eabbf7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:4a97d4699af2dd82803d5139583602ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:8c3806c147d337ca0ebf8bf3f4260ba3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:4306ac80d6a0cc99ad07ff60bbf075d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:07a1b16f2aebc3b744e85f61638893a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:d0b92629847cf5f780fa1d55176e15b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Biotonne: Langelsheim
+UID:2b9d34fb549565f17827343b3b17a118
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wolfshagen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:155eb9de62f5fadb7ffeca8a6abee1ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a73afcce6efc4b32233c28e46e82e928
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:8aaa34744349004e60c98495e92b995e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:49ffeb6a63e72530df05cae295aa13a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:c02d05651b269687373bdb73998a4011
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:e14bf6aeb491c2322f4f16876144d148
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:71ac375122a75ac3fab61ee6b03f1554
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:aae24af1c67e70b96162f63d0e2311ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:803f0e3f3d19a8fd84de64bd182f740f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:f28f4fe480a37386284cf1bb31f0a540
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a628d6710caa191b391791a6a750265f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:51ee6cadd1838d3cff390a964a65c826
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9132d1233546ee2fb222082190a8a0f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wolfshagen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:a892a3c4fdc6606bb5cade2d77ae073d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:0abaa1166012fb6bd973e6d476966c74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:cd6b44027491f3286d985301b5a04000
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:79b9eefefa9d95cc5392309de71027b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:c0a069bb2b9256545076b80a8ec84431
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:96cf1d0742cad35f719d24bfea2cc86e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:b84942cd55200ec6511b20f0c4318b57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:d31fc6f5a0ca6c89e88df960a2905209
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:eaf16a9df96ddc68da458069c5314353
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:07638783741b0a72f05b4ce6631bb95d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:e3b5bb43d965e23ae377fabbeb9d8165
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:94c7fb7af0905688c79c0595a0e2c502
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Gelber Sack: Langelsheim
+UID:7aa87a829da16371da43018cda5a8b07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wolfshagen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:aa83ee3c8418b396f412a87895a119b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:26c254a518990c6259fe27e0bdf4ce54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:6c31556d168341ef41fbea48712815c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:c19fa571056940a2b1f10cdeeddd4a0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:1d2a2c33fa6723d1a4715d440534a196
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:5754443fb565ccfb82320a4b6484734d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:1152d5d4c73bd5b2315d41a9d30803f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:f247057d6175e82fbe20f0b83175cd70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:e0f02902ec2f27abd793e9302cebcafa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:50e0566a368f4a6b45abe6bd87cdfbdb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:3b11a4a041191e48de7e90dd4d2d3730
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:6cd41ee318ac567ee222c606c74d1e53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:76e5145fb5642143ccf33b2a1491d2b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:f03a7ae5b6a003d1cd3a1ae918d52d17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:37fdeccaddd86729509437ce6fcbf135
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:39e5ad0bb4b1f14160bc95950338b038
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:43062d4da62efcdaf68633bd70125e7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:2174410d8666e2497d31c791adf67400
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:8b6c50a297d9a203ed05654840760981
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:e83e02225f18a3f875ce54498a427b67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:a2ebc2ef3ed63df9c42d0a736c4fffbf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:583031041b2ac8eec7376ef7f0b91098
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:8cdfef3a09c39d373218a9e233d78a5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:c6e7092bb1c4f433c8b853b9b9dd131e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:57e91b0fb415c37ea95195ee97f021e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Restmülltonne: Langelsheim
+UID:0c6b7f2302291244f0e7f81a7325c8d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wolfshagen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:3d76d7ef9f71cb1aff33c6eeaa0c0b33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Wolfshagen\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Wolfshagen
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:e488c157fb0d778a388aec8737d3d59d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Wolfshagen\n \n
+END:VEVENT
+END:VCALENDAR

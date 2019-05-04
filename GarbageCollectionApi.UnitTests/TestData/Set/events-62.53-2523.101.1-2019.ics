@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:0ef749bdd19700cc7a0edddf659b9bd9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:3a7a7c90c3c4394637c0b532f020b6b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Bettingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:7636fd122e54a76b0e3932e901f69242
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:325fdc6d3e32a9d70a397039b5ae5733
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:9e2612d2d4240b3d1186a1b30593acc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:c42da7545eea0391720a83aa9a8d837a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:64e4b79c69e1ddf43325dc3ced195076
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:d5bdc8c9e765f23cfe6f5ed75e7ec740
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:346dd231ab606500a79edbdbefb22807
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:e60554ff7515a1b6047c1b68ca10e4d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:69eb6a73e7028c6f1ccdea4d720dc3df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:ff9f439b20bc5bca29456cf6da1e9138
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:03b098ae3a6598d2e3cce31b97664592
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:940a14c100263d553ef0dae2e9846623
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:bedda0145bf200059ccd9b2e15fe49b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:a9fa6853e91282c234b29c509c2d9f1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:aca9f6b4b278341608265e3aa3f46de1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:4cc216b95bb1c9f119ac297b3b8df661
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:84e86cc82835da7b3c9235845685efaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:dc2ce5f5e5891d2d3ce1b2ae0d3be88b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:61fb1c82cba34b16112358d921b0cd84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:fd0e5c465dc7ff1750b4cd48702b312c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:d06dd83ec66dd6a010504af4b4bfa524
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:345eddad5bcebe8709f25b62f7b55299
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:d1be372cf24735f4c02e1507673e0991
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:ed98d55257d3b02c31982436bb99f5e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:835055384affe76e764f896d00fc3380
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:47840e5dff83de7d45f6d9c61caa815e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bettingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:37faaf61d9dc7da549dfe337736f9171
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:c8c7358b1b96a701d09fbb847fab7b7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:635699eb422a61bddbf303013bd25f25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:02a4f684124071eaa10d496f3254a9af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:05e92de498d4a4661de66740560084c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:7d645a40f7326f641f2455f3559d19d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:879d99a5666403b4fb9d51bb1d7570dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:712bfbffd529ba5ba250838abccb87b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:bd35fecd7cc93ee8a21bd0bdaa1545a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:b785e33684a270b35eeef292f294cf64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:20987c3ae8ee416912e224e52fa5693a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:f9ad219887a97d78cf39146bbc699cd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:3cba610cf79e984a2d5b4cbceccd2214
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bettingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:42db8e5217de3dba2d5424e884581ac2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:7e61fd6c9182f94ed5faada7a43e93e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:0f150a2aaf8b9bbeb5112d384fbe3b5f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:770041704e81713b3a3ba78b2c859d87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:69d34b8e1792ab1e9cc6c19fe87de59b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:024a2052e84c491b42cc6178bf9ad5ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:e16551c7fc3a3ffc24bc90aaa1be4ed0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:2c7b7811ed2c91ebd883cd124d597116
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:aab604f2bcfd714bf8fc6ea3e50e6993
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:27e2b7160c93bb0e1de23074be5b9ba6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:d54bfc48f5f6a82c28c33a7f31ed9569
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:90685030fb711f3365ad526f75c2f2f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:106efab8d82d3ddb6d662b191dd57eb9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bettingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:dd3f09f8f3fe9201f50654e0c0b06388
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:8a561275305ee7d1ded7c646b34d5932
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:3b06e336f5152d6969a38243681a01c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a110349409f3850442c5713800a1a18f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:49c60097c17f633462154f91a25cd160
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e6f0120d8c5afe73d6ee3fa08e20c2f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4d4451c9227a256760cebc7a65f62f09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:968c14e0aa4476aae374ad5f0ea876ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:172cbbc4eee699416f0cb4e1b5c9f850
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:09cdc4998bb95b55d7f283ff4dc366b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:0e02bc9646eab709fb94dda3a0626008
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:f4f71e8b2cc7853713b0feba704c2bef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:8287debad3af8b4680559a4c2df30e19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:1670265224649e01d1754eafdc8350f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a6bcd6a3e8293cf8772850f74838a04d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:1534b59aec5ded6157b47b15bc962c13
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:2354d63e24038faebb38a28fe24b0a4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:92697a70dbfc0a13c8205aed450daead
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:58737e9efcd2017f9a9bad3b12792fc8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:8b9a991d919439073ff75156783fee59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:dc274c8eab4ab443aabc398cb72e05ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:eb446c71a5019ee9dabf7e840b8424e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:fecaaf459d61da7411280af528836a5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:93c6159fce5aea6cda80dcc58e271d42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:f5ad02a83ea7f83a28662291e78c6c69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:587ce200cd8c1531b4bed3ba83bf0bb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bettingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:74663dc1a9acee89e220751e901d03e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Bettingerode\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Bettingerode
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:d9f476af0f3d99ec4068b4bd49a19264
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Bettingerode\n \n
+END:VEVENT
+END:VCALENDAR

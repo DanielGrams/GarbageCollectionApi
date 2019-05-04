@@ -7,5 +7,7 @@ namespace GarbageCollectionApi.Models
         public int StatusCheckInHours { get; set; }
 
         public int RequestDelayInMs { get; set; }
+
+        public bool RequestCategoriesForEachStreet { get; set; }
     }
 }

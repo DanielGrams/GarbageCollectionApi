@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:26c37e37063777224d5127ba99659303
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:04fbd98cef4a9bc6233fb18c0fb26ba8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Wöltingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:d32b28a55ae502e43ccea6a75ba1b599
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:28921f36189d6ce2df8719020c6ddf7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:2f637e18831e49d4e12f247d267896b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:8e62f7ba9fe556fcff8acff91210bf6f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:2561c62260f46b01c7e9e68cb0233eab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:8a6112ff803db914075ee88942a5795e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:f9666fc9b7331cad5b8d606e2031927a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:a259b3f05fb67424a8d40dce4e2bc83b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:e8deefc26b254689f8dbea840cc2232d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:c56d368f77d8c8c1c9af48e3ff06e3a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:c7e28136b11dd93ce0a1539fbe4e337e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:99acc183dadb2b1cb4fcc3a8f387aba2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:597d32fbac3eee49d3dcb6f643415cb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:bb76b2ef09bcf71a655be5f915bd7073
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:2167f016fd6cc52ecd5d3d303ac1b5cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:aa0f9b17a4f206e76d16770eb0c934bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:46ffdbda84aad127f268224932c7f75a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:f5bdc6535eec2e0222c4c71d5c0064d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:e0f2193c1bd1ee7ab955219f5e9fa181
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:2edd3b683fb9e43c5fe84ed1bad632a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:3906a1fa66e0112ecebe2065136792f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:a7d06084d69148aa9a316a78eed3d897
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:59fe32764d53e374d7eb82132204cacd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:6bc4048619b0e5219138d0c8a3886d2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:256a9ead424ca8401b846b7a17ffbb18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Biotonne: Vienenburg
+UID:58f0a25d36b0d4380d69496cfd67929a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Wöltingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:365e630e6dda9fe2c0fedd7bf7082df1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:e30a4a4fca70ab058d891d1afbbf07e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:fc4b721c437f20346aa3efc5f7d6586b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:13cc9729ee0b99ea3af54ef42766f951
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:044e8caa648f84384112188ea8437b8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:af318f17151b18c74fbe0fa4c21f3397
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:b7116deb9d9dabc24a66992b7907a081
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:880536a43cad2a0cbd79e3d8a7f0d0bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:786503edaaca7dee76c3644a85105368
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:139d93ddcd3f99f202b25eec3952115b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:8ef2c7c9d74ea6179e91fc449fa7d299
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:246558f4b767ea48c505166591cfae1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Blaue Tonne: Vienenburg
+UID:e1b67b99d978a504eb2e577be76713bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Wöltingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:99744cbb2b0713e6386dee4c4b6287f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:bc494b7b9d514437b634b244d642ba86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:279e7ab156561293552f7d3e5bc3d5b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:714cf46686a517fc7ea93dc8633851d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:0aa4bffcf5e9d156badd38a500477202
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:4e5c68417e4de36d39c42f0dec20e00b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:a1ea4ca4292195aa3f6336fca1ab10c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:1a57934d153182ff96bd5c1dc76c558f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:04a3b388ac892dc890efb4e93b0966e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:453bfbe36ba01f78089d479cd83475f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:eed2782188fbeebf0a9c8f5e8d90a9b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:74e3b08336b6a126e714df4b0622a080
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Gelber Sack: Vienenburg
+UID:b59a6797b0de31f3627aa57ad592e1e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Wöltingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:f65c579efac9ce94ae2f828db6c875d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:908897eab080e6f952c56537e168ffbc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:b50edfb92d91ab06ad40138cad2f3d71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:42c35e0cefdd3f9d1a6f1ec09bb301cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:c8101e69f544112c09b1895024973df1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:9f775254b1180568b9c6daeaa59ed909
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:f3132432a4c74909ba581a93bd4f3366
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:f9c336d9888512b161e619345885d165
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:650a69776a2346c3ae7f5fc00f906372
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:8256f7cf2d70caaa6ea0273c1a1cf5a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:fd25b7cb0fb798fe12358d0785ff7853
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:b9742ac53d8c9f68cfdc646d3c399d07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:b0a03afc6bd78fe06b684a32fdb14b78
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:b69ac62991328cbbe3ae3899ba93822a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:8bb859c5f887f5dcb849ee99b6a2e90e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:01ed96143220f2c35929af4d4173bb40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:622959f4872a0b8bd57b06672665f421
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:1046acbf1b1c06f9bed57b662e3a86c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:06e04e9e2f120c4733c5bb2ed1c3e047
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:fc5858af6fb78a5ee6ca9de60e619511
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:65018ec5095c81c5f3d768338555a0d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:9bc5c7d43f108903b885b97038df2368
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:6f0fab721ea98f2ecfacfe151b89933d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:cf5fc9eb17456ed6d0a6b2b7cc138ada
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:69bd624f07354fe57cbf9711153c9047
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Restmülltonne: Vienenburg
+UID:75b82159fb5b1538cab3775d74a3098d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Wöltingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:a4c58eeac43b4a1708edd0a46b78876b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:acdc3b166783f2d2a12cf230860705ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Wöltingerode\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Wöltingerode
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:11142e2e8ad05dcd1040cbea6c61e574
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Wöltingerode\n \n
+END:VEVENT
+END:VCALENDAR

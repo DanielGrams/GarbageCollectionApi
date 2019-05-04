@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:b2d6e62780e16ecae83153c1df0fde0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:4783a323b366c78eb0f4b1bc78e94bb2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:b77dedbd1fcf4c4d07c89c80eed7581f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:0646ac0dbac8571807f7a3069939aa38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:ec86f9198a6f27700b3d82fbe014cf96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:fd217f07d51477ecfbfce1eef8bd7e25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:2c7c6e98ba555f58347ec7ed045c40e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:7d97d06fc803c469de41706fae3e6b50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:13c7d818c3d9177e127be0723372c18e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:7daefa0a6482c85b994841d4249512ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:747a33ee0b069aa310eec94b0bbb1791
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:12ccf85fabb292a6cfdf1942f8b5e02e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:0e3a9b7b3b79711dd2cee81811c4ca80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:7e20d2274fe48bd3496b4ced752c9c1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:88449585f08ffde4166f213255de1fa6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:ebc00daafdd1b5aceaa32e044a277309
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:938db571f4bd5a12ede8e852f919fd4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:7789b131168b236ec31abecc8a3598f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:c4e72a168ed1bea3dcc352f114bebaaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:e9b45e4c4edaa88b81e721d5bceec156
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:784d6584081016e1d688ac4a79798988
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:531d1f329c815d1c7aca18f00ec58b28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:8cc80d67fdb41d8e3ce9a7b8679409e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:f5dddf459ae427629fc2ef128e34bbbb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:702e117abee7a3515af2a7d3a780b9ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:0ba02c64cfc2d47f7fc02642af10b56b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:dd1644f82997986c778fd8d0320d8dfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Biotonne: Langelsheim
+UID:9e6c0bd1437e90ce936f8e70cb963220
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:912bf275aac55688127c66ca10ac9f53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:07d4950d0b47a1239ca7b40c042639c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:39538b333f332723f63e00d42e9a336b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:2beb0b1d27c6a5907254d87f23437f84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:bfc6893725883bd105f668c67a9c80a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:1e3bc39d21f9590b194e5f8ff88f399b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:29a236c685a435fdaab742b538c30f23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9d54918340e72f12e02057eb8358aa44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:27ee44eefe2c7df050e5b4982cdbd2ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:be3bdb91dbf2603208765e42f457f3ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ec012cc553102e2aa42e503afc874142
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:7f9748c46e5bc9f0c00d1831a0b76526
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Blaue Tonne: Langelsheim
+UID:95a207ce76fa7eba28aa70b8e877adbd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:0b694913d17350edf3741509bf023620
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:33e4dd2d35a57f612dc1a68177c4644a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:3588a8460451b4e7283a4bb443305d5f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:e00d2a8f63d7c4316a47ae286ef785a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:6084c93baefb8ba212268b176f80429f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:79658d5f3f000762f3ffdc881de9ba8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:bed6d272d7099c4a002f0db51ab79e0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:02b8a4bcd3a92073f3db53df61f41a87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:d6ca8f99788054cfef3e21c9596e598c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:39ce022696b6390018d90b71a76ef15c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:a1821c96b50f5141f176394f877c48d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:d0c0b8611494828e532ae2de5c5b680c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Gelber Sack: Langelsheim
+UID:66ca1ef4048ce0b1ec7340cc300e8833
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:dd685d1357f2db3da41be36d0e89484f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:a4ccb29b3275d14ea09ed2365edd9f19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:ea29ec2ec02567ed2f385ba0b480474d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:803e7f527dd8e1382f733f842e79304f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:bda80474027254be274c36a5933f14ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:64eba44a67d07d219089d04d5e57500e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:37100629c842f4c7d05960be9158ada6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:1cef296612f4b7d67012e3bb668e2c0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:cd454efe29354e3668732838a34eb61e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:15010ed64342a5e0d843535759565328
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:760518a015380231f6b1a18c9117200b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:f37396192aac21932f7fbf5ca02012a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:06b3b26561f8ca4bb51e08719437bba5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:cf7dcc8532babf85beb6ac05b4e5feef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:5d793403b22880da31780b6d0d505edd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:3c870a82f04bbabbb48647fceaed7783
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:070f980c30ec07e2db8e1888445bcd17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:efe10cbd562cdd96fdcf0e2b94916d21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:b0c4982d5087b19f953df451cc2e8e7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:415734018d89019c4429ad7354a16495
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:e48c754886bfb69d95b0b22a90f38970
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:7e920eeb2c6cfb9ad80c3b9107adb04f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:cac6e172bf1488a83a7a936b51ba51b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:0ea50fb8e8c37f1f0e0df8d8b713d386
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:ebebb429d0f5fd0d3e4ecddb424c340c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Restmülltonne: Langelsheim
+UID:d24131c0e6276b142fdd71809b8a1972
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:1e66bee2b9124301a4e4d33beb1b06e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Astfeld einschließlich Herzog Juliushütte
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:c019581cf6526c95379d70441ef69cc0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Astfeld einschließlich Herzog Juliushütte\n \n
+END:VEVENT
+END:VCALENDAR

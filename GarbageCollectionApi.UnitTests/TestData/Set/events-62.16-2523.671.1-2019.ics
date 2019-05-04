@@ -1,0 +1,942 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:db692cc9498b68d870e7ad3dfdb3addd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:f25747bf80db859ac3145eb0e53ba185
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Liebenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:f8c72680ec88c934190ba50dbbded05b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:f309e8dee808b7b42270e07aab0296fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:a0d70d2ede6cb57a11acf821af4953e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:b233a54d96c60c2c6c6dcd4a26b148d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:a49ca349f5c6b8bcf3af5138bb6ee7b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:9127d20c2f72dc1324daeec702008792
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:3f2641994b2b14b714ed214bd87edc8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:43008fb2e28486dedfe7ffd3450e384f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:ae2fd615aa2986428a2818ec357d1b08
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:5c7e0d28cdf8ed8fbfeb58dc9afc2416
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:5ed9cdd47ddba5772205465c16905766
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:39baac5f4a120716015b5eadf1e08b79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:6b53c33e114df3c30bcd2c8bf21db230
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:feb0c0d4f7b9dbc838f42486c2c7ad4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:c0ab41d3252a04e218bdf998d1cee821
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:60cc859974a0592d68a1b22c42fcbe23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:acc48f541f20993a09abf04bd0221048
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:8287c5b5b8fad980e5c6a75b464b488e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:071c6a0ed799343073636a88c6f343d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:7e032e8d160bece98e688721d6dd8c51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:b117400a1418e0c2a548c92b851e18eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:41216134c271a5503a22fe079ea70cd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:2ab5053f1727d448108778891e3b5db6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:3cbc9d496d4573665d6e42def24ed46d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:189aff4ce820ba1f0168396283149aa2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:e233c1b93699adc56fdd05833691a2ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 31.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Biotonne: Liebenburg
+UID:342fd30a13b8f6f7b4154f61587358f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191231
+DTEND;VALUE=DATE:20200101
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Liebenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:a7d3c72ac3bc98a0d20d92fff0ea1c7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c095a02756db7f2d9e4dc3d0ede77daf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:b64ac432687e3a83060ac8ff6a0abfd5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:26dc6bf4b8b0ab71c2288c6e34e648cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:d8738edf32640e1cae084b9393c9dd40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c4ba11fad511ed6a0ca56dc69e34096a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:72e422b091d39f752778903ed1dc8eb3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c3bbf526627702e62a426fd347c06fa6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:248607a683a5936545e7725219487ea1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:ed187d3b0a2969d48a6441e5d7c10eec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:1fe18e0830b57530016514aa186e0547
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:cec722af58cbc7582149b3d57a83cec7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Blaue Tonne: Liebenburg
+UID:d63521d9e17f6314f0cb8e8b2819a7d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Liebenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:96d979b6a0092d4df80914057deda1d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:655013a4eb1a55195ec5fbaa9eda4610
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:8af2da6e4e16477d85db333748388e61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:93a6cec96d5b611809191d6e03040cf4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:45c795f52cf942172970281255b7002f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:b765075b50397f447f29d249395e2cab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:395edd51714d699ef01551fd7ac87e4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:36431782def0840b39d52c91cc9b26cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:28ef07c71652f6b2ff7d35ab3f6ad781
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:2ecc35691a963b9be1a98fcf865129a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:cd727053bf9e0bdc0b0b5ea62a13b9b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:dc7c58bea24b7f50d6d378cd9d26627e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Gelber Sack: Liebenburg
+UID:0c356c2434c56713fd7707321f1de60a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Liebenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:52ca1f53ade53f0aa6c0027b9aa4ed69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:2e83748af5b429f9700a2c96f77873b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:8f26867a499dfb66957b7211cba1396b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:124c6ae905c21e6a93260bfd0b58807b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:926fc65b3229dff09d6ca631b65fe59b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:0120925d806e0200a1b2df34e6e0de12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:ffd6534b4cb9fb90e5cfd98aa0b22247
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:22e6e9bad0cee291c9c5c12da3f467a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:34a429faf52a82f3b9710c300de1b818
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:3c621988adc45e3bfad062f37d6485e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:949309ae7cc8cafe8a6def30f47e0d55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:68b58fd483f4ea28a39dcf146d222c8e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:3d211e7be118874ce690f2cbc616ee4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:8d84d51ff5860c48364983cae5dcb057
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:a64635568ffba253061b650a7539b858
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:92c70eec9d99c5904e30deb547006106
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:efdc0069fb9f2d4faffbbdeea6c60af4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:ed7ce3fb069e43543440d24c73e59bb9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:8597acce5954df6cb2dec36cee568e79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:a0dc6056900e6ecf730140faff379961
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:d2d6d35efa6cb79b925289f6e5e9e06f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:b4b2e40ebaebe76091a6c21cc6d3170a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:801ed4976bd14bcf15529ab21ed8fb0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:8e1225b4fcfb0bb07dbea99d67c89edc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:fae40c00f57636447af4ac172f79beab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:732e4b5749092cd78ee407ad354e2361
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 31.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Restmülltonne: Liebenburg
+UID:3e4f12a45c8ceb7e56a2977916b21b18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191231
+DTEND;VALUE=DATE:20200101
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Liebenburg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:b133bd8d9c05ce02e6b81006e7ecddc7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:8ce4f2005a2505ec67ae4c8889e6b7e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Liebenburg\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Liebenburg
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:7764089dcbcad34394ae84ede1c54a62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Liebenburg\n \n
+END:VEVENT
+END:VCALENDAR

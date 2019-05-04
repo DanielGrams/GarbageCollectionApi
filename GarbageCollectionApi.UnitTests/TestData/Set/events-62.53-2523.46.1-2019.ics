@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:6d28ebb95acb4f92ff62bd7ed853617b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:b2cbcf00fc085ad9799539ef7499deb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Schreiberhauerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:e076952154dc7c537fc28cca73113f86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:a8b768934930e2674f0e4f88cf6dbd88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:84fa65fbfae5d97b997bcb647cd32903
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:85f004a4b3eac9a74c76f2983c046b67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:bcd48e4775228e40a4911c55a3f64a39
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:1a3d2b800fc766a2a0788374090d5c58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:f2543ae8af2299189a75c694ba385123
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:f4bfb86ccf35e21264114cb6f985b4e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:21d3c8826de1272cf83047d085ebbc61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:a81e7cdd791862c2c77551e28c623ec0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:2ecb6414c1417b3ced929ec4f9ed6e0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:04dc9c7fd9de63534934205030141f38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:31d51fa25155b2c9a5bf7c224bb39ac7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:82cc632adcaca4a8df17df24ad078f04
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:9dc4df79ce110f6e72e38ca4203f8c9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:dfa5e57660b99d205e3ce213610a70c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:f3f047fdd3774119b88416ed241bd4a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:c3eccc261b45cd37cc358402c0d6c32f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:8552faec4cbfe4c808a5f6412d2dee9f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:02c70d147f1dc56c40f7422c2a470740
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:a42b5c47cb8a4692cd3f2274f908ac79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:f04c0a08177323876997dc9350409df9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:ae52f48a7d04cd2d428e2fdfc4cad3a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:60817de8a3098ffdb7a626a275df360b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:1c9364b5c97f964afc99945780875280
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Biotonne: Bad Harzburg
+UID:adb93b4ba24544972c884347431dc870
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Schreiberhauerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:ba74e91ce35751efd2b08d0a88592d90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:45323750d32508ad71763aa241a7b8f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:6e1872fd944ba13c11a8e6edbc2ee941
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:e423ea5f21bf1fda59301784b11b4137
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:2d59a00e1f60cf0094f7b4ed94ebc35c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:15272bd0f3faa2bcab2a17c5cd9fdb8e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:bbad1a91135ac72f5add7df3214174fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:a3f0827e4c045e431f970e45e26eebf4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:44c126fa73e6b9434241393ba2b0283d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:3f11025be0acbe87e9d14c62ab5cc726
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:4545fe50363709818ce9900fbcd40914
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:878803392c66761efde7a62951289102
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:3c62c14a94a5f9f69bfa8c0ae85f38e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Schreiberhauerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:55c8c64c88981dae58b6a166965030cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:06b15913df376b34b0ba792093f54121
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:5672704459570ea50d493c4efb215e2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:9bd9e65a79b73b5659bc763ac6e47951
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:138c65155f2a297b5d2c94827adb10f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:a5e56dd9967c8d00483bc9c311e6716d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:454ef66661c46b90d0965ad44515f8cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:c8eb1426c1ffa741d7719a37f8f01822
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:f5840ba2b33442eb93a363440a10da26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:b7f0481a79908d4a0d2e732a5052edad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:83c0dc5a9bece2d714ea381f5f4babe3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:1bde232c4c26427c34f96e7928a86e2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:172bdb1be429425e1da301c20fb111f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Schreiberhauerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:9961fe134307111de3f4d6e65dff5ba8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:b81662bc8a20cd11e31f7c546a75e0d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:51bd6fe94929a41d8bc190253d607bad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:19af52befb82207ab3af175c5717cee2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:58b400b47013fc6861535441692fd58e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:97e618f09fe4e7fcbce56a2f5377b069
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:51a55f4762bc95af662bc89caed02191
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:5f3397b656f9b12fec6af13b6834fd51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:d4ab1e4c35129027c823dc618b2a54ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:280af49af09bdf1b92d04591d0b54729
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:29e003f5de0ce34820426f648f567748
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a59a510c9dd409d6221fcf11854c48f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:1578f3c4c021c0aca5e0c25d0887fc43
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:58c998054aeef0436f34857edcd20414
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:35879d3c6a40d4d49b37040495ad1dd7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:aefda188fa8f8f5831000a2ae73caa8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:36845072855a454ba1bc81c72c149b56
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:f43a9ae1e7a4f9120277197e52f1b339
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:1e2314323841371f3aea6e5859ec68bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:8154ad62244c0db8f32198cc442bae2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:b6ff72528363b848b28f0230a385bc73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:91c1573b04f8cb48a18136a49a5a838d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:afd9986e3d22d46e2e3f6858b918f8c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:016855ffccc4427d5cb4cb447dd87ffd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:ca99f8f1c94c06fded82cb6f4ce14aaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:fc6a98d37ef30b5c8534f49a4354492d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Schreiberhauerstraße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:ab1a8f318ca837e8fc40f508f6985a76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:2dae3ed31ab80d5c5dcb2c534b080c8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Schreiberhauerstraße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg - Schreiberhauerstraße
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:69edc7136a01b3533fd0ef96ccde9037
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Schreiberhauerstraße\n \n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:9573af2b299258608984dda1b9723377
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:9f407a4c371839860d87f246a7de45fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Lautenthal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:1205703124244bd7a5256b4d175f82d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:e86622d3766732bd273d6745f29558d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:7ca4cfe7345e650461c0bd1b111566e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:12dc53ba93029ff8918be27d20d3b3e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:0b511ad32ce33aef5874fc91a0f905dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:efc41f2ccec07a0acbab7bcea4f8b623
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:c8e702c37cb68cdd13ff47310fbf3f69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:9ca1aea9b25a3020c3159cda7e5778ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:d1262a3564fd432c9e38196005186010
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:e0e1bc2b7e33d30b92bec2300ae431e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:923aef476a1df3b3b65c9611e3f89141
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:382f8b3ddc0eb8e96aee02125445004d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:790f8c13f60a5f22c1b41077be81dcb3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:b0f25cc0676308f0ba8c5ef732ddb480
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:65c34ac71b6d260bb3acaeeec00cb674
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:3b8864ee6b7493122797382677caae40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:0c86738e558adf025497904a0db89d2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:c112814a0dbaea0a09ebb447666c70b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:4ce7df1817c88cfcb756d8bc76f3a005
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:69be768de3cd45d62e7a16b5b9907e3d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:d2d15b827e9cd909bea0df77a76d3a09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:f8c75c4ce53fa0d935095041c3aacc6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:b9b3fdf6f2ab2a09d24d15c6736f5da4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:143dbcf2339570aa2ad464a5e99853ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:ab54117c2268d1cf8a8e851f760f1a3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Biotonne: Langelsheim
+UID:7815be5784c8e311c5f5c6af32a2fdd6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Lautenthal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:58e363cc6ce1bfa8becc6e5510240dff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ffe20aedeb0827019c217d0167a61a3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:773fee7d9c2d646b218fe48048248deb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ea8014931c9222ae28212a88c18cbc5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:b96c961a713f74b1ede08e2cc9bb0d7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:f2e708e2d22a109a5cf60efce323fc31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:d6b16e97b29bd7b4868f9589ebc95ed3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:14a0b88a279a72d1b4c6f18a7dbb68d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9e4946d9ceec0c774f5d008c4355bb59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:7b228d71d2bee1e00f74a369ea779856
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:cb525a56b80eb1dcba0dbeaff9d55d41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:3318d87d87165355c44e6e6b0035151a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Blaue Tonne: Langelsheim
+UID:17411a1a630938153f127fb54a873b03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Lautenthal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:fdfc8525caebecf41366ec27961ee738
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190121
+DTEND;VALUE=DATE:20190122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 18.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:baa018fdbf44b85784bcca2df056fb7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 18.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:a7c568cf0c4b91190b99db964ae25182
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190319
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 13.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:a606ba9a1b6fab854c8ed0c173af1bbb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190413
+DTEND;VALUE=DATE:20190414
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 13.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:a5f324f6ae0358b813dd3eac5242f254
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190513
+DTEND;VALUE=DATE:20190514
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 11.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:24f3b1a6ae19b7cee56091ddb1957cfd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190611
+DTEND;VALUE=DATE:20190612
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 08.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:c98e4da3c7ed64dc252cc75aec46bf64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190708
+DTEND;VALUE=DATE:20190709
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 05.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:31443e70e609e3f235fe5d85468fe0e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190805
+DTEND;VALUE=DATE:20190806
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 02.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:0afce144e77810df19099ebed31307f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190902
+DTEND;VALUE=DATE:20190903
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 30.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:62820735680383004a0d25c4069cda1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190930
+DTEND;VALUE=DATE:20191001
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:4fa30b7396718f28872b1629d6adafbc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 25.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:4528259037fb28660247575309eac5b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191125
+DTEND;VALUE=DATE:20191126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 21.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Gelber Sack: Langelsheim
+UID:c49df1fb041da4d80ae238ba86ce5bcf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Lautenthal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:268d03edaacfd1d77e8380a5173b028a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:41d1c789a5a82a6850777f3178c0037a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:1c54e0ca08d98e2c332ba0d62bd47b49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:5fc41cf46e0e4da56b12c921cde7c2f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:c6ba02cd452476090d1aa0dc40710ff5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:439a663ef969f75c38525b5f9c5371d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:20893e252f39348603cf2f68317ebe72
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:f3dcd204df58342ae1534d85f0d77675
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:4f41b73aa6bd10cc9f9147118e4e7554
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:12329eeedc18b92185093fa15f592886
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:425b8a246169478c2ece6f5dd733024e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:e2e23e305e70815886c61617de4b93e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:87f6931c5ca24656e467e5d7568a0ecf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:9af44c93d176275e9a0ea21a9d5dc97d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:972008132f9cc6d29afa6a3ea7ed599e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:b89eec3bf3aa62397ad74eb1a22b7015
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:ed657533c730ba13a7245ecaf84c32e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:711b890ded88eabb9d51f657a4057fe8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:b536e63f59707a057fd486fddd7e0a7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:f43fdc5764b8eef503bb7c092139f32b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:353dcce4cd74b6ab92ede11d3413d694
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:747f741ae7c5b8321d2c263dfdae9e4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:717921fa117e13e384111a879675a63e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:34efa4e30fdb78bc96aeefb762ad69f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:e7f4fa6b853590a6e0833f2f605d6512
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Restmülltonne: Langelsheim
+UID:ba7538f0868e24d3fc38d9d9595efbc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Lautenthal\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:a0ea9b1ea327f669aefac8591f286a02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Lautenthal\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Lautenthal
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:7487f180963aacedb365063aa2bb978a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Lautenthal\n \n
+END:VEVENT
+END:VCALENDAR

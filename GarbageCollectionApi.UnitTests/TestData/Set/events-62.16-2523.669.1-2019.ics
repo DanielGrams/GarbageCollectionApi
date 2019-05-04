@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:a7f218337c85f3c100f357be37dea5e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:84e67bd3c9554a0f4cf0f13375863159
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Klein Döhren\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:baf6bf310e2b859c2530fb4660b9710a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:69b50787e7fd1d4d50c6438730cfa8e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:cd94799e601ebaa46bb50698e8da26de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:cc364cc8c7ac5de76e6eed98fbf275ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:5a1467290de21159a2e6fd0baf66b9e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:96ec6548ae33d11634bf36aa229bcc70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:1ba966c447799be89ac670455da09744
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:7c9cab94ac2a5eed2d56fae8ff99ceaf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:67259541448179ebbdc491d005649b57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:f1114c19056f3eed1c813e03dfd6e1ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:dc680d35c60dc0c508ade7df9f83267b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:6bb09c844f4424d2307a1d162f68af1e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:51479d1571847728b1077fc2d34b36d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:db49745e138ae7021b5d9e8fa47c4f59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:093241befc5b414090341c7f1fc77830
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:4bf56f9edb0e7108908e628b3e410f94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:bbd6b47054bb2f6afaab80ad3c16f1ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:cdb9dfb46eedaf9d96f05b6e1fb794ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:c6e3c05586e105b6ec48fe3426cbba38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:218bc31bf8a24a34a2f1110eac18a0c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:6ef42c966cf6f35a60e7e88b35b5a9d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:6904acb4502693c548785fc1a898bf4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:c0d71d8bea3e925496a589a61f111ade
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:9678e2bc8150fd3b7a2bc6f6dbf3f562
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:30a25d7db52d1d95560c2024561ce154
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Biotonne: Liebenburg
+UID:17b2800fd5e77af506a5a26ecf716540
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Klein Döhren\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:03dd29dac68514f2c5afe4769dad22dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c1401c714733bec3766863a053b7f878
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:e16eea3a9402db7cb2047af06349de31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:dfcf6c1eb567b00e990f0f0c7c04c74b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:48a82575c1ef3428ad927a94c3ab9d75
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:e3b19853218af14605ac3ff3bf7b7a40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:3494424f25bd85aeef79104d75f0c2e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:d202e1cc628598eab0e44d1b186233c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:3b05fc4ea83d362e16a69d35d973d75d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:e1367d15315949b80ebebf99eef8483c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:ee80be32280db1dd45e0d8e7fef60a23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:548b300f4ace26cacb59735dd93f7220
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Blaue Tonne: Liebenburg
+UID:3a0ab1c1fb26aa947d5da9b665fb4793
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Klein Döhren\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:dbc6cf16c97de6af226c878670f69147
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:673262d797048d58cc7a432c358d1b25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:668d0d3c63f16b4e07bb0da18954fbdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:5b9e39e40a9f1451a3c9cf5e8d1fe74e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:275900d2df52ba20dd905eb57014b730
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:f2f977055efbf2d40e5945d2bf6a084d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:1839e4c9502c1a4c7d711fc4e6a35561
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:79f11105348fc57250aab57e9bb23c02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:6c20cd24682ca9fc78b637a1ba8ab893
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:2670d3f8af6fd5b5a036f0f570a70feb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:4f23949a04624e80e359fbaf999dd568
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:6a8a521abb21bf9a24690f72883379e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Gelber Sack: Liebenburg
+UID:4ab6aad3e90668b531065a4c5b710346
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Klein Döhren\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:fcd26cc3208e87c264a1217f68681602
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:5531a7fb773a1aba0dcce037cdfc29ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:9e4b20f9f8382c975121b6ddd3b3d2e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:7473a712ee7de13d9c04dd01ad59ee9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:996d3bc1d0cbb6da2ead9d56e5be0d47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:424f6fe899a1678ff9d40c64448a7dad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:07aa168c8762be496654ed2c8ad2ab86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:956973fe68d489603e9be9025468d753
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:15dd451329b62656bb5c45da060f55ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:79430f8d2cc39ecd83e6f2fb43ec88fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:de7a2b91620a0b6149398dc31b23f298
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:916554d7ca00eadd80ca31de882a4522
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:e9f3c09f566e6b4375e8b429532c7da1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:05e1cf409c2c20e592fc6567a280b29d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:3a0893fdbe058ca65d787d16be6f59c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:1e9db1e6a819519312f18c02b3bf90b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:5f8e603ec1adfc5a121695531b0f4a6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:af014ce1ae19ff55897756d26649fd21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:ebee54675f874b8d51d0deeae49d2bc1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:9fbc270a444bffee81c51ed4722a532f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:e78bed101ac77ffd6e2bab4c5ef77113
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:c6afcd2c1c5c4fbf8e2a3fbfedd7497c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:f41aa8fb4ef565156161521c4eb416f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:59b1e9a4f6668f2fd911d771565e945d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:419b3dd5aa23bd3e6347418e4e6f1bae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Restmülltonne: Liebenburg
+UID:e7934a1604965ef28687e4e02d481ee9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Klein Döhren\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:9a436b02bd42bfee4f35197372ec0b62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Klein Döhren\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Klein Döhren
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:a2d79c01aa5460aadbd719bfc94bdc1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Klein Döhren\n \n
+END:VEVENT
+END:VCALENDAR

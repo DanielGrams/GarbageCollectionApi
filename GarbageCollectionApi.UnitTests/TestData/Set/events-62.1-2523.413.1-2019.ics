@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:0c4fab72487cd61bb64cfef06bd113e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:04886b5a4e0dda59795c296f22cec6f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Stadtteil - Kramerswinkel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:889ccf81ec364426fc3c3e77512bbc76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:c919367099c9e900a2b4766f26176a5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:15290c7ca7a3eec546b8fa1bb7e1809d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:dda9fd4d26c85d9e1ca54c69e98366e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:f08a24625aabe44dda03e60379377523
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:b3f0d041bc4c21908a3470d08e2ff3f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:2b602ef9a7322818a25b446a7770563c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:b283036112d56ff210557ee126820fbc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:0a360a28a8c7a8deef3a918aa717392c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:4f5eaaf2d0ecf1869061e89fa21ae9db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:c960ec3a5926b774fed1fac30721afab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:d0b55bf982186bc1466a33260cd75ee9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:11a866a9705d26c60e6a9c55003822a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:f9231448c46524fe626814d502a17853
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:4b27d623b97cd5e202bbca73c139883c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:83341a238152aaaf8cb35bfa14e59c7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:85bba6cc958444bec396b8cd0e03d95f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:3a47b2dc29865688cbb52b59f14da264
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:c67b965f128d9d2bdee3cc7c9283b408
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:2a5b8024bff3c8b21a1fe6323afe03a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:87eb4963cfdbcdceb3a30e91ae532599
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:16303a9676fcdda7b243a3779daaf3a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:9b89464f1d849f08d982cc00d776e407
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:ec898645592287d5f6fc48f1e7a037fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:1fe8710df5c347dbfbcb6e617f71c543
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Biotonne: Goslar
+UID:4a7657a95cc8db9e1bb0f4f3d5b97752
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Kramerswinkel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:b6e5dadc1df321973d239d124420622c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190107
+DTEND;VALUE=DATE:20190108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 04.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:d889331ae0ecce1ff2c0da832e95cf84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 04.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:b27a993f7ddefadac0ad3fcf13cdfd79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 01.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:66935d24cb448ff7ab909120a2e599b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190401
+DTEND;VALUE=DATE:20190402
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 29.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:1c41dc92efd73806784017cc8d716a59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190429
+DTEND;VALUE=DATE:20190430
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 27.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:322ea20a3a41bc98e3e17a856f87447e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190527
+DTEND;VALUE=DATE:20190528
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 24.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:5f651f6fd93987ae39f57855659ff54f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190624
+DTEND;VALUE=DATE:20190625
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 22.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:06ca93a9fc628ef10f1f3f42913675c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190722
+DTEND;VALUE=DATE:20190723
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 19.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:25df2ece8c172474d33d1530fe5b561d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190819
+DTEND;VALUE=DATE:20190820
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 16.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:9694ded0f88477a8bc758bb275877b31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190916
+DTEND;VALUE=DATE:20190917
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 14.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:1761c2a6f9b81813428e4b2648ce91fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191014
+DTEND;VALUE=DATE:20191015
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 11.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:f09bc53dab29144f05f52137fb073c80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 09.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Blaue Tonne: Goslar
+UID:c63a53fc3c16a7601b35f3582f39b954
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Kramerswinkel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:ceca1279e347b60b7120b90279f4124f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190107
+DTEND;VALUE=DATE:20190108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 04.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:436494d9e705dbbdd9bc8b0544ce609b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190204
+DTEND;VALUE=DATE:20190205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 04.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:0814f87477ccd80336c296d312f27ff9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 01.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:e45f8c60e6c43883602a1d76907c3fb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190401
+DTEND;VALUE=DATE:20190402
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 29.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:f77a2310550c503c5d7327ea356cfc76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190429
+DTEND;VALUE=DATE:20190430
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 27.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:51f938416c79e4b6b06eb48100107b7d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190527
+DTEND;VALUE=DATE:20190528
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 24.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:6a742c2aeece5c89f08932eedbae71c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190624
+DTEND;VALUE=DATE:20190625
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 22.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:6cbe78afc40387bf694634edf0f2e3f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190722
+DTEND;VALUE=DATE:20190723
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 19.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:2387124cd36b720ad875fb0d22ed143c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190819
+DTEND;VALUE=DATE:20190820
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 16.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:0026ebdd28d1630a025c4f967a77524f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190916
+DTEND;VALUE=DATE:20190917
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 14.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:0cf912184f553f0bcbc0a3274cd6b499
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191014
+DTEND;VALUE=DATE:20191015
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 11.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:3504f4f73042d677c194e292f306856e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 09.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Gelber Sack: Goslar
+UID:607c775b996f6c5f95b3ca24e8d27deb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191209
+DTEND;VALUE=DATE:20191210
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Kramerswinkel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:4dd7354d4f8265a5902a2fb331cc4e4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:557bff9afc390773740b2238d789d11d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:0135555dba5da3404f9f7b6adc49bc11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:ebe2acb1f86e40cd115de00ad176d8c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:00a284345714d860fa2b7b15f25137aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:958e0416ea20e2d2c402b99051711f29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:67e9f41cc1b90591f56489d69ede80ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:097e5ec917d78861e5114b3ef7779f94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:a88d8d57d6bc864c658639002e4943dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:c3fb2e4ad8c2a7080575a8b0b2274d4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:f524a81380c70ba3ea5da519dc5242da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:c4e90118214f0700e25f401c6ae6f7c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:adc890eaaee9ba5ddd4e606952286296
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:e947d87a0689c93d7c8e2c87e8821371
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:4f5cea34b5f4159e0181ccf0b5a309ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:1998be956eecab0b02a6017c4154675b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:46c44a95bc49478fdbfacc6eb5fa3e0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:63f9b5c94bed70bcc73909b51e0e9351
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:71897298a33928a4c68b2cf4c3a8564d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:bfe7be443fef866f36d94aa0bd8ef90b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:13c3e6187ad21e36abb808cb0d859141
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:0e021dc6e1382413fac5f8a586482a5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:aad27eb297758534e061a00434800a3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:e139ead8d1b8fc693b69709e6f5db529
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:9806ea55931ed946ed65931072635449
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Restmülltonne: Goslar
+UID:4e1e73fad549e870faf4ecbd2733d763
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Kramerswinkel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Weihnachtsbäume: Goslar
+UID:9e83b292b54712e9371a902f3e07ac87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Stadtteil - Kramerswinkel\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Kramerswinkel
+SUMMARY:Weihnachtsbäume: Goslar
+UID:e07be636c26557cc14997e2d06f1a29b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Stadtteil - Kramerswinkel\n \n
+END:VEVENT
+END:VCALENDAR

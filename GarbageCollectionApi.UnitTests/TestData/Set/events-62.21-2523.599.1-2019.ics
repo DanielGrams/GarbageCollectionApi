@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:cfc9b8211c84d9ce7d2e1af114326648
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:9451834fc31ca1ba363e5e0b3ac31cc1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - August-Grotehenne-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:600baa0280f05410c6de31f91c8a860d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:9572557523893a0a5db8b58c401fa33f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:38f4a67eecbba7f83a98334ba87e0678
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:502d53a81ca848d8608853af0de498e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:bad9a62cac2176e5dda32675fb95704f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:9e915d6c1db1b9e94d515092b66fca73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:a0f7e073ab0d17c55126418e4bf8856c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:8f8cbbc05b54c42bd62462d7c1ad1ea7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:261c981ca1778e6f20498eb2858281ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:dae38ee6f6ff80c7f934fbe8ce8dfd7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:bd4d4e4324beb65ae053a845751aae1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:1fe608e26d0af2e194f05027064bcef9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:e7da9153919b42e9db84bf90d1002cdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:4e484143c66fd7ea015b5bbd4d68beb5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:4d984a52fe4cf64133e91ba388157241
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:cae1baae97fd32516056d5a474ff7cda
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:95647ea2006b650b31810efc41caa588
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:58fb97fa78dc2ee4048d3b0626de3929
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:604f793b826c1a2c47ed342c8c5375aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:f3a0a0e4cd6ab7b69914dc7405d33c64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:c0e2d631ac187eb7175f3270aa8302b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:2dab41f85f2de5956ea4582abbc9760d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:5184f4e267118b6d07dd35c9c85c66ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:7c1662b743357a8b7710800bf02c8296
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:43139018797c03a92458e1fe40c52201
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:f80587c4cc4c38a9683884cccc38bcdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne - August-Grotehenne-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a8d6e96b3fc94201050f5d5004c219b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:aa776943ead6166e29ee3d6f99d693a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:6b76790f82f1c4d6277a03efe180db90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:4b93538196d854af64cc87d9aa3c3cbe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:bb3418d092ddab08fa3713ee9765f30a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:2c8d3c3dc7beb4c0ed686c374a6d137b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9470932f0e6083ea697fa0570ce241fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:aceff5740b39af56592b1413443e9906
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:6ffc4c2417863c17d2e592ca424abdde
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:24b2ce1dd42c1434cc64e2144141c207
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9a7b8d0ca086be5b02959482aa815f23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:43e5ad925208b5f6c5ab95a9b2425dfa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:293b7544aea4ce55e39a5c44f0121096
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - August-Grotehenne-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:ca11fb136fc36f7d0e9144e61741d865
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:f0ea24a1c731dbfaad492c4dd8547150
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:b4419fbfd8bc45eaec205eb6c4cb04c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:a37a2ecebfa167bce9eddd9ed15fd94b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:cb53316c7c94cc2b22d74c3aaf9c76f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:9a05acc02bb190684dfe394b558ad5a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:7306a53c31b75db6f743d77c1418b13a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:9c71d1b2c774ea264cf5a945db6f82ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:1f1059b4a640c7888f6c4f4e6e0b5620
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:890afa0b595719ed95bb993a79f3e705
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:23175619df021389704e1d185e4eb1ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:27a4bf83291fc6019dbea095b92ee93a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:909a545d7aa7969b1b112cd35c80e06d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - August-Grotehenne-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8cd15891668e18f1eb9bbd9aa3b84274
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:c211617ac0d7dd802e0fc57040601bb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:5cd1ad248f67b92e2221de8911b98b44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:3f5fdaea4e7f6c9eab2e0b622c700857
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8f0169fc0fbdf131916e1569faf9a171
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:520b11e0d78773995c75ef759bdd86d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:33923db56afc7cdae58e6c0eabd2e2d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:9078cf2e10dd78314fff73f55373ffec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:ad4f8c9c2984b630eab48912767fbdcc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:dfede7d4cff7698ab34df6acd32c1801
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:149a702aadb81636493f349022ef7826
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d174da7f9ea3e5b690bd34e7de51a357
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:0fa02e48a1a855e831277237652a5b36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:90324dceda5a4d094ce01783715baed6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:4fee5c71b26f4531fe5d0870c219a682
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:9735147432117df83b94d588cc4af857
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:248c81a1f1fee62a09b11db253b910cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:08ebccb5bc911b5ea9290d7386d56051
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:49427db9d1af715242aee362d1f9d4c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:89a896d2827821fcfd8415327ba9388d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:02d48940d66b40809003cecebc4bd624
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:36a8e5f37abd41759682c53760f71a32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:21abce1a7ad9c35118f96e132fce3b05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:c50f1b14a4acc36bff1e6c4d4ddbda71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d7762cc141aa2d942d80953c560c5641
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:0185de77d10de11ebd49b999d9face1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne - August-Grotehenne-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:8bc363e3c57d2ad498d1e3dbb3840eb9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - August-Grotehenne-Straße\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - August-Grotehenne-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:085315bba12f3ff1696b4011ba56fa3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - August-Grotehenne-Straße\n \n
+END:VEVENT
+END:VCALENDAR

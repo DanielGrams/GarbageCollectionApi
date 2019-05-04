@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:7a53d7aa62cccbd19243404777c82c39
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:9020b746059bbb8461ffd10fb8f5bb54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Göttingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:3de9ad235f18f0c8fd6def7983ba313a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:47eb384d9fddb194687bc681eac078c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:676c8b164dc695c15cb3e72c1c7b39c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:ec069d5117eea07bb2317d162c658ec4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:5168386e60705e8fc8b89fe6029c3026
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:5e0c46cd9c8121526ac0d09d90f12e65
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:40a2697e07a5a0515986d5d4e579b37e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:ffc44770465f2d1200ef5f6b48d66385
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:aa78842b5a2dd9e11819e0c3fe1a7a2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:17e29f4358c94b2b5b8b40fa6091ab9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:64d4700d7d590db1de27d04e23bc6a1e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:c8b039f9adb948b42fa1c48fb3012f1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:599b23c4a03b70ba1ee5315e9fabe5fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:edc694f59560e94e28a33a276ef546c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:13fc8c04752e5ce39a8f39c4c600943f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:6865cea70a524df2a13242d71067a662
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:e109320d0cfa9475744205797155cde7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:52990cea005119dea3556a88eaaadc67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:578bb60013852889d18501804edad1eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:c251c0d49dc6712f546be79d1fe68b0b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:9cb66e540ef87cd08d525642e7dbceb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:0edb0453c8fedad51b20be6a6433e583
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:2bd648f57e8c8afa8e5497b1e6c46724
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:b0cc19ce4eb98a8d2da0243e2457b16b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:629adb98892a6fd446113af9ecdfde83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:0604f0acf8abec58998088240a79ed7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Göttingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:5fed111245bb2f75b84b3418015c5d40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:17472e03ba102ad15f3f6a88960bd251
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:180b01482a57ce4115cb3ff826e13e7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:81c5ab210ebf9dd47e109a05a0b8b62d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:3ed9cb25423c2f2f87f4201a34c3f5ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:def77dcf53eeb9ad88d2915ecf1e5730
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:25b6dfe8bed4f000732db18a72f048c5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:576c9f75cf58eeb3908d5e7f8c714dfc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:d00319a199cab6dc3f339bf78b1e2061
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:d59ca6eef4a4aff40272aecb2bf52f55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:3525dfe0a8952050d2e352e63d1ba5cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:8a9725d848b1e90d819290fb35d1b175
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:a4a5eb046e7a76092fc06a8b8fcb8783
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Göttingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:72c9a08502908f67fe0c31920edec952
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:b7a266a102942ba391c507f9ce9fc161
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:d2129c9471f0e9cefd1ff29ad6331fa1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:488956f11ee8fc2e94fa1f8ed3775668
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:da06c89931bf6c92f51222f8ba578f9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:b20d8ca7c4e29e9a876d8ce2ef255e27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:3ede6e3b24abe1183acffdec3f215a25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:4dfe41b85b40234224dd0707db47e966
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:65ff2b98466cb30fa327ebe0a34a5f5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:bf245ad7921bb28a0e78f140e0d04739
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:a100f78a914fb00d1955eb9b6efe92c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:e8e149cb0556ea44a9203ace8b3f6a7d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:743dca4b94478cabd9c3f4f6bd0b0543
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Göttingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:cb03bb690f821bf470834c7b33345bd0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:96f4bcce85122c3313eeca13066e4383
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a54f7abd08736efc2a656bc3f5bd7b3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:db12f0fe90da216772064863babd1d3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:c455cf72ab184c8473c1516f392d27ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:834f007c9264a073e48b122305324657
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:8efd93551cd1e987e1b63e241b4a8282
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:21ebc11b284eb9edfd4e15ec8b7d371a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a9d22eb1726e1d4c669579d822c3251f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:5a2a58338c64e584ffa48230bdc684ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:3ea5d7e9781130f8a0f19330c7c70ac8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4ad4f92255ec61a4e0c614be382d6cc7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4f9117d24375c4c5e0a9d9428cbcab14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:bafe837676e8aa2c885cde2552f5adad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:fdb7b2bfd9043c8286e769f8d27bbdf3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:7a79d3441b6558f37b4acce0a220cdce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:bdd485c7217114703f2c98764c2b75cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:ce44b1115a9fabab2682c6d604bfccd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:65e648a00c98c5fce777664242ccffe5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:f81c49942bff758003cf0fab52449574
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e259e0d61c8d38b45378a3d2c6e1972e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a4866a51fa4459713f0660063a21a1aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:5ffb6ca5b94e56948aff30974648fdaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:fabd49a1d1bee572eb77c3bde00e1007
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:b07a58717a2da3e3fd99b47d90964011
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e89cf27c60345b30e50a68368505bea5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Göttingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:510b05e4fecdad670c4eb6683ffcc66a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Göttingerode\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Göttingerode
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:50b1b40deb7f31f7b196559774b8f014
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Göttingerode\n \n
+END:VEVENT
+END:VCALENDAR

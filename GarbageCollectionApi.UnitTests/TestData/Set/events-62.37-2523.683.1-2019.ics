@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:4ce1bc0a4261f58670ad8fd8e8fbd150
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Baum- und Strauchschnitt: Lutter am Barenberge
+UID:3ea8c9b3296841d2896693cd5431c69a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Ostlutter\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:48e4bd2d958391a3b9879c1224041205
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:36acae04357306306f812961ab98ce92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:faf62b36a100d0762581c9c8a4b7c602
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:19be4f3d05553aa4e259997cac083455
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:096edbfded988f5b799ae1200a2b521e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:8cccbe3f9154a2f8da5862c0d7692223
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ebee38312e132a3485a28eaeb9e7af1d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:41f6e0960a58ae02cdf3f574916dff66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:05ae0cb1f48868f583f67e4df3f12219
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:df78ad6e4d6521e0be55b73adc3d4ef0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:8f95ebae18743d0edabfbcc7b1c57e76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:2038d3ab11d87ae0af6e1df9e39b9449
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:d478779d7f87506e26e8ebc3e3645e0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:d03fddd6bfaf219f33c3a8e34f73f58f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:526cfb218e0d844b0011462fe822b587
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:37cc20b87efb12b54faaa07efdaa43bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:17aea3f429f0d15c9c7ba4d003cbf306
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:18eb6f93c67175ed4dfa2737310edcd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:f8f1f55aa60b549fb0eb798c4285c253
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:ab9ca289852519e059dafe52b41ad6b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:2109c760791e81a5fe68d7569dfd3982
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:168bd898bc15b14e082c1b93620638d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:4fee13297ed901175b9bdb779e00cdc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:9f5ce715b1e39317ed0534227cd8f4af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:827812926ac11099a8a0032f2e4d9527
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Biotonne: Lutter am Barenberge
+UID:8d06273812a41b86802dd3288daac944
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostlutter\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:8e117ac6956a32f5494333e3c003537f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:2eb41a89a50a20077b7825ed58e2c665
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:c5e63024783dcd2977f9f2515fb2ee7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:6c2794aa93592d5ef47c166bbdb63299
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:f57ff8c8261848344a8a962245dad820
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:02332e5586328d0bd2f634cbdf2fc032
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:234a5d7e31879f6b3fcba1a185f7011b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:5b69e275e5309964f7d246fe4b4eb155
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:00c3f6ca1b5bc7a9d7fc00cf5aaa2183
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:519c546f3ddd9a6dc7c8d2ed5bbcb72b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:6b5ad6ed0af044dde442e8d2d40ce0ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:665e4bfc2d0520f426933f3405ff93d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Blaue Tonne: Lutter am Barenberge
+UID:9d13c56732ebe768464d408026d53836
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostlutter\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:f9db5a8f6b4e448634c5f102e0c90d54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:34782fff06ece300164e899caff9b4b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:d9b64b7d122596c49afc217dcb4b6e98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:07f26f07556044fe3ceeeb8d9e06b582
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:f31a1a170f05155e99b6a3a094e2b562
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:30367189977955e0b80c012d5b7eec99
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:544cf698473e1a5bbc5efb8d20c53463
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:00ba8a844c913de3f9ae5eb4aa2c8ec1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:fddee617d399adaf7dc69a2cebca1ca8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:de9f274412082fe746408b777ff2bee9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:9b40c9a8356a0463dbc9f57744d06d85
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:d60b0858e1e2634bd78adeadef8ef963
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Gelber Sack: Lutter am Barenberge
+UID:8d80be544a95c5ba30e365b953dc6415
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostlutter\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:a40ccf28e3cd0f2f1a5ff46b47815923
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:088d4312d86270debdde28beb6e56b47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:2a30b70e314be548bc1a8d77c9c5f4de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:1291ed74ef8075421ae57d47bffde7e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:742539aa07a70b47ddd9eadafc6f345d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:4f745480945e2b9bf50aad12389bee44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:d0a773fc92e9dae22ea51b50d967d965
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:1942504b9448cffc4dfaaf52325140b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:8db4ea61d8918f9480e2874a4beef49a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:17bdd1fb3c9cfb6602c3c00b489cc4be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:78f8c0d98195105f2fdb60914f409bb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:f24f7d4f923a8e510d7d020c1ea1bbc0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:cd110915bb7d0acfce21a945ec711c98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:d6c5df0a93af7ea407caff136579f543
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:1c0d204423591153c7a7632cb2a826ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:6e4409d487f6884c3b80caf2a05d1b2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:80d27c49529e3f40ca30325cc31938e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:b477655380230b2839740b8e1a18a334
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:85884199a17431f602ff4d817eca3cbe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:1b0faef45b754bc4672b3934b9c1df70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:7dc25b5d4e31aeecd3652fd53092d7ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:dadf04c9dbff748dd6b51b822cd557e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:0eb9bfca4af5ab7f3c81f8c239d573b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:c203833c5dc6397203cda10165f39027
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:937de408391d2abdb0315cc81e420886
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Restmülltonne: Lutter am Barenberge
+UID:fb79c941c6271b2cc7f5a76f1dcf780c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostlutter\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:3431fa4ac2571713c732e507ecc6f6e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:1f1e5d885c9b374ba82d38d4d745312c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ostlutter\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Lutter am Barenberge -  Ortsteil - Ostlutter
+SUMMARY:Weihnachtsbäume: Lutter am Barenberge
+UID:1fde092e9f77a4e6ed4cd780fdc98637
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ostlutter\n \n
+END:VEVENT
+END:VCALENDAR

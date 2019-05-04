@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:c5f90667bb3ac5da933d3d229f55f3d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:3d7850649f51698ac69a2fe0acf68afc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Hinrich-Wilhelm-Kopf-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:d13e6cc261a55327a231e3153a7f28f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:28edbc2cad1a4507fb6c58f7744e2d60
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:ac6cf1919c1a5d2de0fa6634464a22a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:a159383386fdabb1bced0fb0f55cf029
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:0ef074a4e1a56261d4fc020c1e644a8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:5cafc079fd096cbca75117a2ce49b07b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:3d9ee0f45005071856cf3b806bd3063e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:85b9e381d7f1955caff30da153c8e98a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:99f2898d229e2883528d42070d781e20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:c749bea9a3592256c78e0ce8a31063ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:1ede876a26a37d7ad4f7d2ff48c64e8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:c0da31f648fd35f2aaec44cdce2be673
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:cddd1b10e51d31858711480337e151b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:5934976377cd9ba87823f9220ce3fe33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:4e9adb5988c6972da8ec955a3b603468
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:acb77c1b7c8736f1dfaa266885dab8ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:15cdfc9a559c4adb6f734352cfea2e96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:56d2802ed531127c47cd179debf0b77c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:10041f352870a2946490b9f08e45eb96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:5f5a3db8a134492a5401691dde006571
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:27ebcac3d253d3192bf50662463108e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:09e8cc6f3c214adda09f46d9d6533569
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:22fc00b553a0b09275431f73f1fc22e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:ac33cc6a55888e45f272085b02801c6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:daf8cd8bc88c0a45131882e89df568f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Biotonne: Braunlage
+UID:c67090a05067922f0e7547ef2c97fb59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Hinrich-Wilhelm-Kopf-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:0fe7b562ebc7943b99167f1669f407bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:46f96aa3ece67e8bdede4ceeb9510c3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:fc99e82126c56ade00b78aec9b4e2589
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:2c56ad73144d83211175706dd22773a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:9a50b2e23bedc87a0c3c785e9b585883
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:fac61fba910d08019129171ecf4a977d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:8054064413cd1764ac21f40e0c86075a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:f5f7f55887cfdc065f00f65c43dea643
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:dbe152e21d880dfc246afdcd58dade19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:dc8ba8fddbd38ff7160cbabf1d98bf31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:cc275db1c3c23f4ba5331227fd3977b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:c74a19edaa8e126ca35886c400941a65
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:93343b8417177e3dbdc7c66fee5b9b50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Hinrich-Wilhelm-Kopf-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:75a933f107a817c4a86b644de93d074a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:7755a0bae4a71ffe405526db349874c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:54d4be27321522225eaea7354970e342
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:4bcdf05058e00cd5858b5b82b4b99b19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:6264fef7d392ba027d01f87a75f40809
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:a4a710183abe2535abb39428e299d159
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:b8120c9f16f9952c69a81878bb73fffa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:aea7e0e57f36556f8dac641a7dc02f10
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:89a74aef27787fa14ab06155ad377d6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:32f241e7cbb9d706e48296b1b43ba6ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:ed547992bd338f926fa9117732df6552
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:fb92aa3c28050f27477eac5cb4ae2a03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:7da819de14974705443e9acf9e21c306
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Hinrich-Wilhelm-Kopf-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:0203674506badf400783c400d3c9feec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:257209de1b06febbff13f6c195a4b4a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:6aee0bbd86684f18892fa69c34428ccd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:39edd9c9bb372469857ca2c684168103
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:0579e73e6ffc301caa4f79814a4c2f89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:37b4fa7a22e8861b55c3a2cec99515b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:e9e7fd5af9bb0f6a646afe8addd8cb2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:76270425bf42e239c265984ae2924453
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:01159b0a8b532ae93e37c76ff028854a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:bbc0c87bc16269732823030ac05f008f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:3180f65d4a04312a589f0867105e9f6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:7d6ec35ef1566512a048b4354ef8a096
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:45355f0d5f8d0178d9d46ed5002b6f7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:44e4a93c7ca6db54eb28f7211ffef7ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:7e1b385cc201901a3f4659c10439e7dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:2661993320628e91292a9fdd2612e2d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:14e4350c6a13b7211f482972c0499dff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:a22da2473225f8b0bd4f88f8611ca894
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:2b497e6c2976f2747310658d14bd640f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:506545a307b9f8fa5513865c317d5b27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:b6912a0c1d530a1670c6bd910bc5a0a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:f24f7f1ea1b93dfb4a2d4b369541d20f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:b2f840bcfe533d50a930148d27ecd1aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:279cc4690704996f073b8d397b88811a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:6f2e1459e925a9f6fe8938f7e45e08a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:31171f7e6233c4ac96999f7447d17f36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Hinrich-Wilhelm-Kopf-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:d05c869bbcb3b35d3af83a1ca9e66218
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Hinrich-Wilhelm-Kopf-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Hinrich-Wilhelm-Kopf-Straße
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:ce3b098b83f5f92f9ec53b4c36621338
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Hinrich-Wilhelm-Kopf-Straße\n \n
+END:VEVENT
+END:VCALENDAR

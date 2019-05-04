@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:dd410055d84fde9ca559a541be5daa85
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:47f8578156de6f77cf9633ce56b3c212
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Sankt Andreasberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:44172038b1e385f71204c120d6ece219
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:dda87847032061bf9a70e4b9d98604c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:9227aaca4cc26731552075d2ba6c7380
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:641803e6440ddb8aa2d628445546b842
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:f857d3bdfe37a557e84b95a53f926f4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:f4af83743f6a7f4e77fbbef39e29cdbe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:5a2bca107c542b0a755ae77331e6de5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:3b32a6f760b83f07e9092a40e9d7b12c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:21f6331e510322677ceea6efb9d2879a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:944ffc82af2ede148182f195f10e4d3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:d7cee21c56e84263481f13a37c899b5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:ad96541d1d4556c62f8a1d0021566993
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:a171cb55a9a5a6a044c08fc06e767337
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:5cce33e391d6c911ad069c44457dded5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:6319429fc103821e794ffc9e7c578f75
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:968289a69bbaa90c74cf6c9dd14e3354
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:f285026a2bb4e521279a046e2a543cba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:2d516e2e081790a6739e67684e536fb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:c2f153b9c040ea8c50600069d1397860
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:0091f67da7e835712d06d3c719649596
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:c76490ded5a999210f3f48cea21d9968
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:7e26d2669fbfe2be7e8d90ca76748158
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:b514f2c7b27fec6a0cdaa40554c32885
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:1b716542f9d66176db0aa4d346154f5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:19bcb3299315e796fd3423773dfecab1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Biotonne: Braunlage
+UID:3a1092f3e15ff1dbf7eacc39ac1b0b16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Sankt Andreasberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:7337d35782d55e613cf919413cb91344
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:758fd0e020e2cdf8419e9fb714877171
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:58ce68bcea316db35bb134ea1036ac6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:272326bb0a27707b0a7425eb76f6222d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:0a706740ee04dc59fa68173d7977860c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:fc9f3b1ddb342a1ce2621c15c591cb5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:1b69df7383533548f2ca0f12810d1542
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:f5649bd6187507ef6c662caa28b69fdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:18d26d600dcaff3a19270dc5f5e29d5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:bde0cc24478b46f0d63117cbac89324d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:0036239bfd8c32c2b16412cd69f47eda
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:982c09448af1821f608ced77301c5b7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Blaue Tonne: Braunlage
+UID:62863618dc6bf23af90bd5b72fcfd7fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Sankt Andreasberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:011ffcb19f5c5969032353113d2962fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:aab7cc81926b09f819f6d0b3312e4091
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:683f41bdf2f52b56618ccd60da7f9392
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:ff58ab932de15bb5f3dd93ac5d3f3043
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:c7ca653dda38ee4888e1a3306e70bdc6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:f00ef3b5b17d77155c7d8b25fa7ce225
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:b537fddf5796d1e93f0bd53448d92d95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:556b274f7dcfee0d14ed46d429946c65
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:b66ac2a2cfe94e708e7d4a25b947dfb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:817c184bac1a6950686d4156c12119fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:19546d7c51ae7b707f47a5d568b9c97b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:c60329bb2ff35725ec33d3c811bb2883
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Gelber Sack: Braunlage
+UID:fe03379d0e2fd2c922808091d04c2093
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Sankt Andreasberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:b1388b75db011b1c017f50c78ca1c27e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:d9899451124b5f46ab820a23fbfcdff6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:d14df5c3395be1db12753d7abfd4bc31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:b548231ff0877eac65168c547f2d3541
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:1df143a39c508748916d555796f4d4bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:0fa4ad3f06852be8a47b034087cf9be6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:95755e857f11a642e46949aa42bcc085
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:bc668ef2aab619dab50cb72c56451bc8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:ac1431a54b94924919740a6034cce1dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:e8ed58352129f0b26cc9d6a176852004
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:df0092b08c225c571a083d03fe4692f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:f69982bf05c3ee3032e1a543babad2b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:41f51fda3dd2c351e24e5bd08f63b613
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:fc092f06a80a8b7003f1dd8d85236259
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:23ad70601a53319a1369fa834dd0984f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:5da114faebce2e5ae4d8ba46f7ced079
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:892418790cf6ad70b03e935855f573bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:9bdf6aa58d8d83edadf3b3926c0fa7b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:1f95fe09a5c617574f54aa0105592bc0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:746aad2b528409735251f2cc39eb10ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:9d95172c94daf802ed93677b91b6c8f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:e772be1b6683ca7debc626b8f9d7d42a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:405938f705dcb8e580ab9d2f1992f69e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:59a1a908f1a2fa8952d1b2b2d2353dc1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:53591179e45d9ee561278ebd626956e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Restmülltonne: Braunlage
+UID:7f820a6761a4f44d5e859f82990d22d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Sankt Andreasberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:60651db93912b76b40bd625ac9595039
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Sankt Andreasberg\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage -  Ortsteil - Sankt Andreasberg
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:57dc9b3fb71257d5b199608e0d7d677e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Sankt Andreasberg\n \n
+END:VEVENT
+END:VCALENDAR

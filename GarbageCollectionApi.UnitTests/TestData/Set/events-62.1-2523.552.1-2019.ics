@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:cdc5e267fa59f3a881a8f524892e1d95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:ca2aff115874c0f609ca9cbcb1bb0f84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Stadtteil - Siemensviertel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:4db0f4dbf997f6d215dd42edebfa8897
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:19f71d037f6df68414963a31fdb05bbe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:285313ec2e9a4f344f68875b62b4d04b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:6ca95c76388cb834d9ab9dfb03d4722d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:ddb6e631b3b04a35b33659b30e29603a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:f035f4fdeb01ecc19600ba337625a5f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:f3ab35a955c2f9fa0881ca105fafec75
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:5154a240019f96966a277111d70d9ddb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:5017089095e93890b145c4d76bf7f0b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:3548af24968ee0ee06d3bb89b9d5bdde
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:1c5b9ac6e8e7ce20881ba23efa1cc6d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:4b81227eaa205679504cb9fc7d5524d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:fa5ae1bfa24bc89e8cf80a7dc7a018a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:b067d04108b29a3cda137344dfee4beb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:81063430b2adb745b8fee3f9618d675f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:61e9bdab65887fe4a21111a15bac67c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:e336fb51a526b5dd5489d507d21133d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:aa415fb0690b9ae720f8195115ddbc73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:ab738ee81ec5dc79e83b5244a49b0595
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:069f2b70f6c147be52aba871d058bfea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:ad048a3035d301a239e14635f505c1eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:aaf61d781c4a90a8284d7d1103d52866
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:ba83f5f0eff602d4386003d97d6378f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:378965d843fca66e6695525c6c8a6d2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:fe8711e71c6c6329ccaa874367943cf4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Biotonne: Goslar
+UID:3ba29210d656a12fd287fb364a774f3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Stadtteil - Siemensviertel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:c8b72d9db6508574263f336164d727bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:d87853e68047d720e6df94b11a3d692f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:4c66c65d31dd3fc1a01b033ed0ed41ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:2d11644402ef46984be112cbb716a5a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:425b5943f5e7d2fbb550841bf981a27f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:10e5905b64d56a2343f708cf27c149fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:a2d34143eb51b24d64eeeca04ab36b9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:f96af2448a89ce006f97ea42f7c16856
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:1c3b258fa09bcfdc0597d34a92ec9d28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:2946cc3f66b13a767fb580554e3c7d4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:348158c07e090d9c765d62668f8c7895
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:4cd33eedf013df3d93d79f203a8846e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Blaue Tonne: Goslar
+UID:15b5cd325f8b0f80aac2de2db2b7070b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Stadtteil - Siemensviertel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:60fcd885d9b1a947e3540ddfb3aeb79f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:0f84b242e3001d2330049b74a3f46a83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:aafb41166d63881e4fea60cdb37ae270
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:fdbca37c3dbb446773613c18838e70c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:fc109e9ffd7facac693ae1f124cae6b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:4a1aacb10d2735b6ac98d13781e9b071
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:dfc346fc3e70febf1f04beee3df0f7d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:ebb6d08d89c991e7afae076e3bd60b78
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:16f871c3ea343e073e0f53934d2d7e0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:c130ea116f6590990451741e1ba3612f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:c2852cb54cbe8103b303afe3e17c736f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:b769e82911b2242ea444fcdf770cdb64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Gelber Sack: Goslar
+UID:91290be99f230921fa5bcde33cc6e27b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Stadtteil - Siemensviertel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:b0913c78f67b6e18c9c31b228f89b641
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:95e3884b2a351fec5b78d2951eeeaae0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:70e2fc8365109aef50301af10040e324
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:667dcbe0fe6fae3ee1f0d90516526d27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:e7f3e2566dc6888e929daa4e75941a7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:6ccf1ddd60320a6330d179387e08fcb3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:5518c04ef8e66c6c0a3046d234cd6aac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:cdbcce0dccb50b0b6b70be9f1b10da20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:3bb6c0a256e881996df7b2204b4e9795
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:def3630de3589b72cb13d9e196bff50a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:1c5dabd3c3a62808da46bc37bc438ec9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:9666f4e67fc654d04324558bf8cb604c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:c997f5194e0fb8e2219943073ac7da17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:f69d81f4918435f1eb8a38fa90eb3896
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:03dcdbe27664ccff5c77a91b8e645aa4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:89d48533f0d0ab8d75df91aa1b8a916e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:8e116787334dc2065810c64caccc2152
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:6ed85c96720e2d9b57bf1e1d06762b86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:08318f93ba6828eadffd7a9595b0de60
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:122b12ecb1a980a5694946b221d88840
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:a4c942ab88fd0658190992e884122ad7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:9937ad91c1e725627a9bbc9e16aca62a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:cbfab0b18a0c61dac14ac28880dd6fb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:8a25ba407f9eed68fc11955ecd438610
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:aa674d66baa3492bd55e230700842307
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Restmülltonne: Goslar
+UID:36beccb0862ec17f890e17e0f8f779b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Stadtteil - Siemensviertel\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Weihnachtsbäume: Goslar
+UID:e24f93c6f3f79d7924e3a4dcb15891c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Stadtteil - Siemensviertel\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Stadtteil - Siemensviertel
+SUMMARY:Weihnachtsbäume: Goslar
+UID:b0dd87348f3e73832b853ce15cd0dbd0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Stadtteil - Siemensviertel\n \n
+END:VEVENT
+END:VCALENDAR

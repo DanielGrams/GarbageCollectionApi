@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:a7c2d809593ebd3206b46baad83c19f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:7e26c39c9e3ca6371d17457ccaa94190
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Am Kaiser-Wilhelm-Schacht\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3538e04f542d61d6095e5545550dce42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bf31e8177d3c92d27be01619206aaa34
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d0d6b857fe6da1cb91421c67ee97a9ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:de4eb3b0b3ca15ddb66237ea71258775
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d26cf80a35c278df04f161bd000fb303
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:935a32895021099d859eefa845405f86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7ca2bc81e93ed94451e8e764b7bdd02d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b1a3c67c24c22f1ff8e2e5b2a02805ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a993e3bee0791871a5c09a5656607053
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4d2030047ec88bab5b17bb2b7780e649
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:669719380a7429da2bba11f2c2c3382f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f8183396c017082e3795f059951be3d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bdbff98187ad4ca66ac5dd923506f3c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cb19c00cbdf5ec485dce49740747dae3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c42edf1da272c3af8ca9cfb3e1899980
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:134f4d8681341b0b24dcef2710031535
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d1c67d86ff97c294025ee5c58258afc4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1f05bd2e94a8451cfe93e8f05fc09c40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b5ccf20e19c2fe4eb97d017c2f1cdc34
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4ca84ec50962f8e4ac9c4782a9c1cf72
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9e5c8f52ad2da18adebd8363f999c5f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fd3e922624bb13b3549c65a1b6fc6389
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f8eb3a5be666b3eaf21f9b4bab075f2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a6098eacb2b296ddb9b3f625f21edcb2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:174a42286d2adc8649fccba643c78cde
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0739c3f536482ee98e02ce6ca994d6ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Am Kaiser-Wilhelm-Schacht\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:954a009b8c92300aeb41cae8949c1368
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:70d7de07c9bc448a4c6d537b87970cb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0034df9de18dc7dd074c7fe652e825bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4f0ba3bbd6cd7af380beca09c354dc90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:22c9141ef6ceb6a259be3b448218c3ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:fd66ec46365bc36823e8d7466a98a2da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:cf7d232ceacd432c663cdffa5282f985
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4c0cd3ee3c2b3828cb69a307c74388cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:acc5063c76da4cfd6bbe8a196f69740d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b39fe7814300bdc4ab66b560e8ffab8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f4ce0a732e9cbaea7b04e145829d52b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:dd36c3b6159afbfbab4e64aa7b526090
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d106afb97837c624f5082ff09a7be377
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Am Kaiser-Wilhelm-Schacht\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7867c1b7cecd5f989166ccb6c740ced7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3761596fc3077ca37bf18c2963e50f6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8951bdb949d6f9cc474f8bdcaf2dda6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3a302aa24156d657e2caffdc03691a4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c2bbe2438ec9d635f6f6dfa722491750
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:64591228f00ea3ea578c6db75ecce1b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4100f184c7e1fc5775f1063f42b6ad3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:81c15dcc28220412299bd936271de59f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:02ef0ec44f13b69f9228fc28a58d74b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f7f1f4fe3202738641d5c4418a22b2a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:60d54fdb4f61bf6a20ff0e55ea7bdc63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:058e3c33c16db0204665c114b9e12bee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:36218cad56f4f0b4fd857f0c6a0e0ce7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Am Kaiser-Wilhelm-Schacht\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:669c2b3b33df84f8acf045b994a061f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ba8f19a2a49509f7d3940d921e82240e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 06.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:defedd63c5ac1b261838b2321c6286f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190206
+DTEND;VALUE=DATE:20190207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 20.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:547f9448e1f3ce18d21d5d377cc93993
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190220
+DTEND;VALUE=DATE:20190221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 06.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d3a2a67151a8dde7a63b78de8c7fd413
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 20.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:89ff55492db3e45ac9927cbf61c8c6fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 03.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d73d3688f61dedae54291b296c2fc107
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190403
+DTEND;VALUE=DATE:20190404
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 16.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4d0b8d467a8e6d1ff782169b96beefd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190416
+DTEND;VALUE=DATE:20190417
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 02.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fc5e6b510dafeddba253af7e6daabc21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190502
+DTEND;VALUE=DATE:20190503
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 15.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b8647d78c611ee51cfb15d07af22653a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190516
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 29.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:704a35a89882f3ac3fa61767f29e247b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190529
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 13.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d1f6a84d88681da74bbfae0f49ce3e16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190613
+DTEND;VALUE=DATE:20190614
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 26.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:25da945381815b7829429f51fceefba0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190627
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 10.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:951b3012d025fb91c04d8df4ce47927d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190710
+DTEND;VALUE=DATE:20190711
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 24.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:760e8c853d8e15c1c2137fa36a1e1b4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190725
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 07.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1814d456a56ed07b042dbfbe93b086e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190807
+DTEND;VALUE=DATE:20190808
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 21.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3ee29d9e55900667f35923b9dbef3de0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190821
+DTEND;VALUE=DATE:20190822
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 04.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fb9c65eb17c6861645bf4e2c91930b92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190904
+DTEND;VALUE=DATE:20190905
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 18.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:17f38f8c4867837806dec7e43b066c54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190919
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 02.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5cda8d5e0c0a0010b91f079490fd86f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191002
+DTEND;VALUE=DATE:20191003
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 16.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ee3d2045d08f8b97fa4329ca850f4c5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191016
+DTEND;VALUE=DATE:20191017
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 30.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6a820690d1ab290059e30e1300508929
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191030
+DTEND;VALUE=DATE:20191031
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 13.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:77e64720efca13f2daf6bed7fe4126d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191113
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 27.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:db6bef752d30b66cd6b815a624195301
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191128
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 11.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1e53c4f525f2e2e16f4e52f9f8e70b57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191211
+DTEND;VALUE=DATE:20191212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 24.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:db649c3a7606a49637551dc5a81aa67b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191224
+DTEND;VALUE=DATE:20191225
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Am Kaiser-Wilhelm-Schacht\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:f623a523bc4b6eb470ef420871f358f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190109
+DTEND;VALUE=DATE:20190110
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Am Kaiser-Wilhelm-Schacht\n \nNächster Abholtermin ist am: 23.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Am Kaiser-Wilhelm-Schacht
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:64806d7fb00ddc6dc1c43ff032ce147c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190123
+DTEND;VALUE=DATE:20190124
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Am Kaiser-Wilhelm-Schacht\n \n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:a5dbd9dbea7449e157e595e935bc1ac2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:f1ed48376a03199504ceb8f6be2a8ac8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Dörnten einschließlich Kunigunde\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:5294caed788096286ddc833c51503869
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:43bd758138d9ae25731099837d021a16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:7e7b57cc9538ec7064413e5c3bb8041c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:684f3948a67895aa820ee73e69327168
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:833159ef5172d906b2c575527f8e73c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:b1282ef6cf18af5d9bb8d7039b264c6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:1ccfef955a32c4cfe6a8520885a13ffc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:149b63cb51d7bffe5a86a3fcadfda461
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:c40a7f5739bb357b3b630d2d728bbd76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:1dfd12cbef32cf4036dd28e4b6e13a04
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:1a34e1bfefc2352afbf3fb2d6e8b879d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:9d6b1a06ea9838aed32470ee218dfc47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:609685afd096499fcd3708a9794ac105
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:e9bcb79a30b6e44b5d83c4d061a9fb21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:147d97d5f43c0ef6f839a82cb06509e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:b0342051f1e71a178f51caea0366133a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:9c60532878d0beb1f116ad49c27c739a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:ac30c4ceb330978ff3d76908173f01bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:84ab5d2b36404ed1a6147fea416af404
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:f4cdc438e79ace7cef9d7838f0288cd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:6b306295fa4ebdcba0730e3032a993e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:6cfe673f634069cd26e700056fedff58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:782c7b4f0807ee0ca1adf6f2f0042c22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:db14b1e9e76c91b7e4c4fd92bb34ed5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:5cb58dc07c9fb162da7f108c6fb680e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Biotonne: Liebenburg
+UID:0b388924742cbde4a97ced45da659a50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:9e5249ed2a4e04b6f486dd4b5b2a59b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:0ea2f382ea6f7747ab4aa84a0bff3faa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:568438bf45aa967f0b02075779f3bac8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:1e4bdfe9d18758cb11e703453ea6abd7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:e3f7a942bfc3c18b16ebd1d9c92bccee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:b71a1d382fdb4a734a78da84526d37e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:475b078e593c2c4df2d3e2daace71bd0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c90a9d3d140b91ad7e9c6c2e7b2e3753
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:0bbfe7d58e8b7e3c5ddceb80ca4d731c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:d0ac8224dd21caecc600bd52ea40af79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:cd813378bd9f97b7e23c1a79b7d04da7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:a046a220742e5a03a7d380edb52dbf6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Blaue Tonne: Liebenburg
+UID:c0d4b9ecc5a3e78ca8c0f2556c4f15da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:e42d11054102bc77af1df838cc2d42c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:82bd778049d05fe9a0c0fae42ccbd9f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:cb01ad803ce2202fb579c3fae00b2ed1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:6ed09d644901515c1c198005e416cef7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:9f60802006b86e5c9d2df7448eec38dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:9861e002c0aad9c003e14320c600d860
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:f904471532f15b11b6d582f9810afc91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:2d57f9af8a0591ea9d693488e49aa5a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:b046da0f2e85eae87981683f6dbc93a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:cf73f9c1c325f3b97e441691cd160b06
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:569c797f9912885e80401749b32626d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:b9edc423f79be42ecfb21c69c91248ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Gelber Sack: Liebenburg
+UID:29865ca064084a8e20669099787a9ef8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Dörnten einschließlich Kunigunde\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:e580cbf78f9f94b5f01fe8d65ab6d073
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:5e1c9bf480cec632c42ca991884bafee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:faa64dddc6a9a8ceff37a9d3f94c5fda
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:a00c2b35f79b6d58e8fac563f22d060a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:35e1e3af959808147baa9c89ba82826e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:a6ddd9994c5b8e7ca4508e1d77ebefe7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:8e8aaf3be00d744973b8115217857e34
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:9702ae1e9b1c83a25db1f968367387ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:7432e251f44764c8d1d580d50d9ff454
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:5a6da26a0f09105f52494cea059eb912
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:783f634decf422dc4d609e4fb7219d50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:d2bb557abee32386dfcf7d62ea81a23f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:d582200cdf28df766cce87ed873db5b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:919898afbf463699484bb69430db0f55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:2a74cf945c465ff51ed1015d107b9506
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:2a216a69e7fa63626261fc2b1fdc1c34
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:ac9dc1911e37b032c647b61a53465da1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:a9c4424b91a1b81d5ed89e4a85fc4040
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:2c39c25434e10a17c478d7d9b5053e13
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:cbb80679e5552a5c3eb23600f381a450
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:7a858fa7ca2619ec0f883436453e5556
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:0acc93ca251d26c3872023a0bbd3ce4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:f57319bdbcbf71b5c3a2ecff88aa55c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:1650c4c3b4bb1273b221967b4332cd46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:99965130e3b899f984e9bf324169e0af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Restmülltonne: Liebenburg
+UID:aceff848d779921f7ddc695dd3729c8a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Dörnten einschließlich Kunigunde\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:96a8c89c00f1147ea698ada9979c51eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Dörnten einschließlich Kunigunde\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Dörnten einschließlich Kunigunde
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:f3085aaf21057e6b2cead11c113c3f2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Dörnten einschließlich Kunigunde\n \n
+END:VEVENT
+END:VCALENDAR

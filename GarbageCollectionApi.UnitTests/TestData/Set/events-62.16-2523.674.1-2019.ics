@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:595cdd20f90afc9ede0072a75c3f3d46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 11.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Baum- und Strauchschnitt: Liebenburg
+UID:43f086b6c1092be6775a7f8703a16bdb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Ostharingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:eb740c334923c027ab7db38f350bcb2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:48d13476bd09ebc566f4206b4390da3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:49b919ba153368c5b886cb79a33bb47a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:5b560c61590376adaba261a9a69ad605
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:730bfedd9bb7b47cb2ca4bfaef02e89e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:f837f6f55de11468c74a9e1c56b2c232
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:f2c7c772141949891fce13cc8d66578f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:008af90c58562440ca4aa8ae88d9a0bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:7086445ce9997dc25ae74b5e9c68488e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:068e62dc2ff11b9f2d940c0155711ad2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:ed6d49640504d1e411d1cc5e1a273118
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:f3a6d407a8a499a6e336cac4088f7b2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:cca2941d00a68e1b016d315d461bebd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:edccc1ca55957df831aec9df0a691d87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:55ec0c198853aaeab0fdd8b7d01cec31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:3da379abf52f2f880d7504429f9b4806
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:fe36512fa004478d22caa37de59baefc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:e90a1bdcda39adb80cf96aa01c4b8730
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:79c0435cb2d4a58fc726ef867b8a5c19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:f360cdb8e718e605185ac65a1749d8ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:e038cd23b8674751998b6e9f66bb8d5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:b140d5aafd18eea8e1aa84838341419e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:76d0c3d547f46235bd7265aaefd31b57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:11ce26cd6d690782df08c755708b0a70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:b2de78c20f602c01167dd3e6b9fc51c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Biotonne: Liebenburg
+UID:26a32912f3cbd9d459438f5ce99011ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Ostharingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:fe73d64b588850666d2113eb7afc5a0a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:e64bd81ce6239cbd4310348bfcb80946
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:81dd1695e5900f92c7e9e16520b9e7bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:7122c47b992f4fe89e4ae8320a82a49a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:3b27a4b82c01d78efab62d9726e7231a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:b2a3849ac353585c17870c7f31125869
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:4718b009519c4d933b0e962ad9a12e20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:f6210cb039db038a13d19db93524bba6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:347b32136252e6c2b3cda8d81c297840
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:3866dba310b605905c9b30d4bd4e6fc9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:4ce6537645387a80b896ed8a8c9ffc41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:45dfc5cb429cb3dee6911415d9d4be10
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Blaue Tonne: Liebenburg
+UID:1fe6bc56c9544412d0c692e7aedf82f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Ostharingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:22a2d3e81cf162dda0f5754101862be1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:5313f2cceaaca4a611a8af2d686bd665
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:146522a8bedd6f813eab37d2efd2f18f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:95fd78adb03393efb974a357b4eb7fd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:e53157aa2b8cdb1d7cfa97a444e6fbf6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:c99f20992efaecbcfc4743fb7899d74c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:d6d8b1d6fb9f27e0ce595a697d7e2569
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:f74de3acbfaf2ebf3723c1780fe795ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:2f61ad9fcbe6fce8037ddcde28dabbfa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:715be71ba7e02c9e5072d78d5cafd240
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:76d59e1befaa1c11ba7892c0fea52065
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:d9fbdd906be9eec506cdf3462491ed6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Gelber Sack: Liebenburg
+UID:3c097cd5735f80e16d0a8169f02d2fb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Ostharingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:ca01c84272593054d9af5452f9729b51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:fcb0f191baa379bff2af5df6d712f513
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:33b7e849a54e0b366ad807ce8cd9c9a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:59773d41e29dc7a69d85364d31da699a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:61fab5e1e65eff4f63780b7e088dbf8e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:fe4e40495d6d565a9c0a02c4766bca24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:3363ef1451e8989d9e46d9f37148979c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:db336d0b8c58906d05096e60cb06ca3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:2a7c0590869f7205f62b56be6ecf7bff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:2fee478b7c6682012fbf01f6bb22a246
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:2327a418732892091bb5e064dae7fa83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:8887851db884b1e9df83118b36dfd52c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:bdd23d4731ce6cbd483f6e3d0dedee87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:d39085d9ca3e1f46eff5b967f6decc67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:1af71c280132469dd85221290ef03473
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:c42b86364dc1663ae2fd2036bcd04503
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:c21c9f89368786a11cba0b822aaade89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:483c4a62da476d3b85532c90197c930e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:02801316fcb4f7b96544c721dc22d883
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:2036f0355b676a62dddfb5ab563b5d3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:5f8ca7ec17c8ae55e56bbb9a829692c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:3c50d5a33def81a7f55a3f9c70e9fa4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:995cef1216c8d74c44c13520eb3fc871
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:e763e87fe85ef5d905562f8b592ce363
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:d64168129f669d487a25f3a87cacfdbf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Restmülltonne: Liebenburg
+UID:148fb1badb2d5bd96a4b6fffbe380538
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Ostharingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:d141e113296f0fd736c39b6259b013af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:302677142373777e624f42937a690a25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ostharingen\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Liebenburg -  Ortsteil - Ostharingen
+SUMMARY:Weihnachtsbäume: Liebenburg
+UID:553295851063cca12307a6c6e239f094
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Ostharingen\n \n
+END:VEVENT
+END:VCALENDAR

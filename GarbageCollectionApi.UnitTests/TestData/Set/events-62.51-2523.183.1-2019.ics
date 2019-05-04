@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:c0addd2ce08c2792d2e40380c2d36526
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Zu den Silberschächten\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:010e3864874d0b5c6d283a6f8f7b6516
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Zu den Silberschächten\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:a08f46dbe13c6005c5118f1a0778437b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:4f7843547ea7c19a5356266e80f5d139
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:44a20a5f0bd213ea8b65f200fe216269
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:802736893a18d379093bea71bb4d1014
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:c64f72825191eacfb1c622c3593213d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:447635ba6d78598c5ed639d210e3e271
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:05de80de4e948fd602a0614c3fed6181
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:b8d7148e223bcde6fd6993d7ec435cf3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:019548de5f7f447f9d632d6a686f504d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:68c07ad5dd5bea49591e84da48bb0a62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:bd9f2926f286fe0e62846c2074317c4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:de29811ca734966fb62ea51aa7192219
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:77aa4b6cc372852f2c13a8939eac2704
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:c2afa26f67bfbbc65efc4c592feccd7a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:f04b8b452dcc09a212623e3cce873759
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:1fbbd9f20b3e5923a8532574c32f5e8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:fe7b38d6b21f39a88b1579c32647ad4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:bb85d07908390756e6847c17c39efc48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:79da46532fa5b73b9ef2cd2e97e8a0ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:ba733107b3bc294beeb0b66619e64ed9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:0e7586a0a8897e6cf7a7181a6c1014c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:c71c1cb7d63397b133dca8e64260e2ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:d542134f2d276c13fbc4ba93fb3b0f93
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:ad9248816d38351fdde8ba7cf1b2e588
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:a884439e66c23e7afe711874c29efb4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Biotonne: Braunlage
+UID:dcb5a9db971331458ed99528fec2f51b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Zu den Silberschächten\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:549c3bc2039d64f31bb90de669047c1c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:62110067534b5d2ee5307ca9b3bfaacb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:8bd49579595f14cf92060552b53e3f96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:e90a382ca22aa25c155155cb0b2bd028
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:b72069436e4315cc4ac7ba08ecebce98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:1cef0231309ebfa62f914f04ec323f9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:75add6ccc59437bc3de414305d7fc6cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:03d34b8b9fd04ca81b16d5267f6f9244
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:3fffa002e545f03ee9e30aae179fe863
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:e3c95cf1f14d5fa7cc76a8fdf5c2c3f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:8728582a00441c1bb366fbaf7eb86892
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:797f05a3f0fdc64db85803caa884c256
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Blaue Tonne: Braunlage
+UID:e6325424f0dee04670d4d8e906a4013f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Zu den Silberschächten\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:344ba390041a64837561756c15948cae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:76fd2e8fdb4004ac328ed50f88dc5933
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:89874a169dde0b160cfdc9af5661b84e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:e6c87d2d1596e41a203e014cc1414410
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:355a50481469f22d722b88ebd72cce2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:9d940c7f7a5d3f7ff80e7b175213d163
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:22e954d7574ab8cf8bf5e976c14867bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:ad29adc6073cea9fb91a32cd3ed43560
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:73daf972acb07c0e6d4a8579f3002f68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:08b1aff6ebbb7cc719869e810309dc59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:41e031307de9607ec8e03b704002f13a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:0ddff7a54770045154a88e8b4e780b53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Gelber Sack: Braunlage
+UID:8cb86d350ab80c9e48698dbe36490c23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Zu den Silberschächten\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:1e17790f1a69eb9ffdf35d979e9df9e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:3c565b957565cef7ae5f97c4711a6067
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:4b62b10fc40da4ff3ce1eb6acbaa4e9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:090369d631aae087660a1358bc08cb02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:4e1157027e55aedfdc3a38c24dace7a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:9b7c71116927d66281a3a8f8972618f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:ce9f7e02df9e0ef872b4709252831f4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:91d9f4ec86e6ec9eae800be24f49c895
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:7ccf7e6ae405b5172e0b3099bcccd719
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:8c80a2c6ca091eefe5d37b1c3f0ddbd9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:1bcb5d13c716f0a9517f141159c4b6d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:426b1e5dc738e80eda7b0bc8371cd75a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:8499d1b0bb32dfa1f025b8fda120d3e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:a89b8e983710a6face4b2a0477650592
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:bfe8514c546c0fc7f83c6fa1d2bee045
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:acba01a624cab1442d09fcd7025cacae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:8afdd160c570eb4096a5984f520aa48b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:9ef84ba406d1aa5f956f2d390a47631f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:c039b404337d6d7307bc64d146b1c2a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:dffd7e781297635a854fbbe290665a05
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:260c45c95fd5f97b598a43f4588797d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:afb715cc54e6ca8bd08046eb4dbcb45c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:36f240b557bb342b141a3a53fe42b09d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:0d89609ab433509e02efed7e661cd0da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:6ffa7161ccbcb7e2c77732bca8a85780
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Restmülltonne: Braunlage
+UID:91656a5742b1eedfc6b2f2e8b77f3686
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Zu den Silberschächten\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:0b0356a0a4acd740f90d305a8c4a5f03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Zu den Silberschächten\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Zu den Silberschächten
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:3566bb92cf56269d4d6b18417cfb0ada
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Zu den Silberschächten\n \n
+END:VEVENT
+END:VCALENDAR

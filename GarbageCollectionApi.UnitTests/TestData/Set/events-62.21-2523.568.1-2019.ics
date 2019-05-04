@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:856c9f029485a324226a4da23fbe3977
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 11.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:9b2aef87d130d11b6fda57bbaf51d532
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191111
+DTEND;VALUE=DATE:20191112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Bredelem\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:7d0a619ea6d833c16784882e08a31acd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:3f7ab1b768d1641b475a85ab03b72be7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:4b3e80c4cfc9336ffa2cc6fdcaba7984
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:24c063a36e8d3c06aefc391bd588973c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:dfd99bc570c2d1e40f63787281340753
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:1f0df23bc1f3f043c8aa6545da74b84c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:6a3749b5e311d906168e381df492eac8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:94726e1f75cd0e7a8a09875c93216bf0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:1b09e903154fe8a9f0dda2c7fe1bee9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:2c377a4d2341a713d5c636da3bb94e8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:dc590ae926c22c9122675cf910c17666
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:0043195759d2ed19d25ebfa89c9ea893
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:5f31f729149dd4e4d99d9b44b2d11407
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:49f2fb2648e1f61b53c5037f7d7324b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:7c2dd33c8ec7b96f3fc89812e6cb93fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:2cfb80e72fe64be28d3ed278bb3f5d20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:396b7b2cb6d57c38e2124465d8c7ec5a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:7d2bb35fd6fd229f4087314823f149ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:c54efba9e53258ee474a2b8ae4aadc89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:a32740599dd89a97d057276bc34ac0de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:77317a1af483868b6285c88b13eab135
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:8cf9613e8be6c1ebb2e58c2ea9ea2e4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:98f09cc9b3baedc9592083532412c144
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:ffdd610fafab0120192567849f9f7bae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:bde62fcee6ef51700d35116f4a512a33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Biotonne: Langelsheim
+UID:f1a50cc80c52739b9ef828b367bf0986
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Bredelem\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9f477bee964e721df3e8431ab018e1dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ab12dbde1afcb091f0032cc0e16ae674
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:83f2f542b279ed44443c461e48537fd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:5d395aaa8f4bfbe1daf4340e447dc95e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:0cce51b3de724842516400d47af094bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:c9d2443d670e2bfb9c1e685d13950ba9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:10c7d45b748dcf3a7316294899975243
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:1d07629d7a7ab76328dec4a0086c6c45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ad4def1c33c4b63e891bdbbdd9ce4fa8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:902b1d3a5100daa7e5b4697f3ac8e335
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:3df461d4a22458c231176242c00319e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:6567ba32face76fb707f7ca00217e7e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Blaue Tonne: Langelsheim
+UID:6533a513852bd1746fb88af0cf2e4e50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Bredelem\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:1c088bf13ce2dda71ed3145f6e2d7051
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:ce4e42d3301eeeab5c74caaf3c7f84de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:dfc6d95891e2d079419be9c5b2fead51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:3e35ac3a69f5620ae795a2aed5977bdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:92630d5912911b42fcfb699f1ff8eea1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:98c40c8211e0d5b5925f9cfc61bf91d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:a5c66e0e3c0808bf53dacd02e99eee31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:ae7cb8838c51dec26396f83aa49f6171
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:07d940c1849012d8b98d1037e2bf3b5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:17259b6b8b901343d11d531f3500856a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:0f7f6fcfd3f1c66ae715dd3d6f9a3001
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:f251b6508f2061019fe0e50f0546b7e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Gelber Sack: Langelsheim
+UID:a0cb415149a424c70ed0fd947b1f1276
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Bredelem\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:a1d5fe0e0022f8617f80b4eaf331cc32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:6702ae069926e1411a6d00fb71ed5d31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:60c42494dd82cb4ba1870ec4752da986
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:28374a2585c2bc98a53ef26cf68a09a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:630775ac9bf26c20b7f01a3752b7257e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:36393bc2d0e197cc42160ddbcb8bfc07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:aa0b56641079cd16e17d14a61be0ea27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:701e83a73c201d370e14bac972b6b155
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:95ac133bffc4c2120c522837c54711b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:e278a7a20a0f5ee2984f31e1d98ea473
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:f27e8f75cb1d96504927b50c49afe02e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:c1cf808e0e6321d5c78d9a45ff5b0667
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:2ca1762177b2e9a4ad6193c2a2c386df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:a26581b429560cbea4388c9eb4c39458
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:9129bce684bd708bd9df2477cf47e1e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:027a75ea4566964e9fceae8c22a23f3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:56083e311d867d2fba598b40b1b9bd33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:d41bb5b6c7c8ff9686f3ef2fc2a42f25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:b20b733ce79a41019611146f31bad33e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:8d8debcbe209aafdd74aa0e9e4ecf58e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:657555625c7eb70951c029b2fa62b4db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:15142d8f2aa7db6f75296aff06daf846
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:8ec959e91a5c51220d251358a3079dfa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:6bfbe065b6c6b06a1187397d2d4a8eff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:c18dee0010995b0312be09a30d1cc87d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Restmülltonne: Langelsheim
+UID:7c0da52a605866adf55766914992d600
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Bredelem\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:0ad47fcd176362edf800e0377c37698a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Bredelem\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim -  Ortsteil - Bredelem
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:fb1a6d4ec04ad058459c2c5df2db5616
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Bredelem\n \n
+END:VEVENT
+END:VCALENDAR

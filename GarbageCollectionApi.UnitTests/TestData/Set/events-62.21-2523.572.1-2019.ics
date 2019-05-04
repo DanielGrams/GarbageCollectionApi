@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:6164f0a7d98d61efdf497fa68f6d3a9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:3a0c9c74838f611b428b37b5082daecf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dr.-Erich-Thieler-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:130b60390be7e9811f7373e608ed0777
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:b03c32d4d9220a5e34d1587d919e39fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:0bbd11e89825224c0b6069abd6b6348d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:b012c13738c977ccd3485085ae5e5d80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:2a589d5259b2aecf6c0412ac28016f2d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:23499844e9a5df77389408ab5214f1c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:812833ece733b3f39b8c999473738373
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:85bab21ff20c449a7c00b72898929b0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:a1522d5cfe8aad4953e91f1d2bc2f37b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:ee237acf787287494fe3017afda01e8e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:310244200b26979eeeeaeb2e8123869e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:a19dd296a85b0f60a1ce5b708d4eba8e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:637aac5e2fe7eccfe1ffc56d06391b02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:f6035ba85701391961925dcc0be4f2d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:bb037f8748add725d686ad6e9b7fe8ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:94266f97a8634c146c4810cccf7c6367
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:9e896acf8d61dbc026f5b1de796b822e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:980d7f88732b0c23c94cc5f3e83c7804
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:846d2903055d4b2deb600b4e75d377d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:8814390223afe6e7f6eed1f7fd7f302e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:514089ed02cdb5b01681f46da0f1359c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:f973d7a01a55ee84b65e5d6d86617eed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:1024c11713ca6b74bbd9ddabec7da2df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:b8a467dd662db5a5e14c9029adbac250
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:9378a6e56c44bf6f630e68e5b00d261d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:5bda31a962a09a4ad04a96098b5427da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Erich-Thieler-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:0385ec2994d22454e18b40de0c1f3217
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:d97b52fef9bd1b91c717824f2473dfa4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:118e29ad5668bfc7f42e69298b163887
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9ab1b3a718488e1f87a7ef391fdff6ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:2324eed08c9b5c5f7cfc6fad19cc905f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:a96ff5e5e594e3947c86799532c4f4bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:ddc3f6b18db9c0a47f9966e7397ffb90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:fde2982d7efd69ceb1557aea0abdd9ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:bbcbe09e45958b7773b59d4ed7f9d6c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:b9a821bf45b245b1b1c8970ebc55b525
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:d279e57ea1bb5eb83158b77c8dbc9259
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:c50f7e37721b66c1af6f9621af7b571c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:f4f5d63cb2a0672d408c6b1718101805
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Erich-Thieler-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:1ad1bcb6b74963f33ff75e7e9dcc7ac2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:8514a796732e7059cef3ce1fac329eb4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:407c217de2f9ebe6482ee89b232e239a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:f1cc2222e694cb027834d3e784cf3b4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:2239d9fcf75251ee7ed864e2ac23228d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:1b8258578d7a29f8c435fe618699d769
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:4aa65b24f68c8b58aadb4141e56ac3bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:f17d35684c784952ef33b731ddee24f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:8e0b25eb9c3fee79e943f248f4275519
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:a03c10c6429f680762d9926452d8dad4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:6e96444bc93e423ff2d121fdb4f06878
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:0e5aadfae6be8b95e6553ff1bd20473f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:e111e14cd4bcef6fb4e4aa87cd37c541
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Erich-Thieler-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d10a5b30f56f57e572534a75a869d776
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d1a2821ad0a089dd9f83c3b889a4e343
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:e5f38aad6eae59fb245f08d72156706f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:2ca2516753608097783d66b0a9afe93c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8948b06ba8638e9896f6c8fe09b34fcf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8c0f783050d41279cd475ce6ff7fa785
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:39bba4bb398c17d38fff092dbb6bcc6f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:2983e91a3e0f1b890292c4d3518e7c3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:04a251658db12a3b9fa1431777706cec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:4d40cff57dec5001faab770a92d7cbe1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:d364adacc5ac0b43bad927615c437974
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:5c6602770c7fe1f0aa5dd66bd98a5850
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:328cee0d2707ebc58dca33b12db6368c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:cee344740ee69bda6c2f8252fd9979c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:f9a152a0bc479cf299800cd4d70829a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:6cd3ee5d3c7deda0ac0a556b74d37091
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:cd9aeda69a1b4c4400318feae9738652
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:05924de7b7a1270e365079a42f28ee08
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:68e9f58fee98535b264ee628bace8c3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:e9a9da3633d10ebf0d49dda25a36c2c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:359ac12d5fc72f6b45700d584f7d06a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:e07a8204a7b614ce3574691598d64de5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:eec9edb2ae362c31bfa48acb3063f004
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:77e7848235765b2989e5ef45d0218599
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:341e4d21e30c69b805c434a75b65c83d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:766be4aa27e2b68e14f55bbf1f3469eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Erich-Thieler-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:f379b9e7291467a33faa207b5d8db3b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:d4d907988e1d96210067dbe91997a30b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Erich-Thieler-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Erich-Thieler-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:a06d61fe989a97670c5bc81dbec4fb5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Erich-Thieler-Straße\n \n
+END:VEVENT
+END:VCALENDAR

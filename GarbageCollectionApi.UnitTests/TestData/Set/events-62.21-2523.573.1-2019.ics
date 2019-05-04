@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:332718273d6c72715189fc96386cec81
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:b6c8fb486ee9d2374541ebb5cc80f749
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dr.-Heinrich-Jasper-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:e14f9b780288cb5dbc4656329f4e438e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:9263f5be6892f21f7a1dd83885233571
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:6df4c5fb88d261d17473ff25f300c6f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:72bb48b532790159559039c7c619b6fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:027c699c6d18a0eac06163596958bfb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:51a9979fdfbf20babb3dda91bd49cebe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:d00500b67a3d3faf2e292c6b3aab7756
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:624e2853bf3d85e3b17f50bc054bc6bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:9af22a4cb7b384bd9b69a726c8498dfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:01e43b1d09c9fb557c142c12642dbbfd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:bb6721be9101d1952ab25f8ccbb3fae5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:4c17b51b9e4af26ca5b79b2dcd23d8bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:1f95aab4192ef10acf3996cb75f1c8b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:6f5dd044a1e6db8d31130b60c3a7b629
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:02d435c7f1a962bba95158f4b5bc236b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:b8df151ea14a817c1b6acadd3816b7bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:0779575d228f6086ed47aa24f6fc7f53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:625660273cf29c822c99ce134564c275
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:71bc00f0ea040831b9260b8446d153df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:03c887665f2d9fd9427b3341f8d7b7e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:c64f851bf978acdec658ee6bda94c74b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:a5691cc9692a7f7b9236e96a15e384e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:7a2cd5c389df9c523076bbb84e29d9b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:ab921677a9d035b8e86280203f3b397b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:6647fb4036e77d523b45cdb28d49df51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:09b91294abf86c2d19711e48d46db592
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dr.-Heinrich-Jasper-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:fddf9e731d001ebf043ca1442e7439a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:97fbe47abff63917d03f880bddbd3a2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:7208e84f6e4a5e7d3dce0aee945c2432
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:710bc214f19cdb467a954727c30cadd3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:e27e5ff25bb34be5cc2adff79d3a37bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:aacbf83b91d37793daa56860e2c286db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:d9b6e361baf2f816e0b2d018f830bc02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:590d885869a0b918e3c0c2a8b0bccb61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:942e27a490c94eb058a2886eb53c6e0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:557e8ec0cd4dbe4c34d0ecab2faca859
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:6fa8e7a85d68a0194cea90dbaef35e28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:35cd2e8e488d0e4a333b7429c9beab7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:b239f4b542aefc018ead25f5d37ad5f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dr.-Heinrich-Jasper-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:294cc6b819fddd7db12776058ccc7fa9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:783d6b5c987d7085ffe6fce4361d0e72
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:451a63fc5a2c1d8c7f8c70b01b4d9193
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:0d1ce03ed209181f903d2aff26ddb064
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:14abc4ec0b8d02bca8f26e019c6d5ec6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:10dfc7d3188b61ffc2a5123b416430ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:aec71beda9826aa753f2c0e65b809673
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:4939ae92bd4bef3ee31a23c245adc68b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:35f87984f7d1aa77846432fc85fb1aa0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:da3f04aefc82260e7b7c98bfa961d01f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:9f77fed877b8055f49ba518961e1d42d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:daf4acca0d487810cce96c93d441ff82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:00ed8c1be6eed19158c82a7943a05908
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dr.-Heinrich-Jasper-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:c784dbc37767e4ef3ec687aacb74aa38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:45397434076955b93bed1647a7306606
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:2fdf627632bed04e02dda1c1bb319b25
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:143568391a031b453d219fc88e657814
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:2cf919198b52eb825a310a206dd091de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:efe476de815d1e00a7776b63cdedb631
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:4e42c61c61f89d76e01c3810d9a19a69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:4726b457e362ed71d1408727d917cbec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:71c1dfd6bd745fd7ca52c387536d4062
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8cab44e06c2d73c79ce9486a1530480e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:44f11fc346e4da0a80f961be9070c418
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:18137782c53ed01e39388ef0318e1349
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:024337cf14d97598527941370638bdbb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:4a5bbccbf9d7d9f476648749717c8809
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:5840eca56dc97e9b72c5e16a989b21a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:47a4f55da188d5d16615c4fb1a97922a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:dba5509381fdc00b157594c67568fb32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:afd8750f03d68867498ada4f1b50ca45
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:aca525867b5c078631f9f9e7d19b4477
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:28be24a7f6fdb8b9d79c641aedd4f032
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:ab14e1a40313b946a3064f18fab2ea0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:738c8a91fd1fb10ecfa63ce16882244f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:77cbeda47bd0b5e10020b839dec05f7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:14c6dd197febf2ee01f0c682167085eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:f8025f84664525aae6638577ded9f156
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:f2a6f94a798e7d96f5423149ac43d0b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dr.-Heinrich-Jasper-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:cb338cef8e8d5dd40b690d03acfb5bea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:d3d3d1ca3e328c799d78c366796aa0e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Heinrich-Jasper-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Dr.-Heinrich-Jasper-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:569e83ef4d5f8d8f1306a3f8b21b9a82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dr.-Heinrich-Jasper-Straße\n \n
+END:VEVENT
+END:VCALENDAR

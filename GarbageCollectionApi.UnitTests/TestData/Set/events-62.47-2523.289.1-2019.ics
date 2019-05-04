@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:12874c2bf213aee112cad862c220a498
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An den Langen Brüchen\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:29073fe679eae6cf9b00037ac95d134e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - An den Langen Brüchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:12cccb66084a2bc1620c395fcfa5fe31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b696cd8e8c472f3d3ce280568df76cd4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3ca8b07af5313e0c56385887bd5a7882
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:62ba4045cee8e1f4c6f67aca81359465
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bf0b08c9a0ee2e5de6cf6228fb3ead92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c61b6491767367bba8b54ff83cfd5644
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0239ec1294f977f103cd7b1640d84835
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7e0d321ccca068d36a5d2f943ad47808
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ff22b2abdeda7b1923cab9d94140d236
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:67d7bff380ff4b8070a44d52f6a9c23f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0d7d2c0eee60ea1ca51241a3896ea028
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3090c5a233429e4ff84b73e7ee302c53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f2af5ab56ee6db0a2f0d2e23dce761a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ce80a9242f529d702adce6fbd98edab8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cbbe66be6ba8b50689fa84beda23a94d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1522a0dfd514d6d8c9fe04a9ae53d6a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ac8bd88462fb59ddfbf97ce1f70ef354
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bed178e5ce04b19a2901422188277e60
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4a0ca7aa564304c709fba964d0d5d7e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f5e5dcaa4d9b1c174e877ada6efb9de7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:53faa457ff0936da76142f7e43d9cd0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ddf0fd62a1c1754c45080a27f51e90fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7c446caaab99846849570435ec153f84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:18caa6c9b8ed173b7031c12c88694155
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:49f69788155140c0e85da575b93db49a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c70c95bcf197462f4e6b94ff3ba9025b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - An den Langen Brüchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:726f6a1b041e96f57e55f5c6e7f70089
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ddbaa67846627105edc84e57c72a25d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e4fa342ee4ec2c6b5696d7bedbb0c279
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6213d57fcc85ec38b9f60da5d5dccb9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:674e6a81fbc954d80f11536d730065eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:72e475ae2210d988ebc7d7928bc2637c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7c5fe4c41e518ba65955ce8e921bceba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5cda821f90d1e1bc9553a2dce9240d2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b6c708e015813f24c7460cdbbe28c25d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d40c1169fa4bdab225d2e9c90988cfc2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4c6a7e239c6e0e1b2a21e6083b59fe64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7ef1517f7fd8c21c50a98c954e3f03ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e11568310ebb35f07507b98cf3c94347
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - An den Langen Brüchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a7207205e0434c03ec9ee8ec5cd38521
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:722694c8ddc5cebe45d2e77e82835dcb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c5950114220fbf2fc3faac31da22e3a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:550926769f10499fb080fb85a1b0b6af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:30e247f2b4ecaf7aa8098cab4c05c253
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:78f8aa5d11d4fe5ebf29426023dcc33c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ef1cad0f79c8015a47b83d2ed4a95f8c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e45765060a532b1a27f92227f33ec96c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:19b75d14efac6baeffd52abf60db0505
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f10ad1c72ce7e87432b6eff15754ed2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9118a863fe8f3e8371d415d078dcb45f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:aa77ed2382953b4ecec3bd5040d00b9b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c9a798eb6877d58a1154845e945c1c96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - An den Langen Brüchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1739ef2f46aa21bf64db640f2eb441e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4ff2399f8ccb5c3d8a49c39a2d98926f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:aa64d86be230dc5c103fd868012ee530
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6964e491887747038567ca61047755ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:02987dd967c07b672543f3a5dbf35970
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8a419ef3101b215798cc888fb62a2bb5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:08c3b827dc31896636caa9f450570ca3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f7d7c7638bf5ef3101adf996aef7b4a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:684e629ae61caf600526225f2bcf3853
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:793ed7c7f24f9f862df0fab35e1ae202
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e317edf92bdaf57bb590315604920d0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:911fcc8eafe024b00f920f506c932c0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5525d30611783af02932cbd62ba17e18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2436fd4fce7dd13940145884d112c98b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f8d8b5ca7d46f6dede28211ab11cc4d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c96481f29ca56244fc9407822463db88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1a21149b5347914be5f9aca74e0ea0a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:23adceb867aa11b8acc21ce64a00ace7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:28c2d0f4ef9a44cfda81660035913d3f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:407c8d034de0855139bfadf68a8c21a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c06de56986cac165d1c1a0f946ff5726
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:416cbceaedb83b1f204d39161dc6c172
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:098da23f1772b2ccaaf6a2bb90cfd967
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:19523e41f641db9e3766b298018dacfe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6b7470e7ff88e15fbd3737aa03c8d131
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2c9429aa327a1ae1426fba8d0396b70b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - An den Langen Brüchen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:f56249c5bc6e957d22d4e933bed055a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An den Langen Brüchen\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:40679e7837a6da8d62fb6096f6938775
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An den Langen Brüchen\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - An den Langen Brüchen
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:944557ac25837a3fb29f68867107ce51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - An den Langen Brüchen\n \n
+END:VEVENT
+END:VCALENDAR

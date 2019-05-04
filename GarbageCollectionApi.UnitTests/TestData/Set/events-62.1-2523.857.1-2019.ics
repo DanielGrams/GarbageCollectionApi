@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:ee8df33d11498cc54bfe051952239258
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:a9a844779970f01a22d09a4b41bf245f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Hahnenklee-Bockswiese\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:ca82806b56f2cd458b4b6974d19f23fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:aa452656e9e03f4c775aed775d211493
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:0d0bebd695c109280aec805957a6205f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:a16c8b291ca328de12f6cf3f9e1df0b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:ab3d26f17b68fbb27e918b11a004e3fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:cb61a5fd98962e9f568e3c0ceac5ba54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:50139b348f40725614c108cc3debcaa6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:16fb3661279e41ed114163ae5e3d876c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:9ccc0adfe0e47da49c629bda36849c98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:2916317d1c4a45e2f1bd2da1ce6c42b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:1d312ee4309ac6d6139cee5d9b75b3ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:f5b51c5e08a5d509d71b80c0971b9381
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:85356e44f2f414f217606508f1f60d8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:a26669711096c0deb8bf63079689f09e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:39b9dcf16166114cee7aa49e1a23ba1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:f80dace7f53f975b02ecae072358a124
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:d4048fa371e90658631e2e7e72552e94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:f6978e74732ab1631abd0cdad0eccdaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:ad169d9c6bb9e7fc30e94e5e52f1bd93
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:8afdde03fe89b5a45b6d5f29e2cbf6e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:dcd0872edcce286cfc9bef66fc9e0fd3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:1a91aa75286464efe324477e78b68bdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:c9b23b6b3914e041940d5e3041435d30
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:a9e064cbd636b5ae57bba7ab744f12df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:a1146026f1de4ff1fd85c1199d163a5c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Biotonne: Goslar
+UID:fc4ed7750f9efbf41a86370923c296f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Hahnenklee-Bockswiese\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:29637b518feb37b3b426f09876d6e7a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:22c796079603b422c519fb3f274663dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:76681d63e71d948902ffa3ffc1fab43a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:c1243b1933b89e3190d2a4127506059c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:bb446bff0727338f1d02590064037bb7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:78254ab21ab58adfedfc8e6bf8b47056
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:65416d73bb1c93c2bb0fa4ab784ca97d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:0ad7b25da9336235c1d6dee0110163ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:d3033b96ed2bdace43e3ba4c6239973d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:64e27ad78278ae5a0d173650420a6024
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:7819ea23fc3c7dfb8d21b0b45299f2e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:8d8269b23e192b02c627df9978650654
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Blaue Tonne: Goslar
+UID:d4ced77427095caa76426fd36a3056d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Hahnenklee-Bockswiese\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:76d10936ad8110e89876ea7aa37032ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:32b7b5fb4311796dd84361ad86adbf00
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:52dd016117e68c8792e030de50de33c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:c5014cb3e1ae637925da8de19bfa731b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:f56c558eac0c764d6e90a07260eede5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:6dce958ff157c3c5053c98afbc53db86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:c3bef9b2d6f07e6bcb4b886f97de5f53
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:2de1f1921cf9de8a4520b8a15d958b1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:923b40addc1c8242dc132c3a98528bbc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:7ef805625bbfa5fd9fb50c3bcb8afe35
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:4b50e5b1e94eecc8edc5684038369450
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:c92d3de295919718877573df9086699a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Gelber Sack: Goslar
+UID:d3219b30b918eb288aa0c86a7cb9ba69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Hahnenklee-Bockswiese\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:4d6cb713fe596e00ad8c14f1218478b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:3a40aa860e320f3ab02016992dd1d6be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:c6389b09c3212d2916f4d76206c4ca3d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:fb4fc5b5cff4f703ac383e2f9cff9e0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:91a85c984b6d3b97652639c30f4a2d03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:77b8b39749f4c9f4145913647634eb8c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:34d225f5c8a0b45a3a52e5757269a219
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:5868d11ec1a19293a90ac93372348d96
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:55e250865e22fde0948213ef22acad2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:cdba9d77e76439d861092966a2078212
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:c2b7175a682dc706186049277fc3677d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:aec73c34d039989b825b743d34bf006f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:bbc5b4a9d97e9058d8d08d4f4b625cf8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:18c29e6640fdad64aaaf88f6afe27f54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:5bce3a6057d17bd47283aa67fabe1acd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:43b85afbd57bb70303064473d22caa35
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:b641b5b16f2a4ad9d9935511f1e9eeb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:ef2af1e5dedcc7e9f45aa0cc8801d282
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:ee18f542b6e7099e9497632b91afe386
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:e8752e813dbf464036fa4b6970ff5e27
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:fab6ab255d7a0d3115ddd06f6f940b94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:aead03049f12d8a9ec298d922a7628c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:8a0dde91e2852d7ee0a834781b48d4e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:abe89e7b69878da2939145405120bd74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:d7896bfe7550ca92ee9613737606bc7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Restmülltonne: Goslar
+UID:6edb6dfae2620b5df751a02c8b09d7e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Hahnenklee-Bockswiese\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Weihnachtsbäume: Goslar
+UID:1a9c8fddc96127ccb771b52cdcfedfed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Weihnachtsbäume: Goslar
+UID:3b888cc83343e9b068f1d823ed032519
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Hahnenklee-Bockswiese\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar -  Ortsteil - Hahnenklee-Bockswiese
+SUMMARY:Weihnachtsbäume: Goslar
+UID:95396c9cb840062ef0c0ad6ecc15fbd7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Hahnenklee-Bockswiese\n \n
+END:VEVENT
+END:VCALENDAR

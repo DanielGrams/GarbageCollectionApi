@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:f5cc0635229d29daecf39dc9eb72c915
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:2a960ad6c8b08d26aa6991a4c81581cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Andreasberger Straße (ab Am Schlagbaum)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3fa4dbd96132ece212e69b523cad5b63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4c1d6e6b7a84e6f291cdfc81809e13ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:57b155ecb77d809ac27797482588129b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:70fbefbe709988342b2a722f37be4670
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a877baebc5b0cbc5eaa8ac4fe5940f4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ae0be4478d0c268d2f216b073c70a4b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2a4d892c7dadfdeb34956d286ee8b94d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7ee92364a74229232aa812ea1bad3935
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:370c1acc826f30eba3a14ac81b2a471c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:58f15498e8281f2ff026aa4dca2bd346
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4aece09efdbda94b33d6ffb0e3cec2e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:161a3b88cb18d658d3465992f7acce73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f0b38a4f88fd22e6d01bcbaf8f81652f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5fc1907755d4df83a873e8d75416dda6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:530371311570a60dfb9e7bc3afe4deb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:eead59efc05376acaf018200d5026409
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b609ee4b1db5e2042b2d5163b4ed40f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:abfabb0c88b5344755ca1530bdbdcf21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:44cfc04e1afbbb69a7778352f399c70b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0f525e80adb15ae16460a2e2ebfe3c4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a21d36cb0dfd6fd89975d5ae2e26d77d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:abb247affbc27e8621e3f6ef36caafa4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c4b6e86a8605fae6428cf36b62f88024
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9eb7053c8b4b5108603fe1c4c065ceaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:db579b2b70543648ddfa5bd5ec0cbb95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:047462fa41e94d7db5bbf5fc819a26ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Andreasberger Straße (ab Am Schlagbaum)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:50b837167bcaa7e5b6bf1ca9da7911fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d9b7e5d72388632ff134fd0f2f7368d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:62db1034dff5c2b71e562baa0ddade52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2ac341af6ccf3507d0cfbd22a48baa26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:be622e8ac94cc9be4d74d81059a488ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:66a327d8a32fef333777a7e5dbaef910
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1ca8d21c63e6c60591f9a5fbb4c42be4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:144290a5659ede77daf79c15666dd3fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:584e8a6f78ed52ee1e7d896577025410
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:382231c07e14ad20035b0cd0d103b0b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:a8ac881ab2322e37e02ce40e9fc70b31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b1cfbd41b5314cd02a2cfc91f31aeb43
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:07b9625a2653b4d52b4ff9352863f2c0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Andreasberger Straße (ab Am Schlagbaum)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:aa1449647da2f9146304f94e2d9aa776
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:787d2396ec004247ee58bb9cfa78038b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c3e6f68cecb4447069ca962b2c17fda3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3b5982aed5912947b00e0d51b0bcac52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b0a03841bd3d8802f2a314d6842de73f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6c6c6054f51e8870c20775192e785a1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9eaa813c0a86de0ae0fdc8a3a837ea38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:72a2c6668a20324f252552ed1480e0e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e1d49f7f0e3fb2f092ef3261d4c26094
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6c2a04fddb85085db17e4c4978b15c32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3f3abfea5f04d0c26ddd922ac69d5c81
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6f21427617db9f9338e41c7cc6d3d028
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:eba09550ce3597a68258afe6d51fa9e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Andreasberger Straße (ab Am Schlagbaum)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2d1c2d439a10b1df3540f5546836d4f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:37e8f46eb81d672cad981a46f9767e69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d4117f860cf562c5f9c8f96e8010334c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7979dbee7fb1070fda27b9601dc4b3e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7081e119d0ec55aaf3b5e69022a3c1a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7ddb672363f3da01bef503cde6c1612f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c441094a7ee3941e91037917e6d8df6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:eb1af4e7aaaf8549985ffa5db4db9b5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7f3fdfb020b758bb7c2125743a4beaf5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:87adcfaa923e98adb3fa6f2b2754ab17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9c34679cec7adabcba0456f4a5b89d20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:321dc3861b168e4bdbda62e2fd9898a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:45a97b5f2d29dc612539b2a4d6c1f341
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bdc022c96773de757804a404444d6448
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c5848f24ce72800a2a83a6b682af36bb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:18eb14bb5173b4f1c89843bd855f0676
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9d82fae11254a846ac1c911e518554f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cfa7f80d6ddf24358ed5c0162e99be98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:97aca7699d19b998e6060149100e2bb9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ff8f237aa26880d2a00052c8b185a912
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:25de800247294783a76d49a64d5a8a9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4d76833f92a672967b34a4598509dfc5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f058d9675f560e43293f8d8d02d2f61b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:139c022ed1b96394294ea3f6e1fcc785
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:397439371d409943bd1615b2a1ba1abf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:64fae380aa16056974fe6d2828a36e09
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Andreasberger Straße (ab Am Schlagbaum)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:6c99cba1d1f84f3cef87735d921116f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:ba0baa3209644ec11e5011995cbeac37
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Andreasberger Straße (ab Am Schlagbaum)\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Andreasberger Straße (ab Am Schlagbaum)
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:a6e681e0b9a3dbb7f1fe40080d6eee89
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Andreasberger Straße (ab Am Schlagbaum)\n \n
+END:VEVENT
+END:VCALENDAR

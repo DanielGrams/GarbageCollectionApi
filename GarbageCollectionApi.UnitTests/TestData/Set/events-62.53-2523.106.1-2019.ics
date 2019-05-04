@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:b2d1f07bf0fba9af549ac9004bfe6612
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190218
+DTEND;VALUE=DATE:20190219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Baum- und Strauchschnitt: Bad Harzburg
+UID:4f46898acfbbb67ad4712c630c8910ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Harlingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:871df5c8109fc37ad2fb8253da0ac8e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:64b3f38d6a589f4478cb8e46ebdc451d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:d3490a8f290673f5565e366d6bbbf57f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:3fd4d7fc1e5d76369311908e11923217
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:cf37a7b509cb679d2f46235cd57fca70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:78dea6659b03a6c6142ab8505f84c7ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:68b112b8c2b9d16a9036aed95a16b7b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:1ba4912ad2bc976883f8b5ac620329d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:3aa7d91f09759f51eee12f2fff3dd9de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:13a708fcbd4a8060f4356a7b52236e7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:eb770ba83aef6794652b3beefe31fe37
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:717e7a3ca212f48511486d9a444e20d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:d4e3fef4c51363e9f3622b89833b5b68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:c79d85a10653a84267e03c23e145cd57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:fd5d1b381dd7bbf66ac661ce8be5b626
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:cc6e23f08a99eeee2e9d6adac422c602
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:a183525a06ef0deb7ecdadebebe710da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:ae83e5061a7e6a2339f39dd4fad2319b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:0bba7f3aceaea27ff300cbdbe59ec659
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:d55fd52704ed4b144659cc0e6d9fb718
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:6c42d08873a70995f131fd49aa8e4c29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:c83414da8f20fd65a758511bd23acbd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:4cade3a0d2a08da6b69fa51238745790
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:c082c7849d6249429f79ccc2a16ea901
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:31bc79700ac4ba856af38c37ffc39d66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Biotonne: Bad Harzburg
+UID:7934c198f893196ea4247d603fed6f0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Harlingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:eca464e7b9b1117d20f29bd06fe70b93
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:16df64d158da865772f3dbc3e1036814
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:a79b0e8d97d1dce81f0b2fa64fed708c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:ecce5d079087cfdc4b223b3c7f301375
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:331a8a3a0848459164c59d01926a8164
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:383cf8c496d113e8eef1d35a214c090a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:fa3874a42c78b76f3aa5e23b8fc07cec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:676f446504cbfce5695bf65ea8969abd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:a84f81df422326754edf6e3f216ddcb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:89830e3baadcff7fd45e29710777bcce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:45866ff366f9d1774eab374d9b12f481
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:529b22fb2e1672e77977a42a4afbbd68
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Blaue Tonne: Bad Harzburg
+UID:885b0fa2c6c2d8639e5a3d10ebc92116
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Harlingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:ec9e028048680cd4a91ad63994423aaf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:82b3ddc3df035abc601d7b37d4b5c19e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:6307c066dc16d7712c92bf2c8e226e8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:91efe05bb5a876102df221ddcfad5e51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:0c474c39b562bc9691aa50f236e9dcec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:41fdf0d885f9607aa504ebd0908c7f5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:1d734bca5b75aa2b8dea0fce3e2bd9c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:5fda25ac3a364d904f1c26ef78944a50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:44a1cee8c99a6ca18c00a5556037002a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:7f53b9d591c8ca5715378f83b50b773e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:93e06f243aef7c9ac5eaa8e2815313b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:1cf671630c2f80e509e955ffc82503c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Gelber Sack: Bad Harzburg
+UID:acf8f99171abdd540c4fa8c9491ebf1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Harlingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:fd8032c91f02e6154150f8993208e5de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:d64057f9f71dcec8fe126e123a217700
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 11.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:735f753f962aae806df3667f531472da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190211
+DTEND;VALUE=DATE:20190212
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 25.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:ac91a9551be4ad969e71814f8aab3b15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190225
+DTEND;VALUE=DATE:20190226
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 11.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:1e5103f414873b16d8167e7154839874
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 25.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:bcc44c9a1cb9d63f8af715ccc2aa1976
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190325
+DTEND;VALUE=DATE:20190326
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 08.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:7532a9b327b4a7c7166dafb856eefa61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190408
+DTEND;VALUE=DATE:20190409
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 23.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:a6a87a321eadeab086279e597dbe7f54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190423
+DTEND;VALUE=DATE:20190424
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 06.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:625bfc3194cb436aea251d2b5a0b219e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190507
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 20.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e88018b0ca7c0c414af2fcb8f21f80c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190520
+DTEND;VALUE=DATE:20190521
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 03.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:1f47587eadc94233bcab3ebc90002d6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190603
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 17.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:964e106114271b49c710166eaaa42fff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190618
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 01.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:2a449ccfc22a0aeaa850db63ab4159fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190701
+DTEND;VALUE=DATE:20190702
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 15.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:477ab7606e11f4bc8b262a4710cef94c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190715
+DTEND;VALUE=DATE:20190716
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 29.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:9c17647b448482546135614a3fbb0e3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190729
+DTEND;VALUE=DATE:20190730
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 12.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:935ee59928a72131994531436e401020
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190812
+DTEND;VALUE=DATE:20190813
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 26.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:2e0be134c9ba776273d6cd90c2f3f21b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190826
+DTEND;VALUE=DATE:20190827
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 09.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:e50aa7fd8167623705c16f2185d2d3eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190909
+DTEND;VALUE=DATE:20190910
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 23.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:d2079a3b555f56852db4f1f4c940555f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 07.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:ebf56976da1d5753c0643dbc5be38f22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191007
+DTEND;VALUE=DATE:20191008
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 21.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:ec9a1a2e0e33ef1d23a52c449a79c4c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191021
+DTEND;VALUE=DATE:20191022
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 04.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:4f7b4a381113078856d93e244f02d75a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191104
+DTEND;VALUE=DATE:20191105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 18.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:49e691c9f592e39ce34b020db1822f98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191118
+DTEND;VALUE=DATE:20191119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 02.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:d15d9377ef38bc98fd95bca94e572409
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191202
+DTEND;VALUE=DATE:20191203
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 16.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:15ec42da62f3b0bc53f87cd151a0714e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191216
+DTEND;VALUE=DATE:20191217
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 30.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Restmülltonne: Bad Harzburg
+UID:8629e63b0bb47165c1cd22300548547c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191230
+DTEND;VALUE=DATE:20191231
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Harlingerode\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:bb5ed3ecc6b9d02d837a60598a99d9d5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Harlingerode\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Bad Harzburg -  Ortsteil - Harlingerode
+SUMMARY:Weihnachtsbäume: Bad Harzburg
+UID:eab6f2d4660514f6f2766232c4c24170
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Harlingerode\n \n
+END:VEVENT
+END:VCALENDAR

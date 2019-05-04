@@ -1,0 +1,942 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:bee8d306de8473876bc440a7ba4b07fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Baum- und Strauchschnitt: Goslar
+UID:8993478449944d107c5bbd3bde9d211e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Wallstraße (nur Hausnummer 1-1b 23-28)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:f46bb2f99104ba6d3cdd3cd8a27a3097
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:70930ba3a16b44b1ea6b28185d2ddbcd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:c3146942e6de101227154fc711be00d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:bf63cb43935c24072ed7146b093a42c9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:b32558b91b951dea3954eb72dd78d959
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:1775f3f11b681916dbdbd306b4553d98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:8245a3f8d6172bb59667dce47cfd0b77
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:e96faed898a6d27ab92f40497df8b2a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:a81d47a334818c755608bbd48353fa5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:6ce5050ed0cd017b3c37a6da75e3d2a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:52ac2ebc3c4b9406950c9ff050f2f7cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:1c4726bf6b8a9ae73784de0adac72dd2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:6ca8962506eb5f882b1f543895b22ab8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:a8c7cd26cebb6492b2125f358fd73483
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:42bd746c2bebd4c6d5939dfbb1419a58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:95d78cb0bf1437791512da261befb2e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:cd9c7598da733c8010d2bee662dfd6f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:ad93df1f3baa40da1a686d6a318f0c5b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:3f550706285bdbc3e5d7bf4a77483894
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:5348c6e20fd182a52d99e2049e2ab03f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:f04c612721215c1f440302418492a9e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:cb99ab60669eb09ed8aac9c0edb7a078
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:383d5e63151c07206a15a4066d6d3a75
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:354dca96c492131004a8db383ef5f026
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:63d2ca1c8945c4f6061ae87eb727bb6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:8c7bb70f5bdf8cc9b5281ccaa743fa9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 31.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Biotonne: Goslar
+UID:0b3fa418ccd89a6af2d8f340045f991e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191231
+DTEND;VALUE=DATE:20200101
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:d9171af7dc1487b0e3cd4c95c26c7eb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:b5bd85ff15d702b2148e73f07f22a653
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:5e4e1b69df84b06d8940ead0ad45daef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:e64b6c0a4320ffc218282896633a4710
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:2455803767c9e4ea87cadefd0c22223b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:4a18e9e2ea2f106cdfd4a6f29e19e739
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:25ff9d20a9a343ad17417c6aadf05fef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:41c873962066e7b4de0280c80949f19f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:6cfb698e1a29fa23f311a50f34ba64b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:22dc5acffb7ac03c1f60e39513686fd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:bcc8fb3534a07165284666d4630581e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:3ab8dd1058f891984badb58c91af8f4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Blaue Tonne: Goslar
+UID:abeea4d407da8bb6f6a7e03eecfb8888
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:d7f302c2376a828b87079d53681a81a6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:a344b8f9d1f2e6de992f15c90203bded
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:551d9be19ec0834d160aa9636d2b7048
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:e3c20f127d7f7b4c8b042cff4dcb7a3e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:36742700bf4b7d5f73944782abdabdf4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:6c34b39ea10e9769c53c785e0e11b544
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:724d9934425eef247705ec7333f87892
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:bc18a8084db5393aca0b4b170be0ce97
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:ab49be17324f41f0a54701fd6c4b5b00
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:44a649e59c4ab7c72729db32482fe8fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:2f457fa0aeed49b338e1b8aa779c21ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:e28dbfa852fa35ebe98d4183430d9f98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Gelber Sack: Goslar
+UID:4b5ea0b034a67ea942749ae77fdf7a23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wallstraße (nur Hausnummer 1-1b 23-28)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:046a78b3ada35325ed8f056315a66223
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:df7bdfad56be174af2bbf65b82ffcb33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:83bc28daafc020389c816967209df6b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:9a976700aa23550dafb3622c73d49c72
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 26.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:ff7f7c29cb6b712e929bb380d049a84e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190226
+DTEND;VALUE=DATE:20190227
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:5ce3188fde88ce960e28353a74baee3c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 26.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:5aa5ca08e65874c826fe06dd94293eed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190326
+DTEND;VALUE=DATE:20190327
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:6480c76282269b7869779745fdc330e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 24.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:4cdece41d2446fc7cc78a2f861f70fd5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190424
+DTEND;VALUE=DATE:20190425
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:972faa234840b4702a7bac4c4a7a6eb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 21.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:8a87a19bb60a882ed88cc6a4944d3ec8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190521
+DTEND;VALUE=DATE:20190522
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:cea37b215252f58c56e6e472f9d1cce1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 18.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:854f174bbe57ab46ffdafd23a8ac29d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190618
+DTEND;VALUE=DATE:20190619
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:3cbcde3a34efef505cddec115e0adb32
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 16.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:8dbd94dc1f904e9017380a1e5cd0765f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190716
+DTEND;VALUE=DATE:20190717
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:6fec007f1cbcd39c52fb985d3c22cbc0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 13.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:8c4921ebba7b8064975b0a20a256409d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190813
+DTEND;VALUE=DATE:20190814
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:11394d30e96d1cd2e863a875395fb11c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 10.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:dd88c7fb6f1b9ab43cbfaa731687b2d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190910
+DTEND;VALUE=DATE:20190911
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:e6d672f2aec5fc657068eec99c3ede22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 08.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:c8955851671410b0ce8afee036beb325
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191008
+DTEND;VALUE=DATE:20191009
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:02ddb44135b5f71004862b3e9dfbabe1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 05.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:4cd9e24042bc84853ff5486ffbc8e5ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191105
+DTEND;VALUE=DATE:20191106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:7e6b382f036e3b5981f18acb74c775a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 03.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:cdf16210a0ca7fe161885801c6001ecb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191203
+DTEND;VALUE=DATE:20191204
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:452cb3ed91ee1d89de619febb3ab4038
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 31.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Restmülltonne: Goslar
+UID:b10c17087266319c5b50146bbbe582b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191231
+DTEND;VALUE=DATE:20200101
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wallstraße (nur Hausnummer 1-1b 23-28)\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Weihnachtsbäume: Goslar
+UID:93af77f7e3293087936164bf74f09bea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190102
+DTEND;VALUE=DATE:20190103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 15.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Weihnachtsbäume: Goslar
+UID:15283246683808b2be9f4875c142548b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Wallstraße (nur Hausnummer 1-1b 23-28)\n \nNächster Abholtermin ist am: 29.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Goslar - Wallstraße (nur Hausnummer 1-1b 23-28)
+SUMMARY:Weihnachtsbäume: Goslar
+UID:b47c99fc5ef65e2f5ff8b5abb5103988
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190129
+DTEND;VALUE=DATE:20190130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Wallstraße (nur Hausnummer 1-1b 23-28)\n \n
+END:VEVENT
+END:VCALENDAR

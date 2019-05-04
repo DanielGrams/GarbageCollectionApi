@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:bed024865a5718935dd456bee77d4053
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:524f0d0b30c908f45b099eb1faeefcf1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Frankenscharrnhütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b7371eb723166c218ed29064a082bc18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a3ecdd3b0d6e6df5106ea99824a41642
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:edc1b1696d5a9931bc7ad6b5ba3ba26d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:72600eb1501f4228a5e932e0ecfbf243
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:404a2ae4b11dddd36842f5608facb1c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5c174c6fddc6a19a66325b9824e2c52b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f65f152fa6643aa8a41fed0317aad730
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8010054b5ff2c9e77f4aed85bba309eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:aa8b76612cdc9662d827e6d851d9dad1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3f9e355150518c3a75e6f40477dd8df2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5415d841c8d0ea2209896a759da3dd35
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5199259cc145e6c8d5479378ee77ceb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3df4bcd7f6955287d62d9a9d6e4e3ad7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e67e2632f0929133c7935ce97685b864
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f6ac438c488daa6874e9eaeeba29ef24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6908f02c25df5ee99758dde3c6d41db3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:daad8671d966bf19bef1d9f7ab34e060
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3221bba68fb222f5defc6f929fef1c19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e55fe6519771ecb298ce635196f5a735
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5af1853f0f1555cdcecdca274df9c452
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e73c8bbadf9558acc62bf039c99f4081
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ce6c53a8b700c37897aaf5c416263ede
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:94a6a5f859bebefd65386a4dc2a53a4d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2864cc53e94ea6e484c31a29fe6fc4cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:687058b930288a7ba6f95a7c9abe262a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fef2bb7092115e22732a5b88f69803b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Frankenscharrnhütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:bfc0e000c8b9b46b3f7a2ed84d2aa502
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c04174a1c328f27db0e6e8c2b895744b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:570cf0f31c3f4aecab80bf351d0b3d51
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5f9e27200fb32d3499d7f397ec90119b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9a21a78cbfb2678dabde88b425e83e08
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:bc1ea682ca2515b93a7cd11c8701efdf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:596e927d16bd313fc1f6c2deb4743340
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:94d6ed466878b91ff99b745a3310729f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6c2a88cfcd97afb8feda70336f00349a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:eeb7a8b680d914ef24ae0dcdaa44a42e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c69a86fe544d8baf9b28767fbaaf73ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:323f1b415a461973b12120eeda1bff3c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6b4f3913e392bb1ee7c908756d2fd9a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Frankenscharrnhütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:48496cb72a2f88082913f73d91566acb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6596dc4bd5541168af0e8003be073e9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a87db3e34228877da19f3b1e0e06308f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a176218f38d7f31bc176f4d183c963e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f08d3fc850dcf520b79538d9c42ab933
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b30e81bcc80c3d295217f11ce178c6a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e351cc226b32616855dd245a2dac05a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:dd2a3fb7a5383679ad5384f8cb8284fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b9e90873d8a6c6aad540fc5b1fabc24b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fcd85e1cae1182b3e9165289bd62a245
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e1bc5b458f980b4ae4d5fee71129266f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fb5f06d66ac686823e1d48737b0b75a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:41357b2d25fd10bdcdbc3aa0aa88898d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Frankenscharrnhütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4b18bca21ac7b33db6bfd34059131e2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1b9f7f05634fa7f7b66580dfe80e2c12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:248647b9460fd5931ba0b7669400d54d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1ddeb1355ac3969cc2aa0051aedfed75
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7858ef56d82d804fffe996f9c454df7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7f9576c503c65ecceb396947b02c47b1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7ea0a2b73c4bf67ba29a31e0499a9549
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:48288a498a1c48d46a04d9f260141281
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6f529db681f4ac8c3ebc6925c155dcb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5592424d825c91d6c0f9f7da16d9723f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7627c42bf74bedb02b921932d441d00c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:dfdc2afbe5110cefe77a8b2ac7eab0fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9dffc3e143e9c2a80dc414177df01736
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a7f4c2fea4d9150663659f444be2e5f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:819e90436fd388292c5053943c015b8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0a44a29d35d9eb02aabe0455a254bf04
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a78dc15c51f75e7beab2c4e467ee3da2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8a82342f670d525a3172d3caf40c6474
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d0f414d6d080864788ea93a9f9c6e1dd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:812ff496b05cd6fbc82311d7aa733537
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b4a1ad1c50a16c4838e19a49b64b9815
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:59e2c64f4e5800f0b77cd0888bdd8609
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6c427c36e131f89d0aed744ba24158ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:49e3fbf342c74274b5a23e3348e706ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:808df37c9aa6dc039f025d5baa182936
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9643a0a6e41dcf46c251b1204c83817d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Frankenscharrnhütte\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b63b3b938dc33bfd6c0058b397474361
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Frankenscharrnhütte\n \nNächster Abholtermin ist am: 18.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Frankenscharrnhütte
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:0d2490e5f2efd71513888b1762258e40
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Frankenscharrnhütte\n \n
+END:VEVENT
+END:VCALENDAR

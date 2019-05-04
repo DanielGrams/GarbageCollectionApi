@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:fa0d8e04261d211d691a5c3c511fcae5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:d9464b4e10cc445b3d618f25376e9449
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Dorotheer Zechenhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:43c81d31ac883fffe9e5beb2b37fd6aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:14e1790e8cb92f2f0ffb4e565a68f67b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4bffb8b1789da24d6f8ca742f78a8de4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:28180d24efa7ae07a859ffc9b5ac47ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b8119af9f0e23f4da7c668f8ccf47c64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1fe970fc25f0d027b427d825d5e2f03e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c0e6c2b9c64748506ea7bc25015069ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7c2353bfeaea96d59438465cf17a5433
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:534560ad94103b6a563f23a6940a45e6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:653af19f1bf0f307c0cf9260e447b2bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8d4edca6da589cda75da7d8aea40af28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d1224a28c70943b9514d80007062830a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b2951e3055d7b3b4bcec1aadc2ee14f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:936e356c6145690d742174985d8ca7ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:22a958972d625cf88b3e0797fe75261d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1c6e7128ba3e9e5dcf56299d6aa4ba02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4942236bd0dae9fe3276f7b9c54d321a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:130623319ff43da568e587da88083ca9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ee196ce2ec3f5d4c137cbf77b8288ee2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9a7eacedd3404009e89b6af036754e83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fe3353a5e685d3864f12a2d9acea4df8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:92613e401b8fa7820d1bfcf6d24e25f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:277a9efc4bf51def999c74f84b72f322
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:fee2c9d35d33b1c012b302e69ea93a92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8a6b5ca001c77ba020bf810a5b525f90
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ced7212357203aca1fa2377aee547939
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Dorotheer Zechenhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:425084d5ba313fd27e903dc1286c26f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b70e61923555c8ef1a5f1a753f240bad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5710954099929e8d58afc8b55af643b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7701ab9e379b53465b9e455e76a3171c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1f1628e2b9e6e5022a2ad3af33d1a890
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e999f0d80a42220648e68ddedd49366a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d6567a2973f2f8c6a0291ef5fed4b64f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f163cfc2c04710de359d10378a9fd3a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:ba7f28d30751e66a05169a35aac6045d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7ca74712a6a4ed43179dc98490e2fbca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:dbb6d6767eb5b6835f2add9fa1988acb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6bcb10479d8378710af7f981ce5d7a55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:033fc1df2d28a39439b3ca94e6494b49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Dorotheer Zechenhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:fa75a3ceb4fcf1d42bb2dca46565add5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:3e07f696f27a943be04bc5591ae00340
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:647ddf04e7dc80ead38096f4284e6d74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0a026b524d8315ea3dbc471577aa526e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:6ba2ed5a301768a9673b0fdc344a249e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:276e1fd69c575e44d2333ee40e6d9a55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b751a21d94c990c42eb8843a7f8653d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ad5c61cb28045b1fc999f8913048ff48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:552ad58d5c10c6bc1c7078b7c7d939c6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f16a19ea9e8eb86b0903deda074f33d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:8d0a46bca03d0bb09f5fb80c96a6d914
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f7067286cbf45db6d940a6c03ddcca60
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:22007ab83832db4960beff6d7de28d67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Dorotheer Zechenhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4d8d0a3cc64f68eb30a9ae409b2bffb5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f79c86337acda60db1801fb71cef4937
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:abc640fe22192a01a213dd2a7cc16454
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:eb8266e6b854afccfc3fd8fa97ef6696
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c1b336bfedf3cb0cf710de54d935629e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0fe3f82c6c529e2a9b5a8e22eee0f7ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:81262b478d4c28c7b942dcdf0fd91c8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cbb30325b12c02ac9f23800ea4edc383
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:79a1a0554a6a111213517fa397e75bff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3ac6fa2bbc89e6f61b8e7e5ab4c76a12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:46d2892dff0fa73e40bced3fbdf07710
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f197c0e8b5a297c8769ce218c2cac548
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fb364902ff4f0fc9c6db9866ba63a29e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4b3f4a99ad1a3774e5511dbb6ae80518
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:95ae5a11535d4251696cdab5b3a0bedf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1db5b8596787e01ab2ef9049c8dd0780
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:cd62ebf847e1b43344e0af812e2839ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:10e331de352316414a0a17d36d3daec0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:96492530d25f2f4f1f2972c8d1f9eefb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fbf5eb2f6b57686b17cc98da9c2b2f35
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:55cfd41703a70457b0fc54515617864d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b886fb4a83d61b98e5aaf4f7a13f11b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1a2fbac4c3b97e71e9b65b6f01079e34
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:da8f13a4e8afca8455c994cc23f3b66f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8229a33b8c41cd09f24914b58b0418f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b1cf80a73fc7796310b40dd3fad8c87a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Dorotheer Zechenhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:edd6e3125b12c90b2409faa09f385aa3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:1bfeab8ddc8bac652150e586ffa64771
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dorotheer Zechenhaus\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Dorotheer Zechenhaus
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:4464283ca591f6668ee3c43e6e4edf91
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Dorotheer Zechenhaus\n \n
+END:VEVENT
+END:VCALENDAR

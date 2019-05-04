@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:adbe04b516013721e4070c6b1b1d7e20
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190306
+DTEND;VALUE=DATE:20190307
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Baum- und Strauchschnitt: Langelsheim
+UID:148c55ded325319e69d8d6a91fb5f03c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Wilhelm-Ostwald-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:129b94da3a7d918d4f3158d6b4013e02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:4f70e325ec8809bb470bda76b033b80c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:02980768741672abb1dc601d6e365d80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:67b6422d06d26e386c126ed531d01cb2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:6f4a769dadb1083d8e2bc2d4901f9309
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:53dbfee4c7292aead43c9288845d3803
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:0070e6434e2048bf0eed0922b85d573a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:bd3c2e7d80f2d9e1824b713caecc5a59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:d89db8e0c8f116aeb61fdca7009898e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:791f434de308090500887b6ddc656022
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:fcb05a14747fa9505ee642f9fca0823f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:d2c91e90abf229451b719b60111b2723
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:416e7c3e4d8fa0a8047fb466bb4778db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:2dc69d98cbd76e20f7ab019829892d46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:b08174fc757219ee11f5a1af5c0e8d29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:02edfc3d76abe5664e6bfaf4bdd74c92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:82e109d0c4584f2a3df7f191c08278e0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:83e8c04cb6d568deda6bcce00fd9e31d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:f3c2a03744c9838c504b71890768ade7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:b715adf87d88f8f750dbe2986141b90d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:376b014097ec86691341a02ab1c08495
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:f9042c90f783f281234969922d9983d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:2cd3eb994a8d89a2c0b229dd7ad90e14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:ec9c270ea101670700351bd87b5753db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:ed1b0617751cbc6fda6d87b5a73014df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Biotonne: Langelsheim
+UID:f8cc00f72180f295011cfee4da00cb2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Biotonne - Wilhelm-Ostwald-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:4f89b0858c3bbce2674b35c12f874471
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:cfa91d29a0cde44437073f0eb23523f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:cadd4c0e2c507b5c3e85d971e618ef61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:d4d91e9561a69861456973c6647501f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:44c266dc88b0555f30d3d643c79dac95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:7db5661cb06d0ed84a080f8846d32076
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:fc1449da2c4e166a76ba4b0892540953
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:d96830c5eb4a07f601d5ca24aa106c98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:4147dae60bb26f084414dda07c0feff2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:018570c5ca6feb525d70672dbfd224a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:9adef50c40fcb49f9c83ed7c1e4da9ab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:71e4e9287dd592a502b1a6e8a108e0a9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Blaue Tonne: Langelsheim
+UID:353351f4b05c8334409077d752bfe405
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Wilhelm-Ostwald-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:d5907022d9d8c4351dc4c27365c817a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190118
+DTEND;VALUE=DATE:20190119
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 15.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:49eda1458a575e380336a77b5d6a30d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 15.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:dbcdc0cf77eff1183689a23db8cbb74c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 12.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:8f3edc4b083ec560a44b8ea3332cb2ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190413
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 10.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:f1834a9015cab79ade15b15e9450502c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190510
+DTEND;VALUE=DATE:20190511
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 07.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:33087591b15c0b441657dcbe50b2f4d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190607
+DTEND;VALUE=DATE:20190608
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 05.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:cc345a11a7e773981154fa9570577bb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190705
+DTEND;VALUE=DATE:20190706
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 02.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:264e0717d32700f4ae945882f7e7a3c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190802
+DTEND;VALUE=DATE:20190803
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 30.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:b766c8cb96b827c8df1be030ebc78b7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190830
+DTEND;VALUE=DATE:20190831
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 27.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:867c4ec0c1a1ea0f5322c1248b897e77
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190927
+DTEND;VALUE=DATE:20190928
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:fddb186d23a704f9bfcd0e9ad2b8290f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 22.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:9443e9b6cab196f08db6c810179a4ce4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 20.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Gelber Sack: Langelsheim
+UID:8895da23a20a4ba5df914cb63f73c461
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191221
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Wilhelm-Ostwald-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:4e6298d70927a53d1606744587251705
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190110
+DTEND;VALUE=DATE:20190111
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 24.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:daf6cf6b26ab5c58dd6431a907e71d85
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190124
+DTEND;VALUE=DATE:20190125
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 07.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:0eb8f20eb22f85d01ec272d65a58218b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190207
+DTEND;VALUE=DATE:20190208
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 21.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:c2875348d1f99868d37bf7b8dde15f8f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190221
+DTEND;VALUE=DATE:20190222
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 07.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:dfcf9f3215059a91ced8d6e25a54d48e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190307
+DTEND;VALUE=DATE:20190308
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 21.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:a736047d467cac3eb1b5f4788b8df0ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190321
+DTEND;VALUE=DATE:20190322
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 04.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:ab63f76fe9a3e2ca52c948888180e5be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190404
+DTEND;VALUE=DATE:20190405
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 17.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:795d920ef9a6bfa15c8bf9726bf36355
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190417
+DTEND;VALUE=DATE:20190418
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 03.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:45ff191c683795e300b5636b1b72bf2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190503
+DTEND;VALUE=DATE:20190504
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 16.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:43f5bf5002d295e1e88ce6b2df8eeb00
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190516
+DTEND;VALUE=DATE:20190517
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 31.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:c9e75050bb367142f8c09fb8ff4d2262
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190531
+DTEND;VALUE=DATE:20190601
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 14.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:fc00ca872d22554c648a5813c44cfb6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190615
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 27.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:8eb86a77f7294f4e772ddfe8d5327ffd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190628
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 11.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:acd354d10e6cabd2e85aa16fc5631d5d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190711
+DTEND;VALUE=DATE:20190712
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 25.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:c81c2bbcb75e8edfb020e2e86cf91427
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190725
+DTEND;VALUE=DATE:20190726
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 08.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:fa6fbee18eec2eb4397062acc327093d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190808
+DTEND;VALUE=DATE:20190809
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 22.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:17fd2c55e1e707e9f8b5bc31e99f904b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190822
+DTEND;VALUE=DATE:20190823
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 05.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:76382b0d33a22b4688463fd4d199fda9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190906
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 19.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:647bce07ca07620732ba64ec696855df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190919
+DTEND;VALUE=DATE:20190920
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 04.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:69896db6f6e23b0b0cf54eec52f9e75b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191005
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 17.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:afa652e5ab2b3242870bcf7296510bca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191018
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 01.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:fc1506c18056474e36a0d241c296b7f6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191101
+DTEND;VALUE=DATE:20191102
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 14.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:260458cedbb2284a86aac3e42bbee4ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191114
+DTEND;VALUE=DATE:20191115
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 28.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:5231f5b616ee22ef24b6382b22e388a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191128
+DTEND;VALUE=DATE:20191129
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 12.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:28421c996360f1fe16d059fc0144b0cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191212
+DTEND;VALUE=DATE:20191213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 27.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Restmülltonne: Langelsheim
+UID:7543bf68317e345603cdd6207ac734d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191227
+DTEND;VALUE=DATE:20191228
+DTSTAMP:20181218T000000Z
+DESCRIPTION:Restmülltonne - Wilhelm-Ostwald-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:8032e0831fba506c1a9c8fb171082721
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190114
+DTEND;VALUE=DATE:20190115
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Wilhelm-Ostwald-Straße\n \nNächster Abholtermin ist am: 28.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Langelsheim - Wilhelm-Ostwald-Straße
+SUMMARY:Weihnachtsbäume: Langelsheim
+UID:0601f8c3f642c6831d51e51e050b744c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190128
+DTEND;VALUE=DATE:20190129
+DTSTAMP:20190108T000000Z
+DESCRIPTION:Weihnachtsbäume - Wilhelm-Ostwald-Straße\n \n
+END:VEVENT
+END:VCALENDAR

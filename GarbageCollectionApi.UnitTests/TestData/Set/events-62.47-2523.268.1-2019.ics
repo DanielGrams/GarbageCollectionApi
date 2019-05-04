@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:2ac2117a174f01e52c0cafbb22196000
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190311
+DTEND;VALUE=DATE:20190312
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:6b08dcb9e78b25054a9191bc14dd87f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Gerhard-Rauschenbach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:959ffb8381c0981a5433bec0d1f5e784
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:894a2ffdf1a0917d9bdfdfdc344e4d19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bf0040b21399c6221f16ff97799c25b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4801d6abd7d7879e6c738513970c115a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8320ca48df6faf8eeec557bca2cb6293
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6e9a216ec6bcee6d4b87295980bb7ef0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:703ffadce9f478f5b494ae6e683f7d17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:18a890cc46f708e0243f2d8b02bf44e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d27c10c4305467db258c466688d9db95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c84bbc2624b290e974e2b3de85640a22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a6b9a35b0caef5c5d4e2643a28edc0fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d8e0fc8d52345cf9df0cb40d2356dfd5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f205a69e59b27f738ebc63a8a9ad8165
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:612bbc67bfee79bdf11e2cc1db6cd6a7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:09c1bb9c4b980e921dcc54a3848d1d70
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9d3e220ee563f80b5c8a33e015533092
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cd4fb70240eaa8b6aa5b7ff7d409013c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c165d00de6b614e8b36e2cbaeaff68e2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:af1607b79df5f25a21910f90f70e4db7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c26ca8d981fa0ee0bb192e1c728396fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bedcb788819d44b958b159f32f691bb0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c4afec93733f762e75e8f6c208ff41f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:452b30549eb37733e9697384a7d39d92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c5fd43ea1a1bcacc8c8ed39b479a0d88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ad864d465acaba8c8c4b9937fd0721d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a4ded60c923b2c501f46e7cd3bb4fd44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Gerhard-Rauschenbach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:165bf56d834c580fd9565b32b0d3cbcf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7f646d634512c5272445339fa67eb948
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:433ff3fb129b2e59f4bcbaf641165454
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e7ffef07cedd6a8bfa7604af3da08e88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1f854775d39daae027bcbd35ec58b428
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5e1b973b079d5329eccba6cc4577d0e4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0f114e0009c4a11d39c7d8b6a391bc6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f9a56715f55c8e8de243e99908fa7c72
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e38100074b1085b97d18aaec88cbc7d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:1a6c2a583ce2f730143b76da8579b7a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:46d5c9b4d30c637029bb7160a3d727a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:444197edbad9f81efd4776f38466ac95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:209d266f6271270cfb7fc835fec45709
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Gerhard-Rauschenbach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d7b64c55e88ae3cc1a2610f6b34d9562
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:5efc4527f13ddeaead665061f6b8ceb6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:9cda88f21f01a63bb64c152b50490325
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c8f8a96b5fe11eaf617d4c5706fa275b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:57b3c40a5b59ba111160871aff21c004
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:83b0d5cbc914fe99bbc3426ea90a6ba1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:30d103c0104df4e38dbcf483b9e56b29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b272d81032f2878b006a69ac20cdbd62
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:83a9588c1efc642a50114a55bb6d8a1c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4ae002a7383893416d6914aa12e63272
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f8c163f589f4ea420bea0bde2242bf9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:076aaacb501a3d3147d12f42f72ec10a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:88141c65b46a08bcf6d6c8b742c74877
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Gerhard-Rauschenbach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:947298d7babd0f355cf9ff549fa22302
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1a472a02ea5efefb359585b4d21f4dd6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0e848c0eb908c65365e2e437c4304c55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:21b8947557e8fc84c5160b8b8af932b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7091a4d4bcabf8f6e03c1a487f2f7ec1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:00f87043f926d37a879d9b8b3562b717
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7b8133b96730ccf22447c7cc2692e7d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ee8212dd6ddfbfe2969c9f9c1d35e90b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0292bfc015fc87b05d2c5d3a9fce3ca1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:65ed872f6fa5078a1a482ca340f6773c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a31faff8c331c401dcc98854ea87e50f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:93d0ab16554217eec1ca5b87383265a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e6e48eee0fb2ce3e9e042a7770946e2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:485b68e5562e4962e75d9e4b6452ced8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6496de863b8b8516d5c40bf1429c3400
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:74c2fe47e6db9a23a90fe5b809f2b3a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:67689d71598ada00825b7baf7bcc5072
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:38287b36a32385fad573be65f1ccf77e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e5f6588e1a5ed5852c5b14ea83c669cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:bc1e4aabc9f979da46e1df3e238bc9cf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ca2c7f5cac3404c21d170434faf7e940
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:beac003077141a3843d2cda38f635d2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3a5c81c517c9f7af559527aa2426cdcb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fc3cfd79a4228a2e9f2352ce96a7fd0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:48e758ff8702ad62ea6bd849b7679a1c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5442081c4d8c48cd7206c9eedfd95812
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Gerhard-Rauschenbach-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:f4e54d7e663135044e044c1fe1225d12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:bc6ba273578c335eb295d51b050c92a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Gerhard-Rauschenbach-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Gerhard-Rauschenbach-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:0f1a9cceac3fa2a989a27f12ea6b6511
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Gerhard-Rauschenbach-Straße\n \n
+END:VEVENT
+END:VCALENDAR

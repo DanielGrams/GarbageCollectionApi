@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:93d69cdc8f89a7a407676d76afce88a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:bd98c78156b57f2b3dd467132c2e5bac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Flurweg, Forellenteich\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:0d62a01be76bf576b540bd0bfef27aba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:6e170c26c466fcf15e7399b028b48c80
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:a5d8b9dde9e7a6f414d4c7026e2381c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:3d4236a4d418a56e42117152415b48f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:68ff2d1859762f59de99f3a9553c9630
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:8c3304461b37832ec57921a5745c1bd8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:eb83be3dd762ea5c750a18fc7720c182
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:488abec847a06e8e3603e984bf2276b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:e1124febdc61d50efd262090d4469d77
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:ff2b7ea1916ea1c454a61cb8938f263a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:cfca92de193d502875999a92d43eeb31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:41afdee779b751ecf31c6d141426564f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:0abdde15d5fa5475528dabe6acea4f4c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:186f0dbccd9a34349f3c91dd6c02af14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:485f7e25e0c6dc35002defdcf59e7af7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:72cd48066bee9b85194521424624b541
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:b9207dbcaa11364a76118ceb82b986ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:b1cc7cc72ca84f21955cb0933e4c10b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:09822e3acf0febbd69092c3560472201
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:8d6c8b9b9c6356a6aed33e4bd1aa2d87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:de8b30bcef722da8113c6f70a7a11729
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:3f96644020d2376cdd68afd55474dd8b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:68aea75fda8dfeea55eac7e1efc47d3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:90f3654867d09f90b5633bfa0bc87bcd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:788a913fd49da46cea68d1e83d70fc76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Biotonne: Braunlage
+UID:ca3117a07186cb9a9ef3433921e9cba1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Flurweg, Forellenteich\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:c88f9b9cfe77265331a5735ee96e7c69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:b807828fab1dfd987f26187bb5b9ff2d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:027872890a1aedd6dc4848c16f0d5401
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:d14cf0ed3da438101c9db778ac05a1f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:4ec9818976b96dceac5bda88f2196419
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:44c85ebfc5f1ccae5d4c21c7ccd6525d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:ee874c0fef06a9d50f380bd0774b0606
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:8231e81a43d1eb31d437424b2f656889
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:98c8b5cb97b83aad99f26543005197c3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:ba6c7534075860e8094ee6fdfe7709f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:b69de3c29b65ed179f66851ac32ae543
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:18c67d051d27babfb3130fcb82fb7860
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Blaue Tonne: Braunlage
+UID:db29a8088e74ef103f810a22fa19884c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Flurweg, Forellenteich\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:26f0167a7f72e86526efe068b9ba75e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:7206ef4ba14d636213a048a3836497fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:f5cbb1770f06e0aaa91b9da810847fe6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:46a79d0e469ec82951c651c0711229fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:a58c0ea3e9e10081a6abc429149092b7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:47d6bb7d162ca7f9db6e34a082d60654
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:7b1fb9c1b85f79ae65fe4db58940f6b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:a36b651c225362d900bfd6288756fb37
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:990e6788962c2198d13a884ab53b3466
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:9333ae7b6b24c49732d099933de4f31a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:b6faf12ada52fd3addf42f6f809d877c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:f4e6d3d1d852e54ca87304e68cda0672
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Gelber Sack: Braunlage
+UID:1f993108355ba1b7e5ce0497ccb35ebd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Flurweg, Forellenteich\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:5f9d66f53c6198c192fce96b07bbdf4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:7362f8bd5dc454aa3364bbb1340c36c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:1ef2523b170669970ead78cc9bd35ef5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:caf4f665406e8ec8a14cee770a4808bd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:8589c2530a3fb8beb5a1bc801cca59b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:7aa793841edc211afe4909f6c5544f6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:c89390eec85bfa0f79d8e243c726051f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:4e1eb4d31be547d916405823c5325b3d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:c8c51c6b1294f82218f2e57cd31b89a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:70f07caf5d94f60f27ca4ea60860b889
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:b8a6bfb4eddee3097b5c7c237d657708
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:d026588aa0db89e2d2bc336ea468a867
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:14ae66df3f3b5d9a21dd7771230a9607
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:f032faab444fccc5110c6bebc4f96a9f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:63a8708ec6c7446ee1090a01dd039e0e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:2d60c25425f1b2ecef681bbb4fb0dc07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:b64e3ae5aa11cfffdac06e3b97e7c6cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:a8949d76eb9b122f3e58308b25aef838
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:8476adf1ebcb855afa0e6c198e856c2c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:90d656d70162f409523b19f7afa6acbc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:8231c3c75a8799f3ea4f313c825672e9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:1b14ba677f6cd91c6149c30a36dd4e0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:537c8ac76d23ad12049ddae24017a2b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:ac3f8fe911025e2c5b480be286116208
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:a86f0e1a2a71f993c7bf699468e2f4cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Restmülltonne: Braunlage
+UID:608dfd4f6e8ba03e54a27645ab96702b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Flurweg, Forellenteich\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:67acec77ad38c66c45b44ed5ad9293d9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Flurweg, Forellenteich\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Flurweg, Forellenteich
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:65a77dd7ecb1f72e9b2d1ac344bb659b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Flurweg, Forellenteich\n \n
+END:VEVENT
+END:VCALENDAR

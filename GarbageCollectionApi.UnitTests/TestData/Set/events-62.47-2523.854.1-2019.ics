@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:73213edeeb96dc61670f7e34a2bcd783
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:2c84b4b93d868982f388da41c93f5b15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Torfhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:1d32d0ee474df7226ff4ea28cd9ce182
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:be3e8fcd2a6e82b0cd5b424e03917119
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f7639b6a494d19c3c42dc21a45efae1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2aa1f1657596d2e2c63ca5aae2851e98
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:87ef495753552ff72b5638bcf3bf68aa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3d595779d44fe045e335dc43265bbaa9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:55cc319ed4c1971bb500fbced1feb2d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cec4c300127fe47a5f0d71b5602c582e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:608416ec68bf1559f43948a2a3515b94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:cfe5f32e4551336e188fc00c547897ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:268ae56c8859f762398d39d100d37aa9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8dd441204c36636e915a77e2d4f81827
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:114aac78489b39c0572b754461b30e50
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4b617113855da715735b7d77e11af41b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f46ec6446121e14212a255148cba34f7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:3ab030f260e240acd35ab4882f898f8c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:55a3ed4b4262b4d639e06b7d5f733e33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f46c5b7b20ee9f858e19f5c766d5d536
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8add5e1f5293ed48fbf178d39cd54368
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6d2f1f6e4a8840b8598c5b2771a4aa7f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9f0131083fb3b5430c099868be0e0ff1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9fb0e5840fd15a8206a794954e5fca59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:b99eb8708786e4a5c3c79e81c78f5758
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:468b07483398350b0d33e849c90095ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a27e591b3448accb6d1a28e0c2a7ac73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dbabc16d32dab7fdf4b215048e84dabf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Torfhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8881f8bbf08663ab609ca68f0f8c3214
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:cfaf35e10945ef6e2d844bd72203469a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8c721e8a2acdd993d5a678fdf5017e69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e6f4cc573ea9789d157351530c1a80d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f86f245907c945210198bca1463e0a36
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:65fb598fa447279fd595e86a55da80d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:159a7972379f17b4405b85b471c2ee9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:86da611c260a17e469577c5e788a5fb8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:69e9ada66f41fe7c8fe11c118c7cec6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5b3ae719d1535078662165834a5e3b2b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:fdc89cb0ab75595839dd9b01c8964e9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:edc3ecfc19f425371be6fc3f1b40bd44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:790bbcb3570b4d289e1b36c9e1f74745
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Torfhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:83883939f7a88d34b85efe8399bc887f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:98621779fa386e81cf892610742bc20b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:30743860191e34d4ed56a26e4f7f0576
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b8c731cd6aafc9a5bb32f91efde37f7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:65a9dca89a2b9a07f21d77b65ae25d22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d026d848cb9d5238ad05e6ff638b604a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a8cc167be4bf9539d1ad33fdeb2a7a8c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:948bd89c601e20f46abde62977a251e7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:816f67cc1b7cb2aa90c10c7733c80f2a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:cb0ff5185454ec59ca8d0498f689fb6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4ce1b56fa7b2741065a78699a6ac8578
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:77abb5ea8b4b83a3ef9354bce3812491
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0f4ab21c36364f0627d776e98846f7b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Torfhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a5deff7e1253b027994d07e6a741bedb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:53a9ed6cd85e44202efc2cf3c521c328
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8a1bee375289bec2605ed6c57f3413a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:88c690122b4390320a3a024b78d89a7d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e5626d352e0cb958ea8d993f08b64453
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f7cece64c388e52b25a254b6a9f6f4ee
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8d6c82228bb60e48c377b48f1c968097
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6e85d40a41d461c4d4187ae2db9b89d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ffe838ad583f090523ddb000650c6b02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:5a9df1e7785cb4834a8039d26ee25771
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:44b120f1b901ba500d723d23a6b7211c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d7bbf437121b83d425df2d6294d979a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:21ff41ca053996cd023bc2046bb27513
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:de457dbd2db8655b80d7a0a94808bfad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0dc7260a22bf12702a019761ed777120
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:71f70ff38f6a9a02b82979c1bc22bd28
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:961ac26fa992e1cc460dedfaaa51d12d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:752e2c14f1cb0453e2e69a7ceb9eeda2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0b207abe248222c03c73d2aaef0038ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:a167e0d0ba811a2e3efae264fec375f0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:56ba514a31ddba0fce4f6db4dd3b0f9e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fadcc0f938b2b50b78f6fee532fc7db4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7e06b445cc18fe064760b9b1fcd29898
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:dbd1120cf4a0b9b27d3ba11d4b187305
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6ae87aca066a1fd09972722f492b2efd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4f01e9917eb6babd10247be647126e8d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Torfhaus\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:74445288d1813eed142227ce180673bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b891f5f11cc51aec5184540dbf4cae3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Torfhaus\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Torfhaus
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:7f4a22ea49ec0cc2fcd0a219fb154a3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Torfhaus\n \n
+END:VEVENT
+END:VCALENDAR

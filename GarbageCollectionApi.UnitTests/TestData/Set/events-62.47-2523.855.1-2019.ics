@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:58d77d0c704fbc31483ec457e2099c2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190315
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 25.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:c2ba105cf92fd9588a8573f268ba0844
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191025
+DTEND;VALUE=DATE:20191026
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Schulenberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:314a0b5f5424289889502ec05f018540
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a81aa68bdfbe764f69789f8e3a98e631
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:60e721008626fb50690fd3c8c2d052ae
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f595ed7a8b9350c244af5de3c3f58785
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9d29f687fe7f38221719ae6cf7042b04
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:747731b81259bc2cc85135b59a8201fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:898c58ada20c83015125b635a2b6432a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ecb8286dfcc827ca80bc26a7a649d6e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c8a76c8ed08e3a6b915a20a23ba8d490
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:84c7cf70c274129e6479f6c005ca0b38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2722ea855637cc2a448d3ebf419965f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:deb46c40fc9070045b08cd125cc4c79e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e55da6b26c237489284728a04e6925fd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:4d1edaa71bcc6e116825d15602192c3b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f4ec104c847116fae01c926f9d784970
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:7f224e3f97864a9d4ed2071bb4d11a6a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f289d721b889a3f3b0809050dbffcd93
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9334c3f8120d0606c9196e27dac27102
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:848578cbe0e4c17e2876cb16266c4a6b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:374311d63a704076274640149f0a3a85
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:15049e61b60a1b73da7fb29ede6705d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:32ec1d7d4fdfe8743f0e50d5a1b7a634
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d3f5057858e67eea5aadcf4f45dcac54
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:65f6dd5595467bf3c6d5561e3b7eda84
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0e771bd082b8f1515e536ecf8ed8e23a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0451ab2f055fb708a558a11513de72df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Schulenberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:685c6b5268fffca18edb4dfae2a11805
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:eaede15c5b56f2542bd86fe9d0ab86a1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b5c0d10ec3665b005270de869fe19fda
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4cf4080cbfe7bc7dd1328b24226c40e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8366ff6993d1ef0ac4bdc42be85c089e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:2a20246ac88610a965896b4e001a5866
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:d09df1bae71dc5aaa5f8e6ad0c9e57bf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0340bebda06a62440d9a98073b0c0f1d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:5ac860ba1f3aefff6910a47c5f8771b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8d32738fed55d33a9a5d8489e81b86ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:799140f31ea62cab5616bcf8dec9de7d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b5af1cecdcf4080c9b4cafded5aeaf23
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:463c39d1b239027da0ce9e21b3067b48
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Schulenberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f170b6105d0ea83a244413f5f21ff100
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190105
+DTEND;VALUE=DATE:20190106
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 01.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a5fa422f71a7df5049fbe2f7a7d294c4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190201
+DTEND;VALUE=DATE:20190202
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 01.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:1dcbabfdfb20075237e21a6ab8ed0897
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190302
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 29.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b7635cdc584a8fdbae17fd2310a2692f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190330
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 27.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0226e3dde1455fc674fb4a1013f73726
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 24.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:55fae71c189136750993f7e92f03a9ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190524
+DTEND;VALUE=DATE:20190525
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 21.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:64d6dfb6d26b4fd35778b84dda5d794d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 19.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:149c03dd7fd07c7266bc14635dab133f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190719
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 16.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:0d3c7fabca0948591630dd7dd8ca2420
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190816
+DTEND;VALUE=DATE:20190817
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 13.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:e6fb0420dca3d7ab09714e920871341a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 11.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:391e65d312b7ac557c9a18cee4f60b16
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 08.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a1b6284e9ce18f43ecd7fc4659d770a8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 06.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f25567b6df3f2b2e46eeb2e3499d2d61
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191206
+DTEND;VALUE=DATE:20191207
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Schulenberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:19b6a68c742a1f10a878a78166af4769
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f335504313752c7914e7e12e087a1e69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d173349677f9292fb4206bc4fdbf5df2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ad2bdcf854a8745ebb906e729e913844
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4215ec74864ff4805bd147411a1321f1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:81553b689cf985792c90dc0ea419a3cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1612301489878946fa2daf0c28a7ec7c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6d3118b648a979844537f8c11afd8c38
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3be635c75b1dc9f3f9b7758f056d4817
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:904ebef2286e4978647c712ba87ec966
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:eccefa7232cf65ea0639d41817d14936
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8a9f365935585aebf3185786b07cbfd3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:edbbbbb6470d9f77b54c8979a6ca533b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0b96bcf6565205a1381a81c26557aa6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:391c526be9984b89dca209a9d42aea21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:139bd9df02476be509a078ce29684c79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:359685b3451840ca2c164d515c0db2ea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:951360db7c0278edbee1294837254661
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8d8f224d0f2b0b34a6b0323154f1594b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e7ae322e789e2fce5d44f9d7cd7f86bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f3b04501df19f091a296b7e02fbc7b0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d242e1027588dff3c6f5998bb63934b4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:68dd9cfc0e008c82871674e67f046488
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:819ef6c78b6c4a9ec0189f57b53edf02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c3fd28b05244ef5daa6fde748174573d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0b0abb85875a652fcff6fcc468b2eb0b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Schulenberg\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:05a61b53c4276a90172e24e212475f07
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b0f726047fd33d21ec76030281116536
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Schulenberg\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Schulenberg
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:225ca9c0ef47381ea70aedeac5d8a187
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Schulenberg\n \n
+END:VEVENT
+END:VCALENDAR

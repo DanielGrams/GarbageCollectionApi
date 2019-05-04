@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:94cb2f133dfcf6bd8fa668e13760dfa7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:3b4d11dfe145725e3c525e7ff4c5afd3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Herzog-Johann-Albrecht-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:2eb06c0bcf546c2be8cb0d995ae64dcd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:1484a92a5ff698dd89eb0631d0e5d578
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:2db339401e6755b8fdd3ceb01cd5695b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:39581a9e265d12fb5647a4ba38721b6d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:be91692b6f483f699f5b229cd40b211f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:0b0ecda78f445133320cc831db1d3ba5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:8e9e323e2e885dd8d92c82034be5a23b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:193e0a09b829275f8ea4f7ec3cffaeaa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:661940d6bb60b942ccd13ba13c5db2a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:4aaa1ffe50ded1431e2bc2ac2710e1ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:7cf8f1acf80224e39065c5a65a7801a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:ffa0303e70e50d4475e94d58d64f242b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:0d9b6683f36f414af81d37e25924c546
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:c508ee88ce3b6277269666774ccc74df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:13058d62b66c5ff0c63a884b8e881744
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:d274f4b7b8592f886b546affc4ae235e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:b9080a7fdbefa2182188e56b4cdee985
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:5d677c4104d513213c0ff5447997cab8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:a5090464fdf7c03223c9a2ad579a410e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:8f634db6ca9bc1efa870e3a6141f1c14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:d0fac1a93ad944625185d53b9df73ef9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:0a45cf1f027dd242450055a8e337df46
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:3bb6e1a01a8034ac481be10e801ca5f8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:e3e488f40c03cdc2aa552d879bb8407c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:e8ef3f64992a2530c652d4459fb11c4a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Biotonne: Braunlage
+UID:c4ef73ecc58ad1db5a919c5e729d4350
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Herzog-Johann-Albrecht-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:b54022e47793608920652583d72f2060
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:85e0d4b5f517977a6ed2f52da4bfea74
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:5bae72123f762d2baedac766d57cd788
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:76c0ece6eea3f30d311a8ca81ffdb52e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:95546109bdec89994af28ae452349a2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:d8abed02e01e6713b5e087e2dd9c2fb1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:4c31f4b86dc042648f40017212681e15
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:697bbb0e6523acee8a1e7f47661609de
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:9256908f486fc31832467bba98b75a1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:0371c098256385524ae0c66e342f8a60
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:b77e5cf882e9ab1364494200dd7e28b6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:3715e6d9ae49d8580cc2045076957e21
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:12324b7ac0fb8ccaba54eef7e9cc9b82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Herzog-Johann-Albrecht-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:585cf6af1b4a21cf6a97e4fddfe72e9a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:98c8d823c02acbbeb99719bc76973f9d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:4ecf8297b7b5c341ac8a4ae7c5159ed9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:3420a98e59692f9b6ce25c59ed65cd69
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:31779971907979d8f9b0a005dd04f55e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:c01a6aa357e2a337f72141f4d3ea9859
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:cb12a1e913f824ff93101edaddacaa19
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:e1e25344149947a91610439c293c0856
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:653b5a5a5ebc06c89880a0a3a0f388f3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:fb7dbc250e81be5fc631a5c6af07f5a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:8627f8eba44a288f66e07662dbda597f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:86bd5fa4d8c48648a66603be85c73dcb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:6a093548edc9c5641fbf23adf775da8c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Herzog-Johann-Albrecht-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:621631d1ac628e5c4c2e41a7459d065d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:1a84a59dafe6ed104a0747cb664b89da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:8326f6385f9464f379495dfd9047a2ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:ab8613204b67b7d480e6dfc93977138c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:0d9816b823065363a06811153a2f149a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:85b751032cce28eb706d52f6ecc2e6ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:4f8183b7eb9a1cdd550548b13359b156
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:9bed4e2f8e0725b170949a6502ae4c9b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:f85e48bf3977cde724a71f182a8a048a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:06f4eb0979792988b33cd405cbc4f3b3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:bab208b4308823682ad61f3afe6efe57
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:10490823f13768fd97a1e6eaf6f8b76f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:7c3f73b3a8d87991df93d59a8cd631ad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:d5fbea1bb4a6587b96c7d4480547e7df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:289702f4fb2e18eab748a68e00227502
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:51f4a341925ce0d8348c2276d654a871
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:9f393054ee945d3ba2a265d9b4d65a18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:77f4992bade2a5bfb2048b5f193ba47a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:50024a40064407d8b11896a5cf17d900
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:6244b7d43f45c195f9bbe171d53cc7ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:4876865a5b0008a3c72572923255bdf8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:17e06a1656db7bac053a8bf70ab21040
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:82b73ffbe07dba8457965b6821b9a327
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:267e99c423e73daa88d291f9038fc535
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:d00cfe7febeea018175205ad8299c773
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:cf550fb17825837bddaec83f1c3bf322
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Herzog-Johann-Albrecht-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:8a9e34b434d193d89d7ca79bc7898ec4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Herzog-Johann-Albrecht-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Herzog-Johann-Albrecht-Straße
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:c4c1473919b9fbace3d732aa53d38cc4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Herzog-Johann-Albrecht-Straße\n \n
+END:VEVENT
+END:VCALENDAR

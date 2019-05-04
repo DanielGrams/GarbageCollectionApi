@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:7e303fd2f77f0fb048cece243931b0ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:aec2b410842233a62be066074be8922f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Arnold-Sommerfeld-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9cf7b938a21dc978807a9147186393db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e0a71a4a3a986ce483c8f99d2f6c0a95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e34b797b61378f14b6cba058513aae58
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:eae9aa48b6303704eedbb865562e90d4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:253a71a5360b60a972d70a625e112bdf
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:986b9a322cc553691b784cb8f66e3ffa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:13d420a975277380c4fc01d9f084b31c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a605c9ca70d7e459588aa8a1674dab31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:620491e2430cc159d291af40accee77c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:9efaeb53ffdf07d11be889ce1d71ce17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8a116226a0d9daf5e881f64d54dafd64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ffe3268d9266fde5799396b2615c7be5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c12c315adc4d6019443eb4291d28568d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:405084a96e568ea1b9df09eebac8727c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:934047ac6a05a489af1aae9e9fc4d4ec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:82287a8b23d4dd72de82778682d3e40b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a207113aa1a60d647fab6cc906aad041
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:02d4d51d79881253e526dede4d9e5d0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2023d710fef380603e54fc23ef260c47
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:72278f00ec7fd35c7bf3f63187b47476
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5b207c9245e680ee70121df1b7605afe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:15a77dc4416075551fe2b43aab3bf9eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2ec99359af40250c57e409321da5a424
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:6aa96f065f2baba57c293a0847afe3d1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:45b8fd82ea0675b64ce1dda63e0301d8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:bd70e4f45f230f9542e8fcc7585255cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Arnold-Sommerfeld-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b6377ad1a3975caca68dba86e5a1ac6f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:e7c86f7effd98854ab58a44aa0335c02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7deaf025d1289bbf52ee83da98f77ebd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:407113d566071a5b687e6a5f80bfe1fa
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:283891142067b7d6ce7c1daa65ae71cd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:10f5f8af0b0a36cb44d0ad01b8b666af
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:f45ddfb41a37c5f243335768efd4b4e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:900a6752626cd891aec31257ea0e1d95
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8016eebbd1f98d425ad4a140c8f60027
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:098499ce7c8b61e4d531e6517fe07df3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:dc60e8a3fb80bdf47dbb28d61e8e51fb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:bb3a03023702ea2478d4c9bb74199a2f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:0dd12fdfc70f5d8e76a13d835a0f8156
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Arnold-Sommerfeld-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:bb1c29732ee143c3aaaada970f69f1d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:2a4d1501a5cbe617f349d6ac674bab13
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:4d644a826f997383e55d7886f2f398da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:c81976b93341345bfcac50ed5c1b2a52
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ce5dfec5290ad523179fca29c0f73680
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:f34f09c2d6b213a0575fc96fa18eb6ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:96b156cdf9c169a1d2f24fad7ae56900
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:da3a77b6ed081ec4edcb4475451b45ca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:bd0ebf3b9ae8a4797e3041c3f2c6559c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:70a866ece040fdc1bc9ecf945d976926
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b284474559810df981007d32f2fba74f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:680a675447e9dcaff2c22d75c9bd4662
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:76918306cd62c798d7089bc629a5bcd0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Arnold-Sommerfeld-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:13cda0ea2db36465335a324fa10a3e22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:d1b22b4dbf9242a33d3c155e2a11624d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f8e8c90fb3b773d40c17ce79f003f8a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6735d697681e83523dc4bb541e3d1a94
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 28.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:63fcfdd869915bbdabfa2d82c13a7519
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190301
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4a5c26afd77b0c7216efca622b0d9b14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 28.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:281a05aadbd3e1317d5f6f70f6dcc39c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190329
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2a26c9032d5a65dd2ef514483e8dd440
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 26.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c7ee2b8b29a9ea8bab31d393cfb431a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190427
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:6253d9bb39d1b824d136b83f58bc9d3d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 23.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:31f6165648ac98442f8f253e0ceb7018
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190523
+DTEND;VALUE=DATE:20190524
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9330e2cafb41fc0baff2835b3718aa0c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 20.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:86a2c79e744255153d288576d21d5802
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190620
+DTEND;VALUE=DATE:20190621
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:56e666b04d6907886c976a1aeff29d87
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 18.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e8136ad66b67d52f44a664026818a812
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190719
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:3964062f4f3d3d31b0c0d99f3aaaad7e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 15.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b8a6b221578e8674ba84660949f9e64a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:1d8569d4f84e6cd81d44cb4a993cf8a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 12.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4c80d9a19743df4f47962136ce5368e3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190913
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:186081f0ef5c9ebbf9e9a002eca8655b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 10.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:05da87c9910c9cd2eccacd1873877ed5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:fe96c1028e3d2a3e42b11797e88cdd71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 07.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:99f8681cc7a6a62a9cb98f87d89f7b3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191107
+DTEND;VALUE=DATE:20191108
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4a4b2a05173761b9ef4c7e198eb62614
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 05.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:af09469e09dbf865d9ecae457cfbb1b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191205
+DTEND;VALUE=DATE:20191206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:45aec904194fadb069ddf80196766723
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Arnold-Sommerfeld-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:9f62bf6d0293dde6983015c0090483cb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190104
+DTEND;VALUE=DATE:20190105
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 17.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:5d119d3ce2ddd0dc22ffc4dfb02be057
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Arnold-Sommerfeld-Straße\n \nNächster Abholtermin ist am: 31.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld - Arnold-Sommerfeld-Straße
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:3367aee07afc4d6980705719c256666d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190131
+DTEND;VALUE=DATE:20190201
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Arnold-Sommerfeld-Straße\n \n
+END:VEVENT
+END:VCALENDAR

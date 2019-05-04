@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:48d03ec38dfb01316f8978237c2f2271
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190304
+DTEND;VALUE=DATE:20190305
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Baum- und Strauchschnitt: Vienenburg
+UID:f32a0e8e039d60fc8dd7fa33bf5ecb82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Weddingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:c4418d97da6574ae3c555d370a20f1c1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:8476e3aed006440eba7ae10f823f813a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:21ea8b4897f9cf1fd21903cb644faf22
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:99014a6d1b87c4874628fbb3b28fdacd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:086265a0e56671ec1968c7e1d0b7b100
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:c936f2fb9b87bf806c21a368b18f7c88
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:719f86a2318a3f10d9087be7d0e4e5a5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:9ffdad6f3e61b5b36f54c5ea5c1e375c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:8e04d5e5973b2cfa86460f59cccead7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:4c4b5cb895137d36c1c765fcf812ed02
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:af5f1295ecd22307c5d53010db7f45bc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:c4d4f7b9070546a666438de4b2150cec
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:f44c7f81092d089358452e201bcf76e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:61d89d99f4b55f854ac0dd296a06385c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:8237d1dbfaa6f3e900fd272ebd9d7333
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:e1ecd7e0d3b93e733564772907e63aca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:ee54f485d5e23eb75149abb05e7c44ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:94af0ca8190b91bbf6054c7aad016d0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:366eb40595861267804ef153bd737d67
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:749b1634488ff92aaa160df802340375
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:5063733acff5260c16b6f650ba218eca
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:1164e7c113a7a7b309a65fde72c44f2d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:d219f9ae351300dcd891d7e53ba2b680
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:9ec0f9776eb1a7cc2c175851552f3af4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:fe02d39b6f12e4132530b1128234fe0d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Biotonne: Vienenburg
+UID:623253663c46613d8800bcdf6190dedd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Weddingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:cda7ee8a31a45c28f825fa9da59d21d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:5acb8ea7cabae83d5455bafee1c14ac4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:a512ebe5e0dfb7e9079f7f36712bbd71
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:51bcfb29a7e816542963bceddd53d238
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:5959d77a018365755599e24a39bb7a33
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:79f8310f967591b8bdb5f9eb47c1d656
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:d123f1d697528025cd7bcc6903407b49
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:eab555cf75840a24e91b7d639cfe3e31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:62fd02837529a6ae6d00a97c8db38ba8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:f05080f4520e8a691af1e2074e20735c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:26515b9b2d16714ea29d50d328b00d6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:0c3f19af00cd7b42a54a555c24d63a64
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Blaue Tonne: Vienenburg
+UID:91baeffa6335adf04a48376438335484
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Weddingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:a999e953715eefa680bf04b73519a149
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 12.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:cf2c6920973eea5885601cd9949dcbdd
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190212
+DTEND;VALUE=DATE:20190213
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 12.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:ea7ec0799879b2cf99b3ffca7012a213
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 09.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:a8f6c9909549a4e192b6b8281e5bb2ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190409
+DTEND;VALUE=DATE:20190410
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 07.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:348af2ad5a45c05a19a4cf5bed6fa629
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190507
+DTEND;VALUE=DATE:20190508
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 04.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:dee1925fd4b1c917e55c6ee1d1e47839
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190604
+DTEND;VALUE=DATE:20190605
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 02.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:2b7a4f7b273660553544bd013b3aed39
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190702
+DTEND;VALUE=DATE:20190703
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 30.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:10f2491a5c1bb12a41d3403fbb83c779
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190730
+DTEND;VALUE=DATE:20190731
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 27.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:c7ae62ccd86ea39a32db4291f7bcc226
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190827
+DTEND;VALUE=DATE:20190828
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 24.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:14273b11ce611ec9ba143062fcb4c50c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190925
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 22.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:780e26c8d83b747eea7642df1e9b32a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191022
+DTEND;VALUE=DATE:20191023
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 19.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:044fe0e44f6be90492e673d7a1298483
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191119
+DTEND;VALUE=DATE:20191120
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 17.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Gelber Sack: Vienenburg
+UID:a8e786122f28c00ed87e4d59451a4538
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191217
+DTEND;VALUE=DATE:20191218
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Weddingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:12e85929849e9cacd04de1a67d0b0619
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:2eefa7ccae72a67ee98b7cd55a73d17a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 08.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:54fb27011c8622e8344c39944c6d8612
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190208
+DTEND;VALUE=DATE:20190209
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:f42db452db9d37077ae6d50c351b41a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 08.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:8fd5f259f6485cc2e0f5d153cb99db1b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190308
+DTEND;VALUE=DATE:20190309
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:0d56a523653fd83b87c815d32ce511b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 05.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:da16493c3a4c40865f213b27d00cbe5e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190406
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:7f189a192bc7bdc589033d58f4a4bbed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 04.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:aaf434ce91b0ad17e0d22e8be4ea1746
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190505
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:d036e4b56c27b14efcd5bad6d1555666
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 01.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:90c00b5833679b70b1ec82e339ee4668
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190601
+DTEND;VALUE=DATE:20190602
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:e57f540107599a6b66d66c95c23b81a0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 28.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:bb5ab63055f795f3625e71212b6bfbeb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190628
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:b47f1b89c446f128b584389397fe809d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 26.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:64e89720843b5b8e2dde22dd90deeb18
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:df05370c8766b73ad67e6a92576389f2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 23.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:2e0cfe3128e5c086e01bb649c47b4619
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190823
+DTEND;VALUE=DATE:20190824
+DTSTAMP:20181228T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:3375d136504fa4dfd8abf278d6ea40a4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 20.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:d84c75aa108507be3f7d225eacd7ef97
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190920
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:33e32737df7e74302606333b661705a3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 18.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:79d83e6274e8a23bcb48722c70cbdfad
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:5487efd785660d9c912c11321d469478
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 15.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:2fc072008add9a88f1253cfbfbda8336
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191115
+DTEND;VALUE=DATE:20191116
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:b2f055a4fb69bdf5954124a64c4a059d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 13.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:859f69017cb3d0e2965d87df81c53f31
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191213
+DTEND;VALUE=DATE:20191214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Restmülltonne: Vienenburg
+UID:32517937acbfaa3b1cb183014c075091
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Weddingen\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:7044b53110d985ef9b5ba9947cfa233d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190111
+DTEND;VALUE=DATE:20190112
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Weddingen\n \nNächster Abholtermin ist am: 25.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Vienenburg -  Ortsteil - Weddingen
+SUMMARY:Weihnachtsbäume: Vienenburg
+UID:e97e7778c6fc33f92f17c9744b19318f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Weddingen\n \n
+END:VEVENT
+END:VCALENDAR

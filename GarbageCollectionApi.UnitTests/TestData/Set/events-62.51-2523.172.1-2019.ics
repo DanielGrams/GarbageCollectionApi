@@ -1,0 +1,909 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:b55677f7f8cb975e37caa58221d8ebe9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 28.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Baum- und Strauchschnitt: Braunlage
+UID:0092463883c66c23ee5545d77ae6eb24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191028
+DTEND;VALUE=DATE:20191029
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt - Oberförster-Ulrichs-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:dd4091dc33bbb204f50d1b9a35d8aa4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:2819ee4abe131aa36cc91d7d4ffa1260
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:c946be7f45740bfd078283c1c9671df3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:503a61e708159c68ab1b0c73825483ef
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:d9299793dcb6efe48deac1dab4818ab1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:7a494a330abd8e4bc23561e43a1817cc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:fb9a8cb720c22755e52888fdbe9d4c73
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:885b7bfbc5365557d58570b69b20ef6c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:3d7df4a9cec41498ec98c92babc74c29
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:62bb3a45e20f28ec1ac8b13881e40a17
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:a1956ba8cff0e2af3bc0bf97d224913a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:400df40b872f84b557166df05cadc9ff
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:59ea32fd302a8a8ae1bc682e569cfd14
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:5ed0de5c2e95f14f47022cda89c9795e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:4a3b9a603f871a68d5df750dab1af82f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:e61e23845105cc5d3321089375a82b79
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:3696e60b5bcc5bd0df6a0ef4ee5d73b8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:3befd76ae41a6c9dc6c64921d4b0a34c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:3bd300ed367401b9164e85851f79bf9c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:bcfb41d152e7782fa2d20c9d9ee5d73e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:b00bb894086c88e1bf9fd77b68379d66
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:33e0a853df32747bfe76a6c204a7cf1a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:37ac15982c14471782fd10e3b500ac4f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:b38b6a39e76c65d13e020890b34c8dba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:d9ada9b3eb829dd6702ccb7df893f2fe
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Biotonne: Braunlage
+UID:cc9e7010e072c598d15a9897a8346895
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne - Oberförster-Ulrichs-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:dc29291e269d827ec6080e624135e803
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:2dfcc44587d73b0c942f919c1c978d85
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:a970612c3d05c328fd9dff5b44d2183a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:fe12a16f49dce3be3f3581fa609dfc1f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:340b1adf43438fbc342c8fd575958e55
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:21a3e7f3201ea0650d1b39c3c7a5c559
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:70ec8e618004585f94c74455cb4558be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:0c548bafef501bde67067b62cfa787c2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:d200684e9eb12db911d2ad78b6d699ac
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:2d6b585c0c1afe8ec7ea2125cee99630
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:1d8dcd51e9ea219ec6390302eebc4a44
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:0909c9e58081053c75764966edee9b00
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Blaue Tonne: Braunlage
+UID:c93b022473e70879a12b3d7aa0bf623c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne - Oberförster-Ulrichs-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:37eb8d18750713763b1a548d9828f4df
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190117
+DTEND;VALUE=DATE:20190118
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 14.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:a1b9464550db631d02a361f7dbfcd2db
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190214
+DTEND;VALUE=DATE:20190215
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 14.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:0c8e9d2061bf897bb74292fe873b72eb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190315
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 11.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:5c828bd7ae06bd89e10b1d1dd01cb814
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190411
+DTEND;VALUE=DATE:20190412
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 09.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:cec1cac4edc0e38aca6dc15bf750df12
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190510
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 06.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:c9027b838b61097925c3278209b2b5b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190606
+DTEND;VALUE=DATE:20190607
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 04.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:c56466fc4db7b0b120ce3fedc00ecf26
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190704
+DTEND;VALUE=DATE:20190705
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 01.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:343e5cee6c5c8794fc5dfc9e5099ab41
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190801
+DTEND;VALUE=DATE:20190802
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 29.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:15587caba6e09111512375ea293c7635
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190829
+DTEND;VALUE=DATE:20190830
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 26.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:a057491176f771629df21b4ff8f882b9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 24.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:53acd525f7fca1c8c0e3a869c44b10b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191025
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 21.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:84e575c5a91f4ce535c3658a323a009e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191121
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 19.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Gelber Sack: Braunlage
+UID:df0d54e2a712ab48a5b41e4ec47d6b86
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191219
+DTEND;VALUE=DATE:20191220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack - Oberförster-Ulrichs-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:d77edcc19ab81c78a088fecc11c9cf8c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:ebfbcdfc8a16ca3b211bc826046513d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 05.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:fd2911f7e83e845188943d58f7f2aeea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 19.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:803d81c27eb9c21d1b2133056f605d4e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190219
+DTEND;VALUE=DATE:20190220
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 05.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:d1488d9431f9c5b7073ac6dc274c9cb4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190305
+DTEND;VALUE=DATE:20190306
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 19.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:0a44393f38e3ae4eddf0d25ac4e43c24
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190319
+DTEND;VALUE=DATE:20190320
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 02.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:2b54ebae0d9bf619c5282f8fa7456291
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190402
+DTEND;VALUE=DATE:20190403
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 15.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:7f4c6ff82d5b80acef95825e1e03185e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190415
+DTEND;VALUE=DATE:20190416
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 30.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:37742cefd6ddc2fe1c34c5fb22886f3a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190430
+DTEND;VALUE=DATE:20190501
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 14.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:1fb05b2026390d39108af4a73a5ad533
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190514
+DTEND;VALUE=DATE:20190515
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 28.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:6c578fc6f194fbb50ed26d3a90094514
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190528
+DTEND;VALUE=DATE:20190529
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 12.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:14961bd119c90d1ac94e2eaaa1dfba63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190612
+DTEND;VALUE=DATE:20190613
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 25.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:fa535b94b7683ead1a8c098f29385681
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190625
+DTEND;VALUE=DATE:20190626
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 09.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:d00af5599ba2056ef3832a459fff2f0f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190709
+DTEND;VALUE=DATE:20190710
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 23.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:48087db8981a881a0a10e5d6639d884c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190723
+DTEND;VALUE=DATE:20190724
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 06.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:0a7c8d2d88dfa59c403774a12ee78cea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190806
+DTEND;VALUE=DATE:20190807
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 20.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:40fbf77cfe6dbc6dc7844f1d7a72c810
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190820
+DTEND;VALUE=DATE:20190821
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 03.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:8ae3ae165686a22d133602c0911230ba
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190904
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 17.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:549cb3f1e6fb3aaa698b5ea0fe2b6e82
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190917
+DTEND;VALUE=DATE:20190918
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 01.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:58f9842fcf22d2226b0e57bae91e39ce
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191002
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 15.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:b7cac6aab076c87e02e03a67fa83a3d0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191015
+DTEND;VALUE=DATE:20191016
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 29.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:47fb020490bcebf7b98ba0bf13c5bd83
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 12.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:ab1cff5ff5467f15d3546315c5f7b7c7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191113
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 26.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:388f7b727e201c79573e28989ef0426b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191126
+DTEND;VALUE=DATE:20191127
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 10.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:5a72dae032c6142e5a611c3d1b19176a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191210
+DTEND;VALUE=DATE:20191211
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 23.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Restmülltonne: Braunlage
+UID:bcaabd42110fee1f0543671e437ab4b5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191223
+DTEND;VALUE=DATE:20191224
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne - Oberförster-Ulrichs-Straße\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:aa8718c1e1958f2bedacd1a7d49122e5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190108
+DTEND;VALUE=DATE:20190109
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Oberförster-Ulrichs-Straße\n \nNächster Abholtermin ist am: 22.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Braunlage - Oberförster-Ulrichs-Straße
+SUMMARY:Weihnachtsbäume: Braunlage
+UID:b7fa7c49c246d44e6c1242b431545d08
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190122
+DTEND;VALUE=DATE:20190123
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume - Oberförster-Ulrichs-Straße\n \n
+END:VEVENT
+END:VCALENDAR

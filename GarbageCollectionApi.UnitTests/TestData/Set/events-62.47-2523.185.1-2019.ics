@@ -1,0 +1,920 @@
+﻿BEGIN:VCALENDAR
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+PRODID:http://www.kwb-goslar.de
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:50a3c4a151ac69b040aa48ab61ad6619
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190312
+DTEND;VALUE=DATE:20190313
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Baum- und Strauchschnitt: Clausthal-Zellerfeld
+UID:b96775df6ef4670f4e9fb6c6e9fbdfea
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Baum- und Strauchschnitt -  Ortsteil - Buntenbock\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e177512a5304b2f9b2c9be319e4754fc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0ac9eb7e58b25ee86a19e752bdc4a874
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:0bdc8e56bfb91f27ed04bb1d64814907
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:f38ae3a9b730441ef3809bec36ca0445
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:e5c4c98b86778d5de71fb30c927f7266
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:a011313eb653db0b314e2dd29d30e494
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:017accaf758649bd9b899be13dcddd03
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:dba0d0a77055a7e8d50f88b9037f5ddb
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:5a5a3ada54a325931547f8e3d4cf0c6e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:256ab54b0b9b56c388421be652f5da7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:54581fe93c8aeaea5bdee00a64405fcc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:15e00f34e85e63dfc77bb2dbee36aa11
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:ea2e55015318181c49fe57ca2f76e10b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:067bb7bc5e8b3e1c46ab16626619f4da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:230e8642d29be4231c24f231e22fa240
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:2057ff8d3a8ff89aeb5df73d2ae168f9
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d530c95c90877b6cd13927d5ed846564
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8c8b3b148f35f6d24c9151debe84325c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:87e08babaef28be8befb2730cf190b76
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8024e9470cc9b205b22f793fe4396271
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:75567139aedaca172fa06b4c44ced80d
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:93225c20e2cd3007744c186406aff387
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:8ddf597f399bcc0e2eb82419c5f4f832
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:c0dd6dd9d0f8f64443a1e7e3845854dc
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:d30a55a6804cce7675423e94ba853706
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Biotonne: Clausthal-Zellerfeld
+UID:78b57e541ce72ff755ba1e336233e1f4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Biotonne -  Ortsteil - Buntenbock\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:9f26220799872500b3eeef63838a8567
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:7e2a31c88b792fee8a7a84de5940cd92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:50bea933feface23d273a20d80d5476f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c40918140b0214023a3c93ffefb52f92
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:8b85fd1c11c483d7e6c8a9b399696608
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:735087598bf9500ded3596025752565a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:c21fc16076ca7861b062b4934cf2343b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:729461840239e6caf5e0112b39661301
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:6a771de5aa58877b2acd3ff64a7f821f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:310626f37e09f0b0922e3fe94d66a6a2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:4f8d3fcead4bbc318aac6f7eef9fef63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:914dee3bbdf7fca0fbd4fafc9c3a8df4
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Blaue Tonne: Clausthal-Zellerfeld
+UID:b933a0b12a19a02f727c0ec2cf68dee2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Blaue Tonne -  Ortsteil - Buntenbock\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:773f03c60e6f2111c8f3d4c539d34793
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190125
+DTEND;VALUE=DATE:20190126
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 22.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:a84d1bf0fcdb3e4945c69577b87d24b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190223
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 22.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:792fb869a65d04b458bbd3acd302b5b2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190322
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 18.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b0949a733fea8bae18ea8d62d557103c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190418
+DTEND;VALUE=DATE:20190419
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 17.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7f4335cef78007bc91b8bef563461ca5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190517
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 15.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:d02bf45abbd785ba029b746a7d6a2082
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190615
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 12.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:b7b88538e313157d9602822741fdce42
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190712
+DTEND;VALUE=DATE:20190713
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 09.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:7ee35b134b3e167bf6835ec832341d63
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190809
+DTEND;VALUE=DATE:20190810
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 06.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:56dada06ea595d6b9ac6736ca5e216d7
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190906
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 05.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:ed76fa505b7382521cdc2d159b9ae712
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 02.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:93fafc31813b34c3f2e7c024680fb159
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191102
+DTEND;VALUE=DATE:20191103
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 29.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:145cc03fa8c785bf269a46e3186b4aab
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191129
+DTEND;VALUE=DATE:20191130
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 28.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Gelber Sack: Clausthal-Zellerfeld
+UID:18586ca721d701c0445575b13760d1e1
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191228
+DTEND;VALUE=DATE:20191229
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Gelber Sack -  Ortsteil - Buntenbock\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:7a1fb7777f1a00ddaf86f2cac2e243f5
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:34a3838cf70cb9c23e1234899e924462
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8a4ae1f538ca2e312a6155d5dfbe5348
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 13.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:4cc121119d512bac5cb9cb837b572a2e
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190213
+DTEND;VALUE=DATE:20190214
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 27.02.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:f04e8b69a35f73f04624a199d1a8d0b0
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190227
+DTEND;VALUE=DATE:20190228
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 13.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0d2b1b9cca915ced1fd1cfe4348ae4d3
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190313
+DTEND;VALUE=DATE:20190314
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 27.03.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:122b8e2480d5b29a129e69b29ba4e9da
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190327
+DTEND;VALUE=DATE:20190328
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 10.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b4a4ec83c72fc11369971ed218f187c8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190410
+DTEND;VALUE=DATE:20190411
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 25.04.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:38127f5ddfdb353c0f0371066c6282e8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190425
+DTEND;VALUE=DATE:20190426
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 08.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:9da1d02829be0a273ffd1dd8e089a36c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190508
+DTEND;VALUE=DATE:20190509
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 22.05.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e124fa8418c9f9ffd4bad18819f724d6
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190522
+DTEND;VALUE=DATE:20190523
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 05.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ff079c587374bccb2a092f1c2ea63a59
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190605
+DTEND;VALUE=DATE:20190606
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 19.06.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c3a3898f53ee9f6f1cc4c12c3a945fa8
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190619
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 03.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:2e40d611fe034b8e55d58e5947260428
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190703
+DTEND;VALUE=DATE:20190704
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 17.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:225628c7dd37cd1943ae4eb58f7b753a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 31.07.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:ca00e67c4dd92174ac919686d6b3d656
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190731
+DTEND;VALUE=DATE:20190801
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 14.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:91c8eb6d63fcb90c62619a5ca7624184
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190814
+DTEND;VALUE=DATE:20190815
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 28.08.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:179947238265713c96cb7bac63ebb8d2
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190828
+DTEND;VALUE=DATE:20190829
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 11.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:994c801fc7e78837c1ebef7986268174
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190911
+DTEND;VALUE=DATE:20190912
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 25.09.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0d70a511094d88914615959b56df926a
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190925
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 09.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:e95c3b55cc78955490fd6273a7786784
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191009
+DTEND;VALUE=DATE:20191010
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 23.10.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:364cc62fc5e59896e2bea18830b8b9be
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191023
+DTEND;VALUE=DATE:20191024
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 06.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:b1b16d9f13b6bd6f5175cbf4cdb45d7b
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191106
+DTEND;VALUE=DATE:20191107
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 20.11.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:0cf427b5c2da75927d63ae1e32533026
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191121
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 04.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:8db46251cf70f798ea09bd9ead4a522c
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191205
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 18.12.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Restmülltonne: Clausthal-Zellerfeld
+UID:c1a698432a0bb08e9179ec1a98c2706f
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191218
+DTEND;VALUE=DATE:20191219
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Restmülltonne -  Ortsteil - Buntenbock\n \n
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:b9a040eb3110274c2fa743f63062b498
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190103
+DTEND;VALUE=DATE:20190104
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 16.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:2486595be4959dfd82cbaa9a5417e177
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190116
+DTEND;VALUE=DATE:20190117
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Buntenbock\n \nNächster Abholtermin ist am: 30.01.2019
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: Abfallkalender
+LOCATION: Clausthal-Zellerfeld -  Ortsteil - Buntenbock
+SUMMARY:Weihnachtsbäume: Clausthal-Zellerfeld
+UID:557980fc3ee39b6c28f54aec35bd69ed
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190130
+DTEND;VALUE=DATE:20190131
+DTSTAMP:20181128T000000Z
+DESCRIPTION:Weihnachtsbäume -  Ortsteil - Buntenbock\n \n
+END:VEVENT
+END:VCALENDAR
