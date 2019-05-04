@@ -212,13 +212,16 @@ namespace GarbageCollectionApi.Services.Scraping
                     {
                         var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
 
+                        Console.WriteLine($"DtStart.Utc: {calEvent.DtStart.AsUtc} - System: {calEvent.DtStart.AsSystemLocal}");
+                        Console.WriteLine($"DtStamp.Utc: {calEvent.DtStamp.AsUtc} - System: {calEvent.DtStamp.AsSystemLocal}");
+
                         var collectionEvent = new CollectionEvent
                         {
                             Id = calEvent.Uid,
                             TownId = town.Id,
                             StreetId = street.Id,
                             Category = category,
-                            Start = calEvent.DtStart.AsSystemLocal,
+                            Start = calEvent.DtStart.AsUtc,
                             Stamp = calEvent.DtStamp.AsUtc,
                         };
 

@@ -12,6 +12,7 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
     using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Services.Scraping;
     using GarbageCollectionApi.UnitTests.Utils;
+    using GarbageCollectionApi.Utils;
     using Microsoft.Extensions.Logging;
     using NSubstitute;
     using NUnit.Framework;
@@ -162,18 +163,22 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var events = await dataRefreshService.LoadEventsAsync(towns, cancellationToken).ConfigureAwait(false);
 
             Assert.That(events.Count, Is.EqualTo(85));
-            Assert.That(events[0].Id, Is.EqualTo("fdc0b08929027ca3edef21a3107e766a"));
-            Assert.That(events[0].TownId, Is.EqualTo("62.1"));
-            Assert.That(events[0].StreetId, Is.EqualTo("2523.907.1"));
-            Assert.That(events[0].Start, Is.EqualTo(new DateTime(2019, 2, 21)));
-            Assert.That(events[0].Stamp, Is.EqualTo(new DateTime(2018, 11, 28)));
-            Assert.That(events[0].Category.Name, Is.EqualTo("Baum- und Strauchschnitt"));
-            Assert.That(events[84].Id, Is.EqualTo("454f9e3ff522d7fb127819ba24dccdf9"));
-            Assert.That(events[84].TownId, Is.EqualTo("62.1"));
-            Assert.That(events[84].StreetId, Is.EqualTo("2523.907.1"));
-            Assert.That(events[84].Start, Is.EqualTo(new DateTime(2019, 1, 29)));
-            Assert.That(events[84].Stamp, Is.EqualTo(new DateTime(2018, 11, 28)));
-            Assert.That(events[84].Category.Name, Is.EqualTo("Weihnachtsbäume"));
+
+            var firstEvent = events[0];
+            Assert.That(firstEvent.Id, Is.EqualTo("fdc0b08929027ca3edef21a3107e766a"));
+            Assert.That(firstEvent.TownId, Is.EqualTo("62.1"));
+            Assert.That(firstEvent.StreetId, Is.EqualTo("2523.907.1"));
+            Assert.That(firstEvent.Start, Is.EqualTo(DateTimeUtils.Utc(2019, 2, 20, 23)));
+            Assert.That(firstEvent.Stamp, Is.EqualTo(DateTimeUtils.Utc(2018, 11, 28)));
+            Assert.That(firstEvent.Category.Name, Is.EqualTo("Baum- und Strauchschnitt"));
+
+            var lastEvent = events[84];
+            Assert.That(lastEvent.Id, Is.EqualTo("454f9e3ff522d7fb127819ba24dccdf9"));
+            Assert.That(lastEvent.TownId, Is.EqualTo("62.1"));
+            Assert.That(lastEvent.StreetId, Is.EqualTo("2523.907.1"));
+            Assert.That(lastEvent.Start, Is.EqualTo(DateTimeUtils.Utc(2019, 1, 28, 23)));
+            Assert.That(lastEvent.Stamp, Is.EqualTo(DateTimeUtils.Utc(2018, 11, 28)));
+            Assert.That(lastEvent.Category.Name, Is.EqualTo("Weihnachtsbäume"));
         }
 
         private async Task<IDocument> LoadTestDataAsync(IBrowsingContext context, string filename)

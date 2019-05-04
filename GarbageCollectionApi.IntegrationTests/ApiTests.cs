@@ -63,6 +63,12 @@ namespace GarbageCollectionApi.IntegrationTest
             });
         }
 
+        [TearDown]
+        public void TearDown()
+        {
+            this.Dispose();
+        }
+
         protected virtual void Dispose(bool disposing)
         {
             if (!this.disposedValue)

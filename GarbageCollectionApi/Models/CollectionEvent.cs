@@ -20,8 +20,10 @@ namespace GarbageCollectionApi.Models
 
         public Category Category { get; set; }
 
+        [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
         public DateTime Start { get; set; }
 
+        [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
         public DateTime Stamp { get; set; }
     }
 }

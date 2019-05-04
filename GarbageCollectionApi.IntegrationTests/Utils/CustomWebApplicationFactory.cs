@@ -1,8 +1,10 @@
 namespace GarbageCollectionApi.IntegrationTest.Utils
 {
     using System;
+    using System.Linq;
     using System.Runtime.CompilerServices;
     using GarbageCollectionApi.Models;
+    using GarbageCollectionApi.Services.Scraping;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.Mvc.Testing;
     using Microsoft.AspNetCore.TestHost;
@@ -32,6 +34,9 @@ namespace GarbageCollectionApi.IntegrationTest.Utils
                         options.ConnectionString = this.mongoSettings.ConnectionString;
                         options.Database = this.mongoSettings.Database;
                     });
+
+                var serviceDescriptor = services.FirstOrDefault(descriptor => descriptor.ImplementationType == typeof(DataRefreshService));
+                services.Remove(serviceDescriptor);
             });
         }
     }

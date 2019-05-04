@@ -1,8 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
-[assembly: ApiConventionType(typeof(DefaultApiConventions))]
-
-namespace GarbageCollectionApi
+﻿namespace GarbageCollectionApi
 {
     using System;
     using System.Collections.Generic;

@@ -8,6 +8,7 @@ namespace GarbageCollectionApi.Controllers
     using System.Threading.Tasks;
     using GarbageCollectionApi.DataContracts;
     using GarbageCollectionApi.Services;
+    using Microsoft.AspNetCore.Http;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.EntityFrameworkCore;
 
@@ -32,6 +33,7 @@ namespace GarbageCollectionApi.Controllers
         }
 
         [HttpGet]
+        [ProducesResponseType(200)]
         public async Task<ActionResult<IEnumerable<Town>>> GetTownsAsync()
         {
             var towns = await this.townsService.GetAllItemsAsync().ConfigureAwait(false);
@@ -39,21 +41,48 @@ namespace GarbageCollectionApi.Controllers
         }
 
         [HttpGet("{id}/streets")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(404)]
         public async Task<ActionResult<IEnumerable<Street>>> GetStreetsByTownAsync(string id)
         {
-            return await this.streetsService.GetByTownAsync(id).ConfigureAwait(false);
+            var streets = await this.streetsService.GetByTownAsync(id).ConfigureAwait(false);
+
+            if (streets == null)
+            {
+                return this.NotFound();
+            }
+
+            return this.Ok(streets);
         }
 
         [HttpGet("{id}/streets/{streetId}/categories")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(404)]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategoriesByTownAndStreetAsync(string id, string streetId)
         {
-            return await this.categoriesService.GetByTownAndStreetAsync(id, streetId).ConfigureAwait(false);
+            var categories = await this.categoriesService.GetByTownAndStreetAsync(id, streetId).ConfigureAwait(false);
+
+            if (categories == null)
+            {
+                return this.NotFound();
+            }
+
+            return this.Ok(categories);
         }
 
         [HttpGet("{id}/streets/{streetId}/events")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(404)]
         public async Task<ActionResult<IEnumerable<CollectionEvent>>> GetEventsByTownAndStreetAsync(string id, string streetId)
         {
-            return await this.eventsService.GetByTownAndStreetAsync(id, streetId).ConfigureAwait(false);
+            var events = await this.eventsService.GetByTownAndStreetAsync(id, streetId).ConfigureAwait(false);
+
+            if (events == null)
+            {
+                return this.NotFound();
+            }
+
+            return this.Ok(events);
         }
     }
 }
