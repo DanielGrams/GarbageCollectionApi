@@ -39,6 +39,8 @@ namespace GarbageCollectionApi.Services
                     };
                     await this.statusCollection.InsertOneAsync(session, refreshStatus).ConfigureAwait(false);
                 }
+
+                await session.CommitTransactionAsync().ConfigureAwait(false);
             }
 
             return refreshStatus;

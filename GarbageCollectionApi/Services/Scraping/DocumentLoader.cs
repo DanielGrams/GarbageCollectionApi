@@ -18,22 +18,22 @@ namespace GarbageCollectionApi.Services.Scraping
             this.abfuhrBaseUrl = $"{this.baseUrl}/Abfallwirtschaft/Abfuhr/Online-Abfuhrkalender";
         }
 
-        public async Task<IDocument> LoadTownsDocumentAsync(IBrowsingContext context, CancellationToken cancellationToken)
+        public virtual async Task<IDocument> LoadTownsDocumentAsync(IBrowsingContext context, CancellationToken cancellationToken)
         {
             return await context.OpenAsync(this.abfuhrBaseUrl, cancellationToken).ConfigureAwait(false);
         }
 
-        public async Task<IDocument> LoadStreetsDocumentAsync(string townId, IBrowsingContext context, CancellationToken cancellationToken)
+        public virtual async Task<IDocument> LoadStreetsDocumentAsync(string townId, IBrowsingContext context, CancellationToken cancellationToken)
         {
             return await context.OpenAsync($"{this.abfuhrBaseUrl}/index.php?ort={townId}", cancellationToken).ConfigureAwait(false);
         }
 
-        public async Task<IDocument> LoadCategoriesDocumentAsync(string townId, string streetId, IBrowsingContext context, CancellationToken cancellationToken)
+        public virtual async Task<IDocument> LoadCategoriesDocumentAsync(string townId, string streetId, IBrowsingContext context, CancellationToken cancellationToken)
         {
             return await context.OpenAsync($"{this.abfuhrBaseUrl}/index.php?ort={townId}&strasse={streetId}", cancellationToken).ConfigureAwait(false);
         }
 
-        public async Task<string> LoadEventsIcalTextAsync(string townId, string streetId, string year, CancellationToken cancellationToken)
+        public virtual async Task<string> LoadEventsIcalTextAsync(string townId, string streetId, string year, CancellationToken cancellationToken)
         {
             var url = new Uri($"{this.baseUrl}/output/abfall_export.php?csv_export=1&mode=vcal&ort={townId}&strasse={streetId}&vtyp=4&vMo=1&vJ={year}&bMo=12");
             string icalText;

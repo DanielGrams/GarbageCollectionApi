@@ -12,6 +12,7 @@ namespace GarbageCollectionApi.Models
     public class DataRefreshStatus
     {
         [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
         [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]

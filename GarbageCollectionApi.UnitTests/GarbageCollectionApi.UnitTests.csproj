@@ -35,7 +35,10 @@
   <ItemGroup>
     <Content Include="TestData\*.*">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>  
+    </Content>
+    <Content Include="TestData\Set\*.*">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

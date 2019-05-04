@@ -160,11 +160,6 @@ namespace GarbageCollectionApi.Services.Scraping
 
                 town.Streets.AddRange(streets);
 
-                if (town.Id == "62.53")
-                {
-                    return;
-                }
-
                 await this.DelayBeforeNextRequest().ConfigureAwait(false);
             }
         }
@@ -202,11 +197,6 @@ namespace GarbageCollectionApi.Services.Scraping
 
                     street.Categories.AddRange(categories);
 
-                    if (town.Id == "62.53")
-                    {
-                        return;
-                    }
-
                     await this.DelayBeforeNextRequest().ConfigureAwait(false);
                 }
             }
@@ -215,6 +205,7 @@ namespace GarbageCollectionApi.Services.Scraping
         public async Task<List<CollectionEvent>> LoadEventsAsync(List<Town> towns, CancellationToken cancellationToken)
         {
             var events = new List<CollectionEvent>();
+            var streetEvents = new List<CollectionEvent>();
             var berlinTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Europe/Berlin");
 
             foreach (var town in towns)
@@ -238,6 +229,12 @@ namespace GarbageCollectionApi.Services.Scraping
 
                     foreach (var calEvent in calendar.Events)
                     {
+                        if (streetEvents.Any(e => e.Id == calEvent.Uid))
+                        {
+                            // Some ics files contain duplicate uids
+                            continue;
+                        }
+
                         var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
 
                         // iCal file does not specify timezone. So we have to convert from Berlin to UTC manually.
@@ -255,13 +252,11 @@ namespace GarbageCollectionApi.Services.Scraping
                             Stamp = calEvent.DtStamp.AsUtc,
                         };
 
-                        events.Add(collectionEvent);
+                        streetEvents.Add(collectionEvent);
                     }
 
-                    if (town.Id == "62.53")
-                    {
-                        return events;
-                    }
+                    events.AddRange(streetEvents);
+                    streetEvents.Clear();
 
                     await this.DelayBeforeNextRequest().ConfigureAwait(false);
                 }

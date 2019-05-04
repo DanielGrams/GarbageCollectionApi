@@ -54,7 +54,11 @@
             services.Configure<DataRefreshSettings>(this.Configuration.GetSection("DataRefresh"));
 
             services.AddHostedService<DataRefreshService>();
+#if DEBUG
+            services.AddSingleton<IDocumentLoader, DebugDocumentLoader>();
+#else
             services.AddSingleton<IDocumentLoader, DocumentLoader>();
+#endif
             services.AddScoped<ITownsService, TownsService>();
             services.AddScoped<IStreetsService, StreetsService>();
             services.AddScoped<IUpdateService, UpdateService>();
