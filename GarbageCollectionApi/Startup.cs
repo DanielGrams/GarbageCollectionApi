@@ -10,6 +10,7 @@
     using GarbageCollectionApi.Services;
     using GarbageCollectionApi.Services.Scraping;
     using GarbageCollectionApi.Utils;
+    using Hellang.Middleware.ProblemDetails;
     using Microsoft.ApplicationInsights.Extensibility;
     using Microsoft.AspNetCore.Authentication;
     using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -66,11 +67,11 @@
             services.AddScoped<ICategoriesService, CategoriesService>();
             services.AddScoped<IEventsService, EventsService>();
             services.AddScoped<IStatusService, StatusService>();
-            services.AddTransient<ExceptionMiddleware>();
 
             services.AddApplicationInsightsTelemetry();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddProblemDetails();
 
             // Register the Swagger generator
             services.AddSwaggerGen(c =>
@@ -117,8 +118,6 @@
             }
             else
             {
-                app.ConfigureExceptionHandler();
-                app.ConfigureCustomExceptionMiddleware();
                 app.UseHsts();
             }
 
@@ -135,6 +134,7 @@
                 c.RoutePrefix = string.Empty;
             });
 
+            app.UseProblemDetails();
             app.UseMvc();
         }
     }

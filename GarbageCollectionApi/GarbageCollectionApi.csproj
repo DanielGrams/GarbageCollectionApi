@@ -5,17 +5,21 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <CodeAnalysisRuleSet>..\GarbageCollection.ruleset</CodeAnalysisRuleSet> 
+    <CodeAnalysisRuleSet>..\GarbageCollection.ruleset</CodeAnalysisRuleSet>
     <NoWarn>$(NoWarn);1591</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="AngleSharp" Version="0.11.0" />
+    <PackageReference Include="Hellang.Middleware.ProblemDetails" Version="3.0.1" />
     <PackageReference Include="Ical.Net" Version="4.1.11" />
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.7.0-beta3" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.AzureAppServicesIntegration" Version="2.2.2" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Api.Analyzers" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.0">
+      <NoWarn>NU1603</NoWarn>
+    </PackageReference>
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.2" />
     <PackageReference Include="Microsoft.Extensions.Logging.AzureAppServices" Version="2.2.0" />
