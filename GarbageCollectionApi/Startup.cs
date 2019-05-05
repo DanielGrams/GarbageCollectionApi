@@ -31,13 +31,17 @@
     /// </summary>
     public class Startup
     {
+        private readonly ILogger<Startup> logger;
+
         /// <summary>
         /// Initializes a new instance of the <see cref="Startup"/> class.
         /// </summary>
+        /// <param name="logger">Logger</param>
         /// <param name="configuration">Config</param>
-        public Startup(IConfiguration configuration)
+        public Startup(ILogger<Startup> logger, IConfiguration configuration)
         {
-            this.Configuration = configuration;
+            this.logger = logger ?? throw new ArgumentNullException(nameof(logger));
+            this.Configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
         }
 
         /// <summary>
@@ -66,6 +70,7 @@
             services.AddScoped<ICategoriesService, CategoriesService>();
             services.AddScoped<IEventsService, EventsService>();
             services.AddScoped<IStatusService, StatusService>();
+            services.AddTransient<ExceptionMiddleware>();
 
             services.AddApplicationInsightsTelemetry();
 
@@ -133,6 +138,8 @@
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "GarbageCollection API V1");
                 c.RoutePrefix = string.Empty;
             });
+
+            this.logger.LogWarning($"MongoConnection: {this.Configuration.GetSection("MongoConnection")["ConnectionString"]}");
 
             app.UseMvc();
         }
