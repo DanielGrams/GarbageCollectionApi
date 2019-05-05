@@ -9,6 +9,7 @@
     using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Services;
     using GarbageCollectionApi.Services.Scraping;
+    using GarbageCollectionApi.Utils;
     using Microsoft.ApplicationInsights.Extensibility;
     using Microsoft.AspNetCore.Authentication;
     using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -115,7 +116,8 @@
             }
             else
             {
-                app.UseExceptionHandler();
+                app.ConfigureExceptionHandler();
+                app.ConfigureCustomExceptionMiddleware();
                 app.UseHsts();
             }
 
