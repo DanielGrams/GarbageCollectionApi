@@ -22,7 +22,7 @@ namespace GarbageCollectionApi.Services
         public async Task<List<DataContracts.Town>> GetAllItemsAsync()
         {
             return await this.towns
-                .Find(town => true)
+                .Find(_ => true)
                 .Project(town => new DataContracts.Town { Id = town.Id, Name = town.Name })
                 .ToListAsync()
                 .ConfigureAwait(false);

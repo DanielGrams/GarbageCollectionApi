@@ -29,9 +29,18 @@ namespace GarbageCollectionApi.Services
             await this.towns.InsertManyAsync(towns).ConfigureAwait(false);
 
             await this.events.DeleteManyAsync(_ => true).ConfigureAwait(false);
+            await this.CreateEventIndex().ConfigureAwait(false);
             await this.events.InsertManyAsync(events).ConfigureAwait(false);
 
             await this.statusCollection.ReplaceOneAsync(status => status.Id == refreshStatus.Id, refreshStatus).ConfigureAwait(false);
+        }
+
+        private async Task CreateEventIndex()
+        {
+            var indexOptions = new CreateIndexOptions { Name = "TownStreet", Sparse = true, Unique = false, Background = true };
+            var indexKeys = Builders<CollectionEvent>.IndexKeys.Ascending(e => e.TownId).Ascending(e => e.StreetId);
+            var indexModel = new CreateIndexModel<CollectionEvent>(indexKeys, indexOptions);
+            await this.events.Indexes.CreateOneAsync(indexModel).ConfigureAwait(false);
         }
     }
 }

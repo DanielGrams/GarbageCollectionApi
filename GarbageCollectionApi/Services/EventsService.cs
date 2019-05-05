@@ -23,7 +23,7 @@ namespace GarbageCollectionApi.Services
         public async Task<List<DataContracts.CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId)
         {
             return await this.events
-                .Find(e => e.TownId == townId)
+                .Find(e => e.TownId == townId && e.StreetId == streetId)
                 .Project(e => new DataContracts.CollectionEvent
                 {
                     Id = e.Id,
