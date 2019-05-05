@@ -25,10 +25,10 @@ namespace GarbageCollectionApi.Services
         /// <inheritdoc />
         public async Task UpdateAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
         {
-            await this.towns.DeleteManyAsync(_ => true).ConfigureAwait(false);
+            await this.Database.DropCollectionAsync(MongoConnectionSettings.TownsCollectionName).ConfigureAwait(false);
             await this.towns.InsertManyAsync(towns).ConfigureAwait(false);
 
-            await this.events.DeleteManyAsync(_ => true).ConfigureAwait(false);
+            await this.Database.DropCollectionAsync(MongoConnectionSettings.EventsCollectionName).ConfigureAwait(false);
             await this.CreateEventIndex().ConfigureAwait(false);
             await this.events.InsertManyAsync(events).ConfigureAwait(false);
 
