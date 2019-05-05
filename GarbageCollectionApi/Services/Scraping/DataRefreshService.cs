@@ -16,6 +16,7 @@ namespace GarbageCollectionApi.Services.Scraping
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Logging;
     using Microsoft.Extensions.Options;
+    using TimeZoneConverter;
 
     public class DataRefreshService : HostedService
     {
@@ -214,7 +215,7 @@ namespace GarbageCollectionApi.Services.Scraping
         {
             var events = new List<CollectionEvent>();
             var streetEvents = new List<CollectionEvent>();
-            var berlinTimeZone = TimeZoneInfo.FindSystemTimeZoneById("Europe/Berlin");
+            var berlinTimeZone = TZConvert.GetTimeZoneInfo("Europe/Berlin");
 
             foreach (var town in towns)
             {
