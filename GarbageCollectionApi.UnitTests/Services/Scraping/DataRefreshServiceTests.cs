@@ -50,6 +50,9 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var updateService = NSubstitute.Substitute.For<IUpdateService>();
             serviceCollection.AddSingleton<IUpdateService>(updateService);
 
+            var dumpService = NSubstitute.Substitute.For<IDumpService>();
+            serviceCollection.AddSingleton<IDumpService>(dumpService);
+
             var serviceProvider = serviceCollection.BuildServiceProvider();
 
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
