@@ -67,6 +67,7 @@
             services.AddScoped<ICategoriesService, CategoriesService>();
             services.AddScoped<IEventsService, EventsService>();
             services.AddScoped<IStatusService, StatusService>();
+            services.AddScoped<IDumpService, DumpService>();
 
             services.AddApplicationInsightsTelemetry();
 
@@ -85,11 +86,11 @@
                     Contact = new Contact
                     {
                         Name = "Daniel Grams",
-                        Email = string.Empty,
                         Url = "https://github.com/DanielGrams/GarbageCollectionApi",
                     },
                 });
 
+                c.OperationFilter<SwaggerFileOperationFilter>();
                 c.ExampleFilters();
                 c.OperationFilter<AddResponseHeadersFilter>();
 

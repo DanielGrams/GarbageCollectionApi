@@ -7,5 +7,7 @@ namespace GarbageCollectionApi.Services
     public interface IStatusService
     {
         Task<DataRefreshStatus> GetStatusAsync();
+
+        Task<DataContracts.DataRefreshStatus> GetDataContractsStatusAsync();
     }
 }
