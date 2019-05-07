@@ -32,7 +32,7 @@ namespace GarbageCollectionApi.Controllers
         /// Gets data status
         /// </summary>
         /// <response code="404">If status does not exist</response>
-        [HttpGet("data")]
+        [HttpGet]
         [ProducesResponseType(200)]
         [ProducesResponseType(404)]
         public async Task<ActionResult<DataRefreshStatus>> GetStatusAsync()

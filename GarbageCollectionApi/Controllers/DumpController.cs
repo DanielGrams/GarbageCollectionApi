@@ -33,34 +33,15 @@ namespace GarbageCollectionApi.Controllers
         }
 
         /// <summary>
-        /// Gets dump data. Please consider downloading via /file route to avoid timeouts.
-        /// </summary>
-        /// <response code="404">If dump does not exist</response>
-        [HttpGet]
-        [ProducesResponseType(typeof(DumpData), 200)]
-        [ProducesResponseType(404)]
-        public async Task<ActionResult<string>> Get()
-        {
-            string filePath = this.dumpService.FilePath;
-
-            if (!System.IO.File.Exists(filePath))
-            {
-                return this.NotFound();
-            }
-
-            return await System.IO.File.ReadAllTextAsync(filePath).ConfigureAwait(false);
-        }
-
-        /// <summary>
-        /// Gets dump file
+        /// Gets zip compressed json dump file. The base element is of class DumpData.
         /// </summary>
         /// <response code="404">If file does not exist</response>
-        [HttpGet("file")]
+        [HttpGet]
         [ProducesResponseType(typeof(FileStreamResult), 200)]
         [ProducesResponseType(404)]
         public IActionResult GetFile()
         {
-            string filePath = this.dumpService.FilePath;
+            string filePath = this.dumpService.ZipFilePath;
 
             if (!System.IO.File.Exists(filePath))
             {
@@ -68,7 +49,10 @@ namespace GarbageCollectionApi.Controllers
             }
 
             var stream = System.IO.File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.None);
-            return new FileStreamResult(stream, "application/json");
+            return new FileStreamResult(stream, new Microsoft.Net.Http.Headers.MediaTypeHeaderValue("application/zip"))
+            {
+                FileDownloadName = "dump.zip",
+            };
         }
     }
 }

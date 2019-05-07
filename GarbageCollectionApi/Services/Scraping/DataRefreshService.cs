@@ -109,7 +109,7 @@ namespace GarbageCollectionApi.Services.Scraping
                 await updateService.UpdateAsync(towns, events, refreshStatus).ConfigureAwait(false);
 
                 var dumpService = scope.ServiceProvider.GetRequiredService<IDumpService>();
-                await dumpService.DumpAsync(towns, events, refreshStatus).ConfigureAwait(false);
+                await Task.Run(() => dumpService.Dump(towns, events, refreshStatus)).ConfigureAwait(false);
             }
 
             this.logger.LogWarning($"Updated {towns.Count} towns and {events.Count} events");
@@ -230,6 +230,10 @@ namespace GarbageCollectionApi.Services.Scraping
                     continue;
                 }
 
+#if DEBUG
+                this.logger.LogDebug($"Scraping event {index}");
+#endif
+
                 foreach (var street in town.Streets)
                 {
                     if (street.Categories == null)
@@ -245,7 +249,7 @@ namespace GarbageCollectionApi.Services.Scraping
                     foreach (var calEvent in calendar.Events)
                     {
 #if DEBUG
-                        this.logger.LogTrace($"Scraping event {index}");
+                        index++;
 #endif
                         if (streetEvents.Any(e => e.Id == calEvent.Uid))
                         {

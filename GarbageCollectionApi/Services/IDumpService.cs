@@ -6,8 +6,8 @@ namespace GarbageCollectionApi.Services
 
     public interface IDumpService
     {
-        string FilePath { get; }
+        string ZipFilePath { get; }
 
-        Task DumpAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus);
+        void Dump(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus);
     }
 }

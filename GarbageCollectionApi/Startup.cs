@@ -3,9 +3,11 @@
     using System;
     using System.Collections.Generic;
     using System.IO;
+    using System.IO.Compression;
     using System.Linq;
     using System.Reflection;
     using System.Threading.Tasks;
+    using GarbageCollectionApi.DataContracts;
     using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Services;
     using GarbageCollectionApi.Services.Scraping;
@@ -18,6 +20,7 @@
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.AspNetCore.HttpsPolicy;
     using Microsoft.AspNetCore.Mvc;
+    using Microsoft.AspNetCore.ResponseCompression;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
@@ -70,6 +73,12 @@
             services.AddScoped<IDumpService, DumpService>();
 
             services.AddApplicationInsightsTelemetry();
+            services.AddResponseCompression(options =>
+            {
+                options.Providers.Add<GzipCompressionProvider>();
+                options.EnableForHttps = true;
+            });
+            services.Configure<GzipCompressionProviderOptions>(options => options.Level = CompressionLevel.Fastest);
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddProblemDetails();
@@ -93,6 +102,7 @@
                 c.OperationFilter<SwaggerFileOperationFilter>();
                 c.ExampleFilters();
                 c.OperationFilter<AddResponseHeadersFilter>();
+                c.DocumentFilter<SwaggerModelDocumentFilter<DumpData>>();
 
                 // Set the comments path for the Swagger JSON and UI.
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
@@ -123,6 +133,7 @@
             }
 
             app.UseHttpsRedirection();
+            app.UseResponseCompression();
 
             // Enable middleware to serve generated Swagger as a JSON endpoint.
             app.UseSwagger();

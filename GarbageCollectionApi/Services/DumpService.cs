@@ -3,6 +3,7 @@ namespace GarbageCollectionApi.Services
     using System;
     using System.Collections.Generic;
     using System.IO;
+    using System.IO.Compression;
     using System.Linq;
     using System.Threading.Tasks;
     using GarbageCollectionApi.Models;
@@ -13,14 +14,22 @@ namespace GarbageCollectionApi.Services
 
     public class DumpService : IDumpService
     {
+        private const string JsonFilename = "dump.json";
+
         public DumpService(IHostingEnvironment hostingEnvironment)
         {
-            this.FilePath = Path.Combine(hostingEnvironment.ContentRootPath, "dump.json");
+            this.ZipFilePath = Path.Combine(hostingEnvironment.ContentRootPath, $"{JsonFilename}.zip");
         }
 
-        public string FilePath { get; }
+        public string ZipFilePath { get; }
 
-        public async Task DumpAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
+        public void Dump(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
+        {
+            var dumpData = CreateDumpData(towns, events, refreshStatus);
+            this.SaveToZipFile(dumpData);
+        }
+
+        private static DataContracts.DumpData CreateDumpData(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
         {
             var dumpStatus = new DataContracts.DataRefreshStatus { LatestRefresh = refreshStatus.LatestRefresh, LatestStamp = refreshStatus.LatestStamp };
             var dumpData = new DataContracts.DumpData { RefreshStatus = dumpStatus };
@@ -57,8 +66,33 @@ namespace GarbageCollectionApi.Services
                 }
             }
 
-            var content = JsonConvert.SerializeObject(dumpData);
-            await File.WriteAllTextAsync(this.FilePath, content).ConfigureAwait(false);
+            return dumpData;
+        }
+
+        private void SaveToZipFile(DataContracts.DumpData dumpData)
+        {
+            if (File.Exists(this.ZipFilePath))
+            {
+                File.Delete(this.ZipFilePath);
+            }
+
+            using (FileStream fs = new FileStream(this.ZipFilePath, FileMode.Create))
+            {
+                using (ZipArchive archive = new ZipArchive(fs, ZipArchiveMode.Create))
+                {
+                    var entry = archive.CreateEntry(JsonFilename, CompressionLevel.Optimal);
+                    var zipStream = entry.Open();
+
+                    using (var streamWriter = new StreamWriter(zipStream))
+                    {
+                        using (var jsonWriter = new JsonTextWriter(streamWriter))
+                        {
+                            var jsonSerializer = new JsonSerializer { Formatting = Newtonsoft.Json.Formatting.None };
+                            jsonSerializer.Serialize(jsonWriter, dumpData);
+                        }
+                    }
+                }
+            }
         }
     }
 }
