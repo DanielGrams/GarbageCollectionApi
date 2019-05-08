@@ -11,6 +11,7 @@
     using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Services;
     using GarbageCollectionApi.Services.Scraping;
+    using GarbageCollectionApi.Storage;
     using GarbageCollectionApi.Utils;
     using Hellang.Middleware.ProblemDetails;
     using Microsoft.ApplicationInsights.Extensibility;
@@ -21,6 +22,8 @@
     using Microsoft.AspNetCore.HttpsPolicy;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.ResponseCompression;
+    using Microsoft.Azure.Storage;
+    using Microsoft.Azure.Storage.Blob;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
@@ -57,6 +60,7 @@
         {
             services.Configure<MongoConnectionSettings>(this.Configuration.GetSection("MongoConnection"));
             services.Configure<DataRefreshSettings>(this.Configuration.GetSection("DataRefresh"));
+            services.Configure<StorageSettings>(this.Configuration.GetSection("Storage"));
 
             services.AddHostedService<DataRefreshService>();
 #if DEBUG
@@ -111,6 +115,17 @@
             });
 
             services.AddSwaggerExamplesFromAssemblyOf<Startup>();
+
+            var storageSettings = services.BuildServiceProvider().GetService<IOptionsMonitor<StorageSettings>>();
+            var connectionString = storageSettings?.CurrentValue?.ConnectionString;
+            if (string.IsNullOrEmpty(connectionString))
+            {
+                services.AddScoped<IDumpStorage, LocalDumpStorage>();
+            }
+            else
+            {
+                services.AddScoped<IDumpStorage, AzureDumpStorage>();
+            }
         }
 
         /// <summary>

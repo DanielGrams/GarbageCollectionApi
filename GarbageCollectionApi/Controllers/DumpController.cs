@@ -11,7 +11,9 @@ namespace GarbageCollectionApi.Controllers
     using System.Threading.Tasks;
     using GarbageCollectionApi.DataContracts;
     using GarbageCollectionApi.Examples;
+    using GarbageCollectionApi.Models;
     using GarbageCollectionApi.Services;
+    using GarbageCollectionApi.Storage;
     using Microsoft.AspNetCore.Http;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.EntityFrameworkCore;
@@ -25,33 +27,24 @@ namespace GarbageCollectionApi.Controllers
     [ApiController]
     public class DumpController : ControllerBase
     {
-        private readonly IDumpService dumpService;
+        private readonly IDumpStorage storage;
 
-        public DumpController(IDumpService dumpService)
+        public DumpController(IDumpStorage storage)
         {
-             this.dumpService = dumpService ?? throw new ArgumentNullException(nameof(dumpService));
+             this.storage = storage ?? throw new ArgumentNullException(nameof(storage));
         }
 
         /// <summary>
         /// Gets zip compressed json dump file. The base element is of class DumpData.
         /// </summary>
-        /// <response code="404">If file does not exist</response>
         [HttpGet]
         [ProducesResponseType(typeof(FileStreamResult), 200)]
-        [ProducesResponseType(404)]
-        public IActionResult GetFile()
+        public async Task<IActionResult> GetFileAsync()
         {
-            string filePath = this.dumpService.ZipFilePath;
-
-            if (!System.IO.File.Exists(filePath))
-            {
-                return this.NotFound();
-            }
-
-            var stream = System.IO.File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.None);
+            var stream = await this.storage.OpenReadAsync().ConfigureAwait(false);
             return new FileStreamResult(stream, new Microsoft.Net.Http.Headers.MediaTypeHeaderValue("application/zip"))
             {
-                FileDownloadName = "dump.zip",
+                FileDownloadName = StorageSettings.BlobName,
             };
         }
     }

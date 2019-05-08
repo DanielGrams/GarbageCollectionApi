@@ -109,7 +109,7 @@ namespace GarbageCollectionApi.Services.Scraping
                 await updateService.UpdateAsync(towns, events, refreshStatus).ConfigureAwait(false);
 
                 var dumpService = scope.ServiceProvider.GetRequiredService<IDumpService>();
-                await Task.Run(() => dumpService.Dump(towns, events, refreshStatus)).ConfigureAwait(false);
+                await dumpService.DumpAsync(towns, events, refreshStatus).ConfigureAwait(false);
             }
 
             this.logger.LogWarning($"Updated {towns.Count} towns and {events.Count} events");

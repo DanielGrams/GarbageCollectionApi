@@ -7,6 +7,7 @@ namespace GarbageCollectionApi.Services
     using System.Linq;
     using System.Threading.Tasks;
     using GarbageCollectionApi.Models;
+    using GarbageCollectionApi.Storage;
     using Microsoft.AspNetCore.Hosting;
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.Options;
@@ -14,19 +15,17 @@ namespace GarbageCollectionApi.Services
 
     public class DumpService : IDumpService
     {
-        private const string JsonFilename = "dump.json";
+        private readonly IDumpStorage storage;
 
-        public DumpService(IHostingEnvironment hostingEnvironment)
+        public DumpService(IDumpStorage storage)
         {
-            this.ZipFilePath = Path.Combine(hostingEnvironment.ContentRootPath, $"{JsonFilename}.zip");
+            this.storage = storage ?? throw new ArgumentNullException(nameof(storage));
         }
 
-        public string ZipFilePath { get; }
-
-        public void Dump(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
+        public async Task DumpAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
         {
             var dumpData = CreateDumpData(towns, events, refreshStatus);
-            this.SaveToZipFile(dumpData);
+            await this.SaveToStorageAsync(dumpData).ConfigureAwait(false);
         }
 
         private static DataContracts.DumpData CreateDumpData(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
@@ -69,27 +68,21 @@ namespace GarbageCollectionApi.Services
             return dumpData;
         }
 
-        private void SaveToZipFile(DataContracts.DumpData dumpData)
+        private async Task SaveToStorageAsync(DataContracts.DumpData dumpData)
         {
-            if (File.Exists(this.ZipFilePath))
-            {
-                File.Delete(this.ZipFilePath);
-            }
+            var storageStream = await this.storage.OpenWriteAsync().ConfigureAwait(false);
 
-            using (FileStream fs = new FileStream(this.ZipFilePath, FileMode.Create))
+            using (ZipArchive archive = new ZipArchive(storageStream, ZipArchiveMode.Create))
             {
-                using (ZipArchive archive = new ZipArchive(fs, ZipArchiveMode.Create))
+                var entry = archive.CreateEntry("dump.json", CompressionLevel.Optimal);
+                var zipStream = entry.Open();
+
+                using (var streamWriter = new StreamWriter(zipStream))
                 {
-                    var entry = archive.CreateEntry(JsonFilename, CompressionLevel.Optimal);
-                    var zipStream = entry.Open();
-
-                    using (var streamWriter = new StreamWriter(zipStream))
+                    using (var jsonWriter = new JsonTextWriter(streamWriter))
                     {
-                        using (var jsonWriter = new JsonTextWriter(streamWriter))
-                        {
-                            var jsonSerializer = new JsonSerializer { Formatting = Newtonsoft.Json.Formatting.None };
-                            jsonSerializer.Serialize(jsonWriter, dumpData);
-                        }
+                        var jsonSerializer = new JsonSerializer { Formatting = Newtonsoft.Json.Formatting.None };
+                        jsonSerializer.Serialize(jsonWriter, dumpData);
                     }
                 }
             }
