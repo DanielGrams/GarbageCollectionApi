@@ -100,6 +100,8 @@ namespace GarbageCollectionApi.Services.Scraping
                 return;
             }
 
+            this.logger.LogWarning($"Loaded {towns.Count} towns and {events.Count} events");
+
             refreshStatus.LatestStamp = latestLoadedStamp;
             refreshStatus.LatestRefresh = DateTime.Now;
 
