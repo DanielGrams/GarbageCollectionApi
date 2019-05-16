@@ -131,7 +131,7 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
         }
 
         [Test]
-        public async Task LoadCategoriesAsync()
+        public async Task LoadStreetDetailsAsync()
         {
             var serviceProvider = NSubstitute.Substitute.For<IServiceProvider>();
             var logger = NSubstitute.Substitute.For<ILogger<DataRefreshService>>();
@@ -152,7 +152,7 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             goslar.Streets.Add(schreiberstrasse);
 
             var towns = new List<Town>() { goslar };
-            await dataRefreshService.LoadCategoriesAsync(towns, cancellationToken).ConfigureAwait(false);
+            await dataRefreshService.LoadStreetDetailsAsync(towns, cancellationToken).ConfigureAwait(false);
 
             var categories = schreiberstrasse.Categories;
             Assert.That(categories.Count, Is.EqualTo(7));
@@ -160,6 +160,10 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             Assert.That(categories[0].Name, Is.EqualTo("Baum- und Strauchschnitt"));
             Assert.That(categories[6].Id, Is.EqualTo("2523.1"));
             Assert.That(categories[6].Name, Is.EqualTo("Wertstofftonne danach"));
+
+            var availableYears = schreiberstrasse.AvailableYears;
+            Assert.That(availableYears.Count, Is.EqualTo(1));
+            Assert.That(availableYears[0], Is.EqualTo("2019"));
         }
 
         [Test]
@@ -180,6 +184,7 @@ namespace GarbageCollectionApi.UnitTests.Services.Scraping
             var cancellationToken = new CancellationTokenSource().Token;
 
             var schreiberstrasse = new Street { Id = "2523.907.1", Name = "Schreiberstraße" };
+            schreiberstrasse.AvailableYears.Add("2019");
             schreiberstrasse.Categories.Add(new Category { Id = "1.5", Name = "Baum- und Strauchschnitt" });
             schreiberstrasse.Categories.Add(new Category { Id = "1.4", Name = "Biotonne" });
             schreiberstrasse.Categories.Add(new Category { Id = "1.3", Name = "Blaue Tonne" });

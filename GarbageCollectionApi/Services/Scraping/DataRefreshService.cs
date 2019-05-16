@@ -86,7 +86,7 @@ namespace GarbageCollectionApi.Services.Scraping
             await this.LoadStreetsAsync(towns, cancellationToken).ConfigureAwait(false);
             cancellationToken.ThrowIfCancellationRequested();
 
-            await this.LoadCategoriesAsync(towns, cancellationToken).ConfigureAwait(false);
+            await this.LoadStreetDetailsAsync(towns, cancellationToken).ConfigureAwait(false);
             cancellationToken.ThrowIfCancellationRequested();
 
             var events = await this.LoadEventsAsync(towns, cancellationToken).ConfigureAwait(false);
@@ -170,9 +170,10 @@ namespace GarbageCollectionApi.Services.Scraping
             }
         }
 
-        public async Task LoadCategoriesAsync(List<Town> towns, CancellationToken cancellationToken)
+        public async Task LoadStreetDetailsAsync(List<Town> towns, CancellationToken cancellationToken)
         {
             var categories = new List<Category>();
+            var availableYears = new List<string>();
 
             foreach (var town in towns)
             {
@@ -185,31 +186,20 @@ namespace GarbageCollectionApi.Services.Scraping
                 {
                     cancellationToken.ThrowIfCancellationRequested();
 
-                    if (!this.dataRefreshSettings.Value.RequestCategoriesForEachStreet && categories.Any())
+                    if (!this.dataRefreshSettings.Value.RequestDetailsForEachStreet && categories.Any() && availableYears.Any())
                     {
                         street.Categories.AddRange(categories);
+                        street.AvailableYears.AddRange(availableYears);
                         continue;
                     }
 
                     var document = await this.documentLoader.LoadCategoriesDocumentAsync(town.Id, street.Id, this.browsingContext, cancellationToken).ConfigureAwait(false);
-                    var checkboxes = document.QuerySelectorAll("input").Where(m =>
-                    {
-                        return m.HasAttribute("type") && m.GetAttribute("type") == "checkbox" &&
-                            m.HasAttribute("name") && m.GetAttribute("name") == "abfart[]";
-                    });
 
-                    categories.Clear();
-                    foreach (var checkbox in checkboxes)
-                    {
-                        var elementId = checkbox.GetAttribute("id");
-                        var value = checkbox.GetAttribute("value");
-
-                        var label = document.QuerySelectorAll("label").First(m => m.HasAttribute("for") && m.GetAttribute("for") == elementId);
-                        var category = new Category { Id = value, Name = label.InnerHtml };
-                        categories.Add(category);
-                    }
-
+                    ExtractCategoriesFromDocument(categories, document);
                     street.Categories.AddRange(categories);
+
+                    ExtractAvailableYearsFromDocument(availableYears, document);
+                    street.AvailableYears.AddRange(availableYears);
 
                     await this.DelayBeforeNextRequest().ConfigureAwait(false);
                 }
@@ -243,50 +233,92 @@ namespace GarbageCollectionApi.Services.Scraping
                         continue;
                     }
 
-                    cancellationToken.ThrowIfCancellationRequested();
-
-                    var icalText = await this.documentLoader.LoadEventsIcalTextAsync(town.Id, street.Id, "2019", cancellationToken).ConfigureAwait(false);
-                    var calendar = Ical.Net.Calendar.Load(icalText);
-
-                    foreach (var calEvent in calendar.Events)
+                    foreach (var year in street.AvailableYears)
                     {
-#if DEBUG
-                        index++;
-#endif
-                        if (streetEvents.Any(e => e.Id == calEvent.Uid))
+                        cancellationToken.ThrowIfCancellationRequested();
+
+                        var icalText = await this.documentLoader.LoadEventsIcalTextAsync(town.Id, street.Id, year, cancellationToken).ConfigureAwait(false);
+                        var calendar = Ical.Net.Calendar.Load(icalText);
+
+                        foreach (var calEvent in calendar.Events)
                         {
-                            // Some ics files contain duplicate uids
-                            continue;
+    #if DEBUG
+                            index++;
+    #endif
+                            if (streetEvents.Any(e => e.Id == calEvent.Uid))
+                            {
+                                // Some ics files contain duplicate uids
+                                continue;
+                            }
+
+                            var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
+
+                            // iCal file does not specify timezone. So we have to convert from Berlin to UTC manually.
+                            var start = calEvent.DtStart.AsUtc;
+                            var diff = berlinTimeZone.GetUtcOffset(start) - TimeZoneInfo.Local.GetUtcOffset(start);
+                            var startUtc = start - diff;
+
+                            var collectionEvent = new CollectionEvent
+                            {
+                                Id = calEvent.Uid,
+                                TownId = town.Id,
+                                StreetId = street.Id,
+                                Category = category,
+                                Start = startUtc,
+                                Stamp = calEvent.DtStamp.AsUtc,
+                            };
+
+                            streetEvents.Add(collectionEvent);
                         }
 
-                        var category = street.Categories.First(c => calEvent.Summary.Contains(c.Name, StringComparison.InvariantCulture));
+                        events.AddRange(streetEvents);
+                        streetEvents.Clear();
 
-                        // iCal file does not specify timezone. So we have to convert from Berlin to UTC manually.
-                        var start = calEvent.DtStart.AsUtc;
-                        var diff = berlinTimeZone.GetUtcOffset(start) - TimeZoneInfo.Local.GetUtcOffset(start);
-                        var startUtc = start - diff;
-
-                        var collectionEvent = new CollectionEvent
-                        {
-                            Id = calEvent.Uid,
-                            TownId = town.Id,
-                            StreetId = street.Id,
-                            Category = category,
-                            Start = startUtc,
-                            Stamp = calEvent.DtStamp.AsUtc,
-                        };
-
-                        streetEvents.Add(collectionEvent);
+                        await this.DelayBeforeNextRequest().ConfigureAwait(false);
                     }
-
-                    events.AddRange(streetEvents);
-                    streetEvents.Clear();
-
-                    await this.DelayBeforeNextRequest().ConfigureAwait(false);
                 }
             }
 
             return events;
+        }
+
+        private static void ExtractCategoriesFromDocument(List<Category> categories, AngleSharp.Dom.IDocument document)
+        {
+            var checkboxes = document.QuerySelectorAll("input").Where(m =>
+            {
+                return m.HasAttribute("type") && m.GetAttribute("type") == "checkbox" &&
+                    m.HasAttribute("name") && m.GetAttribute("name") == "abfart[]";
+            });
+
+            categories.Clear();
+            foreach (var checkbox in checkboxes)
+            {
+                var elementId = checkbox.GetAttribute("id");
+                var value = checkbox.GetAttribute("value");
+
+                var label = document.QuerySelectorAll("label").First(m => m.HasAttribute("for") && m.GetAttribute("for") == elementId);
+                var category = new Category { Id = value, Name = label.InnerHtml };
+                categories.Add(category);
+            }
+        }
+
+        private static void ExtractAvailableYearsFromDocument(List<string> years, AngleSharp.Dom.IDocument document)
+        {
+            var select = document.QuerySelectorAll("select").First(m => m.HasAttribute("name") && m.GetAttribute("name") == "vJ");
+            var options = select.QuerySelectorAll("option");
+
+            years.Clear();
+
+            foreach (var option in options)
+            {
+                var value = option.GetAttribute("value");
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    continue;
+                }
+
+                years.Add(value);
+            }
         }
 
         private async Task<DataRefreshStatus> GetDataRefreshStatusAsync()

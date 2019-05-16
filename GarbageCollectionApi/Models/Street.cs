@@ -14,6 +14,7 @@ namespace GarbageCollectionApi.Models
         public Street()
         {
             this.Categories = new List<Category>();
+            this.AvailableYears = new List<string>();
         }
 
         [BsonId]
@@ -24,5 +25,8 @@ namespace GarbageCollectionApi.Models
 #pragma warning disable CA2227
         public List<Category> Categories { get; set; }
 #pragma warning restore CA2227
+
+        [BsonIgnore]
+        public List<string> AvailableYears { get; }
     }
 }

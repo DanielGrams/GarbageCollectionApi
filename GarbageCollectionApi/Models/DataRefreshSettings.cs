@@ -8,6 +8,6 @@ namespace GarbageCollectionApi.Models
 
         public int RequestDelayInMs { get; set; }
 
-        public bool RequestCategoriesForEachStreet { get; set; }
+        public bool RequestDetailsForEachStreet { get; set; }
     }
 }
