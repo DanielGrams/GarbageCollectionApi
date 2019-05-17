@@ -20,10 +20,24 @@ namespace GarbageCollectionApi.Services
             this.events = this.Database.GetCollection<Models.CollectionEvent>(MongoConnectionSettings.EventsCollectionName);
         }
 
-        public async Task<List<DataContracts.CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId)
+        public async Task<List<DataContracts.CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId, List<string> categoryIds = null)
         {
-            return await this.events
-                .Find(e => e.TownId == townId && e.StreetId == streetId)
+            var baseFilter = Builders<Models.CollectionEvent>.Filter.Where(e => e.TownId == townId && e.StreetId == streetId);
+
+            FilterDefinition<Models.CollectionEvent> filter;
+
+            if (categoryIds == null || !categoryIds.Any())
+            {
+                filter = baseFilter;
+            }
+            else
+            {
+                filter = Builders<Models.CollectionEvent>.Filter.And(
+                    baseFilter,
+                    Builders<Models.CollectionEvent>.Filter.In(e => e.Category.Id, categoryIds));
+            }
+
+            return await this.events.Find(filter)
                 .Project(e => new DataContracts.CollectionEvent
                 {
                     Id = e.Id,

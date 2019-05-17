@@ -91,13 +91,19 @@ namespace GarbageCollectionApi.Controllers
         /// </summary>
         /// <param name="id">Town id</param>
         /// <param name="streetId">Street id</param>
+        /// <param name="categoryIds">Optional: If supplied, events are filtered by given category ids</param>
         /// <response code="404">If town with given <paramref name="id" /> or street with given <paramref name="streetId" /> does not exist</response>
         [HttpGet("{id}/streets/{streetId}/events")]
         [ProducesResponseType(200)]
         [ProducesResponseType(404)]
-        public async Task<ActionResult<IEnumerable<CollectionEvent>>> GetEventsByTownAndStreetAsync(string id, string streetId)
+        public async Task<ActionResult<IEnumerable<CollectionEvent>>> GetEventsByTownAndStreetAsync(string id, string streetId, [FromQuery] List<string> categoryIds = null)
         {
-            var events = await this.eventsService.GetByTownAndStreetAsync(id, streetId).ConfigureAwait(false);
+            if (categoryIds != null)
+            {
+                Console.WriteLine(categoryIds);
+            }
+
+            var events = await this.eventsService.GetByTownAndStreetAsync(id, streetId, categoryIds).ConfigureAwait(false);
 
             if (events == null)
             {

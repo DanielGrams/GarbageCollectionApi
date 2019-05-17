@@ -6,6 +6,6 @@ namespace GarbageCollectionApi.Services
 
     public interface IEventsService
     {
-        Task<List<CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId);
+        Task<List<CollectionEvent>> GetByTownAndStreetAsync(string townId, string streetId, List<string> categoryIds = null);
     }
 }

@@ -158,5 +158,53 @@ namespace GarbageCollectionApi.IntegrationTest
             Assert.That(secondEvent.Stamp, Is.EqualTo(DateTimeUtils.Utc(2018, 11, 28)));
             Assert.That(secondEvent.Category.Name, Is.EqualTo("Weihnachtsbäume"));
         }
+
+        [Test]
+        public async Task EventsReturnsFilteredList()
+        {
+            var schreiberstrasse = new Street { Id = "2523.907.1", Name = "Schreiberstraße" };
+            schreiberstrasse.Categories.Add(new Category { Id = "1.5", Name = "Baum- und Strauchschnitt" });
+            schreiberstrasse.Categories.Add(new Category { Id = "1.4", Name = "Biotonne" });
+
+            var goslar = new Town { Id = "62.1", Name = "Goslar" };
+            goslar.Streets.Add(schreiberstrasse);
+
+            this.towns.DeleteMany(_ => true);
+            this.towns.InsertOne(goslar);
+
+            var events = this.Database.GetCollection<Models.CollectionEvent>(MongoConnectionSettings.EventsCollectionName);
+            events.DeleteMany(_ => true);
+            events.InsertOne(new CollectionEvent
+                {
+                    Id = "fdc0b08929027ca3edef21a3107e766a",
+                    TownId = "62.1",
+                    StreetId = "2523.907.1",
+                    Start = DateTimeUtils.Utc(2019, 2, 21),
+                    Stamp = DateTimeUtils.Utc(2018, 11, 28),
+                    Category = new Category { Id = "1.5", Name = "Baum- und Strauchschnitt" },
+                });
+            events.InsertOne(new CollectionEvent
+                {
+                    Id = "454f9e3ff522d7fb127819ba24dccdf9",
+                    TownId = "62.1",
+                    StreetId = "2523.907.1",
+                    Start = DateTimeUtils.Utc(2019, 1, 29),
+                    Stamp = DateTimeUtils.Utc(2018, 11, 28),
+                    Category = new Category { Id = "1.4", Name = "Weihnachtsbäume" },
+                });
+
+            var responseMessage = await this.Client.GetAsync("/api/towns/62.1/streets/2523.907.1/events?categoryIds=1.5").ConfigureAwait(false);
+            Assert.That(responseMessage.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+
+            var stringResponse = await responseMessage.Content.ReadAsStringAsync().ConfigureAwait(false);
+            var list = JsonConvert.DeserializeObject<IEnumerable<DataContracts.CollectionEvent>>(stringResponse);
+            Assert.That(list.Count, Is.EqualTo(1));
+
+            var firstEvent = list.First();
+            Assert.That(firstEvent.Id, Is.EqualTo("fdc0b08929027ca3edef21a3107e766a"));
+            Assert.That(firstEvent.Date, Is.EqualTo(DateTimeUtils.Utc(2019, 2, 21)));
+            Assert.That(firstEvent.Stamp, Is.EqualTo(DateTimeUtils.Utc(2018, 11, 28)));
+            Assert.That(firstEvent.Category.Name, Is.EqualTo("Baum- und Strauchschnitt"));
+        }
     }
 }
