@@ -18,5 +18,10 @@ namespace GarbageCollectionApi.DataContracts
         /// The property indicates the date/time that the data was fetched
         /// </summary>
         public DateTime LatestRefresh { get; set; }
+
+        /// <summary>
+        /// The property indicates the date/time that the external data source was checked
+        /// </summary>
+        public DateTime LatestCheck { get; set; }
     }
 }

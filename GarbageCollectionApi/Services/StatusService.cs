@@ -39,7 +39,13 @@ namespace GarbageCollectionApi.Services
         public async Task<DataContracts.DataRefreshStatus> GetDataContractsStatusAsync()
         {
             var refreshStatus = await this.GetStatusAsync().ConfigureAwait(false);
-            return new DataContracts.DataRefreshStatus { LatestRefresh = refreshStatus.LatestRefresh, LatestStamp = refreshStatus.LatestStamp };
+
+            return new DataContracts.DataRefreshStatus
+            {
+                LatestRefresh = refreshStatus.LatestRefresh,
+                LatestStamp = refreshStatus.LatestStamp,
+                LatestCheck = refreshStatus.LatestCheck,
+            };
         }
     }
 }

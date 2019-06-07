@@ -30,7 +30,12 @@ namespace GarbageCollectionApi.Services
 
         private static DataContracts.DumpData CreateDumpData(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus)
         {
-            var dumpStatus = new DataContracts.DataRefreshStatus { LatestRefresh = refreshStatus.LatestRefresh, LatestStamp = refreshStatus.LatestStamp };
+            var dumpStatus = new DataContracts.DataRefreshStatus
+            {
+                LatestRefresh = refreshStatus.LatestRefresh,
+                LatestStamp = refreshStatus.LatestStamp,
+                LatestCheck = refreshStatus.LatestCheck,
+            };
             var dumpData = new DataContracts.DumpData { RefreshStatus = dumpStatus };
 
             foreach (var town in towns)

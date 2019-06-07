@@ -42,10 +42,16 @@ namespace GarbageCollectionApi.Controllers
         public async Task<IActionResult> GetFileAsync()
         {
             var stream = await this.storage.OpenReadAsync().ConfigureAwait(false);
-            return new FileStreamResult(stream, new Microsoft.Net.Http.Headers.MediaTypeHeaderValue("application/zip"))
+
+            var contentDisposition = new System.Net.Mime.ContentDisposition
             {
-                FileDownloadName = StorageSettings.BlobName,
+                FileName = StorageSettings.BlobName,
+                Inline = false,
             };
+
+            this.Response.Headers["Content-Disposition"] = contentDisposition.ToString();
+
+            return new FileStreamResult(stream, new Microsoft.Net.Http.Headers.MediaTypeHeaderValue("application/zip"));
         }
     }
 }

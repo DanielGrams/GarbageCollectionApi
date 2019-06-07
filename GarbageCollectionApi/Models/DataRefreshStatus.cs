@@ -20,5 +20,8 @@ namespace GarbageCollectionApi.Models
 
         [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
         public DateTime LatestRefresh { get; set; }
+
+        [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
+        public DateTime LatestCheck { get; set; }
     }
 }

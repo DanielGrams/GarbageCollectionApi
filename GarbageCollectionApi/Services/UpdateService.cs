@@ -35,6 +35,11 @@ namespace GarbageCollectionApi.Services
             await this.statusCollection.ReplaceOneAsync(status => status.Id == refreshStatus.Id, refreshStatus).ConfigureAwait(false);
         }
 
+        public async Task UpdateStatusAsync(DataRefreshStatus refreshStatus)
+        {
+            await this.statusCollection.ReplaceOneAsync(status => status.Id == refreshStatus.Id, refreshStatus).ConfigureAwait(false);
+        }
+
         private async Task CreateEventIndex()
         {
             var indexOptions = new CreateIndexOptions { Name = "TownStreet", Sparse = true, Unique = false, Background = true };

@@ -71,12 +71,12 @@ namespace GarbageCollectionApi.Services.Scraping
 
         public async Task RefreshAsync(DataRefreshStatus refreshStatus, CancellationToken cancellationToken)
         {
-            var daysSinceLastRefresh = (DateTime.Now - refreshStatus.LatestRefresh).Days;
+            var daysSinceLastCheck = (DateTime.Now - refreshStatus.LatestCheck).Days;
             var specifiedDays = this.dataRefreshSettings.Value.IntervalInDays;
 
-            if (daysSinceLastRefresh < specifiedDays)
+            if (daysSinceLastCheck < specifiedDays)
             {
-                this.logger.LogWarning($"daysSinceLastRefresh < specifiedDays ({daysSinceLastRefresh} < {specifiedDays})");
+                this.logger.LogWarning($"daysSinceLastCheck < specifiedDays ({daysSinceLastCheck} < {specifiedDays})");
                 return;
             }
 
@@ -93,17 +93,25 @@ namespace GarbageCollectionApi.Services.Scraping
             cancellationToken.ThrowIfCancellationRequested();
 
             var latestLoadedStamp = events.Max(e => e.Stamp);
+            refreshStatus.LatestCheck = DateTime.Now;
 
             if (refreshStatus.LatestStamp.Equals(latestLoadedStamp))
             {
                 this.logger.LogWarning($"refreshStatus.LatestStamp == latestLoadedStamp ({refreshStatus.LatestStamp} < {latestLoadedStamp})");
+
+                using (var scope = this.services.CreateScope())
+                {
+                    var updateService = scope.ServiceProvider.GetRequiredService<IUpdateService>();
+                    await updateService.UpdateStatusAsync(refreshStatus).ConfigureAwait(false);
+                }
+
                 return;
             }
 
             this.logger.LogWarning($"Loaded {towns.Count} towns and {events.Count} events");
 
             refreshStatus.LatestStamp = latestLoadedStamp;
-            refreshStatus.LatestRefresh = DateTime.Now;
+            refreshStatus.LatestRefresh = refreshStatus.LatestCheck;
 
             using (var scope = this.services.CreateScope())
             {

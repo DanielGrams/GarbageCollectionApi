@@ -61,6 +61,7 @@
             services.Configure<MongoConnectionSettings>(this.Configuration.GetSection("MongoConnection"));
             services.Configure<DataRefreshSettings>(this.Configuration.GetSection("DataRefresh"));
             services.Configure<StorageSettings>(this.Configuration.GetSection("Storage"));
+            services.Configure<AuthorizationSettings>(this.Configuration.GetSection("Authorization"));
 
             services.AddHostedService<DataRefreshService>();
 #if DEBUG
@@ -84,7 +85,12 @@
             });
             services.Configure<GzipCompressionProviderOptions>(options => options.Level = CompressionLevel.Fastest);
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(options =>
+            {
+                options.Filters.Add(typeof(AuthorizationKeyFilterAttribute));
+                options.Filters.Add(new Microsoft.AspNetCore.Mvc.ProducesResponseTypeAttribute(401));
+            }).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
             services.AddProblemDetails();
 
             // Register the Swagger generator
@@ -101,6 +107,17 @@
                         Name = "Daniel Grams",
                         Url = "https://github.com/DanielGrams/GarbageCollectionApi",
                     },
+                });
+
+                c.AddSecurityDefinition("ApiKeyAuth", new ApiKeyScheme()
+                {
+                    In = "header",
+                    Name = AuthorizationKeyFilterAttribute.ApiKeyHeaderName,
+                    Type = "apiKey",
+                });
+                c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>
+                {
+                    { "ApiKeyAuth", Enumerable.Empty<string>() },
                 });
 
                 c.OperationFilter<SwaggerFileOperationFilter>();

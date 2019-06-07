@@ -17,5 +17,12 @@ namespace GarbageCollectionApi.Services
         /// <param name="refreshStatus">Refresh status</param>
         /// <returns>Task</returns>
         Task UpdateAsync(List<Town> towns, List<CollectionEvent> events, DataRefreshStatus refreshStatus);
+
+        /// <summary>
+        /// Updates database with given status
+        /// </summary>
+        /// <param name="refreshStatus">Refresh status</param>
+        /// <returns>Task</returns>
+        Task UpdateStatusAsync(DataRefreshStatus refreshStatus);
     }
 }
