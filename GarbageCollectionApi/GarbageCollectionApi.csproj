@@ -24,7 +24,7 @@
     <PackageReference Include="Microsoft.Azure.Storage.Blob" Version="10.0.2" />
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.2" />
     <PackageReference Include="Microsoft.Extensions.Logging.AzureAppServices" Version="2.2.0" />
-    <PackageReference Include="MongoDB.Driver" Version="2.8.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
     <PackageReference Include="SonarAnalyzer.CSharp" Version="7.13.0.8313">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
